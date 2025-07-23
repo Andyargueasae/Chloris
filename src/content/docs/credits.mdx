@@ -1,0 +1,45 @@
+---
+title: About
+description: The team behind A2K
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
+import andy from '../../assets/andy.jpg';
+import rob from '../../assets/rob.jpg';
+import heroen from '../../assets/heroen.png';
+import vanessa from '../../assets/vanessa.jpg';
+import { Icon } from '@astrojs/starlight/components';
+
+import { default as Person } from '../../components/Person.astro';
+
+
+
+<CardGrid>
+  <Person 
+    name="Yuhao Tong" 
+    image={andy} 
+    bio="I am a PhD student with the research interests focused on bioinformatics, computational biology. I particularly want to apply these techniques to multi-omic contexts." 
+    url=""
+  />
+  <Person 
+    name="Robert Turnbull" 
+    image={rob} 
+    bio="Robert is a Senior Research Data Specialist at the Melbourne Data Analytics Platform where he collaborates with researchers across the University of Melbourne in data intensive research projects. " 
+    url="https://robturnbull.com"
+  />
+  <Person 
+    name="Heroen Verbruggen" 
+    image={heroen}
+    bio="My interests span the fields of algal evolution, microbial symbiosis, genome biology and bioinformatics. I love computational simulation as a tool to explore ideas and methods, and nerdy science stuff in general." 
+    url="https://hverbruggen.github.io/"
+  />
+  <Person 
+    name="Vanessa Rossetto Marcelino" 
+    image={vanessa}
+    bio="Dr Marcelino works at the interface between microbial ecology, evolution and bioinformatics. She completed her PhD at the University of Melbourne in 2017 focusing on the microbiome of coral skeletons. As a postdoc she developed new analytical tools to study human pathogens within microbiomes. " 
+    url="https://www.doherty.edu.au/people/vanessa-rossetto-marcelino"
+  />
+
+  
+</CardGrid>

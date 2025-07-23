@@ -1,0 +1,12 @@
+---
+import { Card } from '@astrojs/starlight/components';
+import { Image } from 'astro:assets';
+import { LinkButton } from '@astrojs/starlight/components';
+
+const { name, image, bio, url } = Astro.props;
+---
+<Card title={name} >
+  {image && <Image src={image} alt={name} />}
+  {bio}
+  {url && <LinkButton href={url} icon="external">Find out more</LinkButton>}
+</Card>
