@@ -11,17 +11,19 @@ export default defineConfig({
 				{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' },
 				{ icon: 'discord', label: 'Discord', href: 'https://astro.build/chat' },],
 			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+				// {
+				// 	label: 'Species',
+				// 	autogenerate: { directory: 'species' },
+				// },
+				// {
+				// 	label: 'Genes',
+				// 	autogenerate: { directory: 'genes' },
+				// },
+				{ slug: 'description' },
+				{ slug: 'species' },
+				{ slug: 'genes' },
+				{ slug: 'download' },
+				{ slug: 'credits' },
 			],
 		}),
 	],
