@@ -7,6 +7,6 @@ const { name, image, bio, url } = Astro.props;
 ---
 <Card title={name} >
   {image && <Image src={image} alt={name} />}
-  {bio}
+  <p>{bio}</p>
   {url && <LinkButton href={url} icon="external">Find out more</LinkButton>}
 </Card>

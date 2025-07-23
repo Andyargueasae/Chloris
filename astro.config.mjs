@@ -8,8 +8,8 @@ export default defineConfig({
 		starlight({
 			title: 'A2K',
 			social: [
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' },
-				{ icon: 'discord', label: 'Discord', href: 'https://astro.build/chat' },],
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/Andyargueasae/A2K' },
+				{ icon: 'download', label: 'Download', href: '/download' },],
 			sidebar: [
 				// {
 				// 	label: 'Species',
