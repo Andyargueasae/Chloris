@@ -1,0 +1,61 @@
+<!-- MSABrowser Container -->
+<section id="MSABrowserDemo"></section>
+
+<!-- Required styles and scripts -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/msabrowser/msabrowser@v1.1/css/style.css" />
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+
+<!-- Inline script to initialize MSABrowser -->
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    const viewerId = "MSABrowserDemo";
+
+    const annotations = [
+      {
+        source: "Annotations #1",
+        data: [{
+          annotation_id: 'Defined Sequence Interval',
+          annotation_name: 'Defined Sequence Interval',
+          annotation_external_link: 'https://msabrowser.github.io/',
+          annotation_start_point: 8,
+          annotation_end_point: 28
+        }]
+      }
+    ];
+
+    const alterations = [
+      {
+        sequenceIndex: 1,
+        position: 5,
+        note: 'A modification note with HTML formatting.',
+        source: 'Modification',
+        type: 'Modification'
+      }
+    ];
+
+    // Load MSABrowser script before using it
+    $.getScript("https://cdn.jsdelivr.net/gh/msabrowser/msabrowser@v1.1/javascript/msabrowser.js", () => {
+      $.get("https://cdn.jsdelivr.net/gh/msabrowser/msabrowser@v1.0/examples/sample_files/TUBA1A.txt", (fasta) => {
+        const container = document.getElementById(viewerId);
+        if (!container) {
+          console.error("Viewer container not found:", viewerId);
+          return;
+        }
+
+        const viewer = new MSABrowser({
+          id: viewerId,
+          msa: MSAProcessor({
+            fasta: fasta,
+            hasConsensus: true
+          }),
+          annotations,
+          alterations,
+          colorSchema: "clustal",
+        });
+
+        viewer.export("MSA_export.fasta");
+      });
+    });
+  });
+</script>

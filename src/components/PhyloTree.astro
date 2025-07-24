@@ -1,0 +1,32 @@
+<!-- src/components/PhyloTree.astro -->
+
+<div id="demo" style="width: 400px; height: 300px;"></div>
+
+<!-- Shim global and dynamically inject phylocanvas script -->
+<script is:inline>
+  window.global = window;
+
+  const script = document.createElement("script");
+  script.src = "https://unpkg.com/@phylocanvas/phylocanvas.gl@latest/dist/bundle.min.js";
+  script.onload = () => {
+    // Wait until DOM is ready
+    window.addEventListener('DOMContentLoaded', () => {
+      const container = document.querySelector("#demo");
+
+      if (!container || !window.phylocanvas?.PhylocanvasGL) {
+        console.error("PhylocanvasGL not available or container missing.");
+        return;
+      }
+
+      new window.phylocanvas.PhylocanvasGL(container, {
+        selectedIds: ["Human", "Mouse"],
+        showLabels: true,
+        showLeafLabels: true,
+        size: { width: 400, height: 300 },
+        source: `(Bovine:0.69395,(Gibbon:0.36079,(Orangutan:0.33636,(Gorilla:0.17147,(Chimp:1.19268,Human:0.11927):0.08386):0.06124):0.15057):0.54939,Mouse:1.21460);`,
+      });
+    });
+  };
+
+  document.head.appendChild(script);
+</script>
