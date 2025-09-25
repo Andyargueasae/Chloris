@@ -7,14 +7,21 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "etl": "ts-node scripts/etl/build_data.ts"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.35.1",
     "astro": "^5.6.1",
+    "molstar": "^4.18.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-msaview": "^4.4.3",
     "sharp": "^0.34.2"
+  },
+  "devDependencies": {
+    "@types/node": "^24.5.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
   }
 }

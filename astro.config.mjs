@@ -4,6 +4,16 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	security: {
+		contentSecurityPolicy: {
+		'default-src': ["'self'"],
+		'script-src':  ["'self'", 'https://unpkg.com', 'https://code.jquery.com', 'https://cdn.jsdelivr.net'],
+		'style-src':   ["'self'", 'https://unpkg.com', 'https://cdn.jsdelivr.net', "'unsafe-inline'"],
+		'img-src':     ["'self'", 'data:', 'blob:'],
+		'connect-src': ["'self'", 'https://unpkg.com', 'https://code.jquery.com', 'https://cdn.jsdelivr.net'],
+		'worker-src':  ["'self'", 'blob:'],
+		}
+},
 	integrations: [
 		starlight({
 			title: 'A2K',
@@ -28,3 +38,4 @@ export default defineConfig({
 		}),
 	],
 });
+
