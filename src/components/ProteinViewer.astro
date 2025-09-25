@@ -1,0 +1,54 @@
+---
+// Viewer for mmCIF/BCIF/PDB using Mol*
+export interface Props {
+  cifUrl?: string;            // /public or absolute URL to .cif/.mmcif/.bcif
+  height?: string;            // e.g. "640px"
+  allowUpload?: boolean;      // local file picker
+  resetCamera?: boolean;
+  background?: 'light' | 'dark';
+}
+
+const {
+  cifUrl,
+  height = '640px',
+  allowUpload = true,
+  resetCamera = true,
+  background = 'dark',
+} = Astro.props;
+---
+
+<section class="w-full" data-protein-viewer>
+  <div class="toolbar">
+    <button class="btn js-reset">Reset view</button>
+    <button class="btn js-screenshot">Screenshot</button>
+    <button class="btn js-spin">Spin</button>
+    {allowUpload && (
+      <label class="upload">Load local CIF
+        <input class="js-file" type="file" accept=".cif,.mmcif,.cif.gz,.bcif,.pdb" />
+      </label>
+    )}
+  </div>
+
+  <!-- Viewer container with config -->
+  <div
+    class="molstar"
+    style={`height:${height}; border-radius:12px; overflow:hidden;`}
+    data-molstar
+    data-cif-url={cifUrl ?? ""}
+    data-reset-camera={resetCamera}
+    data-background={background}
+  ></div>
+</section>
+
+<link rel="stylesheet" href="/public/vendor/molstar/molstar.css" />
+<style>
+  .toolbar { display:flex; gap:.5rem; align-items:center; margin-bottom:.5rem; flex-wrap:wrap; }
+  .btn { padding:.4rem .75rem; border-radius:.5rem; border:1px solid #ddd; background:#fff; cursor:pointer; }
+  .btn:hover { filter:brightness(0.98); }
+  .upload { display:inline-flex; align-items:center; gap:.5rem; padding:.4rem .75rem; border:1px dashed #bbb; border-radius:.5rem; cursor:pointer; }
+  .upload input { display:none; }
+</style>
+
+<script src="/public/vendor/molstar/molstar.js" is:inline></script>
+<!-- External, non-inline init (CSP-friendly) -->
+<script defer src="/js/molstar-viewer.js"></script>
