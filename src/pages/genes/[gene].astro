@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from 'astro:content';
+import DocsLayout from '../../layouts/DocsLayout.astro';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('docs', ({ id }) => id.startsWith('genes/'));
+
+  return pages.map((page) => ({
+    params: { gene: page.id.replace('genes/', '') },
+    props: { page },
+  }));
+}
+
+const { page } = Astro.props;
+const { Content } = await render(page);
+---
+
+<DocsLayout title={page.data.title} description={page.data.description}>
+  <Content />
+</DocsLayout>

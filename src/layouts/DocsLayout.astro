@@ -1,0 +1,60 @@
+---
+import '../assets/css/bootstrap-5.3.8.min.css';
+import '../assets/css/style.css';
+import bootstrapJs from '../assets/js/bootstrap.bundle-5.3.8.min.js?url';
+import chlorisFigure from '../assets/chloris-figure.png';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description } = Astro.props;
+const navItems = [
+  { href: '/description/', label: 'Description' },
+  { href: '/species/', label: 'Species' },
+  { href: '/genes/', label: 'Genes' },
+  { href: '/download/', label: 'Download' },
+  { href: '/credits/', label: 'Credits' },
+];
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} | Chloris</title>
+    {description && <meta name="description" content={description} />}
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <main class="docs-page">
+      <header class="site-header docs-header">
+        <a href="/" class="header-brand" aria-label="Chloris home">
+          <img src={chlorisFigure.src} alt="" />
+        </a>
+
+        <nav class="nav" aria-label="Primary navigation">
+          {navItems.map((item) => <a href={item.href}>{item.label}</a>)}
+        </nav>
+      </header>
+
+      <article class="docs-shell">
+        <header class="docs-title-block">
+          <h1>{title}</h1>
+          {description && <p>{description}</p>}
+        </header>
+
+        <div class="docs-content">
+          <slot />
+        </div>
+      </article>
+    </main>
+
+    <script src={bootstrapJs}></script>
+  </body>
+</html>

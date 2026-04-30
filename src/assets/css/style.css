@@ -40,6 +40,23 @@ body {
   height: auto;
 }
 
+.header-brand {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  justify-content: center;
+  width: 4.75rem;
+  height: 4.75rem;
+  text-decoration: none;
+}
+
+.header-brand img {
+  display: block;
+  width: auto;
+  height: 4.75rem;
+  object-fit: contain;
+}
+
 .nav {
   flex: 1;
   display: flex;
@@ -128,6 +145,150 @@ body {
   pointer-events: none;
 }
 
+.docs-page {
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  background:
+    linear-gradient(90deg, rgba(18, 58, 47, 0.97), rgba(18, 58, 47, 0.76)),
+    url("../background.png") center / cover fixed no-repeat;
+}
+
+.docs-header {
+  padding-block: 1.25rem;
+}
+
+.docs-shell {
+  position: relative;
+  z-index: 2;
+  width: min(72rem, calc(100% - 3rem));
+  margin: 2rem auto 0;
+  padding: 3.5rem 0 6rem;
+}
+
+.docs-title-block {
+  max-width: 48rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid rgba(216, 182, 90, 0.45);
+}
+
+.docs-title-block h1 {
+  margin: 0;
+  color: var(--cream);
+  font-size: clamp(3.5rem, 8vw, 7rem);
+  font-weight: 400;
+  line-height: 0.95;
+}
+
+.docs-title-block p {
+  max-width: 38rem;
+  margin: 1.25rem 0 0;
+  color: rgba(239, 230, 201, 0.86);
+  font-size: 1.35rem;
+  font-style: italic;
+  line-height: 1.45;
+}
+
+.docs-content {
+  max-width: 58rem;
+  color: rgba(239, 230, 201, 0.92);
+  font-size: 1.25rem;
+  line-height: 1.65;
+}
+
+.docs-content > *:first-child {
+  margin-top: 0;
+}
+
+.docs-content h1,
+.docs-content h2,
+.docs-content h3 {
+  color: var(--cream);
+  font-weight: 500;
+  line-height: 1.15;
+}
+
+.docs-content h1 {
+  margin: 2.5rem 0 1rem;
+  font-size: 2.6rem;
+}
+
+.docs-content h2 {
+  margin: 2.25rem 0 1rem;
+  font-size: 2rem;
+}
+
+.docs-content h3 {
+  margin: 2rem 0 0.75rem;
+  font-size: 1.55rem;
+}
+
+.docs-content p,
+.docs-content ol,
+.docs-content ul {
+  margin: 0 0 1.25rem;
+}
+
+.docs-content a {
+  color: var(--gold-soft);
+  text-decoration-color: rgba(216, 182, 90, 0.55);
+  text-underline-offset: 0.18em;
+}
+
+.docs-content a:hover {
+  color: var(--cream);
+}
+
+.docs-content .sl-link-button,
+.docs-content a[role="button"] {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2.75rem;
+  margin: 0.35rem 0 1rem;
+  padding: 0.7rem 1.35rem;
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  color: var(--gold-soft);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 1rem;
+}
+
+.docs-content .sl-link-button:hover,
+.docs-content a[role="button"]:hover {
+  background: rgba(201, 154, 50, 0.12);
+  color: var(--gold-soft);
+}
+
+.docs-content .card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+  gap: 1.25rem;
+}
+
+.docs-content .card {
+  height: 100%;
+  border: 1px solid rgba(216, 182, 90, 0.32);
+  border-radius: 8px;
+  background: rgba(18, 58, 47, 0.72);
+  color: rgba(239, 230, 201, 0.92);
+}
+
+.docs-content .card .title {
+  font-size: 1.6rem;
+  line-height: 1.15;
+  letter-spacing: 0;
+}
+
+.docs-content .card img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 6px;
+}
+
 @media (max-width: 900px) {
   .site-header {
     padding: 1.5rem;
@@ -157,5 +318,28 @@ body {
 
   .title {
     font-size: clamp(4rem, 18vw, 7rem);
+  }
+
+  .header-brand {
+    width: 3.75rem;
+    height: 3.75rem;
+  }
+
+  .header-brand img {
+    height: 3.75rem;
+  }
+
+  .docs-header {
+    align-items: flex-start;
+  }
+
+  .docs-shell {
+    width: min(100% - 2rem, 58rem);
+    margin-top: 0;
+    padding: 2rem 0 4rem;
+  }
+
+  .docs-content {
+    font-size: 1.12rem;
   }
 }
