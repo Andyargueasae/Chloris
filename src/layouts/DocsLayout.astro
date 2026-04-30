@@ -3,6 +3,7 @@ import '../assets/css/bootstrap-5.3.8.min.css';
 import '../assets/css/style.css';
 import bootstrapJs from '../assets/js/bootstrap.bundle-5.3.8.min.js?url';
 import chlorisFigure from '../assets/chloris-figure.png';
+import heading from '../assets/heading.png';
 
 interface Props {
   title: string;
@@ -35,7 +36,8 @@ const navItems = [
     <main class="docs-page">
       <header class="site-header docs-header">
         <a href="/" class="header-brand" aria-label="Chloris home">
-          <img src={chlorisFigure.src} alt="" />
+          <img src={chlorisFigure.src} alt="" class="header-brand-figure" />
+          <img src={heading.src} alt="Chloris" class="header-brand-title" />
         </a>
 
         <nav class="nav" aria-label="Primary navigation">
