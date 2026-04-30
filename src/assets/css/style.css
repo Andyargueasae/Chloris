@@ -65,11 +65,23 @@ body {
 }
 
 .nav a {
+  position: relative;
   color: var(--cream);
   text-decoration: none;
   font-size: 1rem;
   letter-spacing: 0.12em;
   text-transform: uppercase;
+}
+
+.nav a + a::before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: -1.5rem;
+  width: 1px;
+  height: 1rem;
+  background: var(--cream);
+  transform: translateY(-50%);
 }
 
 .nav a:hover {
@@ -89,6 +101,12 @@ body {
   font-weight: 400;
   letter-spacing: 0.12em;
   line-height: 0.85;
+}
+
+.hero .title img {
+  display: block;
+  width: min(34rem, 100%);
+  height: auto;
 }
 
 .subtitle {
@@ -284,9 +302,20 @@ body {
 
 .docs-content .card img {
   width: 100%;
-  aspect-ratio: 4 / 3;
+  aspect-ratio: 1 / 1;
   object-fit: cover;
   border-radius: 6px;
+}
+
+.docs-content .person-image-frame {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.docs-content .person-image-frame img {
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 
 @media (max-width: 900px) {
@@ -305,6 +334,11 @@ body {
     font-size: 0.8rem;
   }
 
+  .nav a + a::before {
+    left: -0.5rem;
+    height: 0.8rem;
+  }
+
   .hero-content {
     width: auto;
     padding: 4rem 2rem 0;
@@ -318,6 +352,10 @@ body {
 
   .title {
     font-size: clamp(4rem, 18vw, 7rem);
+  }
+
+  .hero .title img {
+    width: min(26rem, 78vw);
   }
 
   .header-brand {

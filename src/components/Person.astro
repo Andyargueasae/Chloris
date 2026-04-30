@@ -3,10 +3,35 @@ import { Card } from '@astrojs/starlight/components';
 import { Image } from 'astro:assets';
 import { LinkButton } from '@astrojs/starlight/components';
 
-const { name, image, bio, url } = Astro.props;
+const { name, image, bio, url, imageFit = 'cover' } = Astro.props;
 ---
 <Card title={name} >
-  {image && <Image src={image} alt={name} />}
+  {image && (
+    <div class:list={['person-image-frame', `person-image-frame--${imageFit}`]}>
+      <Image src={image} alt={name} class="person-image" />
+    </div>
+  )}
   <p>{bio}</p>
   {url && <LinkButton href={url} icon="external">Find out more</LinkButton>}
 </Card>
+
+<style>
+  .person-image-frame {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    border-radius: 6px;
+  }
+
+  .person-image-frame :global(.person-image) {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  .person-image-frame--contain :global(.person-image) {
+    object-fit: contain;
+  }
+</style>
