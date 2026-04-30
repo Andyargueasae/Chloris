@@ -1,0 +1,55 @@
+---
+import '../assets/css/bootstrap-5.3.8.min.css';
+import '../assets/css/style.css';
+import bootstrapJs from '../assets/js/bootstrap.bundle-5.3.8.min.js?url';
+import heading from '../assets/heading.png';
+import chlorisFigure from '../assets/chloris-figure.png';
+---
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Chloris</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <section class="hero">
+      <header class="site-header">
+        <nav class="nav">
+          <a href="/description/">Description</a>
+          <a href="/species/">Species</a>
+          <a href="/genes/">Genes</a>
+          <a href="/download/">Download</a>
+          <a href="/credits/">Credits</a>
+        </nav>
+      </header>
+
+      <div class="hero-content">
+        <h1 class="title"><img src={heading.src} alt="Chloris" /></h1>
+
+        <h2 class="subtitle">
+          A database of algal<br />
+          chloroplast genomes
+        </h2>
+
+        <p class="description">
+          Chloris is a curated resource of complete algal chloroplast genomes and orthologous genes,
+          designed to support research in evolution, phylogeny, and photosynthetic diversity.
+        </p>
+
+        <a href="/description/" class="cta">
+          Explore the database ->
+        </a>
+      </div>
+
+      <img src={chlorisFigure.src} alt="Chloris figure" class="chloris-figure" />
+    </section>
+
+    <script src={bootstrapJs}></script>
+  </body>
+</html>

@@ -1,0 +1,161 @@
+:root {
+  --green-deep: #123a2f;
+  --green-mid: #1f5141;
+  --cream: #efe6c9;
+  --gold: #c99a32;
+  --gold-soft: #d8b65a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Cormorant Garamond", Georgia, serif;
+  color: var(--cream);
+  background: var(--green-deep);
+}
+
+.hero {
+  min-height: 100vh;
+  position: relative;
+  overflow: hidden;
+  background:
+    linear-gradient(90deg, rgba(18, 58, 47, 0.98), rgba(18, 58, 47, 0.72)),
+    url("../background.png") center / cover no-repeat;
+}
+
+.site-header {
+  position: relative;
+  z-index: 5;
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 2rem 4rem;
+}
+
+.logo-mark {
+  width: 4.5rem;
+  height: auto;
+}
+
+.nav {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.nav a {
+  color: var(--cream);
+  text-decoration: none;
+  font-size: 1rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.nav a:hover {
+  color: var(--gold-soft);
+}
+
+.hero-content {
+  position: relative;
+  z-index: 4;
+  width: min(48rem, 52vw);
+  padding: 6rem 0 0 7rem;
+}
+
+.title {
+  margin: 0;
+  font-size: clamp(5rem, 10vw, 9rem);
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  line-height: 0.85;
+}
+
+.subtitle {
+  margin: 3rem 0 2rem;
+  font-size: clamp(2rem, 3vw, 3rem);
+  line-height: 1.15;
+  font-weight: 400;
+}
+
+.description {
+  max-width: 34rem;
+  font-size: 1.35rem;
+  line-height: 1.55;
+  font-style: italic;
+  color: rgba(239, 230, 201, 0.9);
+}
+
+.cta {
+  display: inline-flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  padding: 1rem 2rem;
+  border: 1px solid var(--gold);
+  border-radius: 999px;
+  color: var(--gold-soft);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-size: 1rem;
+}
+
+.cta:hover {
+  background: rgba(201, 154, 50, 0.12);
+}
+
+.chloris-figure {
+  position: absolute;
+  right: 7vw;
+  bottom: 4vh;
+  z-index: 3;
+  height: min(82vh, 58vw);
+  object-fit: contain;
+  pointer-events: none;
+}
+
+.algae-foreground {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  z-index: 2;
+  width: 100%;
+  height: auto;
+  pointer-events: none;
+}
+
+@media (max-width: 900px) {
+  .site-header {
+    padding: 1.5rem;
+    gap: 1rem;
+  }
+
+  .nav {
+    gap: 1rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+
+  .nav a {
+    font-size: 0.8rem;
+  }
+
+  .hero-content {
+    width: auto;
+    padding: 4rem 2rem 0;
+  }
+
+  .chloris-figure {
+    opacity: 0.45;
+    right: -8rem;
+    height: 75vh;
+  }
+
+  .title {
+    font-size: clamp(4rem, 18vw, 7rem);
+  }
+}
