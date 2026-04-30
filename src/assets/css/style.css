@@ -80,7 +80,7 @@ body {
   left: -1.5rem;
   width: 1px;
   height: 1rem;
-  background: var(--cream);
+  background: var(--gold-soft);
   transform: translateY(-50%);
 }
 
