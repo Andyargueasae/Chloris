@@ -50,6 +50,7 @@ body {
   gap: 0.8rem;
   height: 4.75rem;
   text-decoration: none;
+  transform: translateY(0.9rem);
 }
 
 .header-brand-figure {
