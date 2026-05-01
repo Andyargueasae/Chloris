@@ -50,7 +50,7 @@ body {
   gap: 0.8rem;
   height: 4.75rem;
   text-decoration: none;
-  transform: translateY(0.9rem);
+  transform: translateY(0.25rem);
 }
 
 .header-brand-figure {
@@ -180,10 +180,6 @@ body {
   background:
     linear-gradient(90deg, rgba(18, 58, 47, 0.97), rgba(18, 58, 47, 0.76)),
     url("../background.png") center / cover fixed no-repeat;
-}
-
-.docs-header {
-  padding-block: 1.25rem;
 }
 
 .docs-shell {
@@ -380,10 +376,6 @@ body {
 
   .header-brand-title {
     width: 6rem;
-  }
-
-  .docs-header {
-    align-items: flex-start;
   }
 
   .docs-shell {
