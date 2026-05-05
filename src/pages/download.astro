@@ -3,12 +3,14 @@ import { getEntry, render } from 'astro:content';
 import DocsLayout from '../layouts/DocsLayout.astro';
 
 const page = await getEntry('docs', 'download');
+
 if (!page) {
   throw new Error('Missing docs entry: download');
 }
+
 const { Content } = await render(page);
 ---
 
-<DocsLayout title={page.data.title} description={page.data.description}>
+<DocsLayout frontmatter={page.data}>
   <Content />
 </DocsLayout>

@@ -1,7 +1,6 @@
 ---
-title: Phylogeny
+title: phylogeny
 description: Phylogenetic tree of 861 genomes including 7 cyanobacterial genomes as outgroups.
-template: splash
 ---
 
 Our fundamental insights were derived from a plastid phylogenetic tree: built from dereplicated genomes from 2250 plastid genomes from NCBI GenBank.
@@ -10,7 +9,7 @@ We firstly dereplicated these genomes using an ANI of 95% (we used galah, a bioi
 
 We then picked 51 genes that are ultra-conserved in these genomes, to infer a phylogenetic tree. These genes are mainly single-copy and are conserved across most genomes in the dataset.
 
-import PhyloTree from '../../../../components/PhyloTree.jsx';
+import PhyloTree from '/src/components/PhyloTree.jsx';
 
 Here is an interactive tree viewer of the resulting tree. We built the tree with IQ-TREE v2.3.6.
 

@@ -2,10 +2,10 @@
 import { getEntry, render } from 'astro:content';
 import DocsLayout from '../layouts/DocsLayout.astro';
 
-const page = await getEntry('docs', 'species');
+const page = await getEntry('docs', 'phylogeny');
 
 if (!page) {
-  throw new Error('Missing docs entry: species');
+  throw new Error('Missing docs entry: phylogeny');
 }
 
 const { Content } = await render(page);

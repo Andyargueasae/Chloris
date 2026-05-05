@@ -1,0 +1,52 @@
+---
+// src/layouts/BaseLayout.astro
+import "../styles/global.css";
+
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const {
+  title = "ChlORD",
+  description = "A database of plastid protein alignments, HMMs, structures, and metadata."
+} = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content={description} />
+    <title>{title}</title>
+  </head>
+
+  <body>
+    <header class="site-header">
+      <div class="container header-inner">
+        <a href="/" class="site-brand">ChlORD</a>
+
+        <nav class="site-nav" aria-label="Main navigation">
+          <a href="/">Home</a>
+          <a href="/description">Description</a>
+          <a href="/download">Download</a>
+          <a href="/proteins">Proteins</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container site-main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div class="container">
+        <p><strong>ChlORD</strong></p>
+        <p class="muted">
+          Plastid-encoded protein alignments, HMMs, structures, and domain metadata.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
