@@ -1,0 +1,32 @@
+---
+interface Props {
+  title: string;
+  description: string;
+  href: string;
+  meta?: string;
+}
+
+const { title, description, href, meta } = Astro.props;
+---
+
+<article class="card download-card">
+  <div class="stack-sm">
+    <h3>{title}</h3>
+    <p class="muted">{description}</p>
+    {meta && <p class="download-meta">{meta}</p>}
+    <div>
+      <a class="button" href={href} download>Download</a>
+    </div>
+  </div>
+</article>
+
+<style>
+  .download-card h3 {
+    margin-bottom: 0.35rem;
+  }
+
+  .download-meta {
+    font-size: 0.95rem;
+    color: var(--text-soft);
+  }
+</style>
