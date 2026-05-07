@@ -167,7 +167,7 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 			"",
 			"# Structure Visualization",
 			"",
-			f"<ProteinStructureViewer cifUrl=\"{structure_url}\" height=\"900px\" />",
+			f"<ProteinStructureViewer cifUrl=\"{structure_url}\" height=\"800px\" />",
 			"",
 			"# Downloads",
 			"",

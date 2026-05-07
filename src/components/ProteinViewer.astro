@@ -3,6 +3,7 @@
 export interface Props {
   cifUrl?: string;            // /public or absolute URL to .cif/.mmcif/.bcif
   height?: string;            // e.g. "640px"
+  maxHeight?: string;         // cap viewer so page content remains visible
   allowUpload?: boolean;      // local file picker
   resetCamera?: boolean;
   background?: 'light' | 'dark';
@@ -11,10 +12,13 @@ export interface Props {
 const {
   cifUrl,
   height = '640px',
+  maxHeight = '800px',
   allowUpload = true,
   resetCamera = true,
   background = 'dark',
 } = Astro.props;
+
+const clampedHeight = `min(${height}, 70vh, ${maxHeight})`;
 ---
 
 <section class="w-full" data-protein-viewer>
@@ -32,7 +36,7 @@ const {
   <!-- Viewer container with config -->
   <div
     class="molstar"
-    style={`height:${height}; border-radius:12px; overflow:hidden;`}
+    style={`height:${clampedHeight}; max-height:${maxHeight}; border-radius:12px; overflow:hidden;`}
     data-molstar
     data-cif-url={cifUrl ?? ""}
     data-reset-camera={resetCamera}
@@ -40,7 +44,7 @@ const {
   ></div>
 </section>
 
-<link rel="stylesheet" href="/public/vendor/molstar/molstar.css" />
+<link rel="stylesheet" href="/vendor/molstar/molstar.css" />
 <style>
   .toolbar { display:flex; gap:.5rem; align-items:center; margin-bottom:.5rem; flex-wrap:wrap; }
   .btn { padding:.4rem .75rem; border-radius:.5rem; border:1px solid #ddd; background:#fff; cursor:pointer; }
@@ -49,6 +53,6 @@ const {
   .upload input { display:none; }
 </style>
 
-<script src="/public/vendor/molstar/molstar.js" is:inline></script>
+<script src="/vendor/molstar/molstar.js" is:inline></script>
 <!-- External, non-inline init (CSP-friendly) -->
 <script defer src="/js/molstar-viewer.js"></script>
