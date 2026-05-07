@@ -1,0 +1,51 @@
+---
+title: "hlpA"
+description: "Chaperone protein Skp"
+slug: "genes/hlpA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Chaperone protein Skp
+
+Molecular chaperone that interacts specifically with outer membrane proteins, thus maintaining the solubility of early folding intermediates during passage through the periplasm. Required for the efficient release of OmpA from the inner membrane, the maintenance of its solubility in the periplasm, and, in association with lipopolysaccharide (LPS), for the efficient folding and insertion of OmpA into the outer membrane
+
+## Metadata
+
+- **UniRef90 representative:** `P0AEU7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P0AEU7/entry](https://www.uniprot.org/uniprotkb/P0AEU7/entry)
+- **Number of aligned sequences:** 35
+- **Pfam domains:**
+  - [PF00216](https://www.ebi.ac.uk/interpro/entry/pfam/PF00216)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="hlpAViewer" fastaUrl="/alignments/hlpA.aln" colorSchema="clustal" hasConsensus={true} exportName="hlpA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/hlpa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/hlpA.aln" icon="download">hlpA.aln</LinkButton>
+<LinkButton href="/structure/hlpa_model.cif" icon="download">hlpA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | hlpA |
+| Uniref90 representative | P0AEU7 |
+| full name | Chaperone protein Skp |
+| descriptions | Molecular chaperone that interacts specifically with outer membrane proteins, thus maintaining the solubility of early folding intermediates during passage through the periplasm. Required for the efficient release of OmpA from the inner membrane, the maintenance of its solubility in the periplasm, and, in association with lipopolysaccharide (LPS), for the efficient folding and insertion of OmpA into the outer membrane |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P0AEU7/entry |
+| pfam domains | [PF00216] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00216] |
+| alignment_path | /public/downloads/hlpA.aln |
+| n_seqs | 35.0 |
+| structure_path | /public/downloads/hlpA.cif |

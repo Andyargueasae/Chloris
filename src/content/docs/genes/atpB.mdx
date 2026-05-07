@@ -1,0 +1,52 @@
+---
+title: "atpB"
+description: "ATP synthase subunit beta, chloroplastic"
+slug: "genes/atpB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** ATP synthase subunit beta, chloroplastic
+
+Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits
+
+## Metadata
+
+- **UniRef90 representative:** `P51259`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51259/entry](https://www.uniprot.org/uniprotkb/P51259/entry)
+- **Number of aligned sequences:** 859
+- **Pfam domains:**
+  - [PF00006](https://www.ebi.ac.uk/interpro/entry/pfam/PF00006)
+  - [PF02874](https://www.ebi.ac.uk/interpro/entry/pfam/PF02874)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="atpBViewer" fastaUrl="/alignments/atpB.aln" colorSchema="clustal" hasConsensus={true} exportName="atpB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/atpb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/atpB.aln" icon="download">atpB.aln</LinkButton>
+<LinkButton href="/structure/atpb_model.cif" icon="download">atpB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | atpB |
+| Uniref90 representative | P51259 |
+| full name | ATP synthase subunit beta, chloroplastic |
+| descriptions | Produces ATP from ADP in the presence of a proton gradient across the membrane. The catalytic sites are hosted primarily by the beta subunits |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51259/entry |
+| pfam domains | [PF00006,PF02874] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00006,https://www.ebi.ac.uk/interpro/entry/pfam/PF02874] |
+| alignment_path | /public/downloads/atpB.aln |
+| n_seqs | 859.0 |
+| structure_path | /public/downloads/atpB.cif |

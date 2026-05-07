@@ -1,0 +1,49 @@
+---
+title: "ycf66"
+description: "Uncharacterized protein ycf66"
+slug: "genes/ycf66"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf66
+
+## Metadata
+
+- **UniRef90 representative:** `Q9MUQ8`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9MUQ8/entry](https://www.uniprot.org/uniprotkb/Q9MUQ8/entry)
+- **Number of aligned sequences:** 240
+- **Pfam domains:**
+  - [PF07444](https://www.ebi.ac.uk/interpro/entry/pfam/PF07444)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf66Viewer" fastaUrl="/alignments/ycf66.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf66_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf66_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf66.aln" icon="download">ycf66.aln</LinkButton>
+<LinkButton href="/structure/ycf66_model.cif" icon="download">ycf66.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf66 |
+| Uniref90 representative | Q9MUQ8 |
+| full name | Uncharacterized protein ycf66 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9MUQ8/entry |
+| pfam domains | [PF07444] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF07444] |
+| alignment_path | /public/downloads/ycf66.aln |
+| n_seqs | 240.0 |
+| structure_path | /public/downloads/ycf66.cif |

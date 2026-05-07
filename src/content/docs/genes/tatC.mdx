@@ -1,0 +1,49 @@
+---
+title: "tatC"
+description: "Sec-independent protein translocase protein TATC, chloroplastic"
+slug: "genes/tatC"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Sec-independent protein translocase protein TATC, chloroplastic
+
+## Metadata
+
+- **UniRef90 representative:** `O99992`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/O99992/entry](https://www.uniprot.org/uniprotkb/O99992/entry)
+- **Number of aligned sequences:** 518
+- **Pfam domains:**
+  - [PF00902](https://www.ebi.ac.uk/interpro/entry/pfam/PF00902)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="tatCViewer" fastaUrl="/alignments/tatC.aln" colorSchema="clustal" hasConsensus={true} exportName="tatC_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/tatc_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/tatC.aln" icon="download">tatC.aln</LinkButton>
+<LinkButton href="/structure/tatc_model.cif" icon="download">tatC.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | tatC |
+| Uniref90 representative | O99992 |
+| full name | Sec-independent protein translocase protein TATC, chloroplastic |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/O99992/entry |
+| pfam domains | [PF00902] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00902] |
+| alignment_path | /public/downloads/tatC.aln |
+| n_seqs | 518.0 |
+| structure_path | /public/downloads/tatC.cif |

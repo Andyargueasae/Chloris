@@ -1,0 +1,51 @@
+---
+title: "psaB"
+description: "Photosystem I P700 chlorophyll a apoprotein A2"
+slug: "genes/psaB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I P700 chlorophyll a apoprotein A2
+
+PsaA and PsaB bind P700, the primary electron donor of photosystem I (PSI), as well as the electron acceptors A0, A1 and FX. PSI is a plastocyanin/cytochrome c6-ferredoxin oxidoreductase, converting photonic excitation into a charge separation, which transfers an electron from the donor P700 chlorophyll pair to the spectroscopically characterized acceptors A0, A1, FX, FA and FB in turn. Oxidized P700 is reduced on the lumenal side of the thylakoid membrane by plastocyanin or cytochrome c6.
+
+## Metadata
+
+- **UniRef90 representative:** `P51285`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51285/entry](https://www.uniprot.org/uniprotkb/P51285/entry)
+- **Number of aligned sequences:** 863
+- **Pfam domains:**
+  - [PF00223](https://www.ebi.ac.uk/interpro/entry/pfam/PF00223)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaBViewer" fastaUrl="/alignments/psaB.aln" colorSchema="clustal" hasConsensus={true} exportName="psaB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psab_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaB.aln" icon="download">psaB.aln</LinkButton>
+<LinkButton href="/structure/psab_model.cif" icon="download">psaB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaB |
+| Uniref90 representative | P51285 |
+| full name | Photosystem I P700 chlorophyll a apoprotein A2 |
+| descriptions | PsaA and PsaB bind P700, the primary electron donor of photosystem I (PSI), as well as the electron acceptors A0, A1 and FX. PSI is a plastocyanin/cytochrome c6-ferredoxin oxidoreductase, converting photonic excitation into a charge separation, which transfers an electron from the donor P700 chlorophyll pair to the spectroscopically characterized acceptors A0, A1, FX, FA and FB in turn. Oxidized P700 is reduced on the lumenal side of the thylakoid membrane by plastocyanin or cytochrome c6. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51285/entry |
+| pfam domains | [PF00223] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00223] |
+| alignment_path | /public/downloads/psaB.aln |
+| n_seqs | 863.0 |
+| structure_path | /public/downloads/psaB.cif |

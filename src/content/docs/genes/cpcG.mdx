@@ -1,0 +1,51 @@
+---
+title: "cpcG"
+description: "Phycobilisome rod-core linker polypeptide cpcG"
+slug: "genes/cpcG"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Phycobilisome rod-core linker polypeptide cpcG
+
+Rod-core linker protein required for attachment of phycocyanin to allophycocyanin in cores of phycobilisomes Linker polypeptides determine the state of aggregation and the location of the disk-shaped phycobiliprotein units within the phycobilisome and modulate their spectroscopic properties in order to mediate a directed and optimal energy transfer
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDC2`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDC2/entry](https://www.uniprot.org/uniprotkb/Q1XDC2/entry)
+- **Number of aligned sequences:** 262
+- **Pfam domains:**
+  - [PF00427](https://www.ebi.ac.uk/interpro/entry/pfam/PF00427)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="cpcGViewer" fastaUrl="/alignments/cpcG.aln" colorSchema="clustal" hasConsensus={true} exportName="cpcG_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/cpcg_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/cpcG.aln" icon="download">cpcG.aln</LinkButton>
+<LinkButton href="/structure/cpcg_model.cif" icon="download">cpcG.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | cpcG |
+| Uniref90 representative | Q1XDC2 |
+| full name | Phycobilisome rod-core linker polypeptide cpcG |
+| descriptions | Rod-core linker protein required for attachment of phycocyanin to allophycocyanin in cores of phycobilisomes Linker polypeptides determine the state of aggregation and the location of the disk-shaped phycobiliprotein units within the phycobilisome and modulate their spectroscopic properties in order to mediate a directed and optimal energy transfer |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDC2/entry |
+| pfam domains | [PF00427] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00427] |
+| alignment_path | /public/downloads/cpcG.aln |
+| n_seqs | 262.0 |
+| structure_path | /public/downloads/cpcG.cif |

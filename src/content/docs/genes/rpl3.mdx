@@ -1,0 +1,51 @@
+---
+title: "rpl3"
+description: "Large ribosomal subunit protein uL3c"
+slug: "genes/rpl3"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL3c
+
+One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51314`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51314/entry](https://www.uniprot.org/uniprotkb/P51314/entry)
+- **Number of aligned sequences:** 527
+- **Pfam domains:**
+  - [PF00297](https://www.ebi.ac.uk/interpro/entry/pfam/PF00297)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl3Viewer" fastaUrl="/alignments/rpl3.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl3_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl3_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl3.aln" icon="download">rpl3.aln</LinkButton>
+<LinkButton href="/structure/rpl3_model.cif" icon="download">rpl3.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl3 |
+| Uniref90 representative | P51314 |
+| full name | Large ribosomal subunit protein uL3c |
+| descriptions | One of the primary rRNA binding proteins, it binds directly near the 3'-end of the 23S rRNA, where it nucleates assembly of the 50S subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51314/entry |
+| pfam domains | [PF00297] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00297] |
+| alignment_path | /public/downloads/rpl3.aln |
+| n_seqs | 527.0 |
+| structure_path | /public/downloads/rpl3.cif |

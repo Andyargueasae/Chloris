@@ -1,0 +1,50 @@
+---
+title: "mntB"
+description: "Manganese transport system membrane protein MntB"
+slug: "genes/mntB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Manganese transport system membrane protein MntB
+
+## Metadata
+
+- **UniRef90 representative:** `A0A1C9CDW0*`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A1C9CDW0/entry](https://www.uniprot.org/uniprotkb/A0A1C9CDW0/entry)
+- **Number of aligned sequences:** 36
+- **Pfam domains:**
+  - [PF00950](https://www.ebi.ac.uk/interpro/entry/pfam/PF00950)
+  - [PF01032](https://www.ebi.ac.uk/interpro/entry/pfam/PF01032)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="mntBViewer" fastaUrl="/alignments/mntB.aln" colorSchema="clustal" hasConsensus={true} exportName="mntB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/mntb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/mntB.aln" icon="download">mntB.aln</LinkButton>
+<LinkButton href="/structure/mntb_model.cif" icon="download">mntB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | mntB |
+| Uniref90 representative | A0A1C9CDW0* |
+| full name | Manganese transport system membrane protein MntB |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A1C9CDW0/entry |
+| pfam domains | [PF00950,PF01032] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00950,https://www.ebi.ac.uk/interpro/entry/pfam/PF01032] |
+| alignment_path | /public/downloads/mntB.aln |
+| n_seqs | 36.0 |
+| structure_path | /public/downloads/mntB.cif |

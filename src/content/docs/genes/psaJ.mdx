@@ -1,0 +1,51 @@
+---
+title: "psaJ"
+description: "Photosystem I reaction center subunit IX"
+slug: "genes/psaJ"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit IX
+
+May help in the organization of the PsaE and PsaF subunits
+
+## Metadata
+
+- **UniRef90 representative:** `P51194`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51194/entry](https://www.uniprot.org/uniprotkb/P51194/entry)
+- **Number of aligned sequences:** 849
+- **Pfam domains:**
+  - [PF01701](https://www.ebi.ac.uk/interpro/entry/pfam/PF01701)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaJViewer" fastaUrl="/alignments/psaJ.aln" colorSchema="clustal" hasConsensus={true} exportName="psaJ_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psaj_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaJ.aln" icon="download">psaJ.aln</LinkButton>
+<LinkButton href="/structure/psaj_model.cif" icon="download">psaJ.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaJ |
+| Uniref90 representative | P51194 |
+| full name | Photosystem I reaction center subunit IX |
+| descriptions | May help in the organization of the PsaE and PsaF subunits |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51194/entry |
+| pfam domains | [PF01701] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01701] |
+| alignment_path | /public/downloads/psaJ.aln |
+| n_seqs | 849.0 |
+| structure_path | /public/downloads/psaJ.cif |

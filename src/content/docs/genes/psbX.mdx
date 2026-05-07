@@ -1,0 +1,51 @@
+---
+title: "psbX"
+description: "Photosystem II reaction center protein X"
+slug: "genes/psbX"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein X
+
+Involved in the binding and/or turnover of quinones at the Q(B) site of photosystem II (PSII). PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDU0`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDU0/entry](https://www.uniprot.org/uniprotkb/Q1XDU0/entry)
+- **Number of aligned sequences:** 506
+- **Pfam domains:**
+  - [PF06596](https://www.ebi.ac.uk/interpro/entry/pfam/PF06596)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbXViewer" fastaUrl="/alignments/psbX.aln" colorSchema="clustal" hasConsensus={true} exportName="psbX_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbx_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbX.aln" icon="download">psbX.aln</LinkButton>
+<LinkButton href="/structure/psbx_model.cif" icon="download">psbX.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbX |
+| Uniref90 representative | Q1XDU0 |
+| full name | Photosystem II reaction center protein X |
+| descriptions | Involved in the binding and/or turnover of quinones at the Q(B) site of photosystem II (PSII). PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDU0/entry |
+| pfam domains | [PF06596] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF06596] |
+| alignment_path | /public/downloads/psbX.aln |
+| n_seqs | 506.0 |
+| structure_path | /public/downloads/psbX.cif |

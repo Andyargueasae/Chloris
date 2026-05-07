@@ -1,0 +1,55 @@
+---
+title: "accB"
+description: "Biotin carboxyl carrier protein of acetyl-CoA carboxylase"
+slug: "genes/accB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+
+This protein is a component of the acetyl coenzyme A carboxylase complex; first, biotin carboxylase catalyzes the carboxylation of the carrier protein and then the transcarboxylase transfers the carboxyl group to form malonyl-CoA
+
+## Metadata
+
+- **UniRef90 representative:** `P51283`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51283/entry](https://www.uniprot.org/uniprotkb/P51283/entry)
+- **Number of aligned sequences:** 225
+- **Pfam domains:**
+  - [PF00364](https://www.ebi.ac.uk/interpro/entry/pfam/PF00364)
+  - [PF00529](https://www.ebi.ac.uk/interpro/entry/pfam/PF00529)
+  - [PF01597](https://www.ebi.ac.uk/interpro/entry/pfam/PF01597)
+  - [PF02749](https://www.ebi.ac.uk/interpro/entry/pfam/PF02749)
+  - [PF13533](https://www.ebi.ac.uk/interpro/entry/pfam/PF13533)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="accBViewer" fastaUrl="/alignments/accB.aln" colorSchema="clustal" hasConsensus={true} exportName="accB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/accb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/accB.aln" icon="download">accB.aln</LinkButton>
+<LinkButton href="/structure/accb_model.cif" icon="download">accB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | accB |
+| Uniref90 representative | P51283 |
+| full name | Biotin carboxyl carrier protein of acetyl-CoA carboxylase |
+| descriptions | This protein is a component of the acetyl coenzyme A carboxylase complex; first, biotin carboxylase catalyzes the carboxylation of the carrier protein and then the transcarboxylase transfers the carboxyl group to form malonyl-CoA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51283/entry |
+| pfam domains | [PF00364,PF00529,PF01597,PF02749,PF13533] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00364,https://www.ebi.ac.uk/interpro/entry/pfam/PF00529,https://www.ebi.ac.uk/interpro/entry/pfam/PF01597,https://www.ebi.ac.uk/interpro/entry/pfam/PF02749,https://www.ebi.ac.uk/interpro/entry/pfam/PF13533] |
+| alignment_path | /public/downloads/accB.aln |
+| n_seqs | 225.0 |
+| structure_path | /public/downloads/accB.cif |

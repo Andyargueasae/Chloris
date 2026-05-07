@@ -1,0 +1,56 @@
+---
+title: "hisH"
+description: "Imidazole glycerol phosphate synthase subunit hisH"
+slug: "genes/hisH"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Imidazole glycerol phosphate synthase subunit hisH
+
+IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit catalyzes the hydrolysis of glutamine to glutamate and ammonia as part of the synthesis of IGP and AICAR. The resulting ammonia molecule is channeled to the active site of HisF (By similarity)
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TLQ8`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TLQ8/entry](https://www.uniprot.org/uniprotkb/Q9TLQ8/entry)
+- **Number of aligned sequences:** 15
+- **Pfam domains:**
+  - [PF00117](https://www.ebi.ac.uk/interpro/entry/pfam/PF00117)
+  - [PF01174](https://www.ebi.ac.uk/interpro/entry/pfam/PF01174)
+  - [PF03575](https://www.ebi.ac.uk/interpro/entry/pfam/PF03575)
+  - [PF07685](https://www.ebi.ac.uk/interpro/entry/pfam/PF07685)
+  - [PF07722](https://www.ebi.ac.uk/interpro/entry/pfam/PF07722)
+  - [PF13507](https://www.ebi.ac.uk/interpro/entry/pfam/PF13507)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="hisHViewer" fastaUrl="/alignments/hisH.aln" colorSchema="clustal" hasConsensus={true} exportName="hisH_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/hish_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/hisH.aln" icon="download">hisH.aln</LinkButton>
+<LinkButton href="/structure/hish_model.cif" icon="download">hisH.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | hisH |
+| Uniref90 representative | Q9TLQ8 |
+| full name | Imidazole glycerol phosphate synthase subunit hisH |
+| descriptions | IGPS catalyzes the conversion of PRFAR and glutamine to IGP, AICAR and glutamate. The HisH subunit catalyzes the hydrolysis of glutamine to glutamate and ammonia as part of the synthesis of IGP and AICAR. The resulting ammonia molecule is channeled to the active site of HisF (By similarity) |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TLQ8/entry |
+| pfam domains | [PF00117,PF01174,PF03575,PF07685,PF07722,PF13507] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00117,https://www.ebi.ac.uk/interpro/entry/pfam/PF01174,https://www.ebi.ac.uk/interpro/entry/pfam/PF03575,https://www.ebi.ac.uk/interpro/entry/pfam/PF07685,https://www.ebi.ac.uk/interpro/entry/pfam/PF07722,https://www.ebi.ac.uk/interpro/entry/pfam/PF13507] |
+| alignment_path | /public/downloads/hisH.aln |
+| n_seqs | 15.0 |
+| structure_path | /public/downloads/hisH.cif |

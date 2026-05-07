@@ -1,0 +1,49 @@
+---
+title: "ycf33"
+description: "Uncharacterized protein ycf33"
+slug: "genes/ycf33"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf33
+
+## Metadata
+
+- **UniRef90 representative:** `P51329`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51329/entry](https://www.uniprot.org/uniprotkb/P51329/entry)
+- **Number of aligned sequences:** 444
+- **Pfam domains:**
+  - [PF05421](https://www.ebi.ac.uk/interpro/entry/pfam/PF05421)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf33Viewer" fastaUrl="/alignments/ycf33.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf33_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf33_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf33.aln" icon="download">ycf33.aln</LinkButton>
+<LinkButton href="/structure/ycf33_model.cif" icon="download">ycf33.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf33 |
+| Uniref90 representative | P51329 |
+| full name | Uncharacterized protein ycf33 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51329/entry |
+| pfam domains | [PF05421] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF05421] |
+| alignment_path | /public/downloads/ycf33.aln |
+| n_seqs | 444.0 |
+| structure_path | /public/downloads/ycf33.cif |

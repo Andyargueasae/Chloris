@@ -1,0 +1,51 @@
+---
+title: "petG"
+description: "Cytochrome b6-f complex subunit 5"
+slug: "genes/petG"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome b6-f complex subunit 5
+
+Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions. PetG is required for either the stability or assembly of the cytochrome b6-f complex
+
+## Metadata
+
+- **UniRef90 representative:** `P51318`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51318/entry](https://www.uniprot.org/uniprotkb/P51318/entry)
+- **Number of aligned sequences:** 837
+- **Pfam domains:**
+  - [PF02529](https://www.ebi.ac.uk/interpro/entry/pfam/PF02529)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="petGViewer" fastaUrl="/alignments/petG.aln" colorSchema="clustal" hasConsensus={true} exportName="petG_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/petg_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/petG.aln" icon="download">petG.aln</LinkButton>
+<LinkButton href="/structure/petg_model.cif" icon="download">petG.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | petG |
+| Uniref90 representative | P51318 |
+| full name | Cytochrome b6-f complex subunit 5 |
+| descriptions | Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions. PetG is required for either the stability or assembly of the cytochrome b6-f complex |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51318/entry |
+| pfam domains | [PF02529] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02529] |
+| alignment_path | /public/downloads/petG.aln |
+| n_seqs | 837.0 |
+| structure_path | /public/downloads/petG.cif |

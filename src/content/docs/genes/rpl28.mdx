@@ -1,0 +1,49 @@
+---
+title: "rpl28"
+description: "Large ribosomal subunit protein bL28c"
+slug: "genes/rpl28"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL28c
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDR3`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDR3/entry](https://www.uniprot.org/uniprotkb/Q1XDR3/entry)
+- **Number of aligned sequences:** 268
+- **Pfam domains:**
+  - [PF00830](https://www.ebi.ac.uk/interpro/entry/pfam/PF00830)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl28Viewer" fastaUrl="/alignments/rpl28.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl28_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl28_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl28.aln" icon="download">rpl28.aln</LinkButton>
+<LinkButton href="/structure/rpl28_model.cif" icon="download">rpl28.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl28 |
+| Uniref90 representative | Q1XDR3 |
+| full name | Large ribosomal subunit protein bL28c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDR3/entry |
+| pfam domains | [PF00830] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00830] |
+| alignment_path | /public/downloads/rpl28.aln |
+| n_seqs | 268.0 |
+| structure_path | /public/downloads/rpl28.cif |

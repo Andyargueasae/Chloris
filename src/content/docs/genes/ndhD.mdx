@@ -1,0 +1,49 @@
+---
+title: "ndhD"
+description: "NAD(P)H-quinone oxidoreductase chain 4, chloroplastic"
+slug: "genes/ndhD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** NAD(P)H-quinone oxidoreductase chain 4, chloroplastic
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TKV8`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TKV8/entry](https://www.uniprot.org/uniprotkb/Q9TKV8/entry)
+- **Number of aligned sequences:** 55
+- **Pfam domains:**
+  - [PF00361](https://www.ebi.ac.uk/interpro/entry/pfam/PF00361)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ndhDViewer" fastaUrl="/alignments/ndhD.aln" colorSchema="clustal" hasConsensus={true} exportName="ndhD_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ndhd_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ndhD.aln" icon="download">ndhD.aln</LinkButton>
+<LinkButton href="/structure/ndhd_model.cif" icon="download">ndhD.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ndhD |
+| Uniref90 representative | Q9TKV8 |
+| full name | NAD(P)H-quinone oxidoreductase chain 4, chloroplastic |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TKV8/entry |
+| pfam domains | [PF00361] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00361] |
+| alignment_path | /public/downloads/ndhD.aln |
+| n_seqs | 55.0 |
+| structure_path | /public/downloads/ndhD.cif |

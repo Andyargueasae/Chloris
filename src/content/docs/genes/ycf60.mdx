@@ -1,0 +1,49 @@
+---
+title: "ycf60"
+description: "Tic20 family protein Ycf60"
+slug: "genes/ycf60"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Tic20 family protein Ycf60
+
+## Metadata
+
+- **UniRef90 representative:** `P51360`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51360/entry](https://www.uniprot.org/uniprotkb/P51360/entry)
+- **Number of aligned sequences:** 304
+- **Pfam domains:**
+  - [PF16166](https://www.ebi.ac.uk/interpro/entry/pfam/PF16166)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf60Viewer" fastaUrl="/alignments/ycf60.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf60_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf60_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf60.aln" icon="download">ycf60.aln</LinkButton>
+<LinkButton href="/structure/ycf60_model.cif" icon="download">ycf60.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf60 |
+| Uniref90 representative | P51360 |
+| full name | Tic20 family protein Ycf60 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51360/entry |
+| pfam domains | [PF16166] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF16166] |
+| alignment_path | /public/downloads/ycf60.aln |
+| n_seqs | 304.0 |
+| structure_path | /public/downloads/ycf60.cif |

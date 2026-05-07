@@ -1,0 +1,51 @@
+---
+title: "ycf4"
+description: "Photosystem I assembly protein Ycf4"
+slug: "genes/ycf4"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I assembly protein Ycf4
+
+Seems to be required for the assembly of the photosystem I complex
+
+## Metadata
+
+- **UniRef90 representative:** `P51220`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51220/entry](https://www.uniprot.org/uniprotkb/P51220/entry)
+- **Number of aligned sequences:** 835
+- **Pfam domains:**
+  - [PF02392](https://www.ebi.ac.uk/interpro/entry/pfam/PF02392)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf4Viewer" fastaUrl="/alignments/ycf4.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf4_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf4_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf4.aln" icon="download">ycf4.aln</LinkButton>
+<LinkButton href="/structure/ycf4_model.cif" icon="download">ycf4.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf4 |
+| Uniref90 representative | P51220 |
+| full name | Photosystem I assembly protein Ycf4 |
+| descriptions | Seems to be required for the assembly of the photosystem I complex |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51220/entry |
+| pfam domains | [PF02392] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02392] |
+| alignment_path | /public/downloads/ycf4.aln |
+| n_seqs | 835.0 |
+| structure_path | /public/downloads/ycf4.cif |

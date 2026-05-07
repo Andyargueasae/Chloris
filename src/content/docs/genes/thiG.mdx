@@ -1,0 +1,56 @@
+---
+title: "thiG"
+description: "Thiazole synthase"
+slug: "genes/thiG"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Thiazole synthase
+
+Catalyzes the rearrangement of 1-deoxy-D-xylulose 5-phosphate (DXP) to produce the thiazole phosphate moiety of thiamine. Sulfur is provided by the thiocarboxylate moiety of the carrier protein ThiS. In vitro, sulfur can be provided by H(2)S
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDC6`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDC6/entry](https://www.uniprot.org/uniprotkb/Q1XDC6/entry)
+- **Number of aligned sequences:** 486
+- **Pfam domains:**
+  - [PF00478](https://www.ebi.ac.uk/interpro/entry/pfam/PF00478)
+  - [PF00977](https://www.ebi.ac.uk/interpro/entry/pfam/PF00977)
+  - [PF01070](https://www.ebi.ac.uk/interpro/entry/pfam/PF01070)
+  - [PF01207](https://www.ebi.ac.uk/interpro/entry/pfam/PF01207)
+  - [PF04131](https://www.ebi.ac.uk/interpro/entry/pfam/PF04131)
+  - [PF05690](https://www.ebi.ac.uk/interpro/entry/pfam/PF05690)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="thiGViewer" fastaUrl="/alignments/thiG.aln" colorSchema="clustal" hasConsensus={true} exportName="thiG_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/thig_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/thiG.aln" icon="download">thiG.aln</LinkButton>
+<LinkButton href="/structure/thig_model.cif" icon="download">thiG.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | thiG |
+| Uniref90 representative | Q1XDC6 |
+| full name | Thiazole synthase |
+| descriptions | Catalyzes the rearrangement of 1-deoxy-D-xylulose 5-phosphate (DXP) to produce the thiazole phosphate moiety of thiamine. Sulfur is provided by the thiocarboxylate moiety of the carrier protein ThiS. In vitro, sulfur can be provided by H(2)S |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDC6/entry |
+| pfam domains | [PF00478,PF00977,PF01070,PF01207,PF04131,PF05690] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00478,https://www.ebi.ac.uk/interpro/entry/pfam/PF00977,https://www.ebi.ac.uk/interpro/entry/pfam/PF01070,https://www.ebi.ac.uk/interpro/entry/pfam/PF01207,https://www.ebi.ac.uk/interpro/entry/pfam/PF04131,https://www.ebi.ac.uk/interpro/entry/pfam/PF05690] |
+| alignment_path | /public/downloads/thiG.aln |
+| n_seqs | 486.0 |
+| structure_path | /public/downloads/thiG.cif |

@@ -1,0 +1,52 @@
+---
+title: "rpl5"
+description: "Large ribosomal subunit protein uL5c"
+slug: "genes/rpl5"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL5c
+
+Binds 5S rRNA, forms part of the central protuberance of the 50S subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51302`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51302/entry](https://www.uniprot.org/uniprotkb/P51302/entry)
+- **Number of aligned sequences:** 853
+- **Pfam domains:**
+  - [PF00281](https://www.ebi.ac.uk/interpro/entry/pfam/PF00281)
+  - [PF00673](https://www.ebi.ac.uk/interpro/entry/pfam/PF00673)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl5Viewer" fastaUrl="/alignments/rpl5.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl5_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl5_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl5.aln" icon="download">rpl5.aln</LinkButton>
+<LinkButton href="/structure/rpl5_model.cif" icon="download">rpl5.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl5 |
+| Uniref90 representative | P51302 |
+| full name | Large ribosomal subunit protein uL5c |
+| descriptions | Binds 5S rRNA, forms part of the central protuberance of the 50S subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51302/entry |
+| pfam domains | [PF00281,PF00673] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00281,https://www.ebi.ac.uk/interpro/entry/pfam/PF00673] |
+| alignment_path | /public/downloads/rpl5.aln |
+| n_seqs | 853.0 |
+| structure_path | /public/downloads/rpl5.cif |

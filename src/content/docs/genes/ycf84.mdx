@@ -1,0 +1,49 @@
+---
+title: "ycf84"
+description: "Permease YjgP/YjgQ family protein"
+slug: "genes/ycf84"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Permease YjgP/YjgQ family protein
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TLY0`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TLY0/entry](https://www.uniprot.org/uniprotkb/Q9TLY0/entry)
+- **Number of aligned sequences:** 11
+- **Pfam domains:**
+  - [PF03739](https://www.ebi.ac.uk/interpro/entry/pfam/PF03739)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf84Viewer" fastaUrl="/alignments/ycf84.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf84_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf84_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf84.aln" icon="download">ycf84.aln</LinkButton>
+<LinkButton href="/structure/ycf84_model.cif" icon="download">ycf84.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf84 |
+| Uniref90 representative | Q9TLY0 |
+| full name | Permease YjgP/YjgQ family protein |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TLY0/entry |
+| pfam domains | [PF03739] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF03739] |
+| alignment_path | /public/downloads/ycf84.aln |
+| n_seqs | 11.0 |
+| structure_path | /public/downloads/ycf84.cif |

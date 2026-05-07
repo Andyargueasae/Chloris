@@ -1,0 +1,51 @@
+---
+title: "cobA"
+description: "Uroporphyrinogen-III C-methyltransferase"
+slug: "genes/cobA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uroporphyrinogen-III C-methyltransferase
+
+Catalyzes the two successive C-2 and C-7 methylation reactions involved in the conversion of uroporphyrinogen III to precorrin-2 via the intermediate formation of precorrin-1. It is a step in the biosynthesis of both cobalamin (vitamin B12) and siroheme
+
+## Metadata
+
+- **UniRef90 representative:** `O19889`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/O19889/entry](https://www.uniprot.org/uniprotkb/O19889/entry)
+- **Number of aligned sequences:** 12
+- **Pfam domains:**
+  - [PF00590](https://www.ebi.ac.uk/interpro/entry/pfam/PF00590)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="cobAViewer" fastaUrl="/alignments/cobA.aln" colorSchema="clustal" hasConsensus={true} exportName="cobA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/coba_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/cobA.aln" icon="download">cobA.aln</LinkButton>
+<LinkButton href="/structure/coba_model.cif" icon="download">cobA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | cobA |
+| Uniref90 representative | O19889 |
+| full name | Uroporphyrinogen-III C-methyltransferase |
+| descriptions | Catalyzes the two successive C-2 and C-7 methylation reactions involved in the conversion of uroporphyrinogen III to precorrin-2 via the intermediate formation of precorrin-1. It is a step in the biosynthesis of both cobalamin (vitamin B12) and siroheme |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/O19889/entry |
+| pfam domains | [PF00590] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00590] |
+| alignment_path | /public/downloads/cobA.aln |
+| n_seqs | 12.0 |
+| structure_path | /public/downloads/cobA.cif |

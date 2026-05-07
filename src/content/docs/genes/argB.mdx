@@ -1,0 +1,51 @@
+---
+title: "argB"
+description: "Acetylglutamate kinase"
+slug: "genes/argB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Acetylglutamate kinase
+
+Catalyzes the ATP-dependent phosphorylation of N-acetyl-L-glutamate
+
+## Metadata
+
+- **UniRef90 representative:** `P69365`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P69365/entry](https://www.uniprot.org/uniprotkb/P69365/entry)
+- **Number of aligned sequences:** 222
+- **Pfam domains:**
+  - [PF00696](https://www.ebi.ac.uk/interpro/entry/pfam/PF00696)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="argBViewer" fastaUrl="/alignments/argB.aln" colorSchema="clustal" hasConsensus={true} exportName="argB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/argb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/argB.aln" icon="download">argB.aln</LinkButton>
+<LinkButton href="/structure/argb_model.cif" icon="download">argB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | argB |
+| Uniref90 representative | P69365 |
+| full name | Acetylglutamate kinase |
+| descriptions | Catalyzes the ATP-dependent phosphorylation of N-acetyl-L-glutamate |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P69365/entry |
+| pfam domains | [PF00696] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00696] |
+| alignment_path | /public/downloads/argB.aln |
+| n_seqs | 222.0 |
+| structure_path | /public/downloads/argB.cif |

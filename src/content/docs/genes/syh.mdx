@@ -1,0 +1,51 @@
+---
+title: "syh"
+description: "Histidine--tRNA ligase, chloroplastic"
+slug: "genes/syh"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Histidine--tRNA ligase, chloroplastic
+
+## Metadata
+
+- **UniRef90 representative:** `P51348`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51348/entry](https://www.uniprot.org/uniprotkb/P51348/entry)
+- **Number of aligned sequences:** 255
+- **Pfam domains:**
+  - [PF00152](https://www.ebi.ac.uk/interpro/entry/pfam/PF00152)
+  - [PF00587](https://www.ebi.ac.uk/interpro/entry/pfam/PF00587)
+  - [PF13393](https://www.ebi.ac.uk/interpro/entry/pfam/PF13393)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="syhViewer" fastaUrl="/alignments/syh.aln" colorSchema="clustal" hasConsensus={true} exportName="syh_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/syh_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/syh.aln" icon="download">syh.aln</LinkButton>
+<LinkButton href="/structure/syh_model.cif" icon="download">syh.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | syh |
+| Uniref90 representative | P51348 |
+| full name | Histidine--tRNA ligase, chloroplastic |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51348/entry |
+| pfam domains | [PF00152,PF00587,PF13393] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00152,https://www.ebi.ac.uk/interpro/entry/pfam/PF00587,https://www.ebi.ac.uk/interpro/entry/pfam/PF13393] |
+| alignment_path | /public/downloads/syh.aln |
+| n_seqs | 255.0 |
+| structure_path | /public/downloads/syh.cif |

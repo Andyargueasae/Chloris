@@ -1,0 +1,51 @@
+---
+title: "rpl22"
+description: "Large ribosomal subunit protein uL22c"
+slug: "genes/rpl22"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL22c
+
+This protein binds specifically to 23S rRNA The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDH9`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDH9/entry](https://www.uniprot.org/uniprotkb/Q1XDH9/entry)
+- **Number of aligned sequences:** 590
+- **Pfam domains:**
+  - [PF00237](https://www.ebi.ac.uk/interpro/entry/pfam/PF00237)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl22Viewer" fastaUrl="/alignments/rpl22.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl22_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl22_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl22.aln" icon="download">rpl22.aln</LinkButton>
+<LinkButton href="/structure/rpl22_model.cif" icon="download">rpl22.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl22 |
+| Uniref90 representative | Q1XDH9 |
+| full name | Large ribosomal subunit protein uL22c |
+| descriptions | This protein binds specifically to 23S rRNA The globular domain of the protein is located near the polypeptide exit tunnel on the outside of the subunit, while an extended beta-hairpin is found that lines the wall of the exit tunnel in the center of the 70S ribosome |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDH9/entry |
+| pfam domains | [PF00237] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00237] |
+| alignment_path | /public/downloads/rpl22.aln |
+| n_seqs | 590.0 |
+| structure_path | /public/downloads/rpl22.cif |

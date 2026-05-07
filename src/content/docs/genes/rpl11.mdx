@@ -1,0 +1,52 @@
+---
+title: "rpl11"
+description: "Large ribosomal subunit protein uL11c"
+slug: "genes/rpl11"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL11c
+
+Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors
+
+## Metadata
+
+- **UniRef90 representative:** `P51337`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51337/entry](https://www.uniprot.org/uniprotkb/P51337/entry)
+- **Number of aligned sequences:** 514
+- **Pfam domains:**
+  - [PF00298](https://www.ebi.ac.uk/interpro/entry/pfam/PF00298)
+  - [PF03946](https://www.ebi.ac.uk/interpro/entry/pfam/PF03946)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl11Viewer" fastaUrl="/alignments/rpl11.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl11_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl11_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl11.aln" icon="download">rpl11.aln</LinkButton>
+<LinkButton href="/structure/rpl11_model.cif" icon="download">rpl11.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl11 |
+| Uniref90 representative | P51337 |
+| full name | Large ribosomal subunit protein uL11c |
+| descriptions | Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bound translation factors |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51337/entry |
+| pfam domains | [PF00298,PF03946] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00298,https://www.ebi.ac.uk/interpro/entry/pfam/PF03946] |
+| alignment_path | /public/downloads/rpl11.aln |
+| n_seqs | 514.0 |
+| structure_path | /public/downloads/rpl11.cif |

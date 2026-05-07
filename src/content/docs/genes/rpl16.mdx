@@ -1,0 +1,49 @@
+---
+title: "rpl16"
+description: "Large ribosomal subunit protein uL16c"
+slug: "genes/rpl16"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL16c
+
+## Metadata
+
+- **UniRef90 representative:** `P51307`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51307/entry](https://www.uniprot.org/uniprotkb/P51307/entry)
+- **Number of aligned sequences:** 867
+- **Pfam domains:**
+  - [PF00252](https://www.ebi.ac.uk/interpro/entry/pfam/PF00252)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl16Viewer" fastaUrl="/alignments/rpl16.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl16_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl16_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl16.aln" icon="download">rpl16.aln</LinkButton>
+<LinkButton href="/structure/rpl16_model.cif" icon="download">rpl16.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl16 |
+| Uniref90 representative | P51307 |
+| full name | Large ribosomal subunit protein uL16c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51307/entry |
+| pfam domains | [PF00252] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00252] |
+| alignment_path | /public/downloads/rpl16.aln |
+| n_seqs | 867.0 |
+| structure_path | /public/downloads/rpl16.cif |

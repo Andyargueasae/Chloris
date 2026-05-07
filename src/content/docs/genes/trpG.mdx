@@ -1,0 +1,54 @@
+---
+title: "trpG"
+description: "Anthranilate synthase component 2"
+slug: "genes/trpG"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Anthranilate synthase component 2
+
+## Metadata
+
+- **UniRef90 representative:** `P51362`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51362/entry](https://www.uniprot.org/uniprotkb/P51362/entry)
+- **Number of aligned sequences:** 271
+- **Pfam domains:**
+  - [PF00117](https://www.ebi.ac.uk/interpro/entry/pfam/PF00117)
+  - [PF00958](https://www.ebi.ac.uk/interpro/entry/pfam/PF00958)
+  - [PF01171](https://www.ebi.ac.uk/interpro/entry/pfam/PF01171)
+  - [PF02540](https://www.ebi.ac.uk/interpro/entry/pfam/PF02540)
+  - [PF03054](https://www.ebi.ac.uk/interpro/entry/pfam/PF03054)
+  - [PF07722](https://www.ebi.ac.uk/interpro/entry/pfam/PF07722)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="trpGViewer" fastaUrl="/alignments/trpG.aln" colorSchema="clustal" hasConsensus={true} exportName="trpG_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/trpg_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/trpG.aln" icon="download">trpG.aln</LinkButton>
+<LinkButton href="/structure/trpg_model.cif" icon="download">trpG.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | trpG |
+| Uniref90 representative | P51362 |
+| full name | Anthranilate synthase component 2 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51362/entry |
+| pfam domains | [PF00117,PF00958,PF01171,PF02540,PF03054,PF07722] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00117,https://www.ebi.ac.uk/interpro/entry/pfam/PF00958,https://www.ebi.ac.uk/interpro/entry/pfam/PF01171,https://www.ebi.ac.uk/interpro/entry/pfam/PF02540,https://www.ebi.ac.uk/interpro/entry/pfam/PF03054,https://www.ebi.ac.uk/interpro/entry/pfam/PF07722] |
+| alignment_path | /public/downloads/trpG.aln |
+| n_seqs | 271.0 |
+| structure_path | /public/downloads/trpG.cif |

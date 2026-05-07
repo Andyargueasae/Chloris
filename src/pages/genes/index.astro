@@ -1,5 +1,5 @@
 ---
-import { getEntry, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import DocsLayout from '../../layouts/DocsLayout.astro';
 
 const page = await getEntry('docs', 'genes');
@@ -7,8 +7,62 @@ if (!page) {
   throw new Error('Missing docs entry: genes');
 }
 const { Content } = await render(page);
+
+const genePages = (await getCollection('docs', ({ id }) => id.startsWith('genes/'))).sort(
+  (a, b) => {
+    const aTitle = a.data.title || a.id.replace('genes/', '');
+    const bTitle = b.data.title || b.id.replace('genes/', '');
+    return aTitle.localeCompare(bTitle, undefined, { sensitivity: 'base' });
+  }
+);
+
+const genes = genePages.map((entry) => {
+  const gene = entry.id.replace('genes/', '');
+  return {
+    gene,
+    title: entry.data.title || gene,
+    href: `/genes/${gene}/`,
+  };
+});
 ---
 
 <DocsLayout title={page.data.title} description={page.data.description}>
   <Content />
+
+  <h2>Gene List ({genes.length})</h2>
+
+  <ul class="gene-list">
+    {
+      genes.map((item) => (
+        <li>
+          <a href={item.href}>{item.title}</a>
+        </li>
+      ))
+    }
+  </ul>
+
+  <style>
+    .gene-list {
+      columns: 3;
+      column-gap: 2rem;
+      padding-left: 1.25rem;
+    }
+
+    .gene-list li {
+      break-inside: avoid;
+      margin-bottom: 0.3rem;
+    }
+
+    @media (max-width: 900px) {
+      .gene-list {
+        columns: 2;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .gene-list {
+        columns: 1;
+      }
+    }
+  </style>
 </DocsLayout>

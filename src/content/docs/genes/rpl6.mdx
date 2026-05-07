@@ -1,0 +1,51 @@
+---
+title: "rpl6"
+description: "Large ribosomal subunit protein uL6c"
+slug: "genes/rpl6"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL6c
+
+Binds 23S rRNA
+
+## Metadata
+
+- **UniRef90 representative:** `P51300`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51300/entry](https://www.uniprot.org/uniprotkb/P51300/entry)
+- **Number of aligned sequences:** 527
+- **Pfam domains:**
+  - [PF00347](https://www.ebi.ac.uk/interpro/entry/pfam/PF00347)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl6Viewer" fastaUrl="/alignments/rpl6.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl6_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl6_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl6.aln" icon="download">rpl6.aln</LinkButton>
+<LinkButton href="/structure/rpl6_model.cif" icon="download">rpl6.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl6 |
+| Uniref90 representative | P51300 |
+| full name | Large ribosomal subunit protein uL6c |
+| descriptions | Binds 23S rRNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51300/entry |
+| pfam domains | [PF00347] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00347] |
+| alignment_path | /public/downloads/rpl6.aln |
+| n_seqs | 527.0 |
+| structure_path | /public/downloads/rpl6.cif |

@@ -13,8 +13,10 @@ export async function getStaticPaths() {
 
 const { page } = Astro.props;
 const { Content } = await render(page);
+const title = page.data.title || page.id.replace('genes/', '');
+const description = page.data.description || 'Gene details, alignment, and structure';
 ---
 
-<DocsLayout title={page.data.title} description={page.data.description}>
+<DocsLayout title={title} description={description}>
   <Content />
 </DocsLayout>

@@ -1,0 +1,53 @@
+---
+title: "petB"
+description: "Cytochrome b6"
+slug: "genes/petB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome b6
+
+Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDE6`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDE6/entry](https://www.uniprot.org/uniprotkb/Q1XDE6/entry)
+- **Number of aligned sequences:** 850
+- **Pfam domains:**
+  - [PF00032](https://www.ebi.ac.uk/interpro/entry/pfam/PF00032)
+  - [PF00033](https://www.ebi.ac.uk/interpro/entry/pfam/PF00033)
+  - [PF13631](https://www.ebi.ac.uk/interpro/entry/pfam/PF13631)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="petBViewer" fastaUrl="/alignments/petB.aln" colorSchema="clustal" hasConsensus={true} exportName="petB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/petb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/petB.aln" icon="download">petB.aln</LinkButton>
+<LinkButton href="/structure/petb_model.cif" icon="download">petB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | petB |
+| Uniref90 representative | Q1XDE6 |
+| full name | Cytochrome b6 |
+| descriptions | Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDE6/entry |
+| pfam domains | [PF00032,PF00033,PF13631] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00032,https://www.ebi.ac.uk/interpro/entry/pfam/PF00033,https://www.ebi.ac.uk/interpro/entry/pfam/PF13631] |
+| alignment_path | /public/downloads/petB.aln |
+| n_seqs | 850.0 |
+| structure_path | /public/downloads/petB.cif |

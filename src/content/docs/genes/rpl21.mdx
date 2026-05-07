@@ -1,0 +1,51 @@
+---
+title: "rpl21"
+description: "Large ribosomal subunit protein bL21c"
+slug: "genes/rpl21"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL21c
+
+This protein binds to 23S rRNA
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDS8`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDS8/entry](https://www.uniprot.org/uniprotkb/Q1XDS8/entry)
+- **Number of aligned sequences:** 611
+- **Pfam domains:**
+  - [PF00829](https://www.ebi.ac.uk/interpro/entry/pfam/PF00829)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl21Viewer" fastaUrl="/alignments/rpl21.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl21_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl21_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl21.aln" icon="download">rpl21.aln</LinkButton>
+<LinkButton href="/structure/rpl21_model.cif" icon="download">rpl21.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl21 |
+| Uniref90 representative | Q1XDS8 |
+| full name | Large ribosomal subunit protein bL21c |
+| descriptions | This protein binds to 23S rRNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDS8/entry |
+| pfam domains | [PF00829] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00829] |
+| alignment_path | /public/downloads/rpl21.aln |
+| n_seqs | 611.0 |
+| structure_path | /public/downloads/rpl21.cif |

@@ -1,0 +1,53 @@
+---
+title: "gltB"
+description: "Ferredoxin-dependent glutamate synthase"
+slug: "genes/gltB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Ferredoxin-dependent glutamate synthase
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDB2`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDB2/entry](https://www.uniprot.org/uniprotkb/Q1XDB2/entry)
+- **Number of aligned sequences:** 256
+- **Pfam domains:**
+  - [PF00310](https://www.ebi.ac.uk/interpro/entry/pfam/PF00310)
+  - [PF01070](https://www.ebi.ac.uk/interpro/entry/pfam/PF01070)
+  - [PF01493](https://www.ebi.ac.uk/interpro/entry/pfam/PF01493)
+  - [PF01645](https://www.ebi.ac.uk/interpro/entry/pfam/PF01645)
+  - [PF04898](https://www.ebi.ac.uk/interpro/entry/pfam/PF04898)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="gltBViewer" fastaUrl="/alignments/gltB.aln" colorSchema="clustal" hasConsensus={true} exportName="gltB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/gltb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/gltB.aln" icon="download">gltB.aln</LinkButton>
+<LinkButton href="/structure/gltb_model.cif" icon="download">gltB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | gltB |
+| Uniref90 representative | Q1XDB2 |
+| full name | Ferredoxin-dependent glutamate synthase |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDB2/entry |
+| pfam domains | [PF00310,PF01070,PF01493,PF01645,PF04898] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00310,https://www.ebi.ac.uk/interpro/entry/pfam/PF01070,https://www.ebi.ac.uk/interpro/entry/pfam/PF01493,https://www.ebi.ac.uk/interpro/entry/pfam/PF01645,https://www.ebi.ac.uk/interpro/entry/pfam/PF04898] |
+| alignment_path | /public/downloads/gltB.aln |
+| n_seqs | 256.0 |
+| structure_path | /public/downloads/gltB.cif |

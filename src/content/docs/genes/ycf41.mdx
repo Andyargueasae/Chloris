@@ -1,0 +1,49 @@
+---
+title: "ycf41"
+description: "Putative single-stranded DNA-binding protein ycf41"
+slug: "genes/ycf41"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Putative single-stranded DNA-binding protein ycf41
+
+## Metadata
+
+- **UniRef90 representative:** `P51237`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51237/entry](https://www.uniprot.org/uniprotkb/P51237/entry)
+- **Number of aligned sequences:** 309
+- **Pfam domains:**
+  - [PF00436](https://www.ebi.ac.uk/interpro/entry/pfam/PF00436)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf41Viewer" fastaUrl="/alignments/ycf41.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf41_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf41_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf41.aln" icon="download">ycf41.aln</LinkButton>
+<LinkButton href="/structure/ycf41_model.cif" icon="download">ycf41.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf41 |
+| Uniref90 representative | P51237 |
+| full name | Putative single-stranded DNA-binding protein ycf41 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51237/entry |
+| pfam domains | [PF00436] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00436] |
+| alignment_path | /public/downloads/ycf41.aln |
+| n_seqs | 309.0 |
+| structure_path | /public/downloads/ycf41.cif |

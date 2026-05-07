@@ -1,0 +1,51 @@
+---
+title: "rpl18"
+description: "Large ribosomal subunit protein uL18c"
+slug: "genes/rpl18"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL18c
+
+Binds 5S rRNA, forms part of the central protuberance of the 50S subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51299`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51299/entry](https://www.uniprot.org/uniprotkb/P51299/entry)
+- **Number of aligned sequences:** 503
+- **Pfam domains:**
+  - [PF00861](https://www.ebi.ac.uk/interpro/entry/pfam/PF00861)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl18Viewer" fastaUrl="/alignments/rpl18.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl18_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl18_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl18.aln" icon="download">rpl18.aln</LinkButton>
+<LinkButton href="/structure/rpl18_model.cif" icon="download">rpl18.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl18 |
+| Uniref90 representative | P51299 |
+| full name | Large ribosomal subunit protein uL18c |
+| descriptions | Binds 5S rRNA, forms part of the central protuberance of the 50S subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51299/entry |
+| pfam domains | [PF00861] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00861] |
+| alignment_path | /public/downloads/rpl18.aln |
+| n_seqs | 503.0 |
+| structure_path | /public/downloads/rpl18.cif |

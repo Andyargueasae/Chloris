@@ -1,0 +1,50 @@
+---
+title: "ycf1"
+description: "Uncharacterized membrane protein ycf78"
+slug: "genes/ycf1"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized membrane protein ycf78
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TKU7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TKU7/entry](https://www.uniprot.org/uniprotkb/Q9TKU7/entry)
+- **Number of aligned sequences:** 259
+- **Pfam domains:**
+  - [PF01810](https://www.ebi.ac.uk/interpro/entry/pfam/PF01810)
+  - [PF05758](https://www.ebi.ac.uk/interpro/entry/pfam/PF05758)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf1Viewer" fastaUrl="/alignments/ycf1.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf1_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf1_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf1.aln" icon="download">ycf1.aln</LinkButton>
+<LinkButton href="/structure/ycf1_model.cif" icon="download">ycf1.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf1 |
+| Uniref90 representative | Q9TKU7 |
+| full name | Uncharacterized membrane protein ycf78 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TKU7/entry |
+| pfam domains | [PF01810,PF05758] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01810,https://www.ebi.ac.uk/interpro/entry/pfam/PF05758] |
+| alignment_path | /public/downloads/ycf1.aln |
+| n_seqs | 259.0 |
+| structure_path | /public/downloads/ycf1.cif |

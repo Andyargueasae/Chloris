@@ -1,0 +1,61 @@
+---
+title: "tufA"
+description: "Elongation factor Tu, chloroplastic"
+slug: "genes/tufA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Elongation factor Tu, chloroplastic
+
+GTP hydrolase that promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis
+
+## Metadata
+
+- **UniRef90 representative:** `P51287`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51287/entry](https://www.uniprot.org/uniprotkb/P51287/entry)
+- **Number of aligned sequences:** 860
+- **Pfam domains:**
+  - [PF00009](https://www.ebi.ac.uk/interpro/entry/pfam/PF00009)
+  - [PF00025](https://www.ebi.ac.uk/interpro/entry/pfam/PF00025)
+  - [PF00071](https://www.ebi.ac.uk/interpro/entry/pfam/PF00071)
+  - [PF00448](https://www.ebi.ac.uk/interpro/entry/pfam/PF00448)
+  - [PF01926](https://www.ebi.ac.uk/interpro/entry/pfam/PF01926)
+  - [PF02421](https://www.ebi.ac.uk/interpro/entry/pfam/PF02421)
+  - [PF03029](https://www.ebi.ac.uk/interpro/entry/pfam/PF03029)
+  - [PF03143](https://www.ebi.ac.uk/interpro/entry/pfam/PF03143)
+  - [PF03144](https://www.ebi.ac.uk/interpro/entry/pfam/PF03144)
+  - [PF10662](https://www.ebi.ac.uk/interpro/entry/pfam/PF10662)
+  - [PF12631](https://www.ebi.ac.uk/interpro/entry/pfam/PF12631)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="tufAViewer" fastaUrl="/alignments/tufA.aln" colorSchema="clustal" hasConsensus={true} exportName="tufA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/tufa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/tufA.aln" icon="download">tufA.aln</LinkButton>
+<LinkButton href="/structure/tufa_model.cif" icon="download">tufA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | tufA |
+| Uniref90 representative | P51287 |
+| full name | Elongation factor Tu, chloroplastic |
+| descriptions | GTP hydrolase that promotes the GTP-dependent binding of aminoacyl-tRNA to the A-site of ribosomes during protein biosynthesis |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51287/entry |
+| pfam domains | [PF00009,PF00025,PF00071,PF00448,PF01926,PF02421,PF03029,PF03143,PF03144,PF10662,PF12631] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00009,https://www.ebi.ac.uk/interpro/entry/pfam/PF00025,https://www.ebi.ac.uk/interpro/entry/pfam/PF00071,https://www.ebi.ac.uk/interpro/entry/pfam/PF00448,https://www.ebi.ac.uk/interpro/entry/pfam/PF01926,https://www.ebi.ac.uk/interpro/entry/pfam/PF02421,https://www.ebi.ac.uk/interpro/entry/pfam/PF03029,https://www.ebi.ac.uk/interpro/entry/pfam/PF03143,https://www.ebi.ac.uk/interpro/entry/pfam/PF03144,https://www.ebi.ac.uk/interpro/entry/pfam/PF10662,https://www.ebi.ac.uk/interpro/entry/pfam/PF12631] |
+| alignment_path | /public/downloads/tufA.aln |
+| n_seqs | 860.0 |
+| structure_path | /public/downloads/tufA.cif |

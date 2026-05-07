@@ -1,0 +1,51 @@
+---
+title: "chlN"
+description: "Light-independent protochlorophyllide reductase subunit N"
+slug: "genes/chlN"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Light-independent protochlorophyllide reductase subunit N
+
+Component of the dark-operative protochlorophyllide reductase (DPOR) that uses Mg-ATP and reduced ferredoxin to reduce ring D of protochlorophyllide (Pchlide) to form chlorophyllide a (Chlide). This reaction is light-independent. The NB-protein (ChlN-ChlB) is the catalytic component of the complex
+
+## Metadata
+
+- **UniRef90 representative:** `P51188`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51188/entry](https://www.uniprot.org/uniprotkb/P51188/entry)
+- **Number of aligned sequences:** 421
+- **Pfam domains:**
+  - [PF00148](https://www.ebi.ac.uk/interpro/entry/pfam/PF00148)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="chlNViewer" fastaUrl="/alignments/chlN.aln" colorSchema="clustal" hasConsensus={true} exportName="chlN_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/chln_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/chlN.aln" icon="download">chlN.aln</LinkButton>
+<LinkButton href="/structure/chln_model.cif" icon="download">chlN.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | chlN |
+| Uniref90 representative | P51188 |
+| full name | Light-independent protochlorophyllide reductase subunit N |
+| descriptions | Component of the dark-operative protochlorophyllide reductase (DPOR) that uses Mg-ATP and reduced ferredoxin to reduce ring D of protochlorophyllide (Pchlide) to form chlorophyllide a (Chlide). This reaction is light-independent. The NB-protein (ChlN-ChlB) is the catalytic component of the complex |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51188/entry |
+| pfam domains | [PF00148] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00148] |
+| alignment_path | /public/downloads/chlN.aln |
+| n_seqs | 421.0 |
+| structure_path | /public/downloads/chlN.cif |

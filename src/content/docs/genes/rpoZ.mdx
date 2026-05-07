@@ -1,0 +1,51 @@
+---
+title: "rpoZ"
+description: "Putative DNA-directed RNA polymerase subunit omega"
+slug: "genes/rpoZ"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Putative DNA-directed RNA polymerase subunit omega
+
+May be involved in RNA polymerase activity
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDB1`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDB1/entry](https://www.uniprot.org/uniprotkb/Q1XDB1/entry)
+- **Number of aligned sequences:** 291
+- **Pfam domains:**
+  - [PF01192](https://www.ebi.ac.uk/interpro/entry/pfam/PF01192)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpoZViewer" fastaUrl="/alignments/rpoZ.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoZ_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpoz_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpoZ.aln" icon="download">rpoZ.aln</LinkButton>
+<LinkButton href="/structure/rpoz_model.cif" icon="download">rpoZ.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpoZ |
+| Uniref90 representative | Q1XDB1 |
+| full name | Putative DNA-directed RNA polymerase subunit omega |
+| descriptions | May be involved in RNA polymerase activity |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDB1/entry |
+| pfam domains | [PF01192] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01192] |
+| alignment_path | /public/downloads/rpoZ.aln |
+| n_seqs | 291.0 |
+| structure_path | /public/downloads/rpoZ.cif |

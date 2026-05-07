@@ -1,0 +1,50 @@
+---
+title: "ycf23"
+description: "Uncharacterized protein ycf23"
+slug: "genes/ycf23"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf23
+
+## Metadata
+
+- **UniRef90 representative:** `P51373`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51373/entry](https://www.uniprot.org/uniprotkb/P51373/entry)
+- **Number of aligned sequences:** 224
+- **Pfam domains:**
+  - [PF00977](https://www.ebi.ac.uk/interpro/entry/pfam/PF00977)
+  - [PF04481](https://www.ebi.ac.uk/interpro/entry/pfam/PF04481)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf23Viewer" fastaUrl="/alignments/ycf23.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf23_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf23_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf23.aln" icon="download">ycf23.aln</LinkButton>
+<LinkButton href="/structure/ycf23_model.cif" icon="download">ycf23.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf23 |
+| Uniref90 representative | P51373 |
+| full name | Uncharacterized protein ycf23 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51373/entry |
+| pfam domains | [PF00977,PF04481] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00977,https://www.ebi.ac.uk/interpro/entry/pfam/PF04481] |
+| alignment_path | /public/downloads/ycf23.aln |
+| n_seqs | 224.0 |
+| structure_path | /public/downloads/ycf23.cif |

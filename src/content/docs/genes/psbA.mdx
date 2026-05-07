@@ -1,0 +1,51 @@
+---
+title: "psbA"
+description: "Photosystem II protein D1"
+slug: "genes/psbA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II protein D1
+
+Photosystem II (PSII) is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H2O, generating O2 and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The D1/D2 (PsbA/PsbD) reaction center heterodimer binds P680, the primary electron donor of PSII as well as several subsequent electron acceptors. D2 is needed for assembly of a stable PSII complex.
+
+## Metadata
+
+- **UniRef90 representative:** `P51212`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51212/entry](https://www.uniprot.org/uniprotkb/P51212/entry)
+- **Number of aligned sequences:** 974
+- **Pfam domains:**
+  - [PF00124](https://www.ebi.ac.uk/interpro/entry/pfam/PF00124)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbAViewer" fastaUrl="/alignments/psbA.aln" colorSchema="clustal" hasConsensus={true} exportName="psbA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psba_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbA.aln" icon="download">psbA.aln</LinkButton>
+<LinkButton href="/structure/psba_model.cif" icon="download">psbA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbA |
+| Uniref90 representative | P51212 |
+| full name | Photosystem II protein D1 |
+| descriptions | Photosystem II (PSII) is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H2O, generating O2 and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation. The D1/D2 (PsbA/PsbD) reaction center heterodimer binds P680, the primary electron donor of PSII as well as several subsequent electron acceptors. D2 is needed for assembly of a stable PSII complex. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51212/entry |
+| pfam domains | [PF00124] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00124] |
+| alignment_path | /public/downloads/psbA.aln |
+| n_seqs | 974.0 |
+| structure_path | /public/downloads/psbA.cif |

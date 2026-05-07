@@ -1,0 +1,52 @@
+---
+title: "psbE"
+description: "Cytochrome b559 subunit alpha"
+slug: "genes/psbE"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome b559 subunit alpha
+
+This b-type cytochrome is tightly associated with the reaction center of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XD96`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XD96/entry](https://www.uniprot.org/uniprotkb/Q1XD96/entry)
+- **Number of aligned sequences:** 847
+- **Pfam domains:**
+  - [PF00283](https://www.ebi.ac.uk/interpro/entry/pfam/PF00283)
+  - [PF00284](https://www.ebi.ac.uk/interpro/entry/pfam/PF00284)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbEViewer" fastaUrl="/alignments/psbE.aln" colorSchema="clustal" hasConsensus={true} exportName="psbE_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbe_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbE.aln" icon="download">psbE.aln</LinkButton>
+<LinkButton href="/structure/psbe_model.cif" icon="download">psbE.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbE |
+| Uniref90 representative | Q1XD96 |
+| full name | Cytochrome b559 subunit alpha |
+| descriptions | This b-type cytochrome is tightly associated with the reaction center of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XD96/entry |
+| pfam domains | [PF00283,PF00284] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00283,https://www.ebi.ac.uk/interpro/entry/pfam/PF00284] |
+| alignment_path | /public/downloads/psbE.aln |
+| n_seqs | 847.0 |
+| structure_path | /public/downloads/psbE.cif |

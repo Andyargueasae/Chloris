@@ -1,0 +1,51 @@
+---
+title: "psbI"
+description: "Photosystem II reaction center protein I"
+slug: "genes/psbI"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein I
+
+One of the components of the core complex of photosystem II (PSII), required for its stability and/or assembly. PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation
+
+## Metadata
+
+- **UniRef90 representative:** `P51236`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51236/entry](https://www.uniprot.org/uniprotkb/P51236/entry)
+- **Number of aligned sequences:** 841
+- **Pfam domains:**
+  - [PF02532](https://www.ebi.ac.uk/interpro/entry/pfam/PF02532)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbIViewer" fastaUrl="/alignments/psbI.aln" colorSchema="clustal" hasConsensus={true} exportName="psbI_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbi_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbI.aln" icon="download">psbI.aln</LinkButton>
+<LinkButton href="/structure/psbi_model.cif" icon="download">psbI.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbI |
+| Uniref90 representative | P51236 |
+| full name | Photosystem II reaction center protein I |
+| descriptions | One of the components of the core complex of photosystem II (PSII), required for its stability and/or assembly. PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51236/entry |
+| pfam domains | [PF02532] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02532] |
+| alignment_path | /public/downloads/psbI.aln |
+| n_seqs | 841.0 |
+| structure_path | /public/downloads/psbI.cif |

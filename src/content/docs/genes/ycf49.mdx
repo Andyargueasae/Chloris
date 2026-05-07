@@ -1,0 +1,49 @@
+---
+title: "ycf49"
+description: "Uncharacterized protein ycf19"
+slug: "genes/ycf49"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf19
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TM45`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TM45/entry](https://www.uniprot.org/uniprotkb/Q9TM45/entry)
+- **Number of aligned sequences:** 34
+- **Pfam domains:**
+  - [PF10693](https://www.ebi.ac.uk/interpro/entry/pfam/PF10693)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf49Viewer" fastaUrl="/alignments/ycf49.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf49_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf49_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf49.aln" icon="download">ycf49.aln</LinkButton>
+<LinkButton href="/structure/ycf49_model.cif" icon="download">ycf49.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf49 |
+| Uniref90 representative | Q9TM45 |
+| full name | Uncharacterized protein ycf19 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TM45/entry |
+| pfam domains | [PF10693] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF10693] |
+| alignment_path | /public/downloads/ycf49.aln |
+| n_seqs | 34.0 |
+| structure_path | /public/downloads/ycf49.cif |

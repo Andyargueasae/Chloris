@@ -1,0 +1,49 @@
+---
+title: "psaK"
+description: "Photosystem I reaction center subunit PsaK"
+slug: "genes/psaK"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit PsaK
+
+## Metadata
+
+- **UniRef90 representative:** `P51370`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51370/entry](https://www.uniprot.org/uniprotkb/P51370/entry)
+- **Number of aligned sequences:** 288
+- **Pfam domains:**
+  - [PF01241](https://www.ebi.ac.uk/interpro/entry/pfam/PF01241)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaKViewer" fastaUrl="/alignments/psaK.aln" colorSchema="clustal" hasConsensus={true} exportName="psaK_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psak_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaK.aln" icon="download">psaK.aln</LinkButton>
+<LinkButton href="/structure/psak_model.cif" icon="download">psaK.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaK |
+| Uniref90 representative | P51370 |
+| full name | Photosystem I reaction center subunit PsaK |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51370/entry |
+| pfam domains | [PF01241] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01241] |
+| alignment_path | /public/downloads/psaK.aln |
+| n_seqs | 288.0 |
+| structure_path | /public/downloads/psaK.cif |

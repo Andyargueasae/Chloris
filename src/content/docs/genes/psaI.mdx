@@ -1,0 +1,51 @@
+---
+title: "psaI"
+description: "Photosystem I reaction center subunit VIII"
+slug: "genes/psaI"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit VIII
+
+May help in the organization of the PsaL subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51387`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51387/entry](https://www.uniprot.org/uniprotkb/P51387/entry)
+- **Number of aligned sequences:** 707
+- **Pfam domains:**
+  - [PF00796](https://www.ebi.ac.uk/interpro/entry/pfam/PF00796)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaIViewer" fastaUrl="/alignments/psaI.aln" colorSchema="clustal" hasConsensus={true} exportName="psaI_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psai_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaI.aln" icon="download">psaI.aln</LinkButton>
+<LinkButton href="/structure/psai_model.cif" icon="download">psaI.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaI |
+| Uniref90 representative | P51387 |
+| full name | Photosystem I reaction center subunit VIII |
+| descriptions | May help in the organization of the PsaL subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51387/entry |
+| pfam domains | [PF00796] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00796] |
+| alignment_path | /public/downloads/psaI.aln |
+| n_seqs | 707.0 |
+| structure_path | /public/downloads/psaI.cif |

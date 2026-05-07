@@ -1,0 +1,51 @@
+---
+title: "rpl14"
+description: "Large ribosomal subunit protein uL14c"
+slug: "genes/rpl14"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL14c
+
+Binds to 23S rRNA
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDI4`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDI4/entry](https://www.uniprot.org/uniprotkb/Q1XDI4/entry)
+- **Number of aligned sequences:** 868
+- **Pfam domains:**
+  - [PF00238](https://www.ebi.ac.uk/interpro/entry/pfam/PF00238)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl14Viewer" fastaUrl="/alignments/rpl14.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl14_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl14_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl14.aln" icon="download">rpl14.aln</LinkButton>
+<LinkButton href="/structure/rpl14_model.cif" icon="download">rpl14.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl14 |
+| Uniref90 representative | Q1XDI4 |
+| full name | Large ribosomal subunit protein uL14c |
+| descriptions | Binds to 23S rRNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDI4/entry |
+| pfam domains | [PF00238] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00238] |
+| alignment_path | /public/downloads/rpl14.aln |
+| n_seqs | 868.0 |
+| structure_path | /public/downloads/rpl14.cif |

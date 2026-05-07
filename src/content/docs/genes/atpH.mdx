@@ -1,0 +1,51 @@
+---
+title: "atpH"
+description: "ATP synthase subunit c, chloroplastic"
+slug: "genes/atpH"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** ATP synthase subunit c, chloroplastic
+
+F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation Key component of the F(0) channel; it plays a direct role in translocation across the membrane. A homomeric c-ring of between 10-14 subunits forms the central stalk rotor element with the F(1) delta and epsilon subunits
+
+## Metadata
+
+- **UniRef90 representative:** `P51246`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51246/entry](https://www.uniprot.org/uniprotkb/P51246/entry)
+- **Number of aligned sequences:** 873
+- **Pfam domains:**
+  - [PF00137](https://www.ebi.ac.uk/interpro/entry/pfam/PF00137)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="atpHViewer" fastaUrl="/alignments/atpH.aln" colorSchema="clustal" hasConsensus={true} exportName="atpH_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/atph_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/atpH.aln" icon="download">atpH.aln</LinkButton>
+<LinkButton href="/structure/atph_model.cif" icon="download">atpH.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | atpH |
+| Uniref90 representative | P51246 |
+| full name | ATP synthase subunit c, chloroplastic |
+| descriptions | F(1)F(0) ATP synthase produces ATP from ADP in the presence of a proton or sodium gradient. F-type ATPases consist of two structural domains, F(1) containing the extramembraneous catalytic core and F(0) containing the membrane proton channel, linked together by a central stalk and a peripheral stalk. During catalysis, ATP synthesis in the catalytic domain of F(1) is coupled via a rotary mechanism of the central stalk subunits to proton translocation Key component of the F(0) channel; it plays a direct role in translocation across the membrane. A homomeric c-ring of between 10-14 subunits forms the central stalk rotor element with the F(1) delta and epsilon subunits |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51246/entry |
+| pfam domains | [PF00137] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00137] |
+| alignment_path | /public/downloads/atpH.aln |
+| n_seqs | 873.0 |
+| structure_path | /public/downloads/atpH.cif |

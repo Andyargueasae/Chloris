@@ -1,0 +1,49 @@
+---
+title: "rpl36"
+description: "Large ribosomal subunit protein bL36c"
+slug: "genes/rpl36"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL36c
+
+## Metadata
+
+- **UniRef90 representative:** `P51296`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51296/entry](https://www.uniprot.org/uniprotkb/P51296/entry)
+- **Number of aligned sequences:** 853
+- **Pfam domains:**
+  - [PF00444](https://www.ebi.ac.uk/interpro/entry/pfam/PF00444)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl36Viewer" fastaUrl="/alignments/rpl36.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl36_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl36_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl36.aln" icon="download">rpl36.aln</LinkButton>
+<LinkButton href="/structure/rpl36_model.cif" icon="download">rpl36.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl36 |
+| Uniref90 representative | P51296 |
+| full name | Large ribosomal subunit protein bL36c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51296/entry |
+| pfam domains | [PF00444] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00444] |
+| alignment_path | /public/downloads/rpl36.aln |
+| n_seqs | 853.0 |
+| structure_path | /public/downloads/rpl36.cif |

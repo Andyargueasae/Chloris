@@ -1,0 +1,51 @@
+---
+title: "rps7"
+description: "Small ribosomal subunit protein uS7c"
+slug: "genes/rps7"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS7c
+
+One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51288`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51288/entry](https://www.uniprot.org/uniprotkb/P51288/entry)
+- **Number of aligned sequences:** 879
+- **Pfam domains:**
+  - [PF00177](https://www.ebi.ac.uk/interpro/entry/pfam/PF00177)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps7Viewer" fastaUrl="/alignments/rps7.aln" colorSchema="clustal" hasConsensus={true} exportName="rps7_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps7_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps7.aln" icon="download">rps7.aln</LinkButton>
+<LinkButton href="/structure/rps7_model.cif" icon="download">rps7.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps7 |
+| Uniref90 representative | P51288 |
+| full name | Small ribosomal subunit protein uS7c |
+| descriptions | One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the head domain of the 30S subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51288/entry |
+| pfam domains | [PF00177] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00177] |
+| alignment_path | /public/downloads/rps7.aln |
+| n_seqs | 879.0 |
+| structure_path | /public/downloads/rps7.cif |

@@ -1,0 +1,51 @@
+---
+title: "minE"
+description: "Putative cell division topological specificity factor"
+slug: "genes/minE"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Putative cell division topological specificity factor
+
+Prevents the cell division inhibition by proteins minC and minD at internal division sites while permitting inhibition at polar sites
+
+## Metadata
+
+- **UniRef90 representative:** `P56350`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P56350/entry](https://www.uniprot.org/uniprotkb/P56350/entry)
+- **Number of aligned sequences:** 29
+- **Pfam domains:**
+  - [PF03776](https://www.ebi.ac.uk/interpro/entry/pfam/PF03776)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="minEViewer" fastaUrl="/alignments/minE.aln" colorSchema="clustal" hasConsensus={true} exportName="minE_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/mine_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/minE.aln" icon="download">minE.aln</LinkButton>
+<LinkButton href="/structure/mine_model.cif" icon="download">minE.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | minE |
+| Uniref90 representative | P56350 |
+| full name | Putative cell division topological specificity factor |
+| descriptions | Prevents the cell division inhibition by proteins minC and minD at internal division sites while permitting inhibition at polar sites |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P56350/entry |
+| pfam domains | [PF03776] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF03776] |
+| alignment_path | /public/downloads/minE.aln |
+| n_seqs | 29.0 |
+| structure_path | /public/downloads/minE.cif |

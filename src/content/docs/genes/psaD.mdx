@@ -1,0 +1,51 @@
+---
+title: "psaD"
+description: "Photosystem I reaction center subunit II"
+slug: "genes/psaD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit II
+
+PsaD can form complexes with ferredoxin and ferredoxin-oxidoreductase in photosystem I (PS I) reaction center
+
+## Metadata
+
+- **UniRef90 representative:** `P51279`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51279/entry](https://www.uniprot.org/uniprotkb/P51279/entry)
+- **Number of aligned sequences:** 518
+- **Pfam domains:**
+  - [PF02531](https://www.ebi.ac.uk/interpro/entry/pfam/PF02531)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaDViewer" fastaUrl="/alignments/psaD.aln" colorSchema="clustal" hasConsensus={true} exportName="psaD_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psad_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaD.aln" icon="download">psaD.aln</LinkButton>
+<LinkButton href="/structure/psad_model.cif" icon="download">psaD.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaD |
+| Uniref90 representative | P51279 |
+| full name | Photosystem I reaction center subunit II |
+| descriptions | PsaD can form complexes with ferredoxin and ferredoxin-oxidoreductase in photosystem I (PS I) reaction center |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51279/entry |
+| pfam domains | [PF02531] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02531] |
+| alignment_path | /public/downloads/psaD.aln |
+| n_seqs | 518.0 |
+| structure_path | /public/downloads/psaD.cif |

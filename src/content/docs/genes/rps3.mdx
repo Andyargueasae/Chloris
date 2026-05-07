@@ -1,0 +1,50 @@
+---
+title: "rps3"
+description: "Small ribosomal subunit protein uS3c"
+slug: "genes/rps3"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS3c
+
+## Metadata
+
+- **UniRef90 representative:** `P51308`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51308/entry](https://www.uniprot.org/uniprotkb/P51308/entry)
+- **Number of aligned sequences:** 861
+- **Pfam domains:**
+  - [PF00189](https://www.ebi.ac.uk/interpro/entry/pfam/PF00189)
+  - [PF07650](https://www.ebi.ac.uk/interpro/entry/pfam/PF07650)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps3Viewer" fastaUrl="/alignments/rps3.aln" colorSchema="clustal" hasConsensus={true} exportName="rps3_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps3_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps3.aln" icon="download">rps3.aln</LinkButton>
+<LinkButton href="/structure/rps3_model.cif" icon="download">rps3.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps3 |
+| Uniref90 representative | P51308 |
+| full name | Small ribosomal subunit protein uS3c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51308/entry |
+| pfam domains | [PF00189,PF07650] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00189,https://www.ebi.ac.uk/interpro/entry/pfam/PF07650] |
+| alignment_path | /public/downloads/rps3.aln |
+| n_seqs | 861.0 |
+| structure_path | /public/downloads/rps3.cif |

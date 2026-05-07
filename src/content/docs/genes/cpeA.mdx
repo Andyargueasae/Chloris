@@ -1,0 +1,51 @@
+---
+title: "cpeA"
+description: "R-phycoerythrin alpha chain"
+slug: "genes/cpeA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** R-phycoerythrin alpha chain
+
+Light-harvesting photosynthetic bile pigment-protein from the phycobiliprotein complex.
+
+## Metadata
+
+- **UniRef90 representative:** `O49843`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/O49843/entry](https://www.uniprot.org/uniprotkb/O49843/entry)
+- **Number of aligned sequences:** 244
+- **Pfam domains:**
+  - [PF00502](https://www.ebi.ac.uk/interpro/entry/pfam/PF00502)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="cpeAViewer" fastaUrl="/alignments/cpeA.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/cpea_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/cpeA.aln" icon="download">cpeA.aln</LinkButton>
+<LinkButton href="/structure/cpea_model.cif" icon="download">cpeA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | cpeA |
+| Uniref90 representative | O49843 |
+| full name | R-phycoerythrin alpha chain |
+| descriptions | Light-harvesting photosynthetic bile pigment-protein from the phycobiliprotein complex. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/O49843/entry |
+| pfam domains | [PF00502] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00502] |
+| alignment_path | /public/downloads/cpeA.aln |
+| n_seqs | 244.0 |
+| structure_path | /public/downloads/cpeA.cif |

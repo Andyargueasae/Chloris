@@ -1,0 +1,51 @@
+---
+title: "glnB"
+description: "Nitrogen regulatory protein P-II"
+slug: "genes/glnB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Nitrogen regulatory protein P-II
+
+P-II indirectly controls the transcription of the glutamine synthetase gene (glnA). P-II prevents NR-II-catalyzed conversion of NR-I to NR-I-phosphate, the transcriptional activator of glnA. When P-II is uridylylated to P-II-UMP, these events are reversed. When the ratio of Gln to 2-ketoglutarate decreases, P-II is uridylylated to P-II-UMP, which causes the deadenylation of glutamine synthetase, so activating the enzyme (By similarity)
+
+## Metadata
+
+- **UniRef90 representative:** `P51254`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51254/entry](https://www.uniprot.org/uniprotkb/P51254/entry)
+- **Number of aligned sequences:** 24
+- **Pfam domains:**
+  - [PF00543](https://www.ebi.ac.uk/interpro/entry/pfam/PF00543)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="glnBViewer" fastaUrl="/alignments/glnB.aln" colorSchema="clustal" hasConsensus={true} exportName="glnB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/glnb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/glnB.aln" icon="download">glnB.aln</LinkButton>
+<LinkButton href="/structure/glnb_model.cif" icon="download">glnB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | glnB |
+| Uniref90 representative | P51254 |
+| full name | Nitrogen regulatory protein P-II |
+| descriptions | P-II indirectly controls the transcription of the glutamine synthetase gene (glnA). P-II prevents NR-II-catalyzed conversion of NR-I to NR-I-phosphate, the transcriptional activator of glnA. When P-II is uridylylated to P-II-UMP, these events are reversed. When the ratio of Gln to 2-ketoglutarate decreases, P-II is uridylylated to P-II-UMP, which causes the deadenylation of glutamine synthetase, so activating the enzyme (By similarity) |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51254/entry |
+| pfam domains | [PF00543] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00543] |
+| alignment_path | /public/downloads/glnB.aln |
+| n_seqs | 24.0 |
+| structure_path | /public/downloads/glnB.cif |

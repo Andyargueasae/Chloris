@@ -1,0 +1,51 @@
+---
+title: "rps13"
+description: "Small ribosomal subunit protein uS13c"
+slug: "genes/rps13"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS13c
+
+Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA
+
+## Metadata
+
+- **UniRef90 representative:** `P51295`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51295/entry](https://www.uniprot.org/uniprotkb/P51295/entry)
+- **Number of aligned sequences:** 527
+- **Pfam domains:**
+  - [PF00416](https://www.ebi.ac.uk/interpro/entry/pfam/PF00416)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps13Viewer" fastaUrl="/alignments/rps13.aln" colorSchema="clustal" hasConsensus={true} exportName="rps13_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps13_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps13.aln" icon="download">rps13.aln</LinkButton>
+<LinkButton href="/structure/rps13_model.cif" icon="download">rps13.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps13 |
+| Uniref90 representative | P51295 |
+| full name | Small ribosomal subunit protein uS13c |
+| descriptions | Located at the top of the head of the 30S subunit, it contacts several helices of the 16S rRNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51295/entry |
+| pfam domains | [PF00416] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00416] |
+| alignment_path | /public/downloads/rps13.aln |
+| n_seqs | 527.0 |
+| structure_path | /public/downloads/rps13.cif |

@@ -1,0 +1,51 @@
+---
+title: "rps19"
+description: "Small ribosomal subunit protein uS19c"
+slug: "genes/rps19"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS19c
+
+Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA
+
+## Metadata
+
+- **UniRef90 representative:** `P51310`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51310/entry](https://www.uniprot.org/uniprotkb/P51310/entry)
+- **Number of aligned sequences:** 869
+- **Pfam domains:**
+  - [PF00203](https://www.ebi.ac.uk/interpro/entry/pfam/PF00203)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps19Viewer" fastaUrl="/alignments/rps19.aln" colorSchema="clustal" hasConsensus={true} exportName="rps19_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps19_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps19.aln" icon="download">rps19.aln</LinkButton>
+<LinkButton href="/structure/rps19_model.cif" icon="download">rps19.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps19 |
+| Uniref90 representative | P51310 |
+| full name | Small ribosomal subunit protein uS19c |
+| descriptions | Protein S19 forms a complex with S13 that binds strongly to the 16S ribosomal RNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51310/entry |
+| pfam domains | [PF00203] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00203] |
+| alignment_path | /public/downloads/rps19.aln |
+| n_seqs | 869.0 |
+| structure_path | /public/downloads/rps19.cif |

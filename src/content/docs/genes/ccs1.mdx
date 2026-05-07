@@ -1,0 +1,51 @@
+---
+title: "ccs1"
+description: "Cytochrome c biogenesis protein Ccs1"
+slug: "genes/ccs1"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome c biogenesis protein Ccs1
+
+Required during biogenesis of c-type cytochromes (cytochrome c6 and cytochrome f) at the step of heme attachment
+
+## Metadata
+
+- **UniRef90 representative:** `P51363`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51363/entry](https://www.uniprot.org/uniprotkb/P51363/entry)
+- **Number of aligned sequences:** 553
+- **Pfam domains:**
+  - [PF05140](https://www.ebi.ac.uk/interpro/entry/pfam/PF05140)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ccs1Viewer" fastaUrl="/alignments/ccs1.aln" colorSchema="clustal" hasConsensus={true} exportName="ccs1_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ccs1_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ccs1.aln" icon="download">ccs1.aln</LinkButton>
+<LinkButton href="/structure/ccs1_model.cif" icon="download">ccs1.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ccs1 |
+| Uniref90 representative | P51363 |
+| full name | Cytochrome c biogenesis protein Ccs1 |
+| descriptions | Required during biogenesis of c-type cytochromes (cytochrome c6 and cytochrome f) at the step of heme attachment |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51363/entry |
+| pfam domains | [PF05140] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF05140] |
+| alignment_path | /public/downloads/ccs1.aln |
+| n_seqs | 553.0 |
+| structure_path | /public/downloads/ccs1.cif |

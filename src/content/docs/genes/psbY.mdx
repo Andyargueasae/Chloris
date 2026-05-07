@@ -1,0 +1,51 @@
+---
+title: "psbY"
+description: "Photosystem II reaction center protein Y"
+slug: "genes/psbY"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein Y
+
+Loosely associated component of the core of photosystem II (PSII), it is not always seen in crystals. PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDT1`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDT1/entry](https://www.uniprot.org/uniprotkb/Q1XDT1/entry)
+- **Number of aligned sequences:** 588
+- **Pfam domains:**
+  - [PF06298](https://www.ebi.ac.uk/interpro/entry/pfam/PF06298)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbYViewer" fastaUrl="/alignments/psbY.aln" colorSchema="clustal" hasConsensus={true} exportName="psbY_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psby_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbY.aln" icon="download">psbY.aln</LinkButton>
+<LinkButton href="/structure/psby_model.cif" icon="download">psbY.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbY |
+| Uniref90 representative | Q1XDT1 |
+| full name | Photosystem II reaction center protein Y |
+| descriptions | Loosely associated component of the core of photosystem II (PSII), it is not always seen in crystals. PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDT1/entry |
+| pfam domains | [PF06298] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF06298] |
+| alignment_path | /public/downloads/psbY.aln |
+| n_seqs | 588.0 |
+| structure_path | /public/downloads/psbY.cif |

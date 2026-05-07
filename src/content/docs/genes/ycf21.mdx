@@ -1,0 +1,49 @@
+---
+title: "ycf21"
+description: "Uncharacterized protein ycf21"
+slug: "genes/ycf21"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf21
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDA7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDA7/entry](https://www.uniprot.org/uniprotkb/Q1XDA7/entry)
+- **Number of aligned sequences:** 215
+- **Pfam domains:**
+  - [PF01947](https://www.ebi.ac.uk/interpro/entry/pfam/PF01947)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf21Viewer" fastaUrl="/alignments/ycf21.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf21_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf21_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf21.aln" icon="download">ycf21.aln</LinkButton>
+<LinkButton href="/structure/ycf21_model.cif" icon="download">ycf21.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf21 |
+| Uniref90 representative | Q1XDA7 |
+| full name | Uncharacterized protein ycf21 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDA7/entry |
+| pfam domains | [PF01947] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01947] |
+| alignment_path | /public/downloads/ycf21.aln |
+| n_seqs | 215.0 |
+| structure_path | /public/downloads/ycf21.cif |

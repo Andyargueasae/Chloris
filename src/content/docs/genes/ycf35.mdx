@@ -1,0 +1,49 @@
+---
+title: "ycf35"
+description: "Uncharacterized protein ycf35"
+slug: "genes/ycf35"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf35
+
+## Metadata
+
+- **UniRef90 representative:** `P51213`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51213/entry](https://www.uniprot.org/uniprotkb/P51213/entry)
+- **Number of aligned sequences:** 443
+- **Pfam domains:**
+  - [PF06868](https://www.ebi.ac.uk/interpro/entry/pfam/PF06868)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf35Viewer" fastaUrl="/alignments/ycf35.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf35_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf35_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf35.aln" icon="download">ycf35.aln</LinkButton>
+<LinkButton href="/structure/ycf35_model.cif" icon="download">ycf35.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf35 |
+| Uniref90 representative | P51213 |
+| full name | Uncharacterized protein ycf35 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51213/entry |
+| pfam domains | [PF06868] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF06868] |
+| alignment_path | /public/downloads/ycf35.aln |
+| n_seqs | 443.0 |
+| structure_path | /public/downloads/ycf35.cif |

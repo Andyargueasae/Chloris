@@ -1,0 +1,51 @@
+---
+title: "secY"
+description: "Protein translocase subunit SecY"
+slug: "genes/secY"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Protein translocase subunit SecY
+
+The central subunit of the protein translocation channel SecYE. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug
+
+## Metadata
+
+- **UniRef90 representative:** `P51297`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51297/entry](https://www.uniprot.org/uniprotkb/P51297/entry)
+- **Number of aligned sequences:** 525
+- **Pfam domains:**
+  - [PF00344](https://www.ebi.ac.uk/interpro/entry/pfam/PF00344)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="secYViewer" fastaUrl="/alignments/secY.aln" colorSchema="clustal" hasConsensus={true} exportName="secY_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/secy_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/secY.aln" icon="download">secY.aln</LinkButton>
+<LinkButton href="/structure/secy_model.cif" icon="download">secY.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | secY |
+| Uniref90 representative | P51297 |
+| full name | Protein translocase subunit SecY |
+| descriptions | The central subunit of the protein translocation channel SecYE. Consists of two halves formed by TMs 1-5 and 6-10. These two domains form a lateral gate at the front which open onto the bilayer between TMs 2 and 7, and are clamped together by SecE at the back. The channel is closed by both a pore ring composed of hydrophobic SecY resides and a short helix (helix 2A) on the extracellular side of the membrane which forms a plug |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51297/entry |
+| pfam domains | [PF00344] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00344] |
+| alignment_path | /public/downloads/secY.aln |
+| n_seqs | 525.0 |
+| structure_path | /public/downloads/secY.cif |

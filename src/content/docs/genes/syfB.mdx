@@ -1,0 +1,52 @@
+---
+title: "syfB"
+description: "Phenylalanine--tRNA ligase beta subunit"
+slug: "genes/syfB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Phenylalanine--tRNA ligase beta subunit
+
+## Metadata
+
+- **UniRef90 representative:** `A0A059X7I9`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A059X7I9/entry](https://www.uniprot.org/uniprotkb/A0A059X7I9/entry)
+- **Number of aligned sequences:** 348
+- **Pfam domains:**
+  - [PF01409](https://www.ebi.ac.uk/interpro/entry/pfam/PF01409)
+  - [PF03147](https://www.ebi.ac.uk/interpro/entry/pfam/PF03147)
+  - [PF03483](https://www.ebi.ac.uk/interpro/entry/pfam/PF03483)
+  - [PF03484](https://www.ebi.ac.uk/interpro/entry/pfam/PF03484)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="syfBViewer" fastaUrl="/alignments/syfB.aln" colorSchema="clustal" hasConsensus={true} exportName="syfB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/syfb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/syfB.aln" icon="download">syfB.aln</LinkButton>
+<LinkButton href="/structure/syfb_model.cif" icon="download">syfB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | syfB |
+| Uniref90 representative | A0A059X7I9 |
+| full name | Phenylalanine--tRNA ligase beta subunit |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A059X7I9/entry |
+| pfam domains | [PF01409,PF03147,PF03483,PF03484] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01409,https://www.ebi.ac.uk/interpro/entry/pfam/PF03147,https://www.ebi.ac.uk/interpro/entry/pfam/PF03483,https://www.ebi.ac.uk/interpro/entry/pfam/PF03484] |
+| alignment_path | /public/downloads/syfB.aln |
+| n_seqs | 348.0 |
+| structure_path | /public/downloads/syfB.cif |

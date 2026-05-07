@@ -1,0 +1,52 @@
+---
+title: "psbK"
+description: "Photosystem II reaction center protein K"
+slug: "genes/psbK"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein K
+
+One of the components of the core complex of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDH0`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDH0/entry](https://www.uniprot.org/uniprotkb/Q1XDH0/entry)
+- **Number of aligned sequences:** 838
+- **Pfam domains:**
+  - [PF00453](https://www.ebi.ac.uk/interpro/entry/pfam/PF00453)
+  - [PF02533](https://www.ebi.ac.uk/interpro/entry/pfam/PF02533)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbKViewer" fastaUrl="/alignments/psbK.aln" colorSchema="clustal" hasConsensus={true} exportName="psbK_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbk_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbK.aln" icon="download">psbK.aln</LinkButton>
+<LinkButton href="/structure/psbk_model.cif" icon="download">psbK.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbK |
+| Uniref90 representative | Q1XDH0 |
+| full name | Photosystem II reaction center protein K |
+| descriptions | One of the components of the core complex of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDH0/entry |
+| pfam domains | [PF00453,PF02533] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00453,https://www.ebi.ac.uk/interpro/entry/pfam/PF02533] |
+| alignment_path | /public/downloads/psbK.aln |
+| n_seqs | 838.0 |
+| structure_path | /public/downloads/psbK.cif |

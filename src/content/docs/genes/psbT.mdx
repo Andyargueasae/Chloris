@@ -1,0 +1,51 @@
+---
+title: "psbT"
+description: "Photosystem II reaction center protein T"
+slug: "genes/psbT"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein T
+
+Found at the monomer-monomer interface of the photosystem II (PS II) dimer, plays a role in assembly and dimerization of PSII. PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation
+
+## Metadata
+
+- **UniRef90 representative:** `P51323`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51323/entry](https://www.uniprot.org/uniprotkb/P51323/entry)
+- **Number of aligned sequences:** 831
+- **Pfam domains:**
+  - [PF01405](https://www.ebi.ac.uk/interpro/entry/pfam/PF01405)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbTViewer" fastaUrl="/alignments/psbT.aln" colorSchema="clustal" hasConsensus={true} exportName="psbT_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbt_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbT.aln" icon="download">psbT.aln</LinkButton>
+<LinkButton href="/structure/psbt_model.cif" icon="download">psbT.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbT |
+| Uniref90 representative | P51323 |
+| full name | Photosystem II reaction center protein T |
+| descriptions | Found at the monomer-monomer interface of the photosystem II (PS II) dimer, plays a role in assembly and dimerization of PSII. PSII is a light-driven water plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating a proton gradient subsequently used for ATP formation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51323/entry |
+| pfam domains | [PF01405] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01405] |
+| alignment_path | /public/downloads/psbT.aln |
+| n_seqs | 831.0 |
+| structure_path | /public/downloads/psbT.cif |

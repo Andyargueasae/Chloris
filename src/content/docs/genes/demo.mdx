@@ -1,0 +1,70 @@
+---
+title: "accA"
+description: "accA alignment and predicted structure"
+slug: "genes/accA"
+---
+
+
+    "protein": "accA",
+    "Uniref90 representative": "P51371",
+    "full name": "Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha",
+    "descriptions": "Component of the acetyl coenzyme A carboxylase (ACC) complex. First, biotin carboxylase catalyzes the carboxylation of biotin on its carrier protein (BCCP) and then the CO(2) group is transferred by the carboxyltransferase to acetyl-CoA to form malonyl-CoA",
+    "UniProt Representative link": "https:\/\/www.uniprot.org\/uniprotkb\/P51371\/entry",
+    "pfam domains": "[PF01039,PF03255]",
+    "pfam_links": "[https:\/\/www.ebi.ac.uk\/interpro\/entry\/pfam\/PF01039,https:\/\/www.ebi.ac.uk\/interpro\/entry\/pfam\/PF03255]",
+    "alignment_path": "\/public\/downloads\/accA.aln",
+    "n_seqs": 229.0,
+    "structure_path": "\/public\/downloads\/accA.cif"
+
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene information
+
+RuBisCO catalyzes two reactions: the carboxylation of D-ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site.
+
+The basic functional RuBisCO is composed of a large chain homodimer in a 'head-to-tail' conformation. In form I RuBisCO this homodimer is arranged in a barrel-like tetramer with the small subunits forming a tetrameric 'cap' on each end of the 'barrel'.
+
+(source: https://www.uniprot.org/uniprotkb/P00877/entry)
+
+# Multi-sequence alignment viewer
+
+Alignment type: amino acid  
+Nseq: 869
+
+<MsaBrowser
+  viewerId="accAViewer"
+  fastaUrl="/alignments/accA.aln"
+  colorSchema="clustal"
+  hasConsensus={true}
+  exportName="accA_alignment.fasta"
+  annotations={[
+    {
+      source: "accA features",
+      data: [
+        { annotation_id: "barcode",
+          annotation_name: "Barcode window",
+          annotation_start_point: 1,
+          annotation_end_point: 600
+        }
+      ]
+    }
+  ]}
+  alterations={[
+    { sequenceIndex: 1, position: 120, note: "Ambiguous site", source: "QC", type: "N" }
+  ]}
+/>
+
+# Structure visualization
+
+Alphafold 3 predicted structure of UCS09725.1 (*Oedocladium prescottii*).
+
+<ProteinStructureViewer
+  cifUrl="/public/structure/ucs09725.1_accA_model.cif"
+  height="1280px"
+/>
+
+# Download MSA File
+<LinkButton href="/alignments/accA.aln" icon="download">accA.aln</LinkButton>

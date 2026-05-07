@@ -1,0 +1,56 @@
+---
+title: "rpoB"
+description: "DNA-directed RNA polymerase subunit beta"
+slug: "genes/rpoB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** DNA-directed RNA polymerase subunit beta
+
+DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+
+## Metadata
+
+- **UniRef90 representative:** `P51252`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51252/entry](https://www.uniprot.org/uniprotkb/P51252/entry)
+- **Number of aligned sequences:** 983
+- **Pfam domains:**
+  - [PF00562](https://www.ebi.ac.uk/interpro/entry/pfam/PF00562)
+  - [PF04560](https://www.ebi.ac.uk/interpro/entry/pfam/PF04560)
+  - [PF04561](https://www.ebi.ac.uk/interpro/entry/pfam/PF04561)
+  - [PF04563](https://www.ebi.ac.uk/interpro/entry/pfam/PF04563)
+  - [PF04565](https://www.ebi.ac.uk/interpro/entry/pfam/PF04565)
+  - [PF10385](https://www.ebi.ac.uk/interpro/entry/pfam/PF10385)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpoBViewer" fastaUrl="/alignments/rpoB.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpob_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpoB.aln" icon="download">rpoB.aln</LinkButton>
+<LinkButton href="/structure/rpob_model.cif" icon="download">rpoB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpoB |
+| Uniref90 representative | P51252 |
+| full name | DNA-directed RNA polymerase subunit beta |
+| descriptions | DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51252/entry |
+| pfam domains | [PF00562,PF04560,PF04561,PF04563,PF04565,PF10385] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00562,https://www.ebi.ac.uk/interpro/entry/pfam/PF04560,https://www.ebi.ac.uk/interpro/entry/pfam/PF04561,https://www.ebi.ac.uk/interpro/entry/pfam/PF04563,https://www.ebi.ac.uk/interpro/entry/pfam/PF04565,https://www.ebi.ac.uk/interpro/entry/pfam/PF10385] |
+| alignment_path | /public/downloads/rpoB.aln |
+| n_seqs | 983.0 |
+| structure_path | /public/downloads/rpoB.cif |

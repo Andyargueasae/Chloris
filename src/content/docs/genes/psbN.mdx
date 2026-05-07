@@ -1,0 +1,51 @@
+---
+title: "psbN"
+description: "Protein PsbN"
+slug: "genes/psbN"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Protein PsbN
+
+May play a role in photosystem I and II biogenesis
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDG2`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDG2/entry](https://www.uniprot.org/uniprotkb/Q1XDG2/entry)
+- **Number of aligned sequences:** 839
+- **Pfam domains:**
+  - [PF02468](https://www.ebi.ac.uk/interpro/entry/pfam/PF02468)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbNViewer" fastaUrl="/alignments/psbN.aln" colorSchema="clustal" hasConsensus={true} exportName="psbN_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbn_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbN.aln" icon="download">psbN.aln</LinkButton>
+<LinkButton href="/structure/psbn_model.cif" icon="download">psbN.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbN |
+| Uniref90 representative | Q1XDG2 |
+| full name | Protein PsbN |
+| descriptions | May play a role in photosystem I and II biogenesis |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDG2/entry |
+| pfam domains | [PF02468] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02468] |
+| alignment_path | /public/downloads/psbN.aln |
+| n_seqs | 839.0 |
+| structure_path | /public/downloads/psbN.cif |

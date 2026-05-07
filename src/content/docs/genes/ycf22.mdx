@@ -1,0 +1,49 @@
+---
+title: "ycf22"
+description: "Uncharacterized protein ycf22"
+slug: "genes/ycf22"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf22
+
+## Metadata
+
+- **UniRef90 representative:** `P51372`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51372/entry](https://www.uniprot.org/uniprotkb/P51372/entry)
+- **Number of aligned sequences:** 216
+- **Pfam domains:**
+  - [PF02470](https://www.ebi.ac.uk/interpro/entry/pfam/PF02470)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf22Viewer" fastaUrl="/alignments/ycf22.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf22_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf22_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf22.aln" icon="download">ycf22.aln</LinkButton>
+<LinkButton href="/structure/ycf22_model.cif" icon="download">ycf22.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf22 |
+| Uniref90 representative | P51372 |
+| full name | Uncharacterized protein ycf22 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51372/entry |
+| pfam domains | [PF02470] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02470] |
+| alignment_path | /public/downloads/ycf22.aln |
+| n_seqs | 216.0 |
+| structure_path | /public/downloads/ycf22.cif |

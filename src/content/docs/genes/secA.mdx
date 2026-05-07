@@ -1,0 +1,56 @@
+---
+title: "secA"
+description: "Protein translocase subunit SecA"
+slug: "genes/secA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Protein translocase subunit SecA
+
+Has a central role in coupling the hydrolysis of ATP to the transfer of proteins across the thylakoid membrane
+
+## Metadata
+
+- **UniRef90 representative:** `P51381`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51381/entry](https://www.uniprot.org/uniprotkb/P51381/entry)
+- **Number of aligned sequences:** 551
+- **Pfam domains:**
+  - [PF00270](https://www.ebi.ac.uk/interpro/entry/pfam/PF00270)
+  - [PF00271](https://www.ebi.ac.uk/interpro/entry/pfam/PF00271)
+  - [PF01043](https://www.ebi.ac.uk/interpro/entry/pfam/PF01043)
+  - [PF01947](https://www.ebi.ac.uk/interpro/entry/pfam/PF01947)
+  - [PF07516](https://www.ebi.ac.uk/interpro/entry/pfam/PF07516)
+  - [PF07517](https://www.ebi.ac.uk/interpro/entry/pfam/PF07517)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="secAViewer" fastaUrl="/alignments/secA.aln" colorSchema="clustal" hasConsensus={true} exportName="secA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/seca_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/secA.aln" icon="download">secA.aln</LinkButton>
+<LinkButton href="/structure/seca_model.cif" icon="download">secA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | secA |
+| Uniref90 representative | P51381 |
+| full name | Protein translocase subunit SecA |
+| descriptions | Has a central role in coupling the hydrolysis of ATP to the transfer of proteins across the thylakoid membrane |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51381/entry |
+| pfam domains | [PF00270,PF00271,PF01043,PF01947,PF07516,PF07517] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00270,https://www.ebi.ac.uk/interpro/entry/pfam/PF00271,https://www.ebi.ac.uk/interpro/entry/pfam/PF01043,https://www.ebi.ac.uk/interpro/entry/pfam/PF01947,https://www.ebi.ac.uk/interpro/entry/pfam/PF07516,https://www.ebi.ac.uk/interpro/entry/pfam/PF07517] |
+| alignment_path | /public/downloads/secA.aln |
+| n_seqs | 551.0 |
+| structure_path | /public/downloads/secA.cif |

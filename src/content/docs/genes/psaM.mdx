@@ -1,0 +1,49 @@
+---
+title: "psaM"
+description: "Photosystem I reaction center subunit XII"
+slug: "genes/psaM"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit XII
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XD92`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XD92/entry](https://www.uniprot.org/uniprotkb/Q1XD92/entry)
+- **Number of aligned sequences:** 696
+- **Pfam domains:**
+  - [PF07465](https://www.ebi.ac.uk/interpro/entry/pfam/PF07465)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaMViewer" fastaUrl="/alignments/psaM.aln" colorSchema="clustal" hasConsensus={true} exportName="psaM_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psam_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaM.aln" icon="download">psaM.aln</LinkButton>
+<LinkButton href="/structure/psam_model.cif" icon="download">psaM.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaM |
+| Uniref90 representative | Q1XD92 |
+| full name | Photosystem I reaction center subunit XII |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XD92/entry |
+| pfam domains | [PF07465] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF07465] |
+| alignment_path | /public/downloads/psaM.aln |
+| n_seqs | 696.0 |
+| structure_path | /public/downloads/psaM.cif |

@@ -1,0 +1,60 @@
+---
+title: "chlI"
+description: "Magnesium-chelatase subunit ChlI"
+slug: "genes/chlI"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Magnesium-chelatase subunit ChlI
+
+Involved in chlorophyll biosynthesis; introduces a magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX
+
+## Metadata
+
+- **UniRef90 representative:** `P51394`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51394/entry](https://www.uniprot.org/uniprotkb/P51394/entry)
+- **Number of aligned sequences:** 738
+- **Pfam domains:**
+  - [PF00004](https://www.ebi.ac.uk/interpro/entry/pfam/PF00004)
+  - [PF00158](https://www.ebi.ac.uk/interpro/entry/pfam/PF00158)
+  - [PF00493](https://www.ebi.ac.uk/interpro/entry/pfam/PF00493)
+  - [PF01078](https://www.ebi.ac.uk/interpro/entry/pfam/PF01078)
+  - [PF05673](https://www.ebi.ac.uk/interpro/entry/pfam/PF05673)
+  - [PF07726](https://www.ebi.ac.uk/interpro/entry/pfam/PF07726)
+  - [PF07728](https://www.ebi.ac.uk/interpro/entry/pfam/PF07728)
+  - [PF13191](https://www.ebi.ac.uk/interpro/entry/pfam/PF13191)
+  - [PF13401](https://www.ebi.ac.uk/interpro/entry/pfam/PF13401)
+  - [PF13555](https://www.ebi.ac.uk/interpro/entry/pfam/PF13555)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="chlIViewer" fastaUrl="/alignments/chlI.aln" colorSchema="clustal" hasConsensus={true} exportName="chlI_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/chli_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/chlI.aln" icon="download">chlI.aln</LinkButton>
+<LinkButton href="/structure/chli_model.cif" icon="download">chlI.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | chlI |
+| Uniref90 representative | P51394 |
+| full name | Magnesium-chelatase subunit ChlI |
+| descriptions | Involved in chlorophyll biosynthesis; introduces a magnesium ion into protoporphyrin IX to yield Mg-protoporphyrin IX |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51394/entry |
+| pfam domains | [PF00004,PF00158,PF00493,PF01078,PF05673,PF07726,PF07728,PF13191,PF13401,PF13555] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00004,https://www.ebi.ac.uk/interpro/entry/pfam/PF00158,https://www.ebi.ac.uk/interpro/entry/pfam/PF00493,https://www.ebi.ac.uk/interpro/entry/pfam/PF01078,https://www.ebi.ac.uk/interpro/entry/pfam/PF05673,https://www.ebi.ac.uk/interpro/entry/pfam/PF07726,https://www.ebi.ac.uk/interpro/entry/pfam/PF07728,https://www.ebi.ac.uk/interpro/entry/pfam/PF13191,https://www.ebi.ac.uk/interpro/entry/pfam/PF13401,https://www.ebi.ac.uk/interpro/entry/pfam/PF13555] |
+| alignment_path | /public/downloads/chlI.aln |
+| n_seqs | 738.0 |
+| structure_path | /public/downloads/chlI.cif |

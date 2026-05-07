@@ -1,0 +1,53 @@
+---
+title: "rpoC1"
+description: "DNA-directed RNA polymerase subunit beta'"
+slug: "genes/rpoC1"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** DNA-directed RNA polymerase subunit beta'
+
+DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDN6`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDN6/entry](https://www.uniprot.org/uniprotkb/Q1XDN6/entry)
+- **Number of aligned sequences:** 866
+- **Pfam domains:**
+  - [PF00623](https://www.ebi.ac.uk/interpro/entry/pfam/PF00623)
+  - [PF04983](https://www.ebi.ac.uk/interpro/entry/pfam/PF04983)
+  - [PF04997](https://www.ebi.ac.uk/interpro/entry/pfam/PF04997)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpoC1Viewer" fastaUrl="/alignments/rpoC1.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoC1_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpoc1_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpoC1.aln" icon="download">rpoC1.aln</LinkButton>
+<LinkButton href="/structure/rpoc1_model.cif" icon="download">rpoC1.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpoC1 |
+| Uniref90 representative | Q1XDN6 |
+| full name | DNA-directed RNA polymerase subunit beta' |
+| descriptions | DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDN6/entry |
+| pfam domains | [PF00623,PF04983,PF04997] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00623,https://www.ebi.ac.uk/interpro/entry/pfam/PF04983,https://www.ebi.ac.uk/interpro/entry/pfam/PF04997] |
+| alignment_path | /public/downloads/rpoC1.aln |
+| n_seqs | 866.0 |
+| structure_path | /public/downloads/rpoC1.cif |

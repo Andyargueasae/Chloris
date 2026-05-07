@@ -1,0 +1,51 @@
+---
+title: "apcA"
+description: "Allophycocyanin alpha chain"
+slug: "genes/apcA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Allophycocyanin alpha chain
+
+Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex.
+
+## Metadata
+
+- **UniRef90 representative:** `P59856`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P59856/entry](https://www.uniprot.org/uniprotkb/P59856/entry)
+- **Number of aligned sequences:** 264
+- **Pfam domains:**
+  - [PF00502](https://www.ebi.ac.uk/interpro/entry/pfam/PF00502)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="apcAViewer" fastaUrl="/alignments/apcA.aln" colorSchema="clustal" hasConsensus={true} exportName="apcA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/apca_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/apcA.aln" icon="download">apcA.aln</LinkButton>
+<LinkButton href="/structure/apca_model.cif" icon="download">apcA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | apcA |
+| Uniref90 representative | P59856 |
+| full name | Allophycocyanin alpha chain |
+| descriptions | Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P59856/entry |
+| pfam domains | [PF00502] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00502] |
+| alignment_path | /public/downloads/apcA.aln |
+| n_seqs | 264.0 |
+| structure_path | /public/downloads/apcA.cif |

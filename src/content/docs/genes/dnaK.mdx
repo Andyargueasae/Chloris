@@ -1,0 +1,55 @@
+---
+title: "dnaK"
+description: "Chaperone protein dnaK"
+slug: "genes/dnaK"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Chaperone protein dnaK
+
+Acts as a chaperone
+
+## Metadata
+
+- **UniRef90 representative:** `P69376`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P69376/entry](https://www.uniprot.org/uniprotkb/P69376/entry)
+- **Number of aligned sequences:** 530
+- **Pfam domains:**
+  - [PF00012](https://www.ebi.ac.uk/interpro/entry/pfam/PF00012)
+  - [PF02782](https://www.ebi.ac.uk/interpro/entry/pfam/PF02782)
+  - [PF06723](https://www.ebi.ac.uk/interpro/entry/pfam/PF06723)
+  - [PF11104](https://www.ebi.ac.uk/interpro/entry/pfam/PF11104)
+  - [PF14450](https://www.ebi.ac.uk/interpro/entry/pfam/PF14450)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="dnaKViewer" fastaUrl="/alignments/dnaK.aln" colorSchema="clustal" hasConsensus={true} exportName="dnaK_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/dnak_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/dnaK.aln" icon="download">dnaK.aln</LinkButton>
+<LinkButton href="/structure/dnak_model.cif" icon="download">dnaK.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | dnaK |
+| Uniref90 representative | P69376 |
+| full name | Chaperone protein dnaK |
+| descriptions | Acts as a chaperone |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P69376/entry |
+| pfam domains | [PF00012,PF02782,PF06723,PF11104,PF14450] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00012,https://www.ebi.ac.uk/interpro/entry/pfam/PF02782,https://www.ebi.ac.uk/interpro/entry/pfam/PF06723,https://www.ebi.ac.uk/interpro/entry/pfam/PF11104,https://www.ebi.ac.uk/interpro/entry/pfam/PF14450] |
+| alignment_path | /public/downloads/dnaK.aln |
+| n_seqs | 530.0 |
+| structure_path | /public/downloads/dnaK.cif |

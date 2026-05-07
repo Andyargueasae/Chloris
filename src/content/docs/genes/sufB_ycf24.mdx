@@ -1,0 +1,49 @@
+---
+title: "sufB_ycf24"
+description: "Iron-sulfur cluster assembly SufBD family protein ycf24"
+slug: "genes/sufB_ycf24"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Iron-sulfur cluster assembly SufBD family protein ycf24
+
+## Metadata
+
+- **UniRef90 representative:** `A0A075W1K7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A075W1K7/entry](https://www.uniprot.org/uniprotkb/A0A075W1K7/entry)
+- **Number of aligned sequences:** 525
+- **Pfam domains:**
+  - [PF01458](https://www.ebi.ac.uk/interpro/entry/pfam/PF01458)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="sufB_ycf24Viewer" fastaUrl="/alignments/sufB_ycf24.aln" colorSchema="clustal" hasConsensus={true} exportName="sufB_ycf24_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/sufb_ycf24_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/sufB_ycf24.aln" icon="download">sufB_ycf24.aln</LinkButton>
+<LinkButton href="/structure/sufb_ycf24_model.cif" icon="download">sufB_ycf24.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | sufB_ycf24 |
+| Uniref90 representative | A0A075W1K7 |
+| full name | Iron-sulfur cluster assembly SufBD family protein ycf24 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A075W1K7/entry |
+| pfam domains | [PF01458] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01458] |
+| alignment_path | /public/downloads/sufB_ycf24.aln |
+| n_seqs | 525.0 |
+| structure_path | /public/downloads/sufB_ycf24.cif |

@@ -1,0 +1,49 @@
+---
+title: "rpl32"
+description: "Large ribosomal subunit protein bL32c"
+slug: "genes/rpl32"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL32c
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDT0`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDT0/entry](https://www.uniprot.org/uniprotkb/Q1XDT0/entry)
+- **Number of aligned sequences:** 791
+- **Pfam domains:**
+  - [PF01783](https://www.ebi.ac.uk/interpro/entry/pfam/PF01783)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl32Viewer" fastaUrl="/alignments/rpl32.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl32_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl32_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl32.aln" icon="download">rpl32.aln</LinkButton>
+<LinkButton href="/structure/rpl32_model.cif" icon="download">rpl32.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl32 |
+| Uniref90 representative | Q1XDT0 |
+| full name | Large ribosomal subunit protein bL32c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDT0/entry |
+| pfam domains | [PF01783] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01783] |
+| alignment_path | /public/downloads/rpl32.aln |
+| n_seqs | 791.0 |
+| structure_path | /public/downloads/rpl32.cif |

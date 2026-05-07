@@ -1,0 +1,51 @@
+---
+title: "rps10"
+description: "Small ribosomal subunit protein uS10c"
+slug: "genes/rps10"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS10c
+
+Involved in the binding of tRNA to the ribosomes
+
+## Metadata
+
+- **UniRef90 representative:** `P51286`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51286/entry](https://www.uniprot.org/uniprotkb/P51286/entry)
+- **Number of aligned sequences:** 532
+- **Pfam domains:**
+  - [PF00338](https://www.ebi.ac.uk/interpro/entry/pfam/PF00338)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps10Viewer" fastaUrl="/alignments/rps10.aln" colorSchema="clustal" hasConsensus={true} exportName="rps10_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps10_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps10.aln" icon="download">rps10.aln</LinkButton>
+<LinkButton href="/structure/rps10_model.cif" icon="download">rps10.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps10 |
+| Uniref90 representative | P51286 |
+| full name | Small ribosomal subunit protein uS10c |
+| descriptions | Involved in the binding of tRNA to the ribosomes |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51286/entry |
+| pfam domains | [PF00338] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00338] |
+| alignment_path | /public/downloads/rps10.aln |
+| n_seqs | 532.0 |
+| structure_path | /public/downloads/rps10.cif |

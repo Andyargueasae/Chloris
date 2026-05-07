@@ -1,0 +1,49 @@
+---
+title: "rpl29"
+description: "Large ribosomal subunit protein uL29c"
+slug: "genes/rpl29"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL29c
+
+## Metadata
+
+- **UniRef90 representative:** `P51306`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51306/entry](https://www.uniprot.org/uniprotkb/P51306/entry)
+- **Number of aligned sequences:** 493
+- **Pfam domains:**
+  - [PF00831](https://www.ebi.ac.uk/interpro/entry/pfam/PF00831)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl29Viewer" fastaUrl="/alignments/rpl29.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl29_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl29_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl29.aln" icon="download">rpl29.aln</LinkButton>
+<LinkButton href="/structure/rpl29_model.cif" icon="download">rpl29.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl29 |
+| Uniref90 representative | P51306 |
+| full name | Large ribosomal subunit protein uL29c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51306/entry |
+| pfam domains | [PF00831] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00831] |
+| alignment_path | /public/downloads/rpl29.aln |
+| n_seqs | 493.0 |
+| structure_path | /public/downloads/rpl29.cif |

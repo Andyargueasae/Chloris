@@ -1,0 +1,51 @@
+---
+title: "ccsA"
+description: "Cytochrome c biogenesis protein CcsA"
+slug: "genes/ccsA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome c biogenesis protein CcsA
+
+Required during biogenesis of c-type cytochromes (cytochrome c6 and cytochrome f) at the step of heme attachment
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDB8`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDB8/entry](https://www.uniprot.org/uniprotkb/Q1XDB8/entry)
+- **Number of aligned sequences:** 832
+- **Pfam domains:**
+  - [PF01578](https://www.ebi.ac.uk/interpro/entry/pfam/PF01578)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ccsAViewer" fastaUrl="/alignments/ccsA.aln" colorSchema="clustal" hasConsensus={true} exportName="ccsA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ccsa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ccsA.aln" icon="download">ccsA.aln</LinkButton>
+<LinkButton href="/structure/ccsa_model.cif" icon="download">ccsA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ccsA |
+| Uniref90 representative | Q1XDB8 |
+| full name | Cytochrome c biogenesis protein CcsA |
+| descriptions | Required during biogenesis of c-type cytochromes (cytochrome c6 and cytochrome f) at the step of heme attachment |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDB8/entry |
+| pfam domains | [PF01578] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01578] |
+| alignment_path | /public/downloads/ccsA.aln |
+| n_seqs | 832.0 |
+| structure_path | /public/downloads/ccsA.cif |

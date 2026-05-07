@@ -1,0 +1,52 @@
+---
+title: "rpl4"
+description: "Large ribosomal subunit protein uL4c"
+slug: "genes/rpl4"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein uL4c
+
+Probably binds the 23S rRNA
+
+## Metadata
+
+- **UniRef90 representative:** `P51313`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51313/entry](https://www.uniprot.org/uniprotkb/P51313/entry)
+- **Number of aligned sequences:** 505
+- **Pfam domains:**
+  - [PF00276](https://www.ebi.ac.uk/interpro/entry/pfam/PF00276)
+  - [PF00573](https://www.ebi.ac.uk/interpro/entry/pfam/PF00573)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl4Viewer" fastaUrl="/alignments/rpl4.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl4_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl4_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl4.aln" icon="download">rpl4.aln</LinkButton>
+<LinkButton href="/structure/rpl4_model.cif" icon="download">rpl4.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl4 |
+| Uniref90 representative | P51313 |
+| full name | Large ribosomal subunit protein uL4c |
+| descriptions | Probably binds the 23S rRNA |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51313/entry |
+| pfam domains | [PF00276,PF00573] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00276,https://www.ebi.ac.uk/interpro/entry/pfam/PF00573] |
+| alignment_path | /public/downloads/rpl4.aln |
+| n_seqs | 505.0 |
+| structure_path | /public/downloads/rpl4.cif |

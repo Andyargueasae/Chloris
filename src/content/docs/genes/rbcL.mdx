@@ -1,6 +1,6 @@
 ---
 title: "rbcL"
-description: "rbcL alignment and predicted structure"
+description: "Ribulose bisphosphate carboxylase large chain"
 slug: "genes/rbcL"
 ---
 
@@ -8,50 +8,45 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene information
+# Gene Information
 
-RuBisCO catalyzes two reactions: the carboxylation of D-ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site.
+**Full name:** Ribulose bisphosphate carboxylase large chain
 
-The basic functional RuBisCO is composed of a large chain homodimer in a 'head-to-tail' conformation. In form I RuBisCO this homodimer is arranged in a barrel-like tetramer with the small subunits forming a tetrameric 'cap' on each end of the 'barrel'.
+RuBisCO catalyzes two reactions: the carboxylation of D-ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site
 
-(source: https://www.uniprot.org/uniprotkb/P00877/entry)
+## Metadata
 
-# Multi-sequence alignment viewer
+- **UniRef90 representative:** `P36483`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P36483/entry](https://www.uniprot.org/uniprotkb/P36483/entry)
+- **Number of aligned sequences:** 866
+- **Pfam domains:**
+  - [PF00016](https://www.ebi.ac.uk/interpro/entry/pfam/PF00016)
+  - [PF02788](https://www.ebi.ac.uk/interpro/entry/pfam/PF02788)
 
-Alignment type: amino acid  
-Nseq: 869
+# Multi-Sequence Alignment
 
-<MsaBrowser
-  viewerId="rbcLViewer"
-  fastaUrl="/alignments/rbcL.aln"
-  colorSchema="clustal"
-  hasConsensus={true}
-  exportName="rbcL_alignment.fasta"
-  annotations={[
-    {
-      source: "rbcL features",
-      data: [
-        { annotation_id: "barcode",
-          annotation_name: "Barcode window",
-          annotation_start_point: 1,
-          annotation_end_point: 600
-        }
-      ]
-    }
-  ]}
-  alterations={[
-    { sequenceIndex: 1, position: 120, note: "Ambiguous site", source: "QC", type: "N" }
-  ]}
-/>
+<MsaBrowser viewerId="rbcLViewer" fastaUrl="/alignments/rbcL.aln" colorSchema="clustal" hasConsensus={true} exportName="rbcL_alignment.fasta" />
 
-# Structure visualization
+# Structure Visualization
 
-Alphafold 3 predicted structure of UCS09725.1 (*Oedocladium prescottii*).
+<ProteinStructureViewer cifUrl="/structure/rbcl_model.cif" height="900px" />
 
-<ProteinStructureViewer
-  cifUrl="/public/structure/ucs09725.1_rbcl_model.cif"
-  height="1280px"
-/>
+# Downloads
 
-# Download MSA File
 <LinkButton href="/alignments/rbcL.aln" icon="download">rbcL.aln</LinkButton>
+<LinkButton href="/structure/rbcl_model.cif" icon="download">rbcL.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rbcL |
+| Uniref90 representative | P36483 |
+| full name | Ribulose bisphosphate carboxylase large chain |
+| descriptions | RuBisCO catalyzes two reactions: the carboxylation of D-ribulose 1,5-bisphosphate, the primary event in carbon dioxide fixation, as well as the oxidative fragmentation of the pentose substrate in the photorespiration process. Both reactions occur simultaneously and in competition at the same active site |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P36483/entry |
+| pfam domains | [PF00016,PF02788] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00016,https://www.ebi.ac.uk/interpro/entry/pfam/PF02788] |
+| alignment_path | /public/downloads/rbcL.aln |
+| n_seqs | 866.0 |
+| structure_path | /public/downloads/rbcL.cif |

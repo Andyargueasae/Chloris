@@ -1,0 +1,64 @@
+---
+title: "minD"
+description: "Putative septum site-determining protein MinD"
+slug: "genes/minD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Putative septum site-determining protein MinD
+
+ATPase required for the correct placement of the division site
+
+## Metadata
+
+- **UniRef90 representative:** `Q9MUM5`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9MUM5/entry](https://www.uniprot.org/uniprotkb/Q9MUM5/entry)
+- **Number of aligned sequences:** 145
+- **Pfam domains:**
+  - [PF00142](https://www.ebi.ac.uk/interpro/entry/pfam/PF00142)
+  - [PF00448](https://www.ebi.ac.uk/interpro/entry/pfam/PF00448)
+  - [PF01656](https://www.ebi.ac.uk/interpro/entry/pfam/PF01656)
+  - [PF01695](https://www.ebi.ac.uk/interpro/entry/pfam/PF01695)
+  - [PF02374](https://www.ebi.ac.uk/interpro/entry/pfam/PF02374)
+  - [PF03308](https://www.ebi.ac.uk/interpro/entry/pfam/PF03308)
+  - [PF06564](https://www.ebi.ac.uk/interpro/entry/pfam/PF06564)
+  - [PF07015](https://www.ebi.ac.uk/interpro/entry/pfam/PF07015)
+  - [PF09140](https://www.ebi.ac.uk/interpro/entry/pfam/PF09140)
+  - [PF10609](https://www.ebi.ac.uk/interpro/entry/pfam/PF10609)
+  - [PF13479](https://www.ebi.ac.uk/interpro/entry/pfam/PF13479)
+  - [PF13481](https://www.ebi.ac.uk/interpro/entry/pfam/PF13481)
+  - [PF13500](https://www.ebi.ac.uk/interpro/entry/pfam/PF13500)
+  - [PF13614](https://www.ebi.ac.uk/interpro/entry/pfam/PF13614)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="minDViewer" fastaUrl="/alignments/minD.aln" colorSchema="clustal" hasConsensus={true} exportName="minD_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/mind_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/minD.aln" icon="download">minD.aln</LinkButton>
+<LinkButton href="/structure/mind_model.cif" icon="download">minD.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | minD |
+| Uniref90 representative | Q9MUM5 |
+| full name | Putative septum site-determining protein MinD |
+| descriptions | ATPase required for the correct placement of the division site |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9MUM5/entry |
+| pfam domains | [PF00142,PF00448,PF01656,PF01695,PF02374,PF03308,PF06564,PF07015,PF09140,PF10609,PF13479,PF13481,PF13500,PF13614] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00142,https://www.ebi.ac.uk/interpro/entry/pfam/PF00448,https://www.ebi.ac.uk/interpro/entry/pfam/PF01656,https://www.ebi.ac.uk/interpro/entry/pfam/PF01695,https://www.ebi.ac.uk/interpro/entry/pfam/PF02374,https://www.ebi.ac.uk/interpro/entry/pfam/PF03308,https://www.ebi.ac.uk/interpro/entry/pfam/PF06564,https://www.ebi.ac.uk/interpro/entry/pfam/PF07015,https://www.ebi.ac.uk/interpro/entry/pfam/PF09140,https://www.ebi.ac.uk/interpro/entry/pfam/PF10609,https://www.ebi.ac.uk/interpro/entry/pfam/PF13479,https://www.ebi.ac.uk/interpro/entry/pfam/PF13481,https://www.ebi.ac.uk/interpro/entry/pfam/PF13500,https://www.ebi.ac.uk/interpro/entry/pfam/PF13614] |
+| alignment_path | /public/downloads/minD.aln |
+| n_seqs | 145.0 |
+| structure_path | /public/downloads/minD.cif |

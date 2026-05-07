@@ -1,0 +1,51 @@
+---
+title: "ilvB"
+description: "Acetolactate synthase large subunit"
+slug: "genes/ilvB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Acetolactate synthase large subunit
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDF6`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDF6/entry](https://www.uniprot.org/uniprotkb/Q1XDF6/entry)
+- **Number of aligned sequences:** 369
+- **Pfam domains:**
+  - [PF00205](https://www.ebi.ac.uk/interpro/entry/pfam/PF00205)
+  - [PF02775](https://www.ebi.ac.uk/interpro/entry/pfam/PF02775)
+  - [PF02776](https://www.ebi.ac.uk/interpro/entry/pfam/PF02776)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ilvBViewer" fastaUrl="/alignments/ilvB.aln" colorSchema="clustal" hasConsensus={true} exportName="ilvB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ilvb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ilvB.aln" icon="download">ilvB.aln</LinkButton>
+<LinkButton href="/structure/ilvb_model.cif" icon="download">ilvB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ilvB |
+| Uniref90 representative | Q1XDF6 |
+| full name | Acetolactate synthase large subunit |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDF6/entry |
+| pfam domains | [PF00205,PF02775,PF02776] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00205,https://www.ebi.ac.uk/interpro/entry/pfam/PF02775,https://www.ebi.ac.uk/interpro/entry/pfam/PF02776] |
+| alignment_path | /public/downloads/ilvB.aln |
+| n_seqs | 369.0 |
+| structure_path | /public/downloads/ilvB.cif |

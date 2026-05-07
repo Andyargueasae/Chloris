@@ -1,0 +1,52 @@
+---
+title: "rps4"
+description: "Small ribosomal subunit protein uS4c"
+slug: "genes/rps4"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS4c
+
+One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit With S5 and S12 plays an important role in translational accuracy
+
+## Metadata
+
+- **UniRef90 representative:** `P51219`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51219/entry](https://www.uniprot.org/uniprotkb/P51219/entry)
+- **Number of aligned sequences:** 885
+- **Pfam domains:**
+  - [PF00163](https://www.ebi.ac.uk/interpro/entry/pfam/PF00163)
+  - [PF01479](https://www.ebi.ac.uk/interpro/entry/pfam/PF01479)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps4Viewer" fastaUrl="/alignments/rps4.aln" colorSchema="clustal" hasConsensus={true} exportName="rps4_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps4_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps4.aln" icon="download">rps4.aln</LinkButton>
+<LinkButton href="/structure/rps4_model.cif" icon="download">rps4.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps4 |
+| Uniref90 representative | P51219 |
+| full name | Small ribosomal subunit protein uS4c |
+| descriptions | One of the primary rRNA binding proteins, it binds directly to 16S rRNA where it nucleates assembly of the body of the 30S subunit With S5 and S12 plays an important role in translational accuracy |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51219/entry |
+| pfam domains | [PF00163,PF01479] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00163,https://www.ebi.ac.uk/interpro/entry/pfam/PF01479] |
+| alignment_path | /public/downloads/rps4.aln |
+| n_seqs | 885.0 |
+| structure_path | /public/downloads/rps4.cif |

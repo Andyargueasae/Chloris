@@ -1,0 +1,51 @@
+---
+title: "cemA"
+description: "Potassium/proton antiporter CemA"
+slug: "genes/cemA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Potassium/proton antiporter CemA
+
+Contributes to K(+)/H(+) antiport activity by supporting proton efflux to control proton extrusion and homeostasis in chloroplasts in a light-dependent manner to modulate photosynthesis. Prevents excessive induction of non-photochemical quenching (NPQ) under continuous-light conditions. Indirectly promotes efficient inorganic carbon uptake into chloroplasts
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDQ5`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDQ5/entry](https://www.uniprot.org/uniprotkb/Q1XDQ5/entry)
+- **Number of aligned sequences:** 544
+- **Pfam domains:**
+  - [PF03040](https://www.ebi.ac.uk/interpro/entry/pfam/PF03040)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="cemAViewer" fastaUrl="/alignments/cemA.aln" colorSchema="clustal" hasConsensus={true} exportName="cemA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/cema_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/cemA.aln" icon="download">cemA.aln</LinkButton>
+<LinkButton href="/structure/cema_model.cif" icon="download">cemA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | cemA |
+| Uniref90 representative | Q1XDQ5 |
+| full name | Potassium/proton antiporter CemA |
+| descriptions | Contributes to K(+)/H(+) antiport activity by supporting proton efflux to control proton extrusion and homeostasis in chloroplasts in a light-dependent manner to modulate photosynthesis. Prevents excessive induction of non-photochemical quenching (NPQ) under continuous-light conditions. Indirectly promotes efficient inorganic carbon uptake into chloroplasts |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDQ5/entry |
+| pfam domains | [PF03040] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF03040] |
+| alignment_path | /public/downloads/cemA.aln |
+| n_seqs | 544.0 |
+| structure_path | /public/downloads/cemA.cif |

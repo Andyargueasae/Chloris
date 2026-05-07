@@ -1,0 +1,51 @@
+---
+title: "psbB"
+description: "Photosystem II CP47 reaction center protein"
+slug: "genes/psbB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II CP47 reaction center protein
+
+One of the components of the core complex of photosystem II (PSII). It binds chlorophyll and helps catalyze the primary light-induced photochemical processes of PSII. PSII is a light-driven water:plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDG4`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDG4/entry](https://www.uniprot.org/uniprotkb/Q1XDG4/entry)
+- **Number of aligned sequences:** 847
+- **Pfam domains:**
+  - [PF00421](https://www.ebi.ac.uk/interpro/entry/pfam/PF00421)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbBViewer" fastaUrl="/alignments/psbB.aln" colorSchema="clustal" hasConsensus={true} exportName="psbB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbB.aln" icon="download">psbB.aln</LinkButton>
+<LinkButton href="/structure/psbb_model.cif" icon="download">psbB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbB |
+| Uniref90 representative | Q1XDG4 |
+| full name | Photosystem II CP47 reaction center protein |
+| descriptions | One of the components of the core complex of photosystem II (PSII). It binds chlorophyll and helps catalyze the primary light-induced photochemical processes of PSII. PSII is a light-driven water:plastoquinone oxidoreductase, using light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDG4/entry |
+| pfam domains | [PF00421] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00421] |
+| alignment_path | /public/downloads/psbB.aln |
+| n_seqs | 847.0 |
+| structure_path | /public/downloads/psbB.cif |

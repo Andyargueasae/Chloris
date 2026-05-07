@@ -1,0 +1,49 @@
+---
+title: "rpl33"
+description: "Large ribosomal subunit protein bL33c"
+slug: "genes/rpl33"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL33c
+
+## Metadata
+
+- **UniRef90 representative:** `P51255`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51255/entry](https://www.uniprot.org/uniprotkb/P51255/entry)
+- **Number of aligned sequences:** 556
+- **Pfam domains:**
+  - [PF00471](https://www.ebi.ac.uk/interpro/entry/pfam/PF00471)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl33Viewer" fastaUrl="/alignments/rpl33.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl33_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl33_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl33.aln" icon="download">rpl33.aln</LinkButton>
+<LinkButton href="/structure/rpl33_model.cif" icon="download">rpl33.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl33 |
+| Uniref90 representative | P51255 |
+| full name | Large ribosomal subunit protein bL33c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51255/entry |
+| pfam domains | [PF00471] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00471] |
+| alignment_path | /public/downloads/rpl33.aln |
+| n_seqs | 556.0 |
+| structure_path | /public/downloads/rpl33.cif |

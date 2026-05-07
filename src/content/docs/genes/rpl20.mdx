@@ -1,0 +1,51 @@
+---
+title: "rpl20"
+description: "Large ribosomal subunit protein bL20c"
+slug: "genes/rpl20"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Large ribosomal subunit protein bL20c
+
+Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDL7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDL7/entry](https://www.uniprot.org/uniprotkb/Q1XDL7/entry)
+- **Number of aligned sequences:** 894
+- **Pfam domains:**
+  - [PF00453](https://www.ebi.ac.uk/interpro/entry/pfam/PF00453)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl20Viewer" fastaUrl="/alignments/rpl20.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl20_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpl20_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpl20.aln" icon="download">rpl20.aln</LinkButton>
+<LinkButton href="/structure/rpl20_model.cif" icon="download">rpl20.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpl20 |
+| Uniref90 representative | Q1XDL7 |
+| full name | Large ribosomal subunit protein bL20c |
+| descriptions | Binds directly to 23S ribosomal RNA and is necessary for the in vitro assembly process of the 50S ribosomal subunit. It is not involved in the protein synthesizing functions of that subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDL7/entry |
+| pfam domains | [PF00453] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00453] |
+| alignment_path | /public/downloads/rpl20.aln |
+| n_seqs | 894.0 |
+| structure_path | /public/downloads/rpl20.cif |

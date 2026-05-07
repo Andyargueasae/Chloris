@@ -1,0 +1,51 @@
+---
+title: "desA"
+description: "sn-1 oleoyl-lipid 12-desaturase"
+slug: "genes/desA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** sn-1 oleoyl-lipid 12-desaturase
+
+Desaturase involved in fatty acid biosynthesis (PubMed:2118597). Introduces a double bond at carbon 12 of oleoyl groups (18:1) attached to the sn-1 position of the glycerol moiety of membrane glycerolipids (PubMed:20377689, PubMed:2118597). This enzyme is involved in chilling tolerance because the phase transition temperature of lipids of cellular membranes depends on the degree of unsaturation of fatty acids of the membrane lipids (PubMed:20377689, PubMed:2118597).
+
+## Metadata
+
+- **UniRef90 representative:** `P20388`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P20388/entry](https://www.uniprot.org/uniprotkb/P20388/entry)
+- **Number of aligned sequences:** 13
+- **Pfam domains:**
+  - [PF00487](https://www.ebi.ac.uk/interpro/entry/pfam/PF00487)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="desAViewer" fastaUrl="/alignments/desA.aln" colorSchema="clustal" hasConsensus={true} exportName="desA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/desa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/desA.aln" icon="download">desA.aln</LinkButton>
+<LinkButton href="/structure/desa_model.cif" icon="download">desA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | desA |
+| Uniref90 representative | P20388 |
+| full name | sn-1 oleoyl-lipid 12-desaturase |
+| descriptions | Desaturase involved in fatty acid biosynthesis (PubMed:2118597). Introduces a double bond at carbon 12 of oleoyl groups (18:1) attached to the sn-1 position of the glycerol moiety of membrane glycerolipids (PubMed:20377689, PubMed:2118597). This enzyme is involved in chilling tolerance because the phase transition temperature of lipids of cellular membranes depends on the degree of unsaturation of fatty acids of the membrane lipids (PubMed:20377689, PubMed:2118597). |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P20388/entry |
+| pfam domains | [PF00487] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00487] |
+| alignment_path | /public/downloads/desA.aln |
+| n_seqs | 13.0 |
+| structure_path | /public/downloads/desA.cif |

@@ -1,0 +1,54 @@
+---
+title: "rpoA"
+description: "DNA-directed RNA polymerase subunit alpha"
+slug: "genes/rpoA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** DNA-directed RNA polymerase subunit alpha
+
+DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDJ5`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDJ5/entry](https://www.uniprot.org/uniprotkb/Q1XDJ5/entry)
+- **Number of aligned sequences:** 831
+- **Pfam domains:**
+  - [PF01000](https://www.ebi.ac.uk/interpro/entry/pfam/PF01000)
+  - [PF01193](https://www.ebi.ac.uk/interpro/entry/pfam/PF01193)
+  - [PF03118](https://www.ebi.ac.uk/interpro/entry/pfam/PF03118)
+  - [PF14520](https://www.ebi.ac.uk/interpro/entry/pfam/PF14520)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpoAViewer" fastaUrl="/alignments/rpoA.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rpoa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rpoA.aln" icon="download">rpoA.aln</LinkButton>
+<LinkButton href="/structure/rpoa_model.cif" icon="download">rpoA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rpoA |
+| Uniref90 representative | Q1XDJ5 |
+| full name | DNA-directed RNA polymerase subunit alpha |
+| descriptions | DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using the four ribonucleoside triphosphates as substrates |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDJ5/entry |
+| pfam domains | [PF01000,PF01193,PF03118,PF14520] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01000,https://www.ebi.ac.uk/interpro/entry/pfam/PF01193,https://www.ebi.ac.uk/interpro/entry/pfam/PF03118,https://www.ebi.ac.uk/interpro/entry/pfam/PF14520] |
+| alignment_path | /public/downloads/rpoA.aln |
+| n_seqs | 831.0 |
+| structure_path | /public/downloads/rpoA.cif |

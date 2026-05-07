@@ -1,0 +1,51 @@
+---
+title: "rps8"
+description: "Small ribosomal subunit protein uS8c"
+slug: "genes/rps8"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein uS8c
+
+One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51301`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51301/entry](https://www.uniprot.org/uniprotkb/P51301/entry)
+- **Number of aligned sequences:** 870
+- **Pfam domains:**
+  - [PF00410](https://www.ebi.ac.uk/interpro/entry/pfam/PF00410)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps8Viewer" fastaUrl="/alignments/rps8.aln" colorSchema="clustal" hasConsensus={true} exportName="rps8_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps8_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps8.aln" icon="download">rps8.aln</LinkButton>
+<LinkButton href="/structure/rps8_model.cif" icon="download">rps8.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps8 |
+| Uniref90 representative | P51301 |
+| full name | Small ribosomal subunit protein uS8c |
+| descriptions | One of the primary rRNA binding proteins, it binds directly to 16S rRNA central domain where it helps coordinate assembly of the platform of the 30S subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51301/entry |
+| pfam domains | [PF00410] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00410] |
+| alignment_path | /public/downloads/rps8.aln |
+| n_seqs | 870.0 |
+| structure_path | /public/downloads/rps8.cif |

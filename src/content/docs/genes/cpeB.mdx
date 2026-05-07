@@ -1,0 +1,51 @@
+---
+title: "cpeB"
+description: "R-phycoerythrin beta chain"
+slug: "genes/cpeB"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** R-phycoerythrin beta chain
+
+Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex.
+
+## Metadata
+
+- **UniRef90 representative:** `O36004`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/O36004/entry](https://www.uniprot.org/uniprotkb/O36004/entry)
+- **Number of aligned sequences:** 545
+- **Pfam domains:**
+  - [PF00502](https://www.ebi.ac.uk/interpro/entry/pfam/PF00502)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="cpeBViewer" fastaUrl="/alignments/cpeB.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeB_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/cpeb_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/cpeB.aln" icon="download">cpeB.aln</LinkButton>
+<LinkButton href="/structure/cpeb_model.cif" icon="download">cpeB.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | cpeB |
+| Uniref90 representative | O36004 |
+| full name | R-phycoerythrin beta chain |
+| descriptions | Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/O36004/entry |
+| pfam domains | [PF00502] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00502] |
+| alignment_path | /public/downloads/cpeB.aln |
+| n_seqs | 545.0 |
+| structure_path | /public/downloads/cpeB.cif |

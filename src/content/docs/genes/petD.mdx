@@ -1,0 +1,51 @@
+---
+title: "petD"
+description: "Cytochrome b6-f complex subunit 4"
+slug: "genes/petD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Cytochrome b6-f complex subunit 4
+
+Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDE7`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDE7/entry](https://www.uniprot.org/uniprotkb/Q1XDE7/entry)
+- **Number of aligned sequences:** 810
+- **Pfam domains:**
+  - [PF00032](https://www.ebi.ac.uk/interpro/entry/pfam/PF00032)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="petDViewer" fastaUrl="/alignments/petD.aln" colorSchema="clustal" hasConsensus={true} exportName="petD_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/petd_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/petD.aln" icon="download">petD.aln</LinkButton>
+<LinkButton href="/structure/petd_model.cif" icon="download">petD.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | petD |
+| Uniref90 representative | Q1XDE7 |
+| full name | Cytochrome b6-f complex subunit 4 |
+| descriptions | Component of the cytochrome b6-f complex, which mediates electron transfer between photosystem II (PSII) and photosystem I (PSI), cyclic electron flow around PSI, and state transitions |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDE7/entry |
+| pfam domains | [PF00032] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00032] |
+| alignment_path | /public/downloads/petD.aln |
+| n_seqs | 810.0 |
+| structure_path | /public/downloads/petD.cif |

@@ -1,0 +1,49 @@
+---
+title: "rps1"
+description: "Small ribosomal subunit protein bS1c"
+slug: "genes/rps1"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Small ribosomal subunit protein bS1c
+
+## Metadata
+
+- **UniRef90 representative:** `P51345`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51345/entry](https://www.uniprot.org/uniprotkb/P51345/entry)
+- **Number of aligned sequences:** 300
+- **Pfam domains:**
+  - [PF00575](https://www.ebi.ac.uk/interpro/entry/pfam/PF00575)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rps1Viewer" fastaUrl="/alignments/rps1.aln" colorSchema="clustal" hasConsensus={true} exportName="rps1_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rps1_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rps1.aln" icon="download">rps1.aln</LinkButton>
+<LinkButton href="/structure/rps1_model.cif" icon="download">rps1.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rps1 |
+| Uniref90 representative | P51345 |
+| full name | Small ribosomal subunit protein bS1c |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51345/entry |
+| pfam domains | [PF00575] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00575] |
+| alignment_path | /public/downloads/rps1.aln |
+| n_seqs | 300.0 |
+| structure_path | /public/downloads/rps1.cif |

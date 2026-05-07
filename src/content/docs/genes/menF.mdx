@@ -1,0 +1,49 @@
+---
+title: "menF"
+description: "isochorismate synthase"
+slug: "genes/menF"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** isochorismate synthase
+
+## Metadata
+
+- **UniRef90 representative:** `Q9TM09`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q9TM09/entry](https://www.uniprot.org/uniprotkb/Q9TM09/entry)
+- **Number of aligned sequences:** 9
+- **Pfam domains:**
+  - [PF00425](https://www.ebi.ac.uk/interpro/entry/pfam/PF00425)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="menFViewer" fastaUrl="/alignments/menF.aln" colorSchema="clustal" hasConsensus={true} exportName="menF_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/menf_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/menF.aln" icon="download">menF.aln</LinkButton>
+<LinkButton href="/structure/menf_model.cif" icon="download">menF.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | menF |
+| Uniref90 representative | Q9TM09 |
+| full name | isochorismate synthase |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q9TM09/entry |
+| pfam domains | [PF00425] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00425] |
+| alignment_path | /public/downloads/menF.aln |
+| n_seqs | 9.0 |
+| structure_path | /public/downloads/menF.cif |

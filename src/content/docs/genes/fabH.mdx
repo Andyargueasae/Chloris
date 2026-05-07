@@ -1,0 +1,54 @@
+---
+title: "fabH"
+description: "Beta-ketoacyl-[acyl-carrier-protein] synthase III"
+slug: "genes/fabH"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Beta-ketoacyl-[acyl-carrier-protein] synthase III
+
+Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP. Catalyzes the first condensation reaction which initiates fatty acid synthesis and may therefore play a role in governing the total rate of fatty acid production. Possesses both acetoacetyl-ACP synthase and acetyl transacylase activities. Its substrate specificity determines the biosynthesis of branched-chain and/or straight-chain of fatty acids
+
+## Metadata
+
+- **UniRef90 representative:** `P51196`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51196/entry](https://www.uniprot.org/uniprotkb/P51196/entry)
+- **Number of aligned sequences:** 238
+- **Pfam domains:**
+  - [PF00195](https://www.ebi.ac.uk/interpro/entry/pfam/PF00195)
+  - [PF02797](https://www.ebi.ac.uk/interpro/entry/pfam/PF02797)
+  - [PF08541](https://www.ebi.ac.uk/interpro/entry/pfam/PF08541)
+  - [PF08545](https://www.ebi.ac.uk/interpro/entry/pfam/PF08545)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="fabHViewer" fastaUrl="/alignments/fabH.aln" colorSchema="clustal" hasConsensus={true} exportName="fabH_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/fabh_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/fabH.aln" icon="download">fabH.aln</LinkButton>
+<LinkButton href="/structure/fabh_model.cif" icon="download">fabH.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | fabH |
+| Uniref90 representative | P51196 |
+| full name | Beta-ketoacyl-[acyl-carrier-protein] synthase III |
+| descriptions | Catalyzes the condensation reaction of fatty acid synthesis by the addition to an acyl acceptor of two carbons from malonyl-ACP. Catalyzes the first condensation reaction which initiates fatty acid synthesis and may therefore play a role in governing the total rate of fatty acid production. Possesses both acetoacetyl-ACP synthase and acetyl transacylase activities. Its substrate specificity determines the biosynthesis of branched-chain and/or straight-chain of fatty acids |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51196/entry |
+| pfam domains | [PF00195,PF02797,PF08541,PF08545] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00195,https://www.ebi.ac.uk/interpro/entry/pfam/PF02797,https://www.ebi.ac.uk/interpro/entry/pfam/PF08541,https://www.ebi.ac.uk/interpro/entry/pfam/PF08545] |
+| alignment_path | /public/downloads/fabH.aln |
+| n_seqs | 238.0 |
+| structure_path | /public/downloads/fabH.cif |

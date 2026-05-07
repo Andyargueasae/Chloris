@@ -1,0 +1,49 @@
+---
+title: "ycf34"
+description: "Uncharacterized protein ycf34"
+slug: "genes/ycf34"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf34
+
+## Metadata
+
+- **UniRef90 representative:** `P51229`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51229/entry](https://www.uniprot.org/uniprotkb/P51229/entry)
+- **Number of aligned sequences:** 278
+- **Pfam domains:**
+  - [PF10718](https://www.ebi.ac.uk/interpro/entry/pfam/PF10718)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf34Viewer" fastaUrl="/alignments/ycf34.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf34_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf34_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf34.aln" icon="download">ycf34.aln</LinkButton>
+<LinkButton href="/structure/ycf34_model.cif" icon="download">ycf34.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf34 |
+| Uniref90 representative | P51229 |
+| full name | Uncharacterized protein ycf34 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51229/entry |
+| pfam domains | [PF10718] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF10718] |
+| alignment_path | /public/downloads/ycf34.aln |
+| n_seqs | 278.0 |
+| structure_path | /public/downloads/ycf34.cif |

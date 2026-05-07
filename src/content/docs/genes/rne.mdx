@@ -1,0 +1,52 @@
+---
+title: "rne"
+description: "Ribonuclease E/G-like protein"
+slug: "genes/rne"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Ribonuclease E/G-like protein
+
+Involved in intercistronic processing of primary transcripts from chloroplast operons. The endonucleolytic activity of the enzyme depends on the number of phosphates at the 5' end, is inhibited by structured RNA, and preferentially cleaves A/U-rich sequences
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDS6`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDS6/entry](https://www.uniprot.org/uniprotkb/Q1XDS6/entry)
+- **Number of aligned sequences:** 275
+- **Pfam domains:**
+  - [PF00575](https://www.ebi.ac.uk/interpro/entry/pfam/PF00575)
+  - [PF10150](https://www.ebi.ac.uk/interpro/entry/pfam/PF10150)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rneViewer" fastaUrl="/alignments/rne.aln" colorSchema="clustal" hasConsensus={true} exportName="rne_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/rne_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/rne.aln" icon="download">rne.aln</LinkButton>
+<LinkButton href="/structure/rne_model.cif" icon="download">rne.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | rne |
+| Uniref90 representative | Q1XDS6 |
+| full name | Ribonuclease E/G-like protein |
+| descriptions | Involved in intercistronic processing of primary transcripts from chloroplast operons. The endonucleolytic activity of the enzyme depends on the number of phosphates at the 5' end, is inhibited by structured RNA, and preferentially cleaves A/U-rich sequences |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDS6/entry |
+| pfam domains | [PF00575,PF10150] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00575,https://www.ebi.ac.uk/interpro/entry/pfam/PF10150] |
+| alignment_path | /public/downloads/rne.aln |
+| n_seqs | 275.0 |
+| structure_path | /public/downloads/rne.cif |

@@ -1,0 +1,49 @@
+---
+title: "ycf53"
+description: "Uncharacterized protein ycf53"
+slug: "genes/ycf53"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf53
+
+## Metadata
+
+- **UniRef90 representative:** `P51202`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51202/entry](https://www.uniprot.org/uniprotkb/P51202/entry)
+- **Number of aligned sequences:** 251
+- **Pfam domains:**
+  - [PF05419](https://www.ebi.ac.uk/interpro/entry/pfam/PF05419)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf53Viewer" fastaUrl="/alignments/ycf53.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf53_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf53_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf53.aln" icon="download">ycf53.aln</LinkButton>
+<LinkButton href="/structure/ycf53_model.cif" icon="download">ycf53.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf53 |
+| Uniref90 representative | P51202 |
+| full name | Uncharacterized protein ycf53 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51202/entry |
+| pfam domains | [PF05419] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF05419] |
+| alignment_path | /public/downloads/ycf53.aln |
+| n_seqs | 251.0 |
+| structure_path | /public/downloads/ycf53.cif |

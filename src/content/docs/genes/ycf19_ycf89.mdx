@@ -1,0 +1,49 @@
+---
+title: "ycf19_ycf89"
+description: "Uncharacterized protein ycf19"
+slug: "genes/ycf19_ycf89"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf19
+
+## Metadata
+
+- **UniRef90 representative:** `P28255`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P28255/entry](https://www.uniprot.org/uniprotkb/P28255/entry)
+- **Number of aligned sequences:** 641
+- **Pfam domains:**
+  - [PF02325](https://www.ebi.ac.uk/interpro/entry/pfam/PF02325)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf19_ycf89Viewer" fastaUrl="/alignments/ycf19_ycf89.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf19_ycf89_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf19_ycf89_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf19_ycf89.aln" icon="download">ycf19_ycf89.aln</LinkButton>
+<LinkButton href="/structure/ycf19_ycf89_model.cif" icon="download">ycf19_ycf89.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf19_ycf89 |
+| Uniref90 representative | P28255 |
+| full name | Uncharacterized protein ycf19 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P28255/entry |
+| pfam domains | [PF02325] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02325] |
+| alignment_path | /public/downloads/ycf19_ycf89.aln |
+| n_seqs | 641.0 |
+| structure_path | /public/downloads/ycf19_ycf89.cif |

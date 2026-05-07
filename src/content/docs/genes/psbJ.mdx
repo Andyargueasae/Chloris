@@ -1,0 +1,51 @@
+---
+title: "psbJ"
+description: "Photosystem II reaction center protein J"
+slug: "genes/psbJ"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem II reaction center protein J
+
+One of the components of the core complex of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation
+
+## Metadata
+
+- **UniRef90 representative:** `P51388`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51388/entry](https://www.uniprot.org/uniprotkb/P51388/entry)
+- **Number of aligned sequences:** 841
+- **Pfam domains:**
+  - [PF01788](https://www.ebi.ac.uk/interpro/entry/pfam/PF01788)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psbJViewer" fastaUrl="/alignments/psbJ.aln" colorSchema="clustal" hasConsensus={true} exportName="psbJ_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psbj_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psbJ.aln" icon="download">psbJ.aln</LinkButton>
+<LinkButton href="/structure/psbj_model.cif" icon="download">psbJ.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psbJ |
+| Uniref90 representative | P51388 |
+| full name | Photosystem II reaction center protein J |
+| descriptions | One of the components of the core complex of photosystem II (PSII). PSII is a light-driven water:plastoquinone oxidoreductase that uses light energy to abstract electrons from H(2)O, generating O(2) and a proton gradient subsequently used for ATP formation. It consists of a core antenna complex that captures photons, and an electron transfer chain that converts photonic excitation into a charge separation |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51388/entry |
+| pfam domains | [PF01788] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01788] |
+| alignment_path | /public/downloads/psbJ.aln |
+| n_seqs | 841.0 |
+| structure_path | /public/downloads/psbJ.cif |

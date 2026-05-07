@@ -1,0 +1,51 @@
+---
+title: "psaE"
+description: "Photosystem I reaction center subunit IV"
+slug: "genes/psaE"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Photosystem I reaction center subunit IV
+
+Stabilizes the interaction between PsaC and the PSI core, assists the docking of the ferredoxin to PSI and interacts with ferredoxin-NADP oxidoreductase
+
+## Metadata
+
+- **UniRef90 representative:** `P69403`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P69403/entry](https://www.uniprot.org/uniprotkb/P69403/entry)
+- **Number of aligned sequences:** 497
+- **Pfam domains:**
+  - [PF02427](https://www.ebi.ac.uk/interpro/entry/pfam/PF02427)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaEViewer" fastaUrl="/alignments/psaE.aln" colorSchema="clustal" hasConsensus={true} exportName="psaE_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/psae_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/psaE.aln" icon="download">psaE.aln</LinkButton>
+<LinkButton href="/structure/psae_model.cif" icon="download">psaE.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaE |
+| Uniref90 representative | P69403 |
+| full name | Photosystem I reaction center subunit IV |
+| descriptions | Stabilizes the interaction between PsaC and the PSI core, assists the docking of the ferredoxin to PSI and interacts with ferredoxin-NADP oxidoreductase |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P69403/entry |
+| pfam domains | [PF02427] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02427] |
+| alignment_path | /public/downloads/psaE.aln |
+| n_seqs | 497.0 |
+| structure_path | /public/downloads/psaE.cif |

@@ -1,0 +1,50 @@
+---
+title: "leuD"
+description: "3-isopropylmalate dehydratase small subunit"
+slug: "genes/leuD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** 3-isopropylmalate dehydratase small subunit
+
+## Metadata
+
+- **UniRef90 representative:** `Q6B919`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q6B919/entry](https://www.uniprot.org/uniprotkb/Q6B919/entry)
+- **Number of aligned sequences:** 15
+- **Pfam domains:**
+  - [PF00694](https://www.ebi.ac.uk/interpro/entry/pfam/PF00694)
+  - [PF06434](https://www.ebi.ac.uk/interpro/entry/pfam/PF06434)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="leuDViewer" fastaUrl="/alignments/leuD.aln" colorSchema="clustal" hasConsensus={true} exportName="leuD_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/leud_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/leuD.aln" icon="download">leuD.aln</LinkButton>
+<LinkButton href="/structure/leud_model.cif" icon="download">leuD.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | leuD |
+| Uniref90 representative | Q6B919 |
+| full name | 3-isopropylmalate dehydratase small subunit |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q6B919/entry |
+| pfam domains | [PF00694,PF06434] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00694,https://www.ebi.ac.uk/interpro/entry/pfam/PF06434] |
+| alignment_path | /public/downloads/leuD.aln |
+| n_seqs | 15.0 |
+| structure_path | /public/downloads/leuD.cif |

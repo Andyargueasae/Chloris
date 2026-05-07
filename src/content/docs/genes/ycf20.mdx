@@ -1,0 +1,49 @@
+---
+title: "ycf20"
+description: "Uncharacterized protein ycf20"
+slug: "genes/ycf20"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** Uncharacterized protein ycf20
+
+## Metadata
+
+- **UniRef90 representative:** `P51214`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51214/entry](https://www.uniprot.org/uniprotkb/P51214/entry)
+- **Number of aligned sequences:** 435
+- **Pfam domains:**
+  - [PF04483](https://www.ebi.ac.uk/interpro/entry/pfam/PF04483)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf20Viewer" fastaUrl="/alignments/ycf20.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf20_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/ycf20_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/ycf20.aln" icon="download">ycf20.aln</LinkButton>
+<LinkButton href="/structure/ycf20_model.cif" icon="download">ycf20.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | ycf20 |
+| Uniref90 representative | P51214 |
+| full name | Uncharacterized protein ycf20 |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51214/entry |
+| pfam domains | [PF04483] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF04483] |
+| alignment_path | /public/downloads/ycf20.aln |
+| n_seqs | 435.0 |
+| structure_path | /public/downloads/ycf20.cif |

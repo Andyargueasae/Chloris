@@ -1,0 +1,54 @@
+---
+title: "atpA"
+description: "ATP synthase subunit alpha, chloroplastic"
+slug: "genes/atpA"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Gene Information
+
+**Full name:** ATP synthase subunit alpha, chloroplastic
+
+Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit
+
+## Metadata
+
+- **UniRef90 representative:** `P51242`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51242/entry](https://www.uniprot.org/uniprotkb/P51242/entry)
+- **Number of aligned sequences:** 859
+- **Pfam domains:**
+  - [PF00006](https://www.ebi.ac.uk/interpro/entry/pfam/PF00006)
+  - [PF00306](https://www.ebi.ac.uk/interpro/entry/pfam/PF00306)
+  - [PF01245](https://www.ebi.ac.uk/interpro/entry/pfam/PF01245)
+  - [PF02874](https://www.ebi.ac.uk/interpro/entry/pfam/PF02874)
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="atpAViewer" fastaUrl="/alignments/atpA.aln" colorSchema="clustal" hasConsensus={true} exportName="atpA_alignment.fasta" />
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="/structure/atpa_model.cif" height="900px" />
+
+# Downloads
+
+<LinkButton href="/alignments/atpA.aln" icon="download">atpA.aln</LinkButton>
+<LinkButton href="/structure/atpa_model.cif" icon="download">atpA.cif</LinkButton>
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | atpA |
+| Uniref90 representative | P51242 |
+| full name | ATP synthase subunit alpha, chloroplastic |
+| descriptions | Produces ATP from ADP in the presence of a proton gradient across the membrane. The alpha chain is a regulatory subunit |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/P51242/entry |
+| pfam domains | [PF00006,PF00306,PF01245,PF02874] |
+| pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00006,https://www.ebi.ac.uk/interpro/entry/pfam/PF00306,https://www.ebi.ac.uk/interpro/entry/pfam/PF01245,https://www.ebi.ac.uk/interpro/entry/pfam/PF02874] |
+| alignment_path | /public/downloads/atpA.aln |
+| n_seqs | 859.0 |
+| structure_path | /public/downloads/atpA.cif |
