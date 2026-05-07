@@ -11,6 +11,6 @@ if (!page) {
 const { Content } = await render(page);
 ---
 
-<DocsLayout frontmatter={page.data}>
+<DocsLayout title={page.data.title} description={page.data.description}>
   <Content />
 </DocsLayout>

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Generate gene MDX pages from protein JSON metadata.
+"""Generate protein MDX pages from protein JSON metadata.
 
-Reads all files from ``src/content/proteins_jsons`` and writes generated pages to
-``src/content/docs/genes``.
+Reads all files from ``src/proteins_jsons`` and writes generated pages to
+``src/content/docs/proteins``.
 """
 
 from __future__ import annotations
@@ -14,8 +14,8 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parent
-JSON_DIR = ROOT / "src" / "content" / "proteins_jsons"
-OUT_DIR = ROOT / "src" / "content" / "docs" / "genes"
+JSON_DIR = ROOT / "src" / "proteins_jsons"
+OUT_DIR = ROOT / "src" / "content" / "docs" / "proteins"
 PUBLIC_ALIGNMENTS_DIR = ROOT / "public" / "alignments"
 PUBLIC_STRUCTURE_DIR = ROOT / "public" / "structure"
 
@@ -121,7 +121,7 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 		"---",
 		f"title: {yaml_double_quoted(title)}",
 		f"description: {yaml_double_quoted(description_text)}",
-		f"slug: {yaml_double_quoted(f'genes/{gene}')}",
+		f"slug: {yaml_double_quoted(f'proteins/{gene}')}",
 		"---",
 		"",
 		"import MsaBrowser from '../../../components/MSA.astro';",

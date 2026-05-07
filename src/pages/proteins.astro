@@ -8,20 +8,20 @@ if (!page) {
 }
 const { Content } = await render(page);
 
-const genePages = (await getCollection('docs', ({ id }) => id.startsWith('genes/'))).sort(
+const proteinPages = (await getCollection('docs', ({ id }) => id.startsWith('proteins/'))).sort(
   (a, b) => {
-    const aTitle = a.data.title || a.id.replace('genes/', '');
-    const bTitle = b.data.title || b.id.replace('genes/', '');
+    const aTitle = a.data.title || a.id.replace('proteins/', '');
+    const bTitle = b.data.title || b.id.replace('proteins/', '');
     return aTitle.localeCompare(bTitle, undefined, { sensitivity: 'base' });
   }
 );
 
-const genes = genePages.map((entry) => {
-  const gene = entry.id.replace('genes/', '');
+const proteins = proteinPages.map((entry) => {
+  const protein = entry.id.replace('proteins/', '');
   return {
-    gene,
-    title: entry.data.title || gene,
-    href: `/genes/${gene}/`,
+    protein,
+    title: entry.data.title || protein,
+    href: `/proteins/${protein}/`,
   };
 });
 ---
@@ -29,11 +29,11 @@ const genes = genePages.map((entry) => {
 <DocsLayout title={page.data.title} description={page.data.description}>
   <Content />
 
-  <h2>Gene List ({genes.length})</h2>
+  <h2>protein List ({proteins.length})</h2>
 
-  <ul class="gene-list">
+  <ul class="protein-list">
     {
-      genes.map((item) => (
+      proteins.map((item) => (
         <li>
           <a href={item.href}>{item.title}</a>
         </li>
@@ -42,25 +42,25 @@ const genes = genePages.map((entry) => {
   </ul>
 
   <style>
-    .gene-list {
+    .protein-list {
       columns: 3;
       column-gap: 2rem;
       padding-left: 1.25rem;
     }
 
-    .gene-list li {
+    .protein-list li {
       break-inside: avoid;
       margin-bottom: 0.3rem;
     }
 
     @media (max-width: 900px) {
-      .gene-list {
+      .protein-list {
         columns: 2;
       }
     }
 
     @media (max-width: 640px) {
-      .gene-list {
+      .protein-list {
         columns: 1;
       }
     }
