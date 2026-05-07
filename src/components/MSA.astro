@@ -20,13 +20,21 @@ const {
   hasConsensus = true,
   exportName = ""
 } = Astro.props;
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path: string) => {
+  if (!path || /^[a-z][a-z0-9+.-]*:/i.test(path)) return path;
+  return path.startsWith('/') ? `${basePath}${path.slice(1)}` : path;
+};
+const resolvedFastaUrl = fastaUrl ? withBase(fastaUrl) : "";
 ---
 
 <!-- Container holds config in data-* so /public/js/msa-viewer.js can read it -->
 <section
   id={viewerId}
   data-msa
-  data-fasta-url={fastaUrl ?? ""}
+  data-fasta-url={resolvedFastaUrl}
   data-inline-fasta={fasta ?? ""}
   data-annotations={JSON.stringify(annotations)}
   data-alterations={JSON.stringify(alterations)}
@@ -40,4 +48,4 @@ const {
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
 
 <!-- External, non-inline init (CSP-friendly) -->
-<script defer src="/js/msa-viewer.js"></script>
+<script defer src={withBase('/js/msa-viewer.js')}></script>

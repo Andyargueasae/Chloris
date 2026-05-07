@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Cytochrome b6-f complex subunit 8
 
@@ -24,16 +24,16 @@ Component of the cytochrome b6-f complex, which mediates electron transfer betwe
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="petNViewer" fastaUrl="/alignments/petN.aln" colorSchema="clustal" hasConsensus={true} exportName="petN_alignment.fasta" />
+<MsaBrowser viewerId="petNViewer" fastaUrl="../../alignments/petN.aln" colorSchema="clustal" hasConsensus={true} exportName="petN_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/petn_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/petn_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/petN.aln" icon="download">petN.aln</LinkButton>
-<LinkButton href="/structure/petn_model.cif" icon="download">petN.cif</LinkButton>
+<LinkButton href="../../alignments/petN.aln" icon="download">petN.aln</LinkButton>
+<LinkButton href="../../structure/petn_model.cif" icon="download">petN.cif</LinkButton>
 
 # Raw Metadata
 

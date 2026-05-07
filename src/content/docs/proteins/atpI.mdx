@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** ATP synthase subunit a, chloroplastic
 
@@ -24,16 +24,16 @@ Key component of the proton channel; it plays a direct role in the translocation
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="atpIViewer" fastaUrl="/alignments/atpI.aln" colorSchema="clustal" hasConsensus={true} exportName="atpI_alignment.fasta" />
+<MsaBrowser viewerId="atpIViewer" fastaUrl="../../alignments/atpI.aln" colorSchema="clustal" hasConsensus={true} exportName="atpI_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/atpi_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/atpi_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/atpI.aln" icon="download">atpI.aln</LinkButton>
-<LinkButton href="/structure/atpi_model.cif" icon="download">atpI.cif</LinkButton>
+<LinkButton href="../../alignments/atpI.aln" icon="download">atpI.aln</LinkButton>
+<LinkButton href="../../structure/atpi_model.cif" icon="download">atpI.cif</LinkButton>
 
 # Raw Metadata
 

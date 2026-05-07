@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II CP47 reaction center protein
 
@@ -24,16 +24,16 @@ One of the components of the core complex of photosystem II (PSII). It binds chl
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbBViewer" fastaUrl="/alignments/psbB.aln" colorSchema="clustal" hasConsensus={true} exportName="psbB_alignment.fasta" />
+<MsaBrowser viewerId="psbBViewer" fastaUrl="../../alignments/psbB.aln" colorSchema="clustal" hasConsensus={true} exportName="psbB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbB.aln" icon="download">psbB.aln</LinkButton>
-<LinkButton href="/structure/psbb_model.cif" icon="download">psbB.cif</LinkButton>
+<LinkButton href="../../alignments/psbB.aln" icon="download">psbB.aln</LinkButton>
+<LinkButton href="../../structure/psbb_model.cif" icon="download">psbB.cif</LinkButton>
 
 # Raw Metadata
 

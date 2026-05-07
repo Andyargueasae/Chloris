@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Uncharacterized protein ycf55
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ycf55Viewer" fastaUrl="/alignments/ycf55.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf55_alignment.fasta" />
+<MsaBrowser viewerId="ycf55Viewer" fastaUrl="../../alignments/ycf55.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf55_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ycf55_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ycf55_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ycf55.aln" icon="download">ycf55.aln</LinkButton>
-<LinkButton href="/structure/ycf55_model.cif" icon="download">ycf55.cif</LinkButton>
+<LinkButton href="../../alignments/ycf55.aln" icon="download">ycf55.aln</LinkButton>
+<LinkButton href="../../structure/ycf55_model.cif" icon="download">ycf55.cif</LinkButton>
 
 # Raw Metadata
 

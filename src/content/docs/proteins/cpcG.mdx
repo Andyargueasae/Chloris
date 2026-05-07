@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Phycobilisome rod-core linker polypeptide cpcG
 
@@ -24,16 +24,16 @@ Rod-core linker protein required for attachment of phycocyanin to allophycocyani
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cpcGViewer" fastaUrl="/alignments/cpcG.aln" colorSchema="clustal" hasConsensus={true} exportName="cpcG_alignment.fasta" />
+<MsaBrowser viewerId="cpcGViewer" fastaUrl="../../alignments/cpcG.aln" colorSchema="clustal" hasConsensus={true} exportName="cpcG_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cpcg_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cpcg_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cpcG.aln" icon="download">cpcG.aln</LinkButton>
-<LinkButton href="/structure/cpcg_model.cif" icon="download">cpcG.cif</LinkButton>
+<LinkButton href="../../alignments/cpcG.aln" icon="download">cpcG.aln</LinkButton>
+<LinkButton href="../../structure/cpcg_model.cif" icon="download">cpcG.cif</LinkButton>
 
 # Raw Metadata
 

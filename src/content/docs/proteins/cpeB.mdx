@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** R-phycoerythrin beta chain
 
@@ -24,16 +24,16 @@ Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycob
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cpeBViewer" fastaUrl="/alignments/cpeB.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeB_alignment.fasta" />
+<MsaBrowser viewerId="cpeBViewer" fastaUrl="../../alignments/cpeB.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cpeb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cpeb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cpeB.aln" icon="download">cpeB.aln</LinkButton>
-<LinkButton href="/structure/cpeb_model.cif" icon="download">cpeB.cif</LinkButton>
+<LinkButton href="../../alignments/cpeB.aln" icon="download">cpeB.aln</LinkButton>
+<LinkButton href="../../structure/cpeb_model.cif" icon="download">cpeB.cif</LinkButton>
 
 # Raw Metadata
 

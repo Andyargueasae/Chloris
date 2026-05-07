@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Putative transport permease ycf38
 
@@ -23,16 +23,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ycf38Viewer" fastaUrl="/alignments/ycf38.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf38_alignment.fasta" />
+<MsaBrowser viewerId="ycf38Viewer" fastaUrl="../../alignments/ycf38.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf38_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ycf38_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ycf38_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ycf38.aln" icon="download">ycf38.aln</LinkButton>
-<LinkButton href="/structure/ycf38_model.cif" icon="download">ycf38.cif</LinkButton>
+<LinkButton href="../../alignments/ycf38.aln" icon="download">ycf38.aln</LinkButton>
+<LinkButton href="../../structure/ycf38_model.cif" icon="download">ycf38.cif</LinkButton>
 
 # Raw Metadata
 

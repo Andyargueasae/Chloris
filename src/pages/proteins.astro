@@ -7,6 +7,9 @@ if (!page) {
   throw new Error('Missing docs entry: proteins');
 }
 const { Content } = await render(page);
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path: string) => `${basePath}${path.replace(/^\//, '')}`;
 
 const proteinPages = (await getCollection('docs', ({ id }) => id.startsWith('proteins/'))).sort(
   (a, b) => {
@@ -21,7 +24,7 @@ const proteins = proteinPages.map((entry) => {
   return {
     protein,
     title: entry.data.title || protein,
-    href: `/proteins/${protein}/`,
+    href: withBase(`proteins/${protein}/`),
   };
 });
 ---

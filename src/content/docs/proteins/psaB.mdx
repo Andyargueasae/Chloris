@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I P700 chlorophyll a apoprotein A2
 
@@ -24,16 +24,16 @@ PsaA and PsaB bind P700, the primary electron donor of photosystem I (PSI), as w
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaBViewer" fastaUrl="/alignments/psaB.aln" colorSchema="clustal" hasConsensus={true} exportName="psaB_alignment.fasta" />
+<MsaBrowser viewerId="psaBViewer" fastaUrl="../../alignments/psaB.aln" colorSchema="clustal" hasConsensus={true} exportName="psaB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psab_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psab_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaB.aln" icon="download">psaB.aln</LinkButton>
-<LinkButton href="/structure/psab_model.cif" icon="download">psaB.cif</LinkButton>
+<LinkButton href="../../alignments/psaB.aln" icon="download">psaB.aln</LinkButton>
+<LinkButton href="../../structure/psab_model.cif" icon="download">psaB.cif</LinkButton>
 
 # Raw Metadata
 

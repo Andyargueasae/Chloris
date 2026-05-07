@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** C-phycocyanin alpha chain
 
@@ -24,16 +24,16 @@ Light-harvesting photosynthetic bile pigment-protein from the phycobiliprotein c
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cpcAViewer" fastaUrl="/alignments/cpcA.aln" colorSchema="clustal" hasConsensus={true} exportName="cpcA_alignment.fasta" />
+<MsaBrowser viewerId="cpcAViewer" fastaUrl="../../alignments/cpcA.aln" colorSchema="clustal" hasConsensus={true} exportName="cpcA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cpca_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cpca_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cpcA.aln" icon="download">cpcA.aln</LinkButton>
-<LinkButton href="/structure/cpca_model.cif" icon="download">cpcA.cif</LinkButton>
+<LinkButton href="../../alignments/cpcA.aln" icon="download">cpcA.aln</LinkButton>
+<LinkButton href="../../structure/cpca_model.cif" icon="download">cpcA.cif</LinkButton>
 
 # Raw Metadata
 

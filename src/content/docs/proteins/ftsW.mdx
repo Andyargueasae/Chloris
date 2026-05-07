@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Putative peptidoglycan glycosyltransferase FtsW
 
@@ -24,16 +24,16 @@ Could play a role in chloroplast division/peptidoglycan biosynthesis
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ftsWViewer" fastaUrl="/alignments/ftsW.aln" colorSchema="clustal" hasConsensus={true} exportName="ftsW_alignment.fasta" />
+<MsaBrowser viewerId="ftsWViewer" fastaUrl="../../alignments/ftsW.aln" colorSchema="clustal" hasConsensus={true} exportName="ftsW_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ftsw_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ftsw_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ftsW.aln" icon="download">ftsW.aln</LinkButton>
-<LinkButton href="/structure/ftsw_model.cif" icon="download">ftsW.cif</LinkButton>
+<LinkButton href="../../alignments/ftsW.aln" icon="download">ftsW.aln</LinkButton>
+<LinkButton href="../../structure/ftsw_model.cif" icon="download">ftsW.cif</LinkButton>
 
 # Raw Metadata
 

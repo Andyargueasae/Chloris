@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
 
@@ -23,16 +23,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="menDViewer" fastaUrl="/alignments/menD.aln" colorSchema="clustal" hasConsensus={true} exportName="menD_alignment.fasta" />
+<MsaBrowser viewerId="menDViewer" fastaUrl="../../alignments/menD.aln" colorSchema="clustal" hasConsensus={true} exportName="menD_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/mend_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/mend_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/menD.aln" icon="download">menD.aln</LinkButton>
-<LinkButton href="/structure/mend_model.cif" icon="download">menD.cif</LinkButton>
+<LinkButton href="../../alignments/menD.aln" icon="download">menD.aln</LinkButton>
+<LinkButton href="../../structure/mend_model.cif" icon="download">menD.cif</LinkButton>
 
 # Raw Metadata
 

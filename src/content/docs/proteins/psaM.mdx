@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I reaction center subunit XII
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaMViewer" fastaUrl="/alignments/psaM.aln" colorSchema="clustal" hasConsensus={true} exportName="psaM_alignment.fasta" />
+<MsaBrowser viewerId="psaMViewer" fastaUrl="../../alignments/psaM.aln" colorSchema="clustal" hasConsensus={true} exportName="psaM_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psam_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psam_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaM.aln" icon="download">psaM.aln</LinkButton>
-<LinkButton href="/structure/psam_model.cif" icon="download">psaM.cif</LinkButton>
+<LinkButton href="../../alignments/psaM.aln" icon="download">psaM.aln</LinkButton>
+<LinkButton href="../../structure/psam_model.cif" icon="download">psaM.cif</LinkButton>
 
 # Raw Metadata
 

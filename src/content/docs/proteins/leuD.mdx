@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** 3-isopropylmalate dehydratase small subunit
 
@@ -23,16 +23,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="leuDViewer" fastaUrl="/alignments/leuD.aln" colorSchema="clustal" hasConsensus={true} exportName="leuD_alignment.fasta" />
+<MsaBrowser viewerId="leuDViewer" fastaUrl="../../alignments/leuD.aln" colorSchema="clustal" hasConsensus={true} exportName="leuD_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/leud_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/leud_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/leuD.aln" icon="download">leuD.aln</LinkButton>
-<LinkButton href="/structure/leud_model.cif" icon="download">leuD.cif</LinkButton>
+<LinkButton href="../../alignments/leuD.aln" icon="download">leuD.aln</LinkButton>
+<LinkButton href="../../structure/leud_model.cif" icon="download">leuD.cif</LinkButton>
 
 # Raw Metadata
 

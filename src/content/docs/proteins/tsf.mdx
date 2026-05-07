@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Elongation factor Ts, chloroplastic
 
@@ -25,16 +25,16 @@ Associates with the EF-Tu.GDP complex and induces the exchange of GDP to GTP. It
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="tsfViewer" fastaUrl="/alignments/tsf.aln" colorSchema="clustal" hasConsensus={true} exportName="tsf_alignment.fasta" />
+<MsaBrowser viewerId="tsfViewer" fastaUrl="../../alignments/tsf.aln" colorSchema="clustal" hasConsensus={true} exportName="tsf_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/tsf_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/tsf_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/tsf.aln" icon="download">tsf.aln</LinkButton>
-<LinkButton href="/structure/tsf_model.cif" icon="download">tsf.cif</LinkButton>
+<LinkButton href="../../alignments/tsf.aln" icon="download">tsf.aln</LinkButton>
+<LinkButton href="../../structure/tsf_model.cif" icon="download">tsf.cif</LinkButton>
 
 # Raw Metadata
 

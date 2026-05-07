@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable ATP-dependent transporter ycf16
 
@@ -92,16 +92,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="sufC_ycf16Viewer" fastaUrl="/alignments/sufC_ycf16.aln" colorSchema="clustal" hasConsensus={true} exportName="sufC_ycf16_alignment.fasta" />
+<MsaBrowser viewerId="sufC_ycf16Viewer" fastaUrl="../../alignments/sufC_ycf16.aln" colorSchema="clustal" hasConsensus={true} exportName="sufC_ycf16_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/sufc_ycf16_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/sufc_ycf16_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/sufC_ycf16.aln" icon="download">sufC_ycf16.aln</LinkButton>
-<LinkButton href="/structure/sufc_ycf16_model.cif" icon="download">sufC_ycf16.cif</LinkButton>
+<LinkButton href="../../alignments/sufC_ycf16.aln" icon="download">sufC_ycf16.aln</LinkButton>
+<LinkButton href="../../structure/sufc_ycf16_model.cif" icon="download">sufC_ycf16.cif</LinkButton>
 
 # Raw Metadata
 

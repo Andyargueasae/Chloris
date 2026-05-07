@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Cytochrome c6
 
@@ -25,16 +25,16 @@ Functions as an electron carrier between membrane-bound cytochrome b6-f and phot
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="petJViewer" fastaUrl="/alignments/petJ.aln" colorSchema="clustal" hasConsensus={true} exportName="petJ_alignment.fasta" />
+<MsaBrowser viewerId="petJViewer" fastaUrl="../../alignments/petJ.aln" colorSchema="clustal" hasConsensus={true} exportName="petJ_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/petj_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/petj_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/petJ.aln" icon="download">petJ.aln</LinkButton>
-<LinkButton href="/structure/petj_model.cif" icon="download">petJ.cif</LinkButton>
+<LinkButton href="../../alignments/petJ.aln" icon="download">petJ.aln</LinkButton>
+<LinkButton href="../../structure/petj_model.cif" icon="download">petJ.cif</LinkButton>
 
 # Raw Metadata
 

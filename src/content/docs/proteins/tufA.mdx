@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Elongation factor Tu, chloroplastic
 
@@ -34,16 +34,16 @@ GTP hydrolase that promotes the GTP-dependent binding of aminoacyl-tRNA to the A
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="tufAViewer" fastaUrl="/alignments/tufA.aln" colorSchema="clustal" hasConsensus={true} exportName="tufA_alignment.fasta" />
+<MsaBrowser viewerId="tufAViewer" fastaUrl="../../alignments/tufA.aln" colorSchema="clustal" hasConsensus={true} exportName="tufA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/tufa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/tufa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/tufA.aln" icon="download">tufA.aln</LinkButton>
-<LinkButton href="/structure/tufa_model.cif" icon="download">tufA.cif</LinkButton>
+<LinkButton href="../../alignments/tufA.aln" icon="download">tufA.aln</LinkButton>
+<LinkButton href="../../structure/tufa_model.cif" icon="download">tufA.cif</LinkButton>
 
 # Raw Metadata
 

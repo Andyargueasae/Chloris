@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Global nitrogen regulator
 
@@ -28,16 +28,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ntcAViewer" fastaUrl="/alignments/ntcA.aln" colorSchema="clustal" hasConsensus={true} exportName="ntcA_alignment.fasta" />
+<MsaBrowser viewerId="ntcAViewer" fastaUrl="../../alignments/ntcA.aln" colorSchema="clustal" hasConsensus={true} exportName="ntcA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ntca_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ntca_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ntcA.aln" icon="download">ntcA.aln</LinkButton>
-<LinkButton href="/structure/ntca_model.cif" icon="download">ntcA.cif</LinkButton>
+<LinkButton href="../../alignments/ntcA.aln" icon="download">ntcA.aln</LinkButton>
+<LinkButton href="../../structure/ntca_model.cif" icon="download">ntcA.cif</LinkButton>
 
 # Raw Metadata
 

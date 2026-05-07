@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Chaperone protein Skp
 
@@ -24,16 +24,16 @@ Molecular chaperone that interacts specifically with outer membrane proteins, th
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="hlpAViewer" fastaUrl="/alignments/hlpA.aln" colorSchema="clustal" hasConsensus={true} exportName="hlpA_alignment.fasta" />
+<MsaBrowser viewerId="hlpAViewer" fastaUrl="../../alignments/hlpA.aln" colorSchema="clustal" hasConsensus={true} exportName="hlpA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/hlpa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/hlpa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/hlpA.aln" icon="download">hlpA.aln</LinkButton>
-<LinkButton href="/structure/hlpa_model.cif" icon="download">hlpA.cif</LinkButton>
+<LinkButton href="../../alignments/hlpA.aln" icon="download">hlpA.aln</LinkButton>
+<LinkButton href="../../structure/hlpa_model.cif" icon="download">hlpA.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
 
@@ -26,16 +26,16 @@ Involved in the biosynthesis of lipid A, a phosphorylated glycolipid that in bac
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="lpxAViewer" fastaUrl="/alignments/lpxA.aln" colorSchema="clustal" hasConsensus={true} exportName="lpxA_alignment.fasta" />
+<MsaBrowser viewerId="lpxAViewer" fastaUrl="../../alignments/lpxA.aln" colorSchema="clustal" hasConsensus={true} exportName="lpxA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/lpxa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/lpxa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/lpxA.aln" icon="download">lpxA.aln</LinkButton>
-<LinkButton href="/structure/lpxa_model.cif" icon="download">lpxA.cif</LinkButton>
+<LinkButton href="../../alignments/lpxA.aln" icon="download">lpxA.aln</LinkButton>
+<LinkButton href="../../structure/lpxa_model.cif" icon="download">lpxA.cif</LinkButton>
 
 # Raw Metadata
 

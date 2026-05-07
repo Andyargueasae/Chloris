@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Prenyl transferase
 
@@ -24,16 +24,16 @@ Possible role in synthesis of the nonaprenyl side chain of plastoquinone or in s
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="preAViewer" fastaUrl="/alignments/preA.aln" colorSchema="clustal" hasConsensus={true} exportName="preA_alignment.fasta" />
+<MsaBrowser viewerId="preAViewer" fastaUrl="../../alignments/preA.aln" colorSchema="clustal" hasConsensus={true} exportName="preA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/prea_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/prea_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/preA.aln" icon="download">preA.aln</LinkButton>
-<LinkButton href="/structure/prea_model.cif" icon="download">preA.cif</LinkButton>
+<LinkButton href="../../alignments/preA.aln" icon="download">preA.aln</LinkButton>
+<LinkButton href="../../structure/prea_model.cif" icon="download">preA.cif</LinkButton>
 
 # Raw Metadata
 

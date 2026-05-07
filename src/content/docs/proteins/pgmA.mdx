@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** 2,3-bisphosphoglycerate-independent phosphoglycerate mutase
 
@@ -27,16 +27,16 @@ Catalyzes the interconversion of 2-phosphoglycerate and 3-phosphoglycerate
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="pgmAViewer" fastaUrl="/alignments/pgmA.aln" colorSchema="clustal" hasConsensus={true} exportName="pgmA_alignment.fasta" />
+<MsaBrowser viewerId="pgmAViewer" fastaUrl="../../alignments/pgmA.aln" colorSchema="clustal" hasConsensus={true} exportName="pgmA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/pgma_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/pgma_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/pgmA.aln" icon="download">pgmA.aln</LinkButton>
-<LinkButton href="/structure/pgma_model.cif" icon="download">pgmA.cif</LinkButton>
+<LinkButton href="../../alignments/pgmA.aln" icon="download">pgmA.aln</LinkButton>
+<LinkButton href="../../structure/pgma_model.cif" icon="download">pgmA.cif</LinkButton>
 
 # Raw Metadata
 

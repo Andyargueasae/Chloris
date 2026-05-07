@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II D2 protein
 
@@ -30,16 +30,16 @@ Photosystem II (PSII) is a light-driven water:plastoquinone oxidoreductase that 
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ompRViewer" fastaUrl="/alignments/ompR.aln" colorSchema="clustal" hasConsensus={true} exportName="ompR_alignment.fasta" />
+<MsaBrowser viewerId="ompRViewer" fastaUrl="../../alignments/ompR.aln" colorSchema="clustal" hasConsensus={true} exportName="ompR_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ompr_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ompr_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ompR.aln" icon="download">ompR.aln</LinkButton>
-<LinkButton href="/structure/ompr_model.cif" icon="download">ompR.cif</LinkButton>
+<LinkButton href="../../alignments/ompR.aln" icon="download">ompR.aln</LinkButton>
+<LinkButton href="../../structure/ompr_model.cif" icon="download">ompR.cif</LinkButton>
 
 # Raw Metadata
 

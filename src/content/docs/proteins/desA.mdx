@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** sn-1 oleoyl-lipid 12-desaturase
 
@@ -24,16 +24,16 @@ Desaturase involved in fatty acid biosynthesis (PubMed:2118597). Introduces a do
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="desAViewer" fastaUrl="/alignments/desA.aln" colorSchema="clustal" hasConsensus={true} exportName="desA_alignment.fasta" />
+<MsaBrowser viewerId="desAViewer" fastaUrl="../../alignments/desA.aln" colorSchema="clustal" hasConsensus={true} exportName="desA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/desa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/desa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/desA.aln" icon="download">desA.aln</LinkButton>
-<LinkButton href="/structure/desa_model.cif" icon="download">desA.cif</LinkButton>
+<LinkButton href="../../alignments/desA.aln" icon="download">desA.aln</LinkButton>
+<LinkButton href="../../structure/desa_model.cif" icon="download">desA.cif</LinkButton>
 
 # Raw Metadata
 

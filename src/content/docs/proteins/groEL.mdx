@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Chaperonin GroEL, chloroplastic
 
@@ -24,16 +24,16 @@ Together with its co-chaperonin GroES, plays an essential role in assisting prot
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="groELViewer" fastaUrl="/alignments/groEL.aln" colorSchema="clustal" hasConsensus={true} exportName="groEL_alignment.fasta" />
+<MsaBrowser viewerId="groELViewer" fastaUrl="../../alignments/groEL.aln" colorSchema="clustal" hasConsensus={true} exportName="groEL_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/groel_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/groel_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/groEL.aln" icon="download">groEL.aln</LinkButton>
-<LinkButton href="/structure/groel_model.cif" icon="download">groEL.cif</LinkButton>
+<LinkButton href="../../alignments/groEL.aln" icon="download">groEL.aln</LinkButton>
+<LinkButton href="../../structure/groel_model.cif" icon="download">groEL.cif</LinkButton>
 
 # Raw Metadata
 

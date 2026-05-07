@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable replicative DNA helicase
 
@@ -29,16 +29,16 @@ A replicative DNA helicase, it participates in initiation and elongation during 
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="dnaBViewer" fastaUrl="/alignments/dnaB.aln" colorSchema="clustal" hasConsensus={true} exportName="dnaB_alignment.fasta" />
+<MsaBrowser viewerId="dnaBViewer" fastaUrl="../../alignments/dnaB.aln" colorSchema="clustal" hasConsensus={true} exportName="dnaB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/dnab_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/dnab_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/dnaB.aln" icon="download">dnaB.aln</LinkButton>
-<LinkButton href="/structure/dnab_model.cif" icon="download">dnaB.cif</LinkButton>
+<LinkButton href="../../alignments/dnaB.aln" icon="download">dnaB.aln</LinkButton>
+<LinkButton href="../../structure/dnab_model.cif" icon="download">dnaB.cif</LinkButton>
 
 # Raw Metadata
 

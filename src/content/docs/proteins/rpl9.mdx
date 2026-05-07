@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein bL9c
 
@@ -25,16 +25,16 @@ Binds to the 23S rRNA
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl9Viewer" fastaUrl="/alignments/rpl9.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl9_alignment.fasta" />
+<MsaBrowser viewerId="rpl9Viewer" fastaUrl="../../alignments/rpl9.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl9_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl9_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl9_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl9.aln" icon="download">rpl9.aln</LinkButton>
-<LinkButton href="/structure/rpl9_model.cif" icon="download">rpl9.cif</LinkButton>
+<LinkButton href="../../alignments/rpl9.aln" icon="download">rpl9.aln</LinkButton>
+<LinkButton href="../../structure/rpl9_model.cif" icon="download">rpl9.cif</LinkButton>
 
 # Raw Metadata
 

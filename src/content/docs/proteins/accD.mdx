@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic
 
@@ -24,16 +24,16 @@ Component of the acetyl coenzyme A carboxylase (ACC) complex. Biotin carboxylase
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="accDViewer" fastaUrl="/alignments/accD.aln" colorSchema="clustal" hasConsensus={true} exportName="accD_alignment.fasta" />
+<MsaBrowser viewerId="accDViewer" fastaUrl="../../alignments/accD.aln" colorSchema="clustal" hasConsensus={true} exportName="accD_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/accd_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/accd_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/accD.aln" icon="download">accD.aln</LinkButton>
-<LinkButton href="/structure/accd_model.cif" icon="download">accD.cif</LinkButton>
+<LinkButton href="../../alignments/accD.aln" icon="download">accD.aln</LinkButton>
+<LinkButton href="../../structure/accd_model.cif" icon="download">accD.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Ribulose bisphosphate carboxylase large chain
 
@@ -25,16 +25,16 @@ RuBisCO catalyzes two reactions: the carboxylation of D-ribulose 1,5-bisphosphat
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rbcLViewer" fastaUrl="/alignments/rbcL.aln" colorSchema="clustal" hasConsensus={true} exportName="rbcL_alignment.fasta" />
+<MsaBrowser viewerId="rbcLViewer" fastaUrl="../../alignments/rbcL.aln" colorSchema="clustal" hasConsensus={true} exportName="rbcL_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rbcl_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rbcl_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rbcL.aln" icon="download">rbcL.aln</LinkButton>
-<LinkButton href="/structure/rbcl_model.cif" icon="download">rbcL.cif</LinkButton>
+<LinkButton href="../../alignments/rbcL.aln" icon="download">rbcL.aln</LinkButton>
+<LinkButton href="../../structure/rbcl_model.cif" icon="download">rbcL.cif</LinkButton>
 
 # Raw Metadata
 

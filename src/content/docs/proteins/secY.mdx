@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Protein translocase subunit SecY
 
@@ -24,16 +24,16 @@ The central subunit of the protein translocation channel SecYE. Consists of two 
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="secYViewer" fastaUrl="/alignments/secY.aln" colorSchema="clustal" hasConsensus={true} exportName="secY_alignment.fasta" />
+<MsaBrowser viewerId="secYViewer" fastaUrl="../../alignments/secY.aln" colorSchema="clustal" hasConsensus={true} exportName="secY_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/secy_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/secy_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/secY.aln" icon="download">secY.aln</LinkButton>
-<LinkButton href="/structure/secy_model.cif" icon="download">secY.cif</LinkButton>
+<LinkButton href="../../alignments/secY.aln" icon="download">secY.aln</LinkButton>
+<LinkButton href="../../structure/secy_model.cif" icon="download">secY.cif</LinkButton>
 
 # Raw Metadata
 

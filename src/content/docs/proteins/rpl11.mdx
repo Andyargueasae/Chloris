@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein uL11c
 
@@ -25,16 +25,16 @@ Forms part of the ribosomal stalk which helps the ribosome interact with GTP-bou
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl11Viewer" fastaUrl="/alignments/rpl11.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl11_alignment.fasta" />
+<MsaBrowser viewerId="rpl11Viewer" fastaUrl="../../alignments/rpl11.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl11_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl11_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl11_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl11.aln" icon="download">rpl11.aln</LinkButton>
-<LinkButton href="/structure/rpl11_model.cif" icon="download">rpl11.cif</LinkButton>
+<LinkButton href="../../alignments/rpl11.aln" icon="download">rpl11.aln</LinkButton>
+<LinkButton href="../../structure/rpl11_model.cif" icon="download">rpl11.cif</LinkButton>
 
 # Raw Metadata
 

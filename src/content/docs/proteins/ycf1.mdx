@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Uncharacterized membrane protein ycf78
 
@@ -23,16 +23,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ycf1Viewer" fastaUrl="/alignments/ycf1.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf1_alignment.fasta" />
+<MsaBrowser viewerId="ycf1Viewer" fastaUrl="../../alignments/ycf1.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf1_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ycf1_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ycf1_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ycf1.aln" icon="download">ycf1.aln</LinkButton>
-<LinkButton href="/structure/ycf1_model.cif" icon="download">ycf1.cif</LinkButton>
+<LinkButton href="../../alignments/ycf1.aln" icon="download">ycf1.aln</LinkButton>
+<LinkButton href="../../structure/ycf1_model.cif" icon="download">ycf1.cif</LinkButton>
 
 # Raw Metadata
 

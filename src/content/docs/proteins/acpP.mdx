@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Acyl carrier protein
 
@@ -24,16 +24,16 @@ Carrier of the growing fatty acid chain in fatty acid biosynthesis
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="acpPViewer" fastaUrl="/alignments/acpP.aln" colorSchema="clustal" hasConsensus={true} exportName="acpP_alignment.fasta" />
+<MsaBrowser viewerId="acpPViewer" fastaUrl="../../alignments/acpP.aln" colorSchema="clustal" hasConsensus={true} exportName="acpP_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/acpp_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/acpp_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/acpP.aln" icon="download">acpP.aln</LinkButton>
-<LinkButton href="/structure/acpp_model.cif" icon="download">acpP.cif</LinkButton>
+<LinkButton href="../../alignments/acpP.aln" icon="download">acpP.aln</LinkButton>
+<LinkButton href="../../structure/acpp_model.cif" icon="download">acpP.cif</LinkButton>
 
 # Raw Metadata
 

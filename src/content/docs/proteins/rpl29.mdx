@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein uL29c
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl29Viewer" fastaUrl="/alignments/rpl29.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl29_alignment.fasta" />
+<MsaBrowser viewerId="rpl29Viewer" fastaUrl="../../alignments/rpl29.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl29_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl29_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl29_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl29.aln" icon="download">rpl29.aln</LinkButton>
-<LinkButton href="/structure/rpl29_model.cif" icon="download">rpl29.cif</LinkButton>
+<LinkButton href="../../alignments/rpl29.aln" icon="download">rpl29.aln</LinkButton>
+<LinkButton href="../../structure/rpl29_model.cif" icon="download">rpl29.cif</LinkButton>
 
 # Raw Metadata
 

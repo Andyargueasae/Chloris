@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Ribonuclease E/G-like protein
 
@@ -25,16 +25,16 @@ Involved in intercistronic processing of primary transcripts from chloroplast op
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rneViewer" fastaUrl="/alignments/rne.aln" colorSchema="clustal" hasConsensus={true} exportName="rne_alignment.fasta" />
+<MsaBrowser viewerId="rneViewer" fastaUrl="../../alignments/rne.aln" colorSchema="clustal" hasConsensus={true} exportName="rne_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rne_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rne_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rne.aln" icon="download">rne.aln</LinkButton>
-<LinkButton href="/structure/rne_model.cif" icon="download">rne.cif</LinkButton>
+<LinkButton href="../../alignments/rne.aln" icon="download">rne.aln</LinkButton>
+<LinkButton href="../../structure/rne_model.cif" icon="download">rne.cif</LinkButton>
 
 # Raw Metadata
 

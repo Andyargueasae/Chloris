@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Beta-ketoacyl-[acyl-carrier-protein] synthase III
 
@@ -27,16 +27,16 @@ Catalyzes the condensation reaction of fatty acid synthesis by the addition to a
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="fabHViewer" fastaUrl="/alignments/fabH.aln" colorSchema="clustal" hasConsensus={true} exportName="fabH_alignment.fasta" />
+<MsaBrowser viewerId="fabHViewer" fastaUrl="../../alignments/fabH.aln" colorSchema="clustal" hasConsensus={true} exportName="fabH_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/fabh_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/fabh_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/fabH.aln" icon="download">fabH.aln</LinkButton>
-<LinkButton href="/structure/fabh_model.cif" icon="download">fabH.cif</LinkButton>
+<LinkButton href="../../alignments/fabH.aln" icon="download">fabH.aln</LinkButton>
+<LinkButton href="../../structure/fabh_model.cif" icon="download">fabH.cif</LinkButton>
 
 # Raw Metadata
 

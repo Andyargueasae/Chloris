@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Biotin carboxyl carrier protein of acetyl-CoA carboxylase
 
@@ -28,16 +28,16 @@ This protein is a component of the acetyl coenzyme A carboxylase complex; first,
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="accBViewer" fastaUrl="/alignments/accB.aln" colorSchema="clustal" hasConsensus={true} exportName="accB_alignment.fasta" />
+<MsaBrowser viewerId="accBViewer" fastaUrl="../../alignments/accB.aln" colorSchema="clustal" hasConsensus={true} exportName="accB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/accb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/accb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/accB.aln" icon="download">accB.aln</LinkButton>
-<LinkButton href="/structure/accb_model.cif" icon="download">accB.cif</LinkButton>
+<LinkButton href="../../alignments/accB.aln" icon="download">accB.aln</LinkButton>
+<LinkButton href="../../structure/accb_model.cif" icon="download">accB.cif</LinkButton>
 
 # Raw Metadata
 

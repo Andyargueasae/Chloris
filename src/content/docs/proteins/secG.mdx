@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable protein-export membrane protein secG
 
@@ -24,16 +24,16 @@ Involved in protein export. Participates in an early event of protein translocat
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="secGViewer" fastaUrl="/alignments/secG.aln" colorSchema="clustal" hasConsensus={true} exportName="secG_alignment.fasta" />
+<MsaBrowser viewerId="secGViewer" fastaUrl="../../alignments/secG.aln" colorSchema="clustal" hasConsensus={true} exportName="secG_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/secg_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/secg_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/secG.aln" icon="download">secG.aln</LinkButton>
-<LinkButton href="/structure/secg_model.cif" icon="download">secG.cif</LinkButton>
+<LinkButton href="../../alignments/secG.aln" icon="download">secG.aln</LinkButton>
+<LinkButton href="../../structure/secg_model.cif" icon="download">secG.cif</LinkButton>
 
 # Raw Metadata
 

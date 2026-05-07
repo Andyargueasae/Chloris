@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Uncharacterized protein ycf18
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="nblAViewer" fastaUrl="/alignments/nblA.aln" colorSchema="clustal" hasConsensus={true} exportName="nblA_alignment.fasta" />
+<MsaBrowser viewerId="nblAViewer" fastaUrl="../../alignments/nblA.aln" colorSchema="clustal" hasConsensus={true} exportName="nblA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/nbla_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/nbla_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/nblA.aln" icon="download">nblA.aln</LinkButton>
-<LinkButton href="/structure/nbla_model.cif" icon="download">nblA.cif</LinkButton>
+<LinkButton href="../../alignments/nblA.aln" icon="download">nblA.aln</LinkButton>
+<LinkButton href="../../structure/nbla_model.cif" icon="download">nblA.cif</LinkButton>
 
 # Raw Metadata
 

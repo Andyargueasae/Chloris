@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Chaperone protein dnaK
 
@@ -28,16 +28,16 @@ Acts as a chaperone
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="dnaKViewer" fastaUrl="/alignments/dnaK.aln" colorSchema="clustal" hasConsensus={true} exportName="dnaK_alignment.fasta" />
+<MsaBrowser viewerId="dnaKViewer" fastaUrl="../../alignments/dnaK.aln" colorSchema="clustal" hasConsensus={true} exportName="dnaK_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/dnak_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/dnak_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/dnaK.aln" icon="download">dnaK.aln</LinkButton>
-<LinkButton href="/structure/dnak_model.cif" icon="download">dnaK.cif</LinkButton>
+<LinkButton href="../../alignments/dnaK.aln" icon="download">dnaK.aln</LinkButton>
+<LinkButton href="../../structure/dnak_model.cif" icon="download">dnaK.cif</LinkButton>
 
 # Raw Metadata
 

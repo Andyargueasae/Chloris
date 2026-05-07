@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein Y
 
@@ -24,16 +24,16 @@ Loosely associated component of the core of photosystem II (PSII), it is not alw
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbYViewer" fastaUrl="/alignments/psbY.aln" colorSchema="clustal" hasConsensus={true} exportName="psbY_alignment.fasta" />
+<MsaBrowser viewerId="psbYViewer" fastaUrl="../../alignments/psbY.aln" colorSchema="clustal" hasConsensus={true} exportName="psbY_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psby_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psby_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbY.aln" icon="download">psbY.aln</LinkButton>
-<LinkButton href="/structure/psby_model.cif" icon="download">psbY.cif</LinkButton>
+<LinkButton href="../../alignments/psbY.aln" icon="download">psbY.aln</LinkButton>
+<LinkButton href="../../structure/psby_model.cif" icon="download">psbY.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I reaction center subunit VIII
 
@@ -24,16 +24,16 @@ May help in the organization of the PsaL subunit
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaIViewer" fastaUrl="/alignments/psaI.aln" colorSchema="clustal" hasConsensus={true} exportName="psaI_alignment.fasta" />
+<MsaBrowser viewerId="psaIViewer" fastaUrl="../../alignments/psaI.aln" colorSchema="clustal" hasConsensus={true} exportName="psaI_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psai_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psai_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaI.aln" icon="download">psaI.aln</LinkButton>
-<LinkButton href="/structure/psai_model.cif" icon="download">psaI.cif</LinkButton>
+<LinkButton href="../../alignments/psaI.aln" icon="download">psaI.aln</LinkButton>
+<LinkButton href="../../structure/psai_model.cif" icon="download">psaI.cif</LinkButton>
 
 # Raw Metadata
 

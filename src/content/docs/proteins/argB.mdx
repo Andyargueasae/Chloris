@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Acetylglutamate kinase
 
@@ -24,16 +24,16 @@ Catalyzes the ATP-dependent phosphorylation of N-acetyl-L-glutamate
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="argBViewer" fastaUrl="/alignments/argB.aln" colorSchema="clustal" hasConsensus={true} exportName="argB_alignment.fasta" />
+<MsaBrowser viewerId="argBViewer" fastaUrl="../../alignments/argB.aln" colorSchema="clustal" hasConsensus={true} exportName="argB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/argb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/argb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/argB.aln" icon="download">argB.aln</LinkButton>
-<LinkButton href="/structure/argb_model.cif" icon="download">argB.cif</LinkButton>
+<LinkButton href="../../alignments/argB.aln" icon="download">argB.aln</LinkButton>
+<LinkButton href="../../structure/argb_model.cif" icon="download">argB.cif</LinkButton>
 
 # Raw Metadata
 

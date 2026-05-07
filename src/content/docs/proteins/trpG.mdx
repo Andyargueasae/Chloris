@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Anthranilate synthase component 2
 
@@ -27,16 +27,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="trpGViewer" fastaUrl="/alignments/trpG.aln" colorSchema="clustal" hasConsensus={true} exportName="trpG_alignment.fasta" />
+<MsaBrowser viewerId="trpGViewer" fastaUrl="../../alignments/trpG.aln" colorSchema="clustal" hasConsensus={true} exportName="trpG_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/trpg_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/trpg_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/trpG.aln" icon="download">trpG.aln</LinkButton>
-<LinkButton href="/structure/trpg_model.cif" icon="download">trpG.cif</LinkButton>
+<LinkButton href="../../alignments/trpG.aln" icon="download">trpG.aln</LinkButton>
+<LinkButton href="../../structure/trpg_model.cif" icon="download">trpG.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I reaction center subunit PsaK
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaKViewer" fastaUrl="/alignments/psaK.aln" colorSchema="clustal" hasConsensus={true} exportName="psaK_alignment.fasta" />
+<MsaBrowser viewerId="psaKViewer" fastaUrl="../../alignments/psaK.aln" colorSchema="clustal" hasConsensus={true} exportName="psaK_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psak_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psak_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaK.aln" icon="download">psaK.aln</LinkButton>
-<LinkButton href="/structure/psak_model.cif" icon="download">psaK.cif</LinkButton>
+<LinkButton href="../../alignments/psaK.aln" icon="download">psaK.aln</LinkButton>
+<LinkButton href="../../structure/psak_model.cif" icon="download">psaK.cif</LinkButton>
 
 # Raw Metadata
 

@@ -19,6 +19,13 @@ const {
 } = Astro.props;
 
 const clampedHeight = `min(${height}, 70vh, ${maxHeight})`;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path: string) => {
+  if (!path || /^[a-z][a-z0-9+.-]*:/i.test(path)) return path;
+  return path.startsWith('/') ? `${basePath}${path.slice(1)}` : path;
+};
+const resolvedCifUrl = cifUrl ? withBase(cifUrl) : "";
 ---
 
 <section class="w-full" data-protein-viewer>
@@ -38,13 +45,13 @@ const clampedHeight = `min(${height}, 70vh, ${maxHeight})`;
     class="molstar"
     style={`height:${clampedHeight}; max-height:${maxHeight}; border-radius:12px; overflow:hidden;`}
     data-molstar
-    data-cif-url={cifUrl ?? ""}
+    data-cif-url={resolvedCifUrl}
     data-reset-camera={resetCamera}
     data-background={background}
   ></div>
 </section>
 
-<link rel="stylesheet" href="/vendor/molstar/molstar.css" />
+<link rel="stylesheet" href={withBase('/vendor/molstar/molstar.css')} />
 <style>
   .toolbar { display:flex; gap:.5rem; align-items:center; margin-bottom:.5rem; flex-wrap:wrap; }
   .btn { padding:.4rem .75rem; border-radius:.5rem; border:1px solid #ddd; background:#fff; cursor:pointer; }
@@ -53,6 +60,6 @@ const clampedHeight = `min(${height}, 70vh, ${maxHeight})`;
   .upload input { display:none; }
 </style>
 
-<script src="/vendor/molstar/molstar.js" is:inline></script>
+<script src={withBase('/vendor/molstar/molstar.js')} is:inline></script>
 <!-- External, non-inline init (CSP-friendly) -->
-<script defer src="/js/molstar-viewer.js"></script>
+<script defer src={withBase('/js/molstar-viewer.js')}></script>

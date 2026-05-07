@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** NAD(P)H-quinone oxidoreductase subunit J, chloroplastic
 
@@ -24,16 +24,16 @@ NDH shuttles electrons from NAD(P)H:plastoquinone, via FMN and iron-sulfur (Fe-S
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ndhJViewer" fastaUrl="/alignments/ndhJ.aln" colorSchema="clustal" hasConsensus={true} exportName="ndhJ_alignment.fasta" />
+<MsaBrowser viewerId="ndhJViewer" fastaUrl="../../alignments/ndhJ.aln" colorSchema="clustal" hasConsensus={true} exportName="ndhJ_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ndhj_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ndhj_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ndhJ.aln" icon="download">ndhJ.aln</LinkButton>
-<LinkButton href="/structure/ndhj_model.cif" icon="download">ndhJ.cif</LinkButton>
+<LinkButton href="../../alignments/ndhJ.aln" icon="download">ndhJ.aln</LinkButton>
+<LinkButton href="../../structure/ndhj_model.cif" icon="download">ndhJ.cif</LinkButton>
 
 # Raw Metadata
 

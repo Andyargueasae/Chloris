@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I iron-sulfur center
 
@@ -36,16 +36,16 @@ Apoprotein for the two 4Fe-4S centers FA and FB of photosystem I (PSI); essentia
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaCViewer" fastaUrl="/alignments/psaC.aln" colorSchema="clustal" hasConsensus={true} exportName="psaC_alignment.fasta" />
+<MsaBrowser viewerId="psaCViewer" fastaUrl="../../alignments/psaC.aln" colorSchema="clustal" hasConsensus={true} exportName="psaC_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psac_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psac_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaC.aln" icon="download">psaC.aln</LinkButton>
-<LinkButton href="/structure/psac_model.cif" icon="download">psaC.cif</LinkButton>
+<LinkButton href="../../alignments/psaC.aln" icon="download">psaC.aln</LinkButton>
+<LinkButton href="../../structure/psac_model.cif" icon="download">psaC.cif</LinkButton>
 
 # Raw Metadata
 

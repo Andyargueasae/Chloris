@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Sec-independent protein translocase protein TATC, chloroplastic
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="tatCViewer" fastaUrl="/alignments/tatC.aln" colorSchema="clustal" hasConsensus={true} exportName="tatC_alignment.fasta" />
+<MsaBrowser viewerId="tatCViewer" fastaUrl="../../alignments/tatC.aln" colorSchema="clustal" hasConsensus={true} exportName="tatC_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/tatc_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/tatc_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/tatC.aln" icon="download">tatC.aln</LinkButton>
-<LinkButton href="/structure/tatc_model.cif" icon="download">tatC.cif</LinkButton>
+<LinkButton href="../../alignments/tatC.aln" icon="download">tatC.aln</LinkButton>
+<LinkButton href="../../structure/tatc_model.cif" icon="download">tatC.cif</LinkButton>
 
 # Raw Metadata
 

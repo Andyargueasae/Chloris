@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II extrinsic protein V
 
@@ -26,16 +26,16 @@ One of the extrinsic, lumenal subunits of photosystem II (PSII). PSII is a light
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbVViewer" fastaUrl="/alignments/psbV.aln" colorSchema="clustal" hasConsensus={true} exportName="psbV_alignment.fasta" />
+<MsaBrowser viewerId="psbVViewer" fastaUrl="../../alignments/psbV.aln" colorSchema="clustal" hasConsensus={true} exportName="psbV_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbv_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbv_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbV.aln" icon="download">psbV.aln</LinkButton>
-<LinkButton href="/structure/psbv_model.cif" icon="download">psbV.cif</LinkButton>
+<LinkButton href="../../alignments/psbV.aln" icon="download">psbV.aln</LinkButton>
+<LinkButton href="../../structure/psbv_model.cif" icon="download">psbV.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Protein translocase subunit SecA
 
@@ -29,16 +29,16 @@ Has a central role in coupling the hydrolysis of ATP to the transfer of proteins
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="secAViewer" fastaUrl="/alignments/secA.aln" colorSchema="clustal" hasConsensus={true} exportName="secA_alignment.fasta" />
+<MsaBrowser viewerId="secAViewer" fastaUrl="../../alignments/secA.aln" colorSchema="clustal" hasConsensus={true} exportName="secA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/seca_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/seca_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/secA.aln" icon="download">secA.aln</LinkButton>
-<LinkButton href="/structure/seca_model.cif" icon="download">secA.cif</LinkButton>
+<LinkButton href="../../alignments/secA.aln" icon="download">secA.aln</LinkButton>
+<LinkButton href="../../structure/seca_model.cif" icon="download">secA.cif</LinkButton>
 
 # Raw Metadata
 

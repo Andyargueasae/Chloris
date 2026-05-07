@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Heme oxygenase
 
@@ -24,16 +24,16 @@ Catalyzes the opening of the heme ring with the release of iron. Key enzyme in t
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="pbsAViewer" fastaUrl="/alignments/pbsA.aln" colorSchema="clustal" hasConsensus={true} exportName="pbsA_alignment.fasta" />
+<MsaBrowser viewerId="pbsAViewer" fastaUrl="../../alignments/pbsA.aln" colorSchema="clustal" hasConsensus={true} exportName="pbsA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/pbsa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/pbsa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/pbsA.aln" icon="download">pbsA.aln</LinkButton>
-<LinkButton href="/structure/pbsa_model.cif" icon="download">pbsA.cif</LinkButton>
+<LinkButton href="../../alignments/pbsA.aln" icon="download">pbsA.aln</LinkButton>
+<LinkButton href="../../structure/pbsa_model.cif" icon="download">pbsA.cif</LinkButton>
 
 # Raw Metadata
 

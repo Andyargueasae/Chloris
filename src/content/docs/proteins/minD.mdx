@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Putative septum site-determining protein MinD
 
@@ -37,16 +37,16 @@ ATPase required for the correct placement of the division site
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="minDViewer" fastaUrl="/alignments/minD.aln" colorSchema="clustal" hasConsensus={true} exportName="minD_alignment.fasta" />
+<MsaBrowser viewerId="minDViewer" fastaUrl="../../alignments/minD.aln" colorSchema="clustal" hasConsensus={true} exportName="minD_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/mind_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/mind_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/minD.aln" icon="download">minD.aln</LinkButton>
-<LinkButton href="/structure/mind_model.cif" icon="download">minD.cif</LinkButton>
+<LinkButton href="../../alignments/minD.aln" icon="download">minD.aln</LinkButton>
+<LinkButton href="../../structure/mind_model.cif" icon="download">minD.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Allophycocyanin subunit beta-18 (Allophycocyanin subunit B18)/Allophycocyanin beta chain
 
@@ -24,16 +24,16 @@ Light-harvesting photosynthetic bile pigment-protein from the phycobiliprotein c
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="apcF_BViewer" fastaUrl="/alignments/apcF_B.aln" colorSchema="clustal" hasConsensus={true} exportName="apcF_B_alignment.fasta" />
+<MsaBrowser viewerId="apcF_BViewer" fastaUrl="../../alignments/apcF_B.aln" colorSchema="clustal" hasConsensus={true} exportName="apcF_B_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/apcf_b_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/apcf_b_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/apcF_B.aln" icon="download">apcF_B.aln</LinkButton>
-<LinkButton href="/structure/apcf_b_model.cif" icon="download">apcF_B.cif</LinkButton>
+<LinkButton href="../../alignments/apcF_B.aln" icon="download">apcF_B.aln</LinkButton>
+<LinkButton href="../../structure/apcf_b_model.cif" icon="download">apcF_B.cif</LinkButton>
 
 # Raw Metadata
 

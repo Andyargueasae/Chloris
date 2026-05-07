@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Cytochrome c biogenesis protein CcsA
 
@@ -24,16 +24,16 @@ Required during biogenesis of c-type cytochromes (cytochrome c6 and cytochrome f
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ccsAViewer" fastaUrl="/alignments/ccsA.aln" colorSchema="clustal" hasConsensus={true} exportName="ccsA_alignment.fasta" />
+<MsaBrowser viewerId="ccsAViewer" fastaUrl="../../alignments/ccsA.aln" colorSchema="clustal" hasConsensus={true} exportName="ccsA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ccsa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ccsa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ccsA.aln" icon="download">ccsA.aln</LinkButton>
-<LinkButton href="/structure/ccsa_model.cif" icon="download">ccsA.cif</LinkButton>
+<LinkButton href="../../alignments/ccsA.aln" icon="download">ccsA.aln</LinkButton>
+<LinkButton href="../../structure/ccsa_model.cif" icon="download">ccsA.cif</LinkButton>
 
 # Raw Metadata
 

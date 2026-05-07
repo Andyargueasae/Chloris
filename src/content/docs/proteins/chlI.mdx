@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Magnesium-chelatase subunit ChlI
 
@@ -33,16 +33,16 @@ Involved in chlorophyll biosynthesis; introduces a magnesium ion into protoporph
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="chlIViewer" fastaUrl="/alignments/chlI.aln" colorSchema="clustal" hasConsensus={true} exportName="chlI_alignment.fasta" />
+<MsaBrowser viewerId="chlIViewer" fastaUrl="../../alignments/chlI.aln" colorSchema="clustal" hasConsensus={true} exportName="chlI_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/chli_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/chli_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/chlI.aln" icon="download">chlI.aln</LinkButton>
-<LinkButton href="/structure/chli_model.cif" icon="download">chlI.cif</LinkButton>
+<LinkButton href="../../alignments/chlI.aln" icon="download">chlI.aln</LinkButton>
+<LinkButton href="../../structure/chli_model.cif" icon="download">chlI.cif</LinkButton>
 
 # Raw Metadata
 

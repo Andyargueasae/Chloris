@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Magnesium-protoporphyrin IX monomethyl ester [oxidative] cyclase
 
@@ -24,16 +24,16 @@ Catalyzes the formation of the isocyclic ring in chlorophyll biosynthesis. Media
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="acsFViewer" fastaUrl="/alignments/acsF.aln" colorSchema="clustal" hasConsensus={true} exportName="acsF_alignment.fasta" />
+<MsaBrowser viewerId="acsFViewer" fastaUrl="../../alignments/acsF.aln" colorSchema="clustal" hasConsensus={true} exportName="acsF_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/acsf_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/acsf_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/acsF.aln" icon="download">acsF.aln</LinkButton>
-<LinkButton href="/structure/acsf_model.cif" icon="download">acsF.cif</LinkButton>
+<LinkButton href="../../alignments/acsF.aln" icon="download">acsF.aln</LinkButton>
+<LinkButton href="../../structure/acsf_model.cif" icon="download">acsF.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein K
 
@@ -25,16 +25,16 @@ One of the components of the core complex of photosystem II (PSII). PSII is a li
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbKViewer" fastaUrl="/alignments/psbK.aln" colorSchema="clustal" hasConsensus={true} exportName="psbK_alignment.fasta" />
+<MsaBrowser viewerId="psbKViewer" fastaUrl="../../alignments/psbK.aln" colorSchema="clustal" hasConsensus={true} exportName="psbK_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbk_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbk_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbK.aln" icon="download">psbK.aln</LinkButton>
-<LinkButton href="/structure/psbk_model.cif" icon="download">psbK.cif</LinkButton>
+<LinkButton href="../../alignments/psbK.aln" icon="download">psbK.aln</LinkButton>
+<LinkButton href="../../structure/psbk_model.cif" icon="download">psbK.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** ATP-dependent Clp protease proteolytic subunit
 
@@ -24,16 +24,16 @@ Cleaves peptides in various proteins in a process that requires ATP hydrolysis. 
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="clpPViewer" fastaUrl="/alignments/clpP.aln" colorSchema="clustal" hasConsensus={true} exportName="clpP_alignment.fasta" />
+<MsaBrowser viewerId="clpPViewer" fastaUrl="../../alignments/clpP.aln" colorSchema="clustal" hasConsensus={true} exportName="clpP_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/clpp_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/clpp_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/clpP.aln" icon="download">clpP.aln</LinkButton>
-<LinkButton href="/structure/clpp_model.cif" icon="download">clpP.cif</LinkButton>
+<LinkButton href="../../alignments/clpP.aln" icon="download">clpP.aln</LinkButton>
+<LinkButton href="../../structure/clpp_model.cif" icon="download">clpP.cif</LinkButton>
 
 # Raw Metadata
 

@@ -11,6 +11,10 @@ const {
   title = "ChlORD",
   description = "A database of plastid protein alignments, HMMs, structures, and metadata."
 } = Astro.props;
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path: string) => `${basePath}${path.replace(/^\//, '')}`;
 ---
 
 <!doctype html>
@@ -25,13 +29,13 @@ const {
   <body>
     <header class="site-header">
       <div class="container header-inner">
-        <a href="/" class="site-brand">ChlORD</a>
+        <a href={withBase('')} class="site-brand">ChlORD</a>
 
         <nav class="site-nav" aria-label="Main navigation">
-          <a href="/">Home</a>
-          <a href="/description">Description</a>
-          <a href="/download">Download</a>
-          <a href="/proteins">Proteins</a>
+          <a href={withBase('')}>Home</a>
+          <a href={withBase('description/')}>Description</a>
+          <a href={withBase('download/')}>Download</a>
+          <a href={withBase('proteins/')}>Proteins</a>
         </nav>
       </div>
     </header>

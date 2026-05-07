@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein M
 
@@ -24,16 +24,16 @@ One of the components of the core complex of photosystem II (PSII). PSII is a li
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbMViewer" fastaUrl="/alignments/psbM.aln" colorSchema="clustal" hasConsensus={true} exportName="psbM_alignment.fasta" />
+<MsaBrowser viewerId="psbMViewer" fastaUrl="../../alignments/psbM.aln" colorSchema="clustal" hasConsensus={true} exportName="psbM_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbm_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbm_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbM.aln" icon="download">psbM.aln</LinkButton>
-<LinkButton href="/structure/psbm_model.cif" icon="download">psbM.cif</LinkButton>
+<LinkButton href="../../alignments/psbM.aln" icon="download">psbM.aln</LinkButton>
+<LinkButton href="../../structure/psbm_model.cif" icon="download">psbM.cif</LinkButton>
 
 # Raw Metadata
 

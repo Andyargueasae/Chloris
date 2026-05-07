@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** ATP-dependent zinc metalloprotease FtsH
 
@@ -72,16 +72,16 @@ Acts as a processive, ATP-dependent zinc metallopeptidase
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ftsH_ycf46Viewer" fastaUrl="/alignments/ftsH_ycf46.aln" colorSchema="clustal" hasConsensus={true} exportName="ftsH_ycf46_alignment.fasta" />
+<MsaBrowser viewerId="ftsH_ycf46Viewer" fastaUrl="../../alignments/ftsH_ycf46.aln" colorSchema="clustal" hasConsensus={true} exportName="ftsH_ycf46_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ftsh_ycf46_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ftsh_ycf46_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ftsH_ycf46.aln" icon="download">ftsH_ycf46.aln</LinkButton>
-<LinkButton href="/structure/ftsh_ycf46_model.cif" icon="download">ftsH_ycf46.cif</LinkButton>
+<LinkButton href="../../alignments/ftsH_ycf46.aln" icon="download">ftsH_ycf46.aln</LinkButton>
+<LinkButton href="../../structure/ftsh_ycf46_model.cif" icon="download">ftsH_ycf46.cif</LinkButton>
 
 # Raw Metadata
 

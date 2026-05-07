@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** tRNA(Ile)-lysidine synthase, chloroplastic
 
@@ -27,16 +27,16 @@ Ligates lysine onto the cytidine present at position 34 of the AUA codon-specifi
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="tilS_ycf62Viewer" fastaUrl="/alignments/tilS_ycf62.aln" colorSchema="clustal" hasConsensus={true} exportName="tilS_ycf62_alignment.fasta" />
+<MsaBrowser viewerId="tilS_ycf62Viewer" fastaUrl="../../alignments/tilS_ycf62.aln" colorSchema="clustal" hasConsensus={true} exportName="tilS_ycf62_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/tils_ycf62_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/tils_ycf62_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/tilS_ycf62.aln" icon="download">tilS_ycf62.aln</LinkButton>
-<LinkButton href="/structure/tils_ycf62_model.cif" icon="download">tilS_ycf62.cif</LinkButton>
+<LinkButton href="../../alignments/tilS_ycf62.aln" icon="download">tilS_ycf62.aln</LinkButton>
+<LinkButton href="../../structure/tils_ycf62_model.cif" icon="download">tilS_ycf62.cif</LinkButton>
 
 # Raw Metadata
 

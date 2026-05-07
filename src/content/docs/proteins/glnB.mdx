@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Nitrogen regulatory protein P-II
 
@@ -24,16 +24,16 @@ P-II indirectly controls the transcription of the glutamine synthetase gene (gln
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="glnBViewer" fastaUrl="/alignments/glnB.aln" colorSchema="clustal" hasConsensus={true} exportName="glnB_alignment.fasta" />
+<MsaBrowser viewerId="glnBViewer" fastaUrl="../../alignments/glnB.aln" colorSchema="clustal" hasConsensus={true} exportName="glnB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/glnb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/glnb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/glnB.aln" icon="download">glnB.aln</LinkButton>
-<LinkButton href="/structure/glnb_model.cif" icon="download">glnB.cif</LinkButton>
+<LinkButton href="../../alignments/glnB.aln" icon="download">glnB.aln</LinkButton>
+<LinkButton href="../../structure/glnb_model.cif" icon="download">glnB.cif</LinkButton>
 
 # Raw Metadata
 

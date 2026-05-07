@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein bL36c
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl36Viewer" fastaUrl="/alignments/rpl36.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl36_alignment.fasta" />
+<MsaBrowser viewerId="rpl36Viewer" fastaUrl="../../alignments/rpl36.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl36_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl36_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl36_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl36.aln" icon="download">rpl36.aln</LinkButton>
-<LinkButton href="/structure/rpl36_model.cif" icon="download">rpl36.cif</LinkButton>
+<LinkButton href="../../alignments/rpl36.aln" icon="download">rpl36.aln</LinkButton>
+<LinkButton href="../../structure/rpl36_model.cif" icon="download">rpl36.cif</LinkButton>
 
 # Raw Metadata
 

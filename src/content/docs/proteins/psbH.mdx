@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein H
 
@@ -24,16 +24,16 @@ One of the components of the core complex of photosystem II (PSII), required for
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbHViewer" fastaUrl="/alignments/psbH.aln" colorSchema="clustal" hasConsensus={true} exportName="psbH_alignment.fasta" />
+<MsaBrowser viewerId="psbHViewer" fastaUrl="../../alignments/psbH.aln" colorSchema="clustal" hasConsensus={true} exportName="psbH_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbh_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbh_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbH.aln" icon="download">psbH.aln</LinkButton>
-<LinkButton href="/structure/psbh_model.cif" icon="download">psbH.cif</LinkButton>
+<LinkButton href="../../alignments/psbH.aln" icon="download">psbH.aln</LinkButton>
+<LinkButton href="../../structure/psbh_model.cif" icon="download">psbH.cif</LinkButton>
 
 # Raw Metadata
 

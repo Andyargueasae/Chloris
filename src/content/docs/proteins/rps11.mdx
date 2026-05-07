@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Small ribosomal subunit protein uS11c
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rps11Viewer" fastaUrl="/alignments/rps11.aln" colorSchema="clustal" hasConsensus={true} exportName="rps11_alignment.fasta" />
+<MsaBrowser viewerId="rps11Viewer" fastaUrl="../../alignments/rps11.aln" colorSchema="clustal" hasConsensus={true} exportName="rps11_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rps11_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rps11_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rps11.aln" icon="download">rps11.aln</LinkButton>
-<LinkButton href="/structure/rps11_model.cif" icon="download">rps11.cif</LinkButton>
+<LinkButton href="../../alignments/rps11.aln" icon="download">rps11.aln</LinkButton>
+<LinkButton href="../../structure/rps11_model.cif" icon="download">rps11.cif</LinkButton>
 
 # Raw Metadata
 

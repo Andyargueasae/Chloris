@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Cytochrome b559 subunit alpha
 
@@ -25,16 +25,16 @@ This b-type cytochrome is tightly associated with the reaction center of photosy
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbEViewer" fastaUrl="/alignments/psbE.aln" colorSchema="clustal" hasConsensus={true} exportName="psbE_alignment.fasta" />
+<MsaBrowser viewerId="psbEViewer" fastaUrl="../../alignments/psbE.aln" colorSchema="clustal" hasConsensus={true} exportName="psbE_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbe_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbe_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbE.aln" icon="download">psbE.aln</LinkButton>
-<LinkButton href="/structure/psbe_model.cif" icon="download">psbE.cif</LinkButton>
+<LinkButton href="../../alignments/psbE.aln" icon="download">psbE.aln</LinkButton>
+<LinkButton href="../../structure/psbe_model.cif" icon="download">psbE.cif</LinkButton>
 
 # Raw Metadata
 

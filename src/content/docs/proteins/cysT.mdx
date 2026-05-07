@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable sulfate transport system permease protein cysT
 
@@ -24,16 +24,16 @@ Part of the ABC transporter complex cysAWTP (TC 3.A.1.6.1) involved in sulfate/t
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cysTViewer" fastaUrl="/alignments/cysT.aln" colorSchema="clustal" hasConsensus={true} exportName="cysT_alignment.fasta" />
+<MsaBrowser viewerId="cysTViewer" fastaUrl="../../alignments/cysT.aln" colorSchema="clustal" hasConsensus={true} exportName="cysT_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cyst_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cyst_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cysT.aln" icon="download">cysT.aln</LinkButton>
-<LinkButton href="/structure/cyst_model.cif" icon="download">cysT.cif</LinkButton>
+<LinkButton href="../../alignments/cysT.aln" icon="download">cysT.aln</LinkButton>
+<LinkButton href="../../structure/cyst_model.cif" icon="download">cysT.cif</LinkButton>
 
 # Raw Metadata
 

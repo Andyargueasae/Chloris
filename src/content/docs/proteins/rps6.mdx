@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Small ribosomal subunit protein bS6c
 
@@ -24,16 +24,16 @@ Binds together with bS18 to 16S ribosomal RNA
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rps6Viewer" fastaUrl="/alignments/rps6.aln" colorSchema="clustal" hasConsensus={true} exportName="rps6_alignment.fasta" />
+<MsaBrowser viewerId="rps6Viewer" fastaUrl="../../alignments/rps6.aln" colorSchema="clustal" hasConsensus={true} exportName="rps6_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rps6_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rps6_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rps6.aln" icon="download">rps6.aln</LinkButton>
-<LinkButton href="/structure/rps6_model.cif" icon="download">rps6.cif</LinkButton>
+<LinkButton href="../../alignments/rps6.aln" icon="download">rps6.aln</LinkButton>
+<LinkButton href="../../structure/rps6_model.cif" icon="download">rps6.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein I
 
@@ -24,16 +24,16 @@ One of the components of the core complex of photosystem II (PSII), required for
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbIViewer" fastaUrl="/alignments/psbI.aln" colorSchema="clustal" hasConsensus={true} exportName="psbI_alignment.fasta" />
+<MsaBrowser viewerId="psbIViewer" fastaUrl="../../alignments/psbI.aln" colorSchema="clustal" hasConsensus={true} exportName="psbI_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbi_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbi_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbI.aln" icon="download">psbI.aln</LinkButton>
-<LinkButton href="/structure/psbi_model.cif" icon="download">psbI.cif</LinkButton>
+<LinkButton href="../../alignments/psbI.aln" icon="download">psbI.aln</LinkButton>
+<LinkButton href="../../structure/psbi_model.cif" icon="download">psbI.cif</LinkButton>
 
 # Raw Metadata
 

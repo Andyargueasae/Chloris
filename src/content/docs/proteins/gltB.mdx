@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Ferredoxin-dependent glutamate synthase
 
@@ -26,16 +26,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="gltBViewer" fastaUrl="/alignments/gltB.aln" colorSchema="clustal" hasConsensus={true} exportName="gltB_alignment.fasta" />
+<MsaBrowser viewerId="gltBViewer" fastaUrl="../../alignments/gltB.aln" colorSchema="clustal" hasConsensus={true} exportName="gltB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/gltb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/gltb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/gltB.aln" icon="download">gltB.aln</LinkButton>
-<LinkButton href="/structure/gltb_model.cif" icon="download">gltB.cif</LinkButton>
+<LinkButton href="../../alignments/gltB.aln" icon="download">gltB.aln</LinkButton>
+<LinkButton href="../../structure/gltb_model.cif" icon="download">gltB.cif</LinkButton>
 
 # Raw Metadata
 

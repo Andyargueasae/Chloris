@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein uL22c
 
@@ -24,16 +24,16 @@ This protein binds specifically to 23S rRNA The globular domain of the protein i
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl22Viewer" fastaUrl="/alignments/rpl22.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl22_alignment.fasta" />
+<MsaBrowser viewerId="rpl22Viewer" fastaUrl="../../alignments/rpl22.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl22_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl22_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl22_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl22.aln" icon="download">rpl22.aln</LinkButton>
-<LinkButton href="/structure/rpl22_model.cif" icon="download">rpl22.cif</LinkButton>
+<LinkButton href="../../alignments/rpl22.aln" icon="download">rpl22.aln</LinkButton>
+<LinkButton href="../../structure/rpl22_model.cif" icon="download">rpl22.cif</LinkButton>
 
 # Raw Metadata
 

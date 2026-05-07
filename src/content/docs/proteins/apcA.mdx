@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Allophycocyanin alpha chain
 
@@ -24,16 +24,16 @@ Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycob
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="apcAViewer" fastaUrl="/alignments/apcA.aln" colorSchema="clustal" hasConsensus={true} exportName="apcA_alignment.fasta" />
+<MsaBrowser viewerId="apcAViewer" fastaUrl="../../alignments/apcA.aln" colorSchema="clustal" hasConsensus={true} exportName="apcA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/apca_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/apca_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/apcA.aln" icon="download">apcA.aln</LinkButton>
-<LinkButton href="/structure/apca_model.cif" icon="download">apcA.cif</LinkButton>
+<LinkButton href="../../alignments/apcA.aln" icon="download">apcA.aln</LinkButton>
+<LinkButton href="../../structure/apca_model.cif" icon="download">apcA.cif</LinkButton>
 
 # Raw Metadata
 

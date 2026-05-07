@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Uroporphyrinogen-III C-methyltransferase
 
@@ -24,16 +24,16 @@ Catalyzes the two successive C-2 and C-7 methylation reactions involved in the c
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cobAViewer" fastaUrl="/alignments/cobA.aln" colorSchema="clustal" hasConsensus={true} exportName="cobA_alignment.fasta" />
+<MsaBrowser viewerId="cobAViewer" fastaUrl="../../alignments/cobA.aln" colorSchema="clustal" hasConsensus={true} exportName="cobA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/coba_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/coba_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cobA.aln" icon="download">cobA.aln</LinkButton>
-<LinkButton href="/structure/coba_model.cif" icon="download">cobA.cif</LinkButton>
+<LinkButton href="../../alignments/cobA.aln" icon="download">cobA.aln</LinkButton>
+<LinkButton href="../../structure/coba_model.cif" icon="download">cobA.cif</LinkButton>
 
 # Raw Metadata
 

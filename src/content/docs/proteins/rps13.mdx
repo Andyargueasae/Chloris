@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Small ribosomal subunit protein uS13c
 
@@ -24,16 +24,16 @@ Located at the top of the head of the 30S subunit, it contacts several helices o
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rps13Viewer" fastaUrl="/alignments/rps13.aln" colorSchema="clustal" hasConsensus={true} exportName="rps13_alignment.fasta" />
+<MsaBrowser viewerId="rps13Viewer" fastaUrl="../../alignments/rps13.aln" colorSchema="clustal" hasConsensus={true} exportName="rps13_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rps13_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rps13_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rps13.aln" icon="download">rps13.aln</LinkButton>
-<LinkButton href="/structure/rps13_model.cif" icon="download">rps13.cif</LinkButton>
+<LinkButton href="../../alignments/rps13.aln" icon="download">rps13.aln</LinkButton>
+<LinkButton href="../../structure/rps13_model.cif" icon="download">rps13.cif</LinkButton>
 
 # Raw Metadata
 

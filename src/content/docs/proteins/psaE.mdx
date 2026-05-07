@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I reaction center subunit IV
 
@@ -24,16 +24,16 @@ Stabilizes the interaction between PsaC and the PSI core, assists the docking of
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaEViewer" fastaUrl="/alignments/psaE.aln" colorSchema="clustal" hasConsensus={true} exportName="psaE_alignment.fasta" />
+<MsaBrowser viewerId="psaEViewer" fastaUrl="../../alignments/psaE.aln" colorSchema="clustal" hasConsensus={true} exportName="psaE_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psae_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psae_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaE.aln" icon="download">psaE.aln</LinkButton>
-<LinkButton href="/structure/psae_model.cif" icon="download">psaE.cif</LinkButton>
+<LinkButton href="../../alignments/psaE.aln" icon="download">psaE.aln</LinkButton>
+<LinkButton href="../../structure/psae_model.cif" icon="download">psaE.cif</LinkButton>
 
 # Raw Metadata
 

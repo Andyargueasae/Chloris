@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable ABC transporter permease protein ycf63
 
@@ -24,16 +24,16 @@ Could be part of an ABC transporter complex
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ycf63Viewer" fastaUrl="/alignments/ycf63.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf63_alignment.fasta" />
+<MsaBrowser viewerId="ycf63Viewer" fastaUrl="../../alignments/ycf63.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf63_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ycf63_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ycf63_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ycf63.aln" icon="download">ycf63.aln</LinkButton>
-<LinkButton href="/structure/ycf63_model.cif" icon="download">ycf63.cif</LinkButton>
+<LinkButton href="../../alignments/ycf63.aln" icon="download">ycf63.aln</LinkButton>
+<LinkButton href="../../structure/ycf63_model.cif" icon="download">ycf63.cif</LinkButton>
 
 # Raw Metadata
 

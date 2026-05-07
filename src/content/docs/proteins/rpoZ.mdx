@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Putative DNA-directed RNA polymerase subunit omega
 
@@ -24,16 +24,16 @@ May be involved in RNA polymerase activity
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpoZViewer" fastaUrl="/alignments/rpoZ.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoZ_alignment.fasta" />
+<MsaBrowser viewerId="rpoZViewer" fastaUrl="../../alignments/rpoZ.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoZ_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpoz_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpoz_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpoZ.aln" icon="download">rpoZ.aln</LinkButton>
-<LinkButton href="/structure/rpoz_model.cif" icon="download">rpoZ.cif</LinkButton>
+<LinkButton href="../../alignments/rpoZ.aln" icon="download">rpoZ.aln</LinkButton>
+<LinkButton href="../../structure/rpoz_model.cif" icon="download">rpoZ.cif</LinkButton>
 
 # Raw Metadata
 

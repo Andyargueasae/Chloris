@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Acetolactate synthase small subunit
 
@@ -25,16 +25,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ilvHViewer" fastaUrl="/alignments/ilvH.aln" colorSchema="clustal" hasConsensus={true} exportName="ilvH_alignment.fasta" />
+<MsaBrowser viewerId="ilvHViewer" fastaUrl="../../alignments/ilvH.aln" colorSchema="clustal" hasConsensus={true} exportName="ilvH_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ilvh_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ilvh_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ilvH.aln" icon="download">ilvH.aln</LinkButton>
-<LinkButton href="/structure/ilvh_model.cif" icon="download">ilvH.cif</LinkButton>
+<LinkButton href="../../alignments/ilvH.aln" icon="download">ilvH.aln</LinkButton>
+<LinkButton href="../../structure/ilvh_model.cif" icon="download">ilvH.cif</LinkButton>
 
 # Raw Metadata
 

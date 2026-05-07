@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** DNA-directed RNA polymerase subunit beta'
 
@@ -26,16 +26,16 @@ DNA-dependent RNA polymerase catalyzes the transcription of DNA into RNA using t
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpoC1Viewer" fastaUrl="/alignments/rpoC1.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoC1_alignment.fasta" />
+<MsaBrowser viewerId="rpoC1Viewer" fastaUrl="../../alignments/rpoC1.aln" colorSchema="clustal" hasConsensus={true} exportName="rpoC1_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpoc1_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpoc1_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpoC1.aln" icon="download">rpoC1.aln</LinkButton>
-<LinkButton href="/structure/rpoc1_model.cif" icon="download">rpoC1.cif</LinkButton>
+<LinkButton href="../../alignments/rpoC1.aln" icon="download">rpoC1.aln</LinkButton>
+<LinkButton href="../../structure/rpoc1_model.cif" icon="download">rpoC1.cif</LinkButton>
 
 # Raw Metadata
 

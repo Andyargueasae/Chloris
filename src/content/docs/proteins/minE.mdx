@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Putative cell division topological specificity factor
 
@@ -24,16 +24,16 @@ Prevents the cell division inhibition by proteins minC and minD at internal divi
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="minEViewer" fastaUrl="/alignments/minE.aln" colorSchema="clustal" hasConsensus={true} exportName="minE_alignment.fasta" />
+<MsaBrowser viewerId="minEViewer" fastaUrl="../../alignments/minE.aln" colorSchema="clustal" hasConsensus={true} exportName="minE_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/mine_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/mine_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/minE.aln" icon="download">minE.aln</LinkButton>
-<LinkButton href="/structure/mine_model.cif" icon="download">minE.cif</LinkButton>
+<LinkButton href="../../alignments/minE.aln" icon="download">minE.aln</LinkButton>
+<LinkButton href="../../structure/mine_model.cif" icon="download">minE.cif</LinkButton>
 
 # Raw Metadata
 

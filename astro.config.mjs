@@ -4,6 +4,8 @@ import starlight from '@astrojs/starlight';
 import react from '@astrojs/react';
 
 export default defineConfig({
+  site: 'https://andyargueasae.github.io',
+  base: '/A2K_website',
   integrations: [
     starlight({
       title: 'ChlORIS',

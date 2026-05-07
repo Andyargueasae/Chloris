@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein
 
@@ -32,16 +32,16 @@ Component of the dark-operative protochlorophyllide reductase (DPOR) that uses M
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="chlLViewer" fastaUrl="/alignments/chlL.aln" colorSchema="clustal" hasConsensus={true} exportName="chlL_alignment.fasta" />
+<MsaBrowser viewerId="chlLViewer" fastaUrl="../../alignments/chlL.aln" colorSchema="clustal" hasConsensus={true} exportName="chlL_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/chll_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/chll_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/chlL.aln" icon="download">chlL.aln</LinkButton>
-<LinkButton href="/structure/chll_model.cif" icon="download">chlL.cif</LinkButton>
+<LinkButton href="../../alignments/chlL.aln" icon="download">chlL.aln</LinkButton>
+<LinkButton href="../../structure/chll_model.cif" icon="download">chlL.cif</LinkButton>
 
 # Raw Metadata
 

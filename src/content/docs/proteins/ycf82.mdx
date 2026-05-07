@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Ribosomal operon-associated A protein
 
@@ -26,16 +26,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ycf82Viewer" fastaUrl="/alignments/ycf82.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf82_alignment.fasta" />
+<MsaBrowser viewerId="ycf82Viewer" fastaUrl="../../alignments/ycf82.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf82_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ycf82_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ycf82_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ycf82.aln" icon="download">ycf82.aln</LinkButton>
-<LinkButton href="/structure/ycf82_model.cif" icon="download">ycf82.cif</LinkButton>
+<LinkButton href="../../alignments/ycf82.aln" icon="download">ycf82.aln</LinkButton>
+<LinkButton href="../../structure/ycf82_model.cif" icon="download">ycf82.cif</LinkButton>
 
 # Raw Metadata
 

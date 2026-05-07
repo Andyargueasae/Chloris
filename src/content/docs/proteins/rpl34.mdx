@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein bL34c
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl34Viewer" fastaUrl="/alignments/rpl34.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl34_alignment.fasta" />
+<MsaBrowser viewerId="rpl34Viewer" fastaUrl="../../alignments/rpl34.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl34_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl34_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl34_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl34.aln" icon="download">rpl34.aln</LinkButton>
-<LinkButton href="/structure/rpl34_model.cif" icon="download">rpl34.cif</LinkButton>
+<LinkButton href="../../alignments/rpl34.aln" icon="download">rpl34.aln</LinkButton>
+<LinkButton href="../../structure/rpl34_model.cif" icon="download">rpl34.cif</LinkButton>
 
 # Raw Metadata
 

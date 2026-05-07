@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** R-phycoerythrin alpha chain
 
@@ -24,16 +24,16 @@ Light-harvesting photosynthetic bile pigment-protein from the phycobiliprotein c
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cpeAViewer" fastaUrl="/alignments/cpeA.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeA_alignment.fasta" />
+<MsaBrowser viewerId="cpeAViewer" fastaUrl="../../alignments/cpeA.aln" colorSchema="clustal" hasConsensus={true} exportName="cpeA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cpea_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cpea_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cpeA.aln" icon="download">cpeA.aln</LinkButton>
-<LinkButton href="/structure/cpea_model.cif" icon="download">cpeA.cif</LinkButton>
+<LinkButton href="../../alignments/cpeA.aln" icon="download">cpeA.aln</LinkButton>
+<LinkButton href="../../structure/cpea_model.cif" icon="download">cpeA.cif</LinkButton>
 
 # Raw Metadata
 

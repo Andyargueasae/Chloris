@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein T
 
@@ -24,16 +24,16 @@ Found at the monomer-monomer interface of the photosystem II (PS II) dimer, play
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbTViewer" fastaUrl="/alignments/psbT.aln" colorSchema="clustal" hasConsensus={true} exportName="psbT_alignment.fasta" />
+<MsaBrowser viewerId="psbTViewer" fastaUrl="../../alignments/psbT.aln" colorSchema="clustal" hasConsensus={true} exportName="psbT_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbt_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbt_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbT.aln" icon="download">psbT.aln</LinkButton>
-<LinkButton href="/structure/psbt_model.cif" icon="download">psbT.cif</LinkButton>
+<LinkButton href="../../alignments/psbT.aln" icon="download">psbT.aln</LinkButton>
+<LinkButton href="../../structure/psbt_model.cif" icon="download">psbT.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem I reaction center subunit II
 
@@ -24,16 +24,16 @@ PsaD can form complexes with ferredoxin and ferredoxin-oxidoreductase in photosy
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psaDViewer" fastaUrl="/alignments/psaD.aln" colorSchema="clustal" hasConsensus={true} exportName="psaD_alignment.fasta" />
+<MsaBrowser viewerId="psaDViewer" fastaUrl="../../alignments/psaD.aln" colorSchema="clustal" hasConsensus={true} exportName="psaD_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psad_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psad_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psaD.aln" icon="download">psaD.aln</LinkButton>
-<LinkButton href="/structure/psad_model.cif" icon="download">psaD.cif</LinkButton>
+<LinkButton href="../../alignments/psaD.aln" icon="download">psaD.aln</LinkButton>
+<LinkButton href="../../structure/psad_model.cif" icon="download">psaD.cif</LinkButton>
 
 # Raw Metadata
 

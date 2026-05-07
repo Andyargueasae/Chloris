@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Carbamoyl phosphate synthase small chain
 
@@ -27,16 +27,16 @@ Small subunit of the glutamine-dependent carbamoyl phosphate synthetase (CPSase)
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="carAViewer" fastaUrl="/alignments/carA.aln" colorSchema="clustal" hasConsensus={true} exportName="carA_alignment.fasta" />
+<MsaBrowser viewerId="carAViewer" fastaUrl="../../alignments/carA.aln" colorSchema="clustal" hasConsensus={true} exportName="carA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cara_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cara_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/carA.aln" icon="download">carA.aln</LinkButton>
-<LinkButton href="/structure/cara_model.cif" icon="download">carA.cif</LinkButton>
+<LinkButton href="../../alignments/carA.aln" icon="download">carA.aln</LinkButton>
+<LinkButton href="../../structure/cara_model.cif" icon="download">carA.cif</LinkButton>
 
 # Raw Metadata
 

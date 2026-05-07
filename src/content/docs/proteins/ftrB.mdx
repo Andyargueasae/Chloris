@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Ferredoxin-thioredoxin reductase, catalytic chain
 
@@ -24,16 +24,16 @@ Catalytic subunit of the ferredoxin-thioredoxin reductase (FTR), which catalyzes
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="ftrBViewer" fastaUrl="/alignments/ftrB.aln" colorSchema="clustal" hasConsensus={true} exportName="ftrB_alignment.fasta" />
+<MsaBrowser viewerId="ftrBViewer" fastaUrl="../../alignments/ftrB.aln" colorSchema="clustal" hasConsensus={true} exportName="ftrB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/ftrb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/ftrb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/ftrB.aln" icon="download">ftrB.aln</LinkButton>
-<LinkButton href="/structure/ftrb_model.cif" icon="download">ftrB.cif</LinkButton>
+<LinkButton href="../../alignments/ftrB.aln" icon="download">ftrB.aln</LinkButton>
+<LinkButton href="../../structure/ftrb_model.cif" icon="download">ftrB.cif</LinkButton>
 
 # Raw Metadata
 

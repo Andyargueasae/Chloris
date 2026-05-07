@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** isochorismate synthase
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="menFViewer" fastaUrl="/alignments/menF.aln" colorSchema="clustal" hasConsensus={true} exportName="menF_alignment.fasta" />
+<MsaBrowser viewerId="menFViewer" fastaUrl="../../alignments/menF.aln" colorSchema="clustal" hasConsensus={true} exportName="menF_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/menf_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/menf_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/menF.aln" icon="download">menF.aln</LinkButton>
-<LinkButton href="/structure/menf_model.cif" icon="download">menF.cif</LinkButton>
+<LinkButton href="../../alignments/menF.aln" icon="download">menF.aln</LinkButton>
+<LinkButton href="../../structure/menf_model.cif" icon="download">menF.cif</LinkButton>
 
 # Raw Metadata
 

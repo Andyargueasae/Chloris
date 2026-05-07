@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Histidine--tRNA ligase, chloroplastic
 
@@ -24,16 +24,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="syhViewer" fastaUrl="/alignments/syh.aln" colorSchema="clustal" hasConsensus={true} exportName="syh_alignment.fasta" />
+<MsaBrowser viewerId="syhViewer" fastaUrl="../../alignments/syh.aln" colorSchema="clustal" hasConsensus={true} exportName="syh_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/syh_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/syh_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/syh.aln" icon="download">syh.aln</LinkButton>
-<LinkButton href="/structure/syh_model.cif" icon="download">syh.cif</LinkButton>
+<LinkButton href="../../alignments/syh.aln" icon="download">syh.aln</LinkButton>
+<LinkButton href="../../structure/syh_model.cif" icon="download">syh.cif</LinkButton>
 
 # Raw Metadata
 

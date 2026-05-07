@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Translation initiation factor IF-2, chloroplastic
 
@@ -37,16 +37,16 @@ One of the essential components for the initiation of protein synthesis. Protect
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="infBViewer" fastaUrl="/alignments/infB.aln" colorSchema="clustal" hasConsensus={true} exportName="infB_alignment.fasta" />
+<MsaBrowser viewerId="infBViewer" fastaUrl="../../alignments/infB.aln" colorSchema="clustal" hasConsensus={true} exportName="infB_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/infb_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/infb_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/infB.aln" icon="download">infB.aln</LinkButton>
-<LinkButton href="/structure/infb_model.cif" icon="download">infB.cif</LinkButton>
+<LinkButton href="../../alignments/infB.aln" icon="download">infB.aln</LinkButton>
+<LinkButton href="../../structure/infb_model.cif" icon="download">infB.cif</LinkButton>
 
 # Raw Metadata
 

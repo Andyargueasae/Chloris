@@ -11,13 +11,16 @@ interface Props {
 }
 
 const { title, description } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path: string) => `${basePath}${path.replace(/^\//, '')}`;
 const navItems = [
-  { href: '/description/', label: 'Description' },
-  { href: '/species/', label: 'Species' },
-  { href: '/proteins/', label: 'Proteins' },
-  { href: '/phylogeny/', label: 'Phylogeny' },
-  { href: '/download/', label: 'Download' },
-  { href: '/credits/', label: 'Credits' },
+  { href: 'description/', label: 'Description' },
+  { href: 'species/', label: 'Species' },
+  { href: 'proteins/', label: 'Proteins' },
+  { href: 'phylogeny/', label: 'Phylogeny' },
+  { href: 'download/', label: 'Download' },
+  { href: 'credits/', label: 'Credits' },
 ];
 ---
 
@@ -36,13 +39,13 @@ const navItems = [
   <body>
     <main class="docs-page">
       <header class="site-header docs-header">
-        <a href="/" class="header-brand" aria-label="Chloris home">
+        <a href={withBase('')} class="header-brand" aria-label="Chloris home">
           <img src={chlorisFigure.src} alt="" class="header-brand-figure" />
           <img src={heading.src} alt="Chloris" class="header-brand-title" />
         </a>
 
         <nav class="nav" aria-label="Primary navigation">
-          {navItems.map((item) => <a href={item.href}>{item.label}</a>)}
+          {navItems.map((item) => <a href={withBase(item.href)}>{item.label}</a>)}
         </nav>
       </header>
 

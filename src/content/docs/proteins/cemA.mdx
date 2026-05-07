@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Potassium/proton antiporter CemA
 
@@ -24,16 +24,16 @@ Contributes to K(+)/H(+) antiport activity by supporting proton efflux to contro
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="cemAViewer" fastaUrl="/alignments/cemA.aln" colorSchema="clustal" hasConsensus={true} exportName="cemA_alignment.fasta" />
+<MsaBrowser viewerId="cemAViewer" fastaUrl="../../alignments/cemA.aln" colorSchema="clustal" hasConsensus={true} exportName="cemA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/cema_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/cema_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/cemA.aln" icon="download">cemA.aln</LinkButton>
-<LinkButton href="/structure/cema_model.cif" icon="download">cemA.cif</LinkButton>
+<LinkButton href="../../alignments/cemA.aln" icon="download">cemA.aln</LinkButton>
+<LinkButton href="../../structure/cema_model.cif" icon="download">cemA.cif</LinkButton>
 
 # Raw Metadata
 

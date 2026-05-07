@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Tryptophan synthase alpha chain
 
@@ -25,16 +25,16 @@ The alpha subunit is responsible for the aldol cleavage of indoleglycerol phosph
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="trpAViewer" fastaUrl="/alignments/trpA.aln" colorSchema="clustal" hasConsensus={true} exportName="trpA_alignment.fasta" />
+<MsaBrowser viewerId="trpAViewer" fastaUrl="../../alignments/trpA.aln" colorSchema="clustal" hasConsensus={true} exportName="trpA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/trpa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/trpa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/trpA.aln" icon="download">trpA.aln</LinkButton>
-<LinkButton href="/structure/trpa_model.cif" icon="download">trpA.cif</LinkButton>
+<LinkButton href="../../alignments/trpA.aln" icon="download">trpA.aln</LinkButton>
+<LinkButton href="../../structure/trpa_model.cif" icon="download">trpA.cif</LinkButton>
 
 # Raw Metadata
 

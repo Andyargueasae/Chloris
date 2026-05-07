@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Small ribosomal subunit protein uS17c
 
@@ -24,16 +24,16 @@ One of the primary rRNA binding proteins, it binds specifically to the 5'-end of
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rps17Viewer" fastaUrl="/alignments/rps17.aln" colorSchema="clustal" hasConsensus={true} exportName="rps17_alignment.fasta" />
+<MsaBrowser viewerId="rps17Viewer" fastaUrl="../../alignments/rps17.aln" colorSchema="clustal" hasConsensus={true} exportName="rps17_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rps17_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rps17_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rps17.aln" icon="download">rps17.aln</LinkButton>
-<LinkButton href="/structure/rps17_model.cif" icon="download">rps17.cif</LinkButton>
+<LinkButton href="../../alignments/rps17.aln" icon="download">rps17.aln</LinkButton>
+<LinkButton href="../../structure/rps17_model.cif" icon="download">rps17.cif</LinkButton>
 
 # Raw Metadata
 

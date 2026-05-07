@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** ATP synthase epsilon chain, chloroplastic
 
@@ -25,16 +25,16 @@ Produces ATP from ADP in the presence of a proton gradient across the membrane
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="atpEViewer" fastaUrl="/alignments/atpE.aln" colorSchema="clustal" hasConsensus={true} exportName="atpE_alignment.fasta" />
+<MsaBrowser viewerId="atpEViewer" fastaUrl="../../alignments/atpE.aln" colorSchema="clustal" hasConsensus={true} exportName="atpE_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/atpe_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/atpe_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/atpE.aln" icon="download">atpE.aln</LinkButton>
-<LinkButton href="/structure/atpe_model.cif" icon="download">atpE.cif</LinkButton>
+<LinkButton href="../../alignments/atpE.aln" icon="download">atpE.aln</LinkButton>
+<LinkButton href="../../structure/atpe_model.cif" icon="download">atpE.cif</LinkButton>
 
 # Raw Metadata
 

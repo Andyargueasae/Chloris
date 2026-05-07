@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Light-independent protochlorophyllide reductase subunit N
 
@@ -24,16 +24,16 @@ Component of the dark-operative protochlorophyllide reductase (DPOR) that uses M
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="chlNViewer" fastaUrl="/alignments/chlN.aln" colorSchema="clustal" hasConsensus={true} exportName="chlN_alignment.fasta" />
+<MsaBrowser viewerId="chlNViewer" fastaUrl="../../alignments/chlN.aln" colorSchema="clustal" hasConsensus={true} exportName="chlN_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/chln_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/chln_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/chlN.aln" icon="download">chlN.aln</LinkButton>
-<LinkButton href="/structure/chln_model.cif" icon="download">chlN.cif</LinkButton>
+<LinkButton href="../../alignments/chlN.aln" icon="download">chlN.aln</LinkButton>
+<LinkButton href="../../structure/chln_model.cif" icon="download">chlN.cif</LinkButton>
 
 # Raw Metadata
 

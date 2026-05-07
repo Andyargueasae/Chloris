@@ -52,43 +52,43 @@ def cleaned_text(value: Any) -> str:
 	return text
 
 
-def normalize_alignment_url(gene: str, raw_alignment_path: Any) -> str:
+def normalize_alignment_url(protein: str, raw_alignment_path: Any) -> str:
 	candidate_name = None
 	if raw_alignment_path:
 		candidate_name = Path(str(raw_alignment_path)).name
 	if not candidate_name:
-		candidate_name = f"{gene}.aln"
+		candidate_name = f"{protein}.aln"
 
 	preferred = PUBLIC_ALIGNMENTS_DIR / candidate_name
 	if preferred.exists():
-		return f"/alignments/{candidate_name}"
+		return f"../../alignments/{candidate_name}"
 
-	fallback_name = f"{gene}.aln"
+	fallback_name = f"{protein}.aln"
 	fallback = PUBLIC_ALIGNMENTS_DIR / fallback_name
 	if fallback.exists():
-		return f"/alignments/{fallback_name}"
+		return f"../../alignments/{fallback_name}"
 
-	return f"/alignments/{candidate_name}"
+	return f"../../alignments/{candidate_name}"
 
 
-def normalize_structure_url(gene: str, raw_structure_path: Any) -> str:
+def normalize_structure_url(protein: str, raw_structure_path: Any) -> str:
 	candidate_name = None
 	if raw_structure_path:
 		candidate_name = Path(str(raw_structure_path)).name
-	gene_lower = gene.lower()
+	protein_lower = protein.lower()
 
-	expected_name = f"{gene_lower}_model.cif"
+	expected_name = f"{protein_lower}_model.cif"
 	expected_file = PUBLIC_STRUCTURE_DIR / expected_name
 	if expected_file.exists():
-		return f"/structure/{expected_name}"
+		return f"../../structure/{expected_name}"
 
 	if candidate_name and (PUBLIC_STRUCTURE_DIR / candidate_name).exists():
-		return f"/structure/{candidate_name}"
+		return f"../../structure/{candidate_name}"
 
 	if candidate_name:
-		return f"/structure/{candidate_name}"
+		return f"../../structure/{candidate_name}"
 
-	return f"/structure/{expected_name}"
+	return f"../../structure/{expected_name}"
 
 
 def yaml_double_quoted(value: str) -> str:
@@ -102,8 +102,8 @@ def md_inline(value: Any) -> str:
 	return text
 
 
-def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
-	title = cleaned_text(data.get("protein")) or gene
+def build_protein_mdx(protein: str, data: dict[str, Any]) -> str:
+	title = cleaned_text(data.get("protein")) or protein
 	full_name = cleaned_text(data.get("full name"))
 	descriptions = cleaned_text(data.get("descriptions"))
 	uniref90 = cleaned_text(data.get("Uniref90 representative"))
@@ -113,22 +113,22 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 	pfam_domains = parse_bracket_list(data.get("pfam domains"))
 	pfam_links = parse_bracket_list(data.get("pfam_links"))
 
-	alignment_url = normalize_alignment_url(gene, data.get("alignment_path"))
-	structure_url = normalize_structure_url(gene, data.get("structure_path"))
+	alignment_url = normalize_alignment_url(protein, data.get("alignment_path"))
+	structure_url = normalize_structure_url(protein, data.get("structure_path"))
 
 	description_text = full_name or f"{title} alignment and predicted structure"
 	lines: list[str] = [
 		"---",
 		f"title: {yaml_double_quoted(title)}",
 		f"description: {yaml_double_quoted(description_text)}",
-		f"slug: {yaml_double_quoted(f'proteins/{gene}')}",
+		f"slug: {yaml_double_quoted(f'proteins/{protein}')}",
 		"---",
 		"",
 		"import MsaBrowser from '../../../components/MSA.astro';",
 		"import ProteinStructureViewer from '../../../components/ProteinViewer.astro';",
 		"import { LinkButton } from '@astrojs/starlight/components';",
 		"",
-		"# Gene Information",
+		"# Protein Information",
 		"",
 	]
 
@@ -163,7 +163,7 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 		[
 			"# Multi-Sequence Alignment",
 			"",
-			f"<MsaBrowser viewerId=\"{gene}Viewer\" fastaUrl=\"{alignment_url}\" colorSchema=\"clustal\" hasConsensus={{true}} exportName=\"{gene}_alignment.fasta\" />",
+			f"<MsaBrowser viewerId=\"{protein}Viewer\" fastaUrl=\"{alignment_url}\" colorSchema=\"clustal\" hasConsensus={{true}} exportName=\"{protein}_alignment.fasta\" />",
 			"",
 			"# Structure Visualization",
 			"",
@@ -171,8 +171,8 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 			"",
 			"# Downloads",
 			"",
-			f"<LinkButton href=\"{alignment_url}\" icon=\"download\">{gene}.aln</LinkButton>",
-			f"<LinkButton href=\"{structure_url}\" icon=\"download\">{gene}.cif</LinkButton>",
+			f"<LinkButton href=\"{alignment_url}\" icon=\"download\">{protein}.aln</LinkButton>",
+			f"<LinkButton href=\"{structure_url}\" icon=\"download\">{protein}.cif</LinkButton>",
 			"",
 			"# Raw Metadata",
 			"",
@@ -192,7 +192,7 @@ def build_gene_mdx(gene: str, data: dict[str, Any]) -> str:
 	return "\n".join(lines)
 
 
-def write_gene_pages(dry_run: bool = False) -> tuple[int, int]:
+def write_protein_pages(dry_run: bool = False) -> tuple[int, int]:
 	if not JSON_DIR.exists():
 		raise FileNotFoundError(f"Input directory does not exist: {JSON_DIR}")
 
@@ -202,7 +202,7 @@ def write_gene_pages(dry_run: bool = False) -> tuple[int, int]:
 	skipped = 0
 
 	for json_path in sorted(JSON_DIR.glob("*.json")):
-		gene = json_path.stem
+		protein = json_path.stem
 		try:
 			with json_path.open("r", encoding="utf-8") as infile:
 				data = json.load(infile)
@@ -211,8 +211,8 @@ def write_gene_pages(dry_run: bool = False) -> tuple[int, int]:
 			skipped += 1
 			continue
 
-		output_path = OUT_DIR / f"{gene}.mdx"
-		mdx_content = build_gene_mdx(gene, data)
+		output_path = OUT_DIR / f"{protein}.mdx"
+		mdx_content = build_protein_mdx(protein, data)
 
 		if dry_run:
 			print(f"Would write {output_path.relative_to(ROOT)}")
@@ -225,11 +225,11 @@ def write_gene_pages(dry_run: bool = False) -> tuple[int, int]:
 
 
 def main() -> None:
-	parser = argparse.ArgumentParser(description="Build gene MDX pages from protein JSON files.")
+	parser = argparse.ArgumentParser(description="Build protein MDX pages from protein JSON files.")
 	parser.add_argument("--dry-run", action="store_true", help="List files without writing output.")
 	args = parser.parse_args()
 
-	generated, skipped = write_gene_pages(dry_run=args.dry_run)
+	generated, skipped = write_protein_pages(dry_run=args.dry_run)
 	print(f"Done. Generated {generated} page(s), skipped {skipped} file(s).")
 
 

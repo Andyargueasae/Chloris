@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Iron-sulfur cluster assembly SufBD family protein ycf24
 
@@ -22,16 +22,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="sufB_ycf24Viewer" fastaUrl="/alignments/sufB_ycf24.aln" colorSchema="clustal" hasConsensus={true} exportName="sufB_ycf24_alignment.fasta" />
+<MsaBrowser viewerId="sufB_ycf24Viewer" fastaUrl="../../alignments/sufB_ycf24.aln" colorSchema="clustal" hasConsensus={true} exportName="sufB_ycf24_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/sufb_ycf24_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/sufb_ycf24_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/sufB_ycf24.aln" icon="download">sufB_ycf24.aln</LinkButton>
-<LinkButton href="/structure/sufb_ycf24_model.cif" icon="download">sufB_ycf24.cif</LinkButton>
+<LinkButton href="../../alignments/sufB_ycf24.aln" icon="download">sufB_ycf24.aln</LinkButton>
+<LinkButton href="../../structure/sufb_ycf24_model.cif" icon="download">sufB_ycf24.cif</LinkButton>
 
 # Raw Metadata
 

@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Pyruvate dehydrogenase E1 component subunit alpha
 
@@ -26,16 +26,16 @@ The pyruvate dehydrogenase complex catalyzes the overall conversion of pyruvate 
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="odpAViewer" fastaUrl="/alignments/odpA.aln" colorSchema="clustal" hasConsensus={true} exportName="odpA_alignment.fasta" />
+<MsaBrowser viewerId="odpAViewer" fastaUrl="../../alignments/odpA.aln" colorSchema="clustal" hasConsensus={true} exportName="odpA_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/odpa_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/odpa_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/odpA.aln" icon="download">odpA.aln</LinkButton>
-<LinkButton href="/structure/odpa_model.cif" icon="download">odpA.cif</LinkButton>
+<LinkButton href="../../alignments/odpA.aln" icon="download">odpA.aln</LinkButton>
+<LinkButton href="../../structure/odpa_model.cif" icon="download">odpA.cif</LinkButton>
 
 # Raw Metadata
 

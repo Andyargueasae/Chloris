@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein uL5c
 
@@ -25,16 +25,16 @@ Binds 5S rRNA, forms part of the central protuberance of the 50S subunit
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl5Viewer" fastaUrl="/alignments/rpl5.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl5_alignment.fasta" />
+<MsaBrowser viewerId="rpl5Viewer" fastaUrl="../../alignments/rpl5.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl5_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl5_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl5_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl5.aln" icon="download">rpl5.aln</LinkButton>
-<LinkButton href="/structure/rpl5_model.cif" icon="download">rpl5.cif</LinkButton>
+<LinkButton href="../../alignments/rpl5.aln" icon="download">rpl5.aln</LinkButton>
+<LinkButton href="../../structure/rpl5_model.cif" icon="download">rpl5.cif</LinkButton>
 
 # Raw Metadata
 

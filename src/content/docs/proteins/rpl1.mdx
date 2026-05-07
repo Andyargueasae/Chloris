@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Large ribosomal subunit protein uL1c
 
@@ -24,16 +24,16 @@ Binds directly to 23S rRNA. Might be involved in E site tRNA release (Potential)
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rpl1Viewer" fastaUrl="/alignments/rpl1.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl1_alignment.fasta" />
+<MsaBrowser viewerId="rpl1Viewer" fastaUrl="../../alignments/rpl1.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl1_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rpl1_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rpl1_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rpl1.aln" icon="download">rpl1.aln</LinkButton>
-<LinkButton href="/structure/rpl1_model.cif" icon="download">rpl1.cif</LinkButton>
+<LinkButton href="../../alignments/rpl1.aln" icon="download">rpl1.aln</LinkButton>
+<LinkButton href="../../structure/rpl1_model.cif" icon="download">rpl1.cif</LinkButton>
 
 # Raw Metadata
 

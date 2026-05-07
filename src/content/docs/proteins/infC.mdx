@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Translation initiation factor IF-3, chloroplastic
 
@@ -25,16 +25,16 @@ IF-3 binds to the 30S ribosomal subunit and shifts the equilibrium between 70S r
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="infCViewer" fastaUrl="/alignments/infC.aln" colorSchema="clustal" hasConsensus={true} exportName="infC_alignment.fasta" />
+<MsaBrowser viewerId="infCViewer" fastaUrl="../../alignments/infC.aln" colorSchema="clustal" hasConsensus={true} exportName="infC_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/infc_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/infc_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/infC.aln" icon="download">infC.aln</LinkButton>
-<LinkButton href="/structure/infc_model.cif" icon="download">infC.cif</LinkButton>
+<LinkButton href="../../alignments/infC.aln" icon="download">infC.aln</LinkButton>
+<LinkButton href="../../structure/infc_model.cif" icon="download">infC.cif</LinkButton>
 
 # Raw Metadata
 

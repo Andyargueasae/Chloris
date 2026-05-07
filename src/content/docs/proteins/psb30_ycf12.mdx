@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Photosystem II reaction center protein Psb30
 
@@ -24,16 +24,16 @@ A core subunit of photosystem II (PSII), probably helps stabilize the reaction c
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psb30_ycf12Viewer" fastaUrl="/alignments/psb30_ycf12.aln" colorSchema="clustal" hasConsensus={true} exportName="psb30_ycf12_alignment.fasta" />
+<MsaBrowser viewerId="psb30_ycf12Viewer" fastaUrl="../../alignments/psb30_ycf12.aln" colorSchema="clustal" hasConsensus={true} exportName="psb30_ycf12_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psb30_ycf12_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psb30_ycf12_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psb30_ycf12.aln" icon="download">psb30_ycf12.aln</LinkButton>
-<LinkButton href="/structure/psb30_ycf12_model.cif" icon="download">psb30_ycf12.cif</LinkButton>
+<LinkButton href="../../alignments/psb30_ycf12.aln" icon="download">psb30_ycf12.aln</LinkButton>
+<LinkButton href="../../structure/psb30_ycf12_model.cif" icon="download">psb30_ycf12.cif</LinkButton>
 
 # Raw Metadata
 

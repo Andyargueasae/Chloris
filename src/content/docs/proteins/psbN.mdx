@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Protein PsbN
 
@@ -24,16 +24,16 @@ May play a role in photosystem I and II biogenesis
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="psbNViewer" fastaUrl="/alignments/psbN.aln" colorSchema="clustal" hasConsensus={true} exportName="psbN_alignment.fasta" />
+<MsaBrowser viewerId="psbNViewer" fastaUrl="../../alignments/psbN.aln" colorSchema="clustal" hasConsensus={true} exportName="psbN_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/psbn_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/psbn_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/psbN.aln" icon="download">psbN.aln</LinkButton>
-<LinkButton href="/structure/psbn_model.cif" icon="download">psbN.cif</LinkButton>
+<LinkButton href="../../alignments/psbN.aln" icon="download">psbN.aln</LinkButton>
+<LinkButton href="../../structure/psbn_model.cif" icon="download">psbN.cif</LinkButton>
 
 # Raw Metadata
 

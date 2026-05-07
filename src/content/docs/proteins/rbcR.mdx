@@ -8,7 +8,7 @@ import MsaBrowser from '../../../components/MSA.astro';
 import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
 import { LinkButton } from '@astrojs/starlight/components';
 
-# Gene Information
+# Protein Information
 
 **Full name:** Probable RuBisCO transcriptional regulator
 
@@ -33,16 +33,16 @@ Trans-acting transcriptional regulator of RuBisCO genes (rbcL and rbcS) expressi
 
 # Multi-Sequence Alignment
 
-<MsaBrowser viewerId="rbcRViewer" fastaUrl="/alignments/rbcR.aln" colorSchema="clustal" hasConsensus={true} exportName="rbcR_alignment.fasta" />
+<MsaBrowser viewerId="rbcRViewer" fastaUrl="../../alignments/rbcR.aln" colorSchema="clustal" hasConsensus={true} exportName="rbcR_alignment.fasta" />
 
 # Structure Visualization
 
-<ProteinStructureViewer cifUrl="/structure/rbcr_model.cif" height="800px" />
+<ProteinStructureViewer cifUrl="../../structure/rbcr_model.cif" height="800px" />
 
 # Downloads
 
-<LinkButton href="/alignments/rbcR.aln" icon="download">rbcR.aln</LinkButton>
-<LinkButton href="/structure/rbcr_model.cif" icon="download">rbcR.cif</LinkButton>
+<LinkButton href="../../alignments/rbcR.aln" icon="download">rbcR.aln</LinkButton>
+<LinkButton href="../../structure/rbcr_model.cif" icon="download">rbcR.cif</LinkButton>
 
 # Raw Metadata
 

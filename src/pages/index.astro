@@ -4,6 +4,18 @@ import '../assets/css/style.css';
 import bootstrapJs from '../assets/js/bootstrap.bundle-5.3.8.min.js?url';
 import heading from '../assets/heading.png';
 import chlorisFigure from '../assets/chloris-figure.png';
+
+const base = import.meta.env.BASE_URL;
+const basePath = base.endsWith('/') ? base : `${base}/`;
+const withBase = (path) => `${basePath}${path.replace(/^\//, '')}`;
+const navItems = [
+  { href: 'description/', label: 'Description' },
+  { href: 'species/', label: 'Species' },
+  { href: 'proteins/', label: 'Proteins' },
+  { href: 'phylogeny/', label: 'Phylogeny' },
+  { href: 'download/', label: 'Download' },
+  { href: 'credits/', label: 'Credits' },
+];
 ---
 
 <html lang="en">
@@ -21,12 +33,7 @@ import chlorisFigure from '../assets/chloris-figure.png';
     <section class="hero">
       <header class="site-header">
         <nav class="nav">
-          <a href="/description/">Description</a>
-          <a href="/species/">Species</a>
-          <a href="/proteins/">Proteins</a>
-          <a href="/phylogeny/">Phylogeny</a>
-          <a href="/download/">Download</a>
-          <a href="/credits/">Credits</a>
+          {navItems.map((item) => <a href={withBase(item.href)}>{item.label}</a>)}
         </nav>
       </header>
 
@@ -43,7 +50,7 @@ import chlorisFigure from '../assets/chloris-figure.png';
           designed to support research in evolution, phylogeny, and photosynthetic diversity.
         </p>
 
-        <a href="/description/" class="cta">
+        <a href={withBase('description/')} class="cta">
           Explore the database ->
         </a>
       </div>
