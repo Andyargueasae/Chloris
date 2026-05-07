@@ -248,6 +248,11 @@ body {
   font-size: 1.55rem;
 }
 
+.docs-content :is(h1, h2, h3, h4, h5, h6) > .sl-anchor-link,
+.docs-content .sl-anchor-link {
+  display: none !important;
+}
+
 .docs-content p,
 .docs-content ol,
 .docs-content ul {
@@ -322,6 +327,19 @@ body {
   display: block;
   width: 100%;
   height: 100%;
+}
+
+/* Starlight heading anchors include screen-reader text in `.sr-only`. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
 
 @media (max-width: 900px) {
