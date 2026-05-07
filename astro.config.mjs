@@ -5,10 +5,10 @@ import react from '@astrojs/react';
 
 export default defineConfig({
   site: 'https://andyargueasae.github.io',
-  base: '/A2K_website',
+  base: '/Chloris',
   integrations: [
     starlight({
-      title: 'ChlORIS',
+      title: 'Chloris',
       disable404Route: false,
       sidebar: [
         { label: 'Home', slug: 'index' },
