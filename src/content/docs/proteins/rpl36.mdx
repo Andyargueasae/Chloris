@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51296`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51296/entry](https://www.uniprot.org/uniprotkb/P51296/entry)
 - **Number of aligned sequences:** 853
-- **Pfam domains:**
-  - [PF00444](https://www.ebi.ac.uk/interpro/entry/pfam/PF00444)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="rpl36Viewer" fastaUrl="../../alignments/rpl36.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl36_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/rpl36.aln" icon="download">rpl36.aln</LinkButton>
 <LinkButton href="../../structure/rpl36_model.cif" icon="download">rpl36.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl36Viewer" fastaUrl="../../alignments/rpl36.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl36_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Large ribosomal subunit protein bL36c |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51296/entry |
-| pfam domains | [PF00444] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00444] |
-| alignment_path | /public/downloads/rpl36.aln |
 | n_seqs | 853.0 |
-| structure_path | /public/downloads/rpl36.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00444](https://www.ebi.ac.uk/interpro/entry/pfam/PF00444) | Ribosomal protein L36 | No description available. |

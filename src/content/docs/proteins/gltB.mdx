@@ -17,16 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q1XDB2`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDB2/entry](https://www.uniprot.org/uniprotkb/Q1XDB2/entry)
 - **Number of aligned sequences:** 256
-- **Pfam domains:**
-  - [PF00310](https://www.ebi.ac.uk/interpro/entry/pfam/PF00310)
-  - [PF01070](https://www.ebi.ac.uk/interpro/entry/pfam/PF01070)
-  - [PF01493](https://www.ebi.ac.uk/interpro/entry/pfam/PF01493)
-  - [PF01645](https://www.ebi.ac.uk/interpro/entry/pfam/PF01645)
-  - [PF04898](https://www.ebi.ac.uk/interpro/entry/pfam/PF04898)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="gltBViewer" fastaUrl="../../alignments/gltB.aln" colorSchema="clustal" hasConsensus={true} exportName="gltB_alignment.fasta" />
 
 # Structure Visualization
 
@@ -37,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/gltB.aln" icon="download">gltB.aln</LinkButton>
 <LinkButton href="../../structure/gltb_model.cif" icon="download">gltB.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="gltBViewer" fastaUrl="../../alignments/gltB.aln" colorSchema="clustal" hasConsensus={true} exportName="gltB_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -46,8 +40,15 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Ferredoxin-dependent glutamate synthase |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDB2/entry |
-| pfam domains | [PF00310,PF01070,PF01493,PF01645,PF04898] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00310,https://www.ebi.ac.uk/interpro/entry/pfam/PF01070,https://www.ebi.ac.uk/interpro/entry/pfam/PF01493,https://www.ebi.ac.uk/interpro/entry/pfam/PF01645,https://www.ebi.ac.uk/interpro/entry/pfam/PF04898] |
-| alignment_path | /public/downloads/gltB.aln |
 | n_seqs | 256.0 |
-| structure_path | /public/downloads/gltB.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00310](https://www.ebi.ac.uk/interpro/entry/pfam/PF00310) | Glutamine amidotransferases class-II | No description available. |
+| [PF01070](https://www.ebi.ac.uk/interpro/entry/pfam/PF01070) | FMN-dependent dehydrogenase | No description available. |
+| [PF01493](https://www.ebi.ac.uk/interpro/entry/pfam/PF01493) | GXGXG motif | This domain is found in glutamate synthase, tungsten formylmethanofuran dehydrogenase subunit c (FwdC) and molybdenum formylmethanofuran dehydrogenase subunit c (FmdC). |
+| [PF01645](https://www.ebi.ac.uk/interpro/entry/pfam/PF01645) | Conserved region in glutamate synthase | This family represents a region of the glutamate synthase protein. |
+| [PF04898](https://www.ebi.ac.uk/interpro/entry/pfam/PF04898) | Glutamate synthase central domain | The central domain of glutamate synthase connects the amino terminal amidotransferase domain with the FMN-binding domain and has an alpha / beta overall topology [[cite:PUB00008698]]. |

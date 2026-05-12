@@ -17,14 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51348`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51348/entry](https://www.uniprot.org/uniprotkb/P51348/entry)
 - **Number of aligned sequences:** 255
-- **Pfam domains:**
-  - [PF00152](https://www.ebi.ac.uk/interpro/entry/pfam/PF00152)
-  - [PF00587](https://www.ebi.ac.uk/interpro/entry/pfam/PF00587)
-  - [PF13393](https://www.ebi.ac.uk/interpro/entry/pfam/PF13393)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="syhViewer" fastaUrl="../../alignments/syh.aln" colorSchema="clustal" hasConsensus={true} exportName="syh_alignment.fasta" />
 
 # Structure Visualization
 
@@ -35,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/syh.aln" icon="download">syh.aln</LinkButton>
 <LinkButton href="../../structure/syh_model.cif" icon="download">syh.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="syhViewer" fastaUrl="../../alignments/syh.aln" colorSchema="clustal" hasConsensus={true} exportName="syh_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -44,8 +40,13 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Histidine--tRNA ligase, chloroplastic |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51348/entry |
-| pfam domains | [PF00152,PF00587,PF13393] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00152,https://www.ebi.ac.uk/interpro/entry/pfam/PF00587,https://www.ebi.ac.uk/interpro/entry/pfam/PF13393] |
-| alignment_path | /public/downloads/syh.aln |
 | n_seqs | 255.0 |
-| structure_path | /public/downloads/syh.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00152](https://www.ebi.ac.uk/interpro/entry/pfam/PF00152) | tRNA synthetases class II (D, K and N) | No description available. |
+| [PF00587](https://www.ebi.ac.uk/interpro/entry/pfam/PF00587) | tRNA synthetase class II core domain (G, H, P, S and T) | tRNA-synt_2b is a family of largely threonyl-tRNA members. |
+| [PF13393](https://www.ebi.ac.uk/interpro/entry/pfam/PF13393) | Histidyl-tRNA synthetase | This is a family of class II aminoacyl-tRNA synthetase-like and ATP phosphoribosyltransferase regulatory subunits. |

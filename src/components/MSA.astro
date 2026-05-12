@@ -31,21 +31,56 @@ const resolvedFastaUrl = fastaUrl ? withBase(fastaUrl) : "";
 ---
 
 <!-- Container holds config in data-* so /public/js/msa-viewer.js can read it -->
-<section
-  id={viewerId}
-  data-msa
-  data-fasta-url={resolvedFastaUrl}
-  data-inline-fasta={fasta ?? ""}
-  data-annotations={JSON.stringify(annotations)}
-  data-alterations={JSON.stringify(alterations)}
-  data-color-schema={colorSchema}
-  data-has-consensus={hasConsensus}
-  data-export-name={exportName}
-/>
+<section class="msa-shell">
+  <div
+    id={viewerId}
+    class="msa-root"
+    data-msa
+    data-fasta-url={resolvedFastaUrl}
+    data-inline-fasta={fasta ?? ""}
+    data-annotations={JSON.stringify(annotations)}
+    data-alterations={JSON.stringify(alterations)}
+    data-color-schema={colorSchema}
+    data-has-consensus={hasConsensus}
+    data-export-name={exportName}
+  ></div>
+</section>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/thekaplanlab/msabrowser@master/css/style.css" />
 <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+
+<style>
+  .msa-shell {
+    clear: both;
+    position: relative;
+    isolation: isolate;
+    width: 100%;
+    min-height: 380px;
+    max-height: min(62vh, 680px);
+    margin: 0 0 1.75rem;
+    border: 1px solid rgba(216, 182, 90, 0.34);
+    border-radius: 12px;
+    background: rgba(18, 58, 47, 0.55);
+    overflow: auto;
+  }
+
+  .msa-root {
+    min-height: 418px;
+    width: 100%;
+  }
+
+  @media (max-width: 900px) {
+    .msa-shell {
+      min-height: 320px;
+      max-height: 58vh;
+    }
+
+    .msa-root {
+      min-height: 338px;
+    }
+  }
+</style>
 
 <!-- External, non-inline init (CSP-friendly) -->
 <script defer src={withBase('/js/msa-viewer.js')}></script>

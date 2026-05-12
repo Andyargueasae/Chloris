@@ -6,30 +6,30 @@ Our database consists of 496 profile hidden markov models made of platid genes a
 
 The workflow of our pipeline is shown below:
 
-<img src={`${import.meta.env.BASE_URL.replace(/\/?$/, '/')}static/Objective2_fig1_scheme.drawio.png`} alt="Workflow" />
+<img src={`${import.meta.env.BASE_URL.replace(/\/?$/, '/')}static/Objective2_fig1_scheme.drawio.svg`} alt="Workflow" />
 
 1. We first collected and selected 2250 plastid genomes from GenBank, and then dereplicated them at 95% average nucleotide identity (ANI) to get about 900 representative plastid genomes.
 
-2. We then extracted the proteome of each representative plastid genome and applied OrthoHMM to infer orthologous groups (OGs) of plastid genes. We manually selected OGs with consistent names and are not overwhelmed by hypothetical ORFs, resulting in 493 OGs.
+2. We then extracted the proteome of each representative plastid genome and applied [OrthoHMM](https://github.com/yuh2k/orthohmm) to infer orthologous groups (OGs) of plastid genes. We manually selected OGs with consistent names and are not overwhelmed by hypothetical ORFs, resulting in 493 OGs.
 
-3. We then constructed the profile HMMs for each OG using HMMER3. We linked the HMMs to Pfam domains to provide functional insights, and inspect potential similarity between the HMMs. 
+3. We then constructed the profile HMMs for each OG using [HMMER3](http://hmmer.org/). We linked the HMMs to [Pfam](https://pfam.xfam.org/) domains to provide functional insights, and inspect potential similarity between the HMMs. 
 
 4. We also constructed a phylogenetic tree of the representative plastid genomes using concatenated alignments of 51 single-copy OGs. To ensure the quality of the tree, we strictly selected genomes by running iterative phylogenetic analyses of each supergroup and removed the genomes without a correct placement in the tree.
-    - The tree was constructed using IQ-TREE with the best-fit model selected by ModelFinder, and the support values were estimated using 1000 ultrafast bootstrap replicates.
+    - The tree was constructed using [IQ-TREE](http://www.iqtree.org/) with the best-fit model selected by [ModelFinder](http://www.iqtree.org/ModelFinder/), and the support values were estimated using 1000 ultrafast bootstrap replicates.
     - We picked 7 outgroup genomes from the closely related cyanobacteria to root the tree.
 
-Our website displays the resulting phylogenetic tree from step 4 and relevant information of selected 222 protein orthogroups, with the orthogroup member > 10 and contains PFAM domain hits with high probability (>90%). Each protein has its co-evolutionary structure predicted by AlphaFold3, and the alignments are visualized by MSAViewer.
+Our website displays the resulting phylogenetic tree from step 4 and relevant information of selected 222 protein orthogroups, with the orthogroup member > 10 and contains PFAM domain hits with high probability (>90%). Each protein has its co-evolutionary structure predicted by [AlphaFold3](https://deepmind.google/technologies/alphafold/), and the alignments are visualized by [MSAViewer](https://msa.biojs.net/).
 
 We provide our curated data in these formats:
-1. HMMs in HMMER3 format;
+1. HMMs in [HMMER3](http://hmmer.org/) format;
 2. Orthogroups segregated in aligned FASTA format;
 3. The phylogenetic tree in newick format.
 4. Pfam-Protein mapping matrix in tab-delimited format.
 5. Separated Unknown orthogroups we did not include in the website, but available for download and further exploration. 
 
 The resulting HMMs can be applied to a range of tasks, including:
-1. Quantitative taxonomic profiling with existing packages (e.g.: singleM).
+1. Quantitative taxonomic profiling with existing packages (e.g.: [singleM](https://wwood.github.io/singlem/)).
 
 2. Estimating qualities of plastid metagenome-assembled genomes.
 
-3. Extracting desired markers when cooperated with orthogroup inference packages like orthofisher, to streamline the process of phylogenetic analysis of plastid genomes.
+3. Extracting desired markers when cooperated with orthogroup inference packages like [OrthoFisher](https://github.com/JLSteenwyk/OrthoFisher), to streamline the process of phylogenetic analysis of plastid genomes.

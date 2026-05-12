@@ -17,13 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q1XDG5`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDG5/entry](https://www.uniprot.org/uniprotkb/Q1XDG5/entry)
 - **Number of aligned sequences:** 263
-- **Pfam domains:**
-  - [PF01061](https://www.ebi.ac.uk/interpro/entry/pfam/PF01061)
-  - [PF12698](https://www.ebi.ac.uk/interpro/entry/pfam/PF12698)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf38Viewer" fastaUrl="../../alignments/ycf38.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf38_alignment.fasta" />
 
 # Structure Visualization
 
@@ -34,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf38.aln" icon="download">ycf38.aln</LinkButton>
 <LinkButton href="../../structure/ycf38_model.cif" icon="download">ycf38.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf38Viewer" fastaUrl="../../alignments/ycf38.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf38_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -43,8 +40,12 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Putative transport permease ycf38 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDG5/entry |
-| pfam domains | [PF01061,PF12698] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01061,https://www.ebi.ac.uk/interpro/entry/pfam/PF12698] |
-| alignment_path | /public/downloads/ycf38.aln |
 | n_seqs | 263.0 |
-| structure_path | /public/downloads/ycf38.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01061](https://www.ebi.ac.uk/interpro/entry/pfam/PF01061) | ABC-2 type transporter | No description available. |
+| [PF12698](https://www.ebi.ac.uk/interpro/entry/pfam/PF12698) | ABC-2 family transporter protein | This family is related to the ABC-2 membrane transporter family [pfam:PF01061] [[cite:PUB00004998]]. |

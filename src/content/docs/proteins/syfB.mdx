@@ -17,15 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `A0A059X7I9`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A059X7I9/entry](https://www.uniprot.org/uniprotkb/A0A059X7I9/entry)
 - **Number of aligned sequences:** 348
-- **Pfam domains:**
-  - [PF01409](https://www.ebi.ac.uk/interpro/entry/pfam/PF01409)
-  - [PF03147](https://www.ebi.ac.uk/interpro/entry/pfam/PF03147)
-  - [PF03483](https://www.ebi.ac.uk/interpro/entry/pfam/PF03483)
-  - [PF03484](https://www.ebi.ac.uk/interpro/entry/pfam/PF03484)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="syfBViewer" fastaUrl="../../alignments/syfB.aln" colorSchema="clustal" hasConsensus={true} exportName="syfB_alignment.fasta" />
 
 # Structure Visualization
 
@@ -36,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/syfB.aln" icon="download">syfB.aln</LinkButton>
 <LinkButton href="../../structure/syfb_model.cif" icon="download">syfB.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="syfBViewer" fastaUrl="../../alignments/syfB.aln" colorSchema="clustal" hasConsensus={true} exportName="syfB_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -45,8 +40,14 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Phenylalanine--tRNA ligase beta subunit |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A059X7I9/entry |
-| pfam domains | [PF01409,PF03147,PF03483,PF03484] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01409,https://www.ebi.ac.uk/interpro/entry/pfam/PF03147,https://www.ebi.ac.uk/interpro/entry/pfam/PF03483,https://www.ebi.ac.uk/interpro/entry/pfam/PF03484] |
-| alignment_path | /public/downloads/syfB.aln |
 | n_seqs | 348.0 |
-| structure_path | /public/downloads/syfB.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01409](https://www.ebi.ac.uk/interpro/entry/pfam/PF01409) | tRNA synthetases class II core domain (F) | Other tRNA synthetase sub-families are too dissimilar to be included. |
+| [PF03147](https://www.ebi.ac.uk/interpro/entry/pfam/PF03147) | Ferredoxin-fold anticodon binding domain | This is the anticodon binding domain found in some phenylalanyl tRNA synthetases. |
+| [PF03483](https://www.ebi.ac.uk/interpro/entry/pfam/PF03483) | B3/4 domain | This domain is found in tRNA synthetase beta subunits as well as in some non tRNA synthetase proteins. |
+| [PF03484](https://www.ebi.ac.uk/interpro/entry/pfam/PF03484) | tRNA synthetase B5 domain | This domain is found in phenylalanine-tRNA synthetase beta subunits. |

@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q1XDT3`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDT3/entry](https://www.uniprot.org/uniprotkb/Q1XDT3/entry)
 - **Number of aligned sequences:** 322
-- **Pfam domains:**
-  - [PF10674](https://www.ebi.ac.uk/interpro/entry/pfam/PF10674)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf54Viewer" fastaUrl="../../alignments/ycf54.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf54_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf54.aln" icon="download">ycf54.aln</LinkButton>
 <LinkButton href="../../structure/ycf54_model.cif" icon="download">ycf54.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf54Viewer" fastaUrl="../../alignments/ycf54.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf54_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Uncharacterized protein ycf54 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDT3/entry |
-| pfam domains | [PF10674] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF10674] |
-| alignment_path | /public/downloads/ycf54.aln |
 | n_seqs | 322.0 |
-| structure_path | /public/downloads/ycf54.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF10674](https://www.ebi.ac.uk/interpro/entry/pfam/PF10674) | Ycf54 protein | Ycf54 is found encoded in the chloroplast genomes of algae, also found in plants and cyanobacteria. |

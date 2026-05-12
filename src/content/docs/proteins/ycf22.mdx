@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51372`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51372/entry](https://www.uniprot.org/uniprotkb/P51372/entry)
 - **Number of aligned sequences:** 216
-- **Pfam domains:**
-  - [PF02470](https://www.ebi.ac.uk/interpro/entry/pfam/PF02470)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf22Viewer" fastaUrl="../../alignments/ycf22.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf22_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf22.aln" icon="download">ycf22.aln</LinkButton>
 <LinkButton href="../../structure/ycf22_model.cif" icon="download">ycf22.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf22Viewer" fastaUrl="../../alignments/ycf22.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf22_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Uncharacterized protein ycf22 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51372/entry |
-| pfam domains | [PF02470] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF02470] |
-| alignment_path | /public/downloads/ycf22.aln |
 | n_seqs | 216.0 |
-| structure_path | /public/downloads/ycf22.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF02470](https://www.ebi.ac.uk/interpro/entry/pfam/PF02470) | MlaD protein | This family of proteins contains MlaD, which is a component of the Mla pathway, an ABC transport system that functions to maintain the asymmetry of the outer membrane [[cite:PUB00059298]]. |

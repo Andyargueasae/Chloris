@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `A0A075W1K7`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A075W1K7/entry](https://www.uniprot.org/uniprotkb/A0A075W1K7/entry)
 - **Number of aligned sequences:** 525
-- **Pfam domains:**
-  - [PF01458](https://www.ebi.ac.uk/interpro/entry/pfam/PF01458)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="sufB_ycf24Viewer" fastaUrl="../../alignments/sufB_ycf24.aln" colorSchema="clustal" hasConsensus={true} exportName="sufB_ycf24_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/sufB_ycf24.aln" icon="download">sufB_ycf24.aln</LinkButton>
 <LinkButton href="../../structure/sufb_ycf24_model.cif" icon="download">sufB_ycf24.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="sufB_ycf24Viewer" fastaUrl="../../alignments/sufB_ycf24.aln" colorSchema="clustal" hasConsensus={true} exportName="sufB_ycf24_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Iron-sulfur cluster assembly SufBD family protein ycf24 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A075W1K7/entry |
-| pfam domains | [PF01458] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01458] |
-| alignment_path | /public/downloads/sufB_ycf24.aln |
 | n_seqs | 525.0 |
-| structure_path | /public/downloads/sufB_ycf24.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01458](https://www.ebi.ac.uk/interpro/entry/pfam/PF01458) | SUF system FeS cluster assembly, SufBD core domain | Iron-sulphur (FeS) clusters are important cofactors for numerous proteins involved in electron transfer, in redox and non-redox catalysis, in gene regulation, and as sensors of oxygen and iron. |

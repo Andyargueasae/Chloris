@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `O99992`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/O99992/entry](https://www.uniprot.org/uniprotkb/O99992/entry)
 - **Number of aligned sequences:** 518
-- **Pfam domains:**
-  - [PF00902](https://www.ebi.ac.uk/interpro/entry/pfam/PF00902)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="tatCViewer" fastaUrl="../../alignments/tatC.aln" colorSchema="clustal" hasConsensus={true} exportName="tatC_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/tatC.aln" icon="download">tatC.aln</LinkButton>
 <LinkButton href="../../structure/tatc_model.cif" icon="download">tatC.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="tatCViewer" fastaUrl="../../alignments/tatC.aln" colorSchema="clustal" hasConsensus={true} exportName="tatC_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Sec-independent protein translocase protein TATC, chloroplastic |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/O99992/entry |
-| pfam domains | [PF00902] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00902] |
-| alignment_path | /public/downloads/tatC.aln |
 | n_seqs | 518.0 |
-| structure_path | /public/downloads/tatC.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00902](https://www.ebi.ac.uk/interpro/entry/pfam/PF00902) | Sec-independent protein translocase protein (TatC) | The bacterial Tat system has a remarkable ability to transport folded proteins even enzyme complexes across the cytoplasmic membrane. |

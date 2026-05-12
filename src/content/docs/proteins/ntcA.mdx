@@ -17,18 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P29283`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/A0A1C9CDR1/entry](https://www.uniprot.org/uniprotkb/A0A1C9CDR1/entry)
 - **Number of aligned sequences:** 246
-- **Pfam domains:**
-  - [PF00027](https://www.ebi.ac.uk/interpro/entry/pfam/PF00027)
-  - [PF00325](https://www.ebi.ac.uk/interpro/entry/pfam/PF00325)
-  - [PF01047](https://www.ebi.ac.uk/interpro/entry/pfam/PF01047)
-  - [PF12802](https://www.ebi.ac.uk/interpro/entry/pfam/PF12802)
-  - [PF13412](https://www.ebi.ac.uk/interpro/entry/pfam/PF13412)
-  - [PF13545](https://www.ebi.ac.uk/interpro/entry/pfam/PF13545)
-  - [PF13730](https://www.ebi.ac.uk/interpro/entry/pfam/PF13730)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ntcAViewer" fastaUrl="../../alignments/ntcA.aln" colorSchema="clustal" hasConsensus={true} exportName="ntcA_alignment.fasta" />
 
 # Structure Visualization
 
@@ -39,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ntcA.aln" icon="download">ntcA.aln</LinkButton>
 <LinkButton href="../../structure/ntca_model.cif" icon="download">ntcA.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ntcAViewer" fastaUrl="../../alignments/ntcA.aln" colorSchema="clustal" hasConsensus={true} exportName="ntcA_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -48,8 +40,17 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Global nitrogen regulator |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/A0A1C9CDR1/entry |
-| pfam domains | [PF00027,PF00325,PF01047,PF12802,PF13412,PF13545,PF13730] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00027,https://www.ebi.ac.uk/interpro/entry/pfam/PF00325,https://www.ebi.ac.uk/interpro/entry/pfam/PF01047,https://www.ebi.ac.uk/interpro/entry/pfam/PF12802,https://www.ebi.ac.uk/interpro/entry/pfam/PF13412,https://www.ebi.ac.uk/interpro/entry/pfam/PF13545,https://www.ebi.ac.uk/interpro/entry/pfam/PF13730] |
-| alignment_path | /public/downloads/ntcA.aln |
 | n_seqs | 246.0 |
-| structure_path | /public/downloads/ntcA.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00027](https://www.ebi.ac.uk/interpro/entry/pfam/PF00027) | Cyclic nucleotide-binding domain | This domain sensor domain can bind cAMP, cGMP, c-di-GMP, oxygen and 2-oxoglutarate (Matilla et. |
+| [PF00325](https://www.ebi.ac.uk/interpro/entry/pfam/PF00325) | Bacterial regulatory proteins, crp family | No description available. |
+| [PF01047](https://www.ebi.ac.uk/interpro/entry/pfam/PF01047) | MarR family | The Mar proteins are involved in the multiple antibiotic resistance, a non-specific resistance system. |
+| [PF12802](https://www.ebi.ac.uk/interpro/entry/pfam/PF12802) | MarR family | The Mar proteins are involved in the multiple antibiotic resistance, a non-specific resistance system. |
+| [PF13412](https://www.ebi.ac.uk/interpro/entry/pfam/PF13412) | Winged helix-turn-helix DNA-binding | No description available. |
+| [PF13545](https://www.ebi.ac.uk/interpro/entry/pfam/PF13545) | Crp-like helix-turn-helix domain | This family represents a crp-like helix-turn-helix domain that is likely to bind DNA. |
+| [PF13730](https://www.ebi.ac.uk/interpro/entry/pfam/PF13730) | Helix-turn-helix domain | No description available. |

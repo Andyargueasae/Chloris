@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q1XDA7`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDA7/entry](https://www.uniprot.org/uniprotkb/Q1XDA7/entry)
 - **Number of aligned sequences:** 215
-- **Pfam domains:**
-  - [PF01947](https://www.ebi.ac.uk/interpro/entry/pfam/PF01947)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf21Viewer" fastaUrl="../../alignments/ycf21.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf21_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf21.aln" icon="download">ycf21.aln</LinkButton>
 <LinkButton href="../../structure/ycf21_model.cif" icon="download">ycf21.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf21Viewer" fastaUrl="../../alignments/ycf21.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf21_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Uncharacterized protein ycf21 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDA7/entry |
-| pfam domains | [PF01947] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01947] |
-| alignment_path | /public/downloads/ycf21.aln |
 | n_seqs | 215.0 |
-| structure_path | /public/downloads/ycf21.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01947](https://www.ebi.ac.uk/interpro/entry/pfam/PF01947) | Chorismate pyruvate-lyase Rv2949c-like | This domain is found in chorismate pyruvate-lyases ([ec:4.1.3.40], also known as 4-HB synthase and p-hydroxybenzoic acid synthase) such as those found in Mycobacterium tuberculosis where it removes the pyruvyl group from chorismate to provide 4-hydroxybenzoate (4HB) [[cite:PUB00086017]]. The chorismate pyruvate-lyase encoded by sll1797 in cyanobacteria Synechocystis sp. , has been shown to catalyse the initial and essential step in plastoquinone biosynthesis [[cite:PUB00097745]]. In E. coli, the chorismate lyase (UbiC) catalyses the conversion of chorismate to p-hydroxybenzoate and pyruvate in the biosynthesis of ubiquinone as well [[cite:PUB00097746]]. |

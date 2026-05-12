@@ -1,4 +1,4 @@
->AB002583_BAC76102.1|infB@AB002583|2.1e-67|221.7
+>BAC76102.1_BAC76102.1|infB
 ----------------------------------------------------MG------
 ------------------------------------------------------------
 -------------------------------------------CGW--------------
@@ -26,7 +26,7 @@ ESESALESVCYFL--------LENKKQLLSAEVGSIRMQDVKLAQTTKSILVAWQTCVMT
 NVMTNVPPTVKI--IEAKNFE---DLLAQLESRVKVD------RI-VVSKAL--------
 VK-----QVFR--QGSIAGCVVLQGEFKTGGEYEIWRKNQYQARARLSEIKIHKQAVKEV
 KAPQECGIFMKDWTQWQVDDEIVLYN------------------
->YP_010902681.1|infB
+>YP_010902681.1_WCH54536|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -54,7 +54,7 @@ DTQGSIEAIINSFANISQK---KVQINIISTNCGFISSNDLELAVTSKSIILGF----NV
 GISSFLRQKVKKLGTVVALFDIIYDLLDYMQNYMLSFVDLEFSQQ-LIGKAK--------
 VQ-----TVFKINKGLVAGCLVDYGKLKKGCKISIYRNQNLIHEGSIDSLKRLKDDVYEV
 LEGNECGVMCSNYQLWQPSDIIKVYELIEK--AKVL--------
->YP_009369840.1|infB
+>YP_009369840.1_ARO90528|infB
 ------------------MDNS----------------------------YSMKNNK---
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -82,7 +82,7 @@ QNQGSIEAILYSLSRIPQR---LVHLQILLANVGEITESDVDLAYSTNAWLIGF----NT
 TLASGTKQASEKIDVKISGYQVIYDLVKDTMQKMEDLLKPEYIEE-EIGVSK--------
 VK-----AIFYLSKGITAGCYVNSGKLKKNAWIHIIRNNKVIHKGILESLKKIKEDVKEI
 DNGFECGIFIENFQNWQIGDMVKCFDLIKQ--RVTLK-------
->AOM66526.1|infB
+>AOM66526.1_AOM66526.1|infB
 ----------------------------------------------------MVFQLEKY
 LKSY--------------------------------------------------------
 ------------------------------------------------------------
@@ -110,7 +110,7 @@ ETQGSLEAILDSLKAIPQS---KIQIGLINASLGDIKETDIELANTTDAIIIAF----NT
 TIHNSAKSLVNKHQISIEYFKVIYDLLEFVENKMKEMIEPEFIQE-EIGEAI--------
 VK-----NIFNISKGTVAGCFIKKGKLIRGCRLTVSRDNQKVFEGTLDSLKQIKNDVYEL
 EQNNECGIVVNDYQDWNKNDLITAYIFTPK--SPEL--------
->YP_009297549.1|infB
+>YP_009297549.1_AOM67093|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -138,7 +138,7 @@ GTQGAIEAILSSFSNIDQS---EVTLNIMSIATGIITETDVKLAIISKSTVIGF----DT
 IVTAGARLIAKQHKISINEYKIIDDLLH-------------HVKK-CMLLSSHVENTEKL
 VCTALVRSIFKLTIGIVAGCVVESGKANHDSTAEILRNKIVIHKGKLKSLKHVKTNISEI
 KQGEEFGVSVIGFDAWQVNDRIRFYNVD----------------
->YP_009314941.1|infB
+>YP_009314941.1_SCW23396|infB
 ----------------------------------------------------MIKSQSPT
 SQY---------------------------------------------------------
 ------------------------------------------------------------
@@ -166,7 +166,7 @@ DSEGTIEAILNAFSAISQS---KVQLNIISAGVGQVTSNDIDLAAASSSIVLSF----NN
 VIASSAYQNADKNRVILKNFVVIYDLIDHVQDAMLQLVEVDYSEV-VIGRAT--------
 VQ-----DIFTLSKGNVAGCTVISGKLKRSNPVKVFRDQELLYSGRLSSLKRVKEDAEEV
 GINNECGLMCGNFSAWQKNDIIEAYELIPQ--EKTL--------
->WCH56328.1|infB
+>WCH56328.1_WCH56328.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -194,7 +194,7 @@ DTHGSIEAIISSFTNISQE---KVQINIISSNCGSISNNDLELAMASQSIILGF----NI
 NISSNVNQIAKKYGITIAFFNIIYSLLDYMQNHMLSFVETEYNQH-LIGKAK--------
 VQ-----TVFNINKGTVAGCLVDYGKLKKNANISIYRNQDLLHKGSIDSLKHLKDDVEEV
 LEGKECGIMCNDYQSWQPLDIIKVYELIEK--TKVL--------
->WKD84016.1|infB
+>WKD84016.1_WKD84016.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -222,7 +222,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTINANLIGF----NT
 NFAPGAKQAAAKFNILVENYQIIYALIEDIIGRMEDLLDPEYSEV-PVGEAE--------
 VS-----TIFSLANRKIAGCRVTNNKLLKNSWIKVIREDKVIYQGKIESLKRIREDVEEI
 HAGNECGIFISEFQLWKSGDKIYSFDLVPK--QKSLS-------
->QUE29530.1|infB
+>QUE29530.1_QUE29530.1|infB
 ----------------------------------------------------MP------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -250,7 +250,7 @@ NNQGSLESLLYSIKNIPQE---KIQVELLGASAGEITENDINLAISTGSIILAF----DV
 NTNPGAKNIASKNKLKINNYTVIYDLVEDLENKMIAMLEPEYLEN-EIGSGE--------
 IK-----TTFNLSRGVIAGCYVISGKLKKDSFVKVYQQDKTVYSGNLDSIKKVKEDVLEI
 EAKQECGLFIENFQDWESGNIVKSFELIEQ--KQKL--------
->AYR06272.1|infB
+>AYR06272.1_AYR06272.1|infB
 ----------------------------------------------------MRL-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -278,7 +278,7 @@ DTQGSIEAIMHSFSKIPQE---KVQINVLSVGVGEISGKDIELAAMTYASILVF----NL
 NMSSAIRATIERNNIVFKTFDVIYDLVDYLKEYMLGFVDTEYRKH-VLGQAE--------
 VK-----TVFPINRGIAAGCFVLEGKLKKNAYVTVTRGTTIVFDGVLNSLKRLKDDVEEV
 TAQYECGIMCQEYHAWQKGDKIESYYLKPI--EKKL--------
->AXI96525.1|infB
+>AXI96525.1_AXI96525.1|infB
 -----------------------------------MIII--------IRRNRLL------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -306,7 +306,7 @@ DTQGAIDAIINSLIQIPQN---KIKLNILTSNLGVVSITDIDLASNTQALIIAF----NI
 NIATNILNIAEKLNVHLRKFFIIYDLLDYVHNYMLDLIDPEYDKL-LIGQAK--------
 VR-----TTFSVNKGTVAGCIVKSGKVKKNALINVYRGDELIHEGVISSLKRIKDDVDEV
 VLGNECGIMSTDYNLWQSQDVIEVYELYEK--TKVL--------
->YP_010338523.1|infB
+>YP_010338523.1_UNJ18473|infB
 ----------------------------------------------------MQL-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -334,7 +334,7 @@ NTQGSLEAVFQMIKEIPQS---KVAIKILSAAPGEITETDVLFASTTKSVIIGF----DT
 TLAPGAKVTASRLGIIILESSIIYNLLDHVETEMSKLLDPEYSKE-EVGIAI--------
 VK-----DVFALAKGTVAGCYVTSGKLMHNSKLEVIRQNKVIYEGNLDSLKRVKEDVSEI
 SSGNECGILVKNFQDWNKEDEVKAFELTPK--IVSLSE------
->WOA02457.1|infB
+>WOA02457.1_WOA02457.1|infB
 ----------------------------------------------------MTM-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -362,7 +362,7 @@ DTQGSLEAILNAFYQIPQE---KVQINIIVADVGSISNKDIDLAKSSQSLVLGF----NV
 ETSLSTRSLIENLNIVVRTFSVIYDLLDYVEKYMINLVDPEYEKC-LIGKAT--------
 VK-----TVFSINKGLVAGCLVDSGKLKKNLHVSIYDGNKMVHDGLITSLKRTKDDVNEV
 VASHECGVMCGDYCAWKPSNTIEAYELIEK--RKSL--------
->YP_009390121.1|infB
+>YP_009390121.1_ART65484|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -390,7 +390,7 @@ DTHGSIDALIKAFNKIPQN---KVQLNILSVTVGKITENDLQLAMISKSIIISF----NI
 AADNNIKINAEKANVLMRNFNIIYDLINYIEEQMLQLVNLEYEEK-IIGLAI--------
 VE-----TVFVVSKGHVAGCIVKSGQLKYNSCIRIKRNKAVIYDGKLSSLKRVKEDVEEV
 KSGNECGILISNFSQWQKKDEVESYELIPK--EKTLY-------
->ASK39558.1|infB
+>ASK39558.1_ASK39558.1|infB
 ----------------------------------------------------MTLY---Q
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -418,7 +418,7 @@ KTQGTLESIIHCIEQIPQN---KVKIEILAAHTGEITESDINLVIPTNAIIIGF----DT
 SYAPGAKQAAERNKITIKQYNIIYDLINDIETKMISLLDPEYIEN-EIGTGE--------
 IK-----ATFNLSKGIIAGCYILNGKLKRNSLIKIFRNQQEIYAGNLDSIKKVKEDVEEL
 DAKQECGIFIESFQDWQKGDIINVFSLIER--KQTLK-------
->AKE98858.1|infB
+>AKE98858.1_AKE98858.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -446,7 +446,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVLSILPGEITATDVELAATTNASLIGF----NT
 NFSPGAKQAAAKLNIVIENYQIIYALIEDVRTRMEALLDPEYSEV-QVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLIKNSWIKVLRENVIMYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDTIQSFDLIPK--KRSLS-------
->ALG63577.1|infB
+>ALG63577.1_ALG63577.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -474,7 +474,7 @@ DIQGSAEAIVTTIHKIPQN---KVQVKILYASPGEITETDIDFADTSGAVVLAF----NT
 NLATGARKAARHLNVIVKEYDVIYDLLDDIEIMIEEITGPEYDKN-ILGEAI--------
 VK-----GVFPLAKSFVAGLKIIQGKITKDSYIEVIRNEEVVFKGEITSLKKVKEDIVEA
 IEDTECGLFIEEFDSWQEKDTIKAFELILK--KRRD--------
->AYR05871.1|infB
+>AYR05871.1_AYR05871.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -502,7 +502,7 @@ DAQGSIDPIINAFSKIPQE---KVQLNILSVASGEISLKDIQLASTSNSIILAF----NI
 KISSAILSSAENAGIIVKYFDIIYDLVDYLKTYMLTFVEIEYTEE-VLGHAE--------
 VR-----DVFSINKGVVAGCFVQDGKLKKDAYINVIREGRIVYNGILSSLKRIKEDVEEV
 LSGNECGLMCTDYNLWQINDQIETYMSQPL--EKTL--------
->UAD84376.1|infB
+>UAD84376.1_UAD84376.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -530,7 +530,7 @@ DTQGTVDAVINSLIQISQK---KIKLNILTASLGVVSNTDLDLAFSTQALIIAF----NV
 YISNNIVNEAKKLNLHLRKFLLVYDLVDYVSHFMLNLIDPEYDKI-LIGQAE--------
 VQ-----TTFSINKGTVAGCIVKSGKLKKDTLISVYRNNQLIYEGVINSLKRIKNDVNEV
 VIGHECGILCKDYHHWQSEDIIKAYELYEK--PKTL--------
->UNJ14203.1|infB
+>UNJ14203.1_UNJ14203.1|infB
 ----------------------------------------------------MQCNF---
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -558,7 +558,7 @@ NTQGGVEAICHVIQQLPQT---KVQVKILSASAGEITETDVVFASTTKSVILGF----CT
 TMAPGAKTAAVRLNIAIHEYQVIYDLVDKVTEEMRSLLDLEYEKE-ETGISI--------
 VK-----DIFELARGKVAGCYVESGKIVFDANVQVIRNNEVLYEGALDSLKRIKEDVKEV
 FSGDECGILVKNFQNWQKGDLIKAFSLKEK--VPSLS-------
->ARO90394.1|infB
+>ARO90394.1_ARO90394.1|infB
 ----------------------------------------------------MEVSLYM-
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -586,7 +586,7 @@ NNKGSLEAILQMIKEIPQQ---KVAVKVLSAAPGEITETDILFASTTEAIVMGF----DT
 TLAPGAKSTASRLNIQIYESQVIYDLIDKLEKEMCKLLAPEFIKE-EIGLAK--------
 VK-----NIFSLTKGQVAGCYIESGKLLHNSVIQIIRKNNVIYEGNLDSLKRVKEDIKEI
 SAGNECGVLIKDFQDWQQDDIIKDFKLTLK--EPSLSS------
->AOM67869.1|infB
+>AOM67869.1_AOM67869.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -614,7 +614,7 @@ DNQGSIEAILYAFSKIPQE---KVQINILSISSGLVNDTDIELALTSKSIIISF----NI
 SITSNSMHAIQKSKLIYRNFNVIYDLLDYIKDYMLNLVDPEYKKV-LIGSAI--------
 VQ-----TIFLMNKGTVAGCLVNSGKLKRGSSISVYRDTELVYDGYIDSLKRLKEDVDEV
 IINHECGLMCLNYNLWQKQDRIEAYELNES--EKFL--------
->ARW68711.1|infB
+>ARW68711.1_ARW68711.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -642,7 +642,7 @@ DTQGSLEALIDLLITLPQS---KVKLHIVSANFGIVSSSDVELAILTQSIIVVF----NL
 DVSSGVSSLVKKHAVVLKTYKVIYDLFQYVENKMLDLIQPNYDKI-FIGRAS--------
 VR-----TVFHMNKGCVAGCYVDQGKIIKMCHISVYRNEEIVYEGILISLKISKDDVNEV
 LFDNECGLMC-DYNLWQKNDIIHAYELVPR--KKTL--------
->YP_009332706.1|infB
+>YP_009332706.1_AHZ94720|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -670,7 +670,7 @@ NTQGSLEAIVDSFLKIPQG---KVQINIVSADSGNISNTNIELALATNALIIGF----NI
 NISSHINNLIKQNNLNLQVFNIIYDLIDYIQNHMLDLIDPEYKHV-FIGRAL--------
 VQ-----TVFYINKKAVVGCLVNEGRMKKFSHINVYREGNIVYEGILTSLKRIKDNVEEV
 LSENECGIMC-DYDLWQKMDIIEAYDLNPQ--EKCL--------
->BFV51817.1|infB
+>BFV51817.1_BFV51817.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -698,7 +698,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTTNANLIGF----NT
 NFAPGAKQAAAKFNILIENYQIIYALIEDVTGRMEDLLDPEYSEI-QVGEAE--------
 VS-----TVFSLANRKIAGCKVTNNKLLKNSWIKVIREEKVIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDKIHSFDLVPK--QKSLS-------
->SCW22987.1|infB
+>SCW22987.1_SCW22987.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -726,7 +726,7 @@ DSEGAIDAIINAFTNIHQT---KVQINLISAGVGDITVSDINLASVSQATILSF----NN
 PVKLSINSMISNSAITLLNFTVIYDLIDYIEARMLELVETEYTEQ-ITGTAI--------
 VE-----NIFTLSKGVVAGCIVISGKLKRNSHIKVKRNQEVIHSGKLYSLKRVKEDVDEV
 SMKNECGVMLANFDRWQRKDLVEAYDLIAQ--DKTL--------
->YP_009295673.1|infB
+>YP_009295673.1_AOL58157|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -754,7 +754,7 @@ DTQGSIEAIINSFSQMPQE---KVQINILSATLGPISDKDINLAATSQSIILGF----NI
 QASSNSYKMAEKLGIIIKYFDVIYTLLDYIKKYMLSLVDPEYDKL-EIGKAI--------
 VQ-----TVFYINKGTVAGCLVNFGKLKKNAHIMIYRNKDLVYSGLINSLRHMKDNVNEV
 IEGNECGVMCENYNEWVKSDIIKVYELIQI--EKLL--------
->YP_009313302.1|infB
+>YP_009313302.1_SCW21556|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -782,7 +782,7 @@ DSEGTIAAILNAFKSLPQI---KVQLNIISAGVGEVTINDVDLAIISKSIIISF----NN
 MTSIASQQMAIKNNIVIKNFVIIYDLIDYIKISMLELIDIEYNEN-IIGYAI--------
 VK-----NVFNLSKGIVAGCLVTQGKLKRKAYIRVTRSKQLIYSGQLTSLKRIKDDVEEV
 NVNNECGLFCDGFDSWQINDNIQVYELIPK--EKTLNGLSPSA-
->QHS70650.1|infB
+>QHS70650.1_QHS70650.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -810,7 +810,7 @@ DTQGTIDAIINSFLQIPQS---KIKLNILTSSLGVVSSTDLDLAFNTQALIIGF----NI
 NITTNILNAAEKLNVHLCQFVLIYDLIDYVKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFFVNKGTVAGCMVESGRLKKNALINVYREDQLTYEGVISSLKRMKDDVDEV
 IIGNECGIMCRDYNLWQPQDIIEVYELYEK--PKIL--------
->ARW68304.1|infB
+>ARW68304.1_ARW68304.1|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -838,7 +838,7 @@ DTQGSLEAIIELLSTIPQL---KVQLSIIAASFTTVSNFDLNLAATTGAFIVAF----NV
 NISSSISNSIKKYNINFKNFNIIYDLFNYVQTSMLDLVEPEYDRV-LIGHAI--------
 VR-----TVFNINKGCVAGCYVSEGKLTKSCYLCVYCKDQLVYEGVLNSLKRLKNDVNEV
 LLNNECGIMC-DYNLWKENDSIDAYNLIPQ--QKIL--------
->ARW60003.1|infB
+>ARW60003.1_ARW60003.1|infB
 ------------------MRHQSLRY-YCSLKILSKFSF---------DYSFYT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -866,7 +866,7 @@ DSLGSLEALLNAFSKISQK---KVQINIITANFGNISNKDINLALTTNSLILGF----NI
 DITSDISHLIKKNNIVLKTFNVIYDLLKYLENYMLDLIELEYKRV-FIGRAI--------
 VQ-----TVFSINKGFVAGCFVDEGKLKKNALIIVYRNENIVYEGLLKSLKRLKENVDDV
 DANNECGIMC-DYDSWENSDMIKAYDLVPE--AKSL--------
->XCA55500.1|infB
+>XCA55500.1_XCA55500.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -894,7 +894,7 @@ DTQGTIDAIISSFIQIPQN---KIKLNILTSSLGIVSNTDFDLAFNTQALIIAF----NI
 SLTSNILNTAEKLNVQLCNFFLIYDLIDYVKNYMLELIDPEYNKR-LIGEAK--------
 VQ-----TTFSINKGTVAGCIVTSGKLKKNALINIYRSDQLIHEGAISSLKRMKDDVDEV
 VLGNECGIMCTDYNLWQSQDLIEVYELYEK--PKIL--------
->QHS70851.1|infB
+>QHS70851.1_QHS70851.1|infB
 -----------------------------------------------MRGKILL------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -922,7 +922,7 @@ DTQGTIDAIINSFIQISQS---KIKLNILISSLGVVSSTDLDLAFNTQALIIAF----NV
 NINTNILNAAEKLNVHLCKFVLIYDLIDYVKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFFVNKGTVAGCIVKSGKLKKNALINVYREDQLIYEGVIGSLKRIKDDVNEV
 TIGNECGIMCIDYNLWQPQDLIEVYELYEK--PKVL--------
->ARW64979.1|infB
+>ARW64979.1_ARW64979.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -950,7 +950,7 @@ DTQGSLEAIMDLLSHIPQL---KVQINIVSSSLGNISNNDIELANSTSSLILAF----NV
 NPLPEISVSIKKYQLNCQVFCVIYDLFDYVHSLMINLLDPEYNHV-LIGNLN--------
 IQ-----SVFNINKGCIAGCVVTTGKVKINSFIKVYRHNTNIYEGYIISLKQSKNDVSEV
 LAPNECGLMS-DFYDWQKSDLIEAYDSIIK--DKKL--------
->YP_010580267.1|inFB
+>YP_010580267.1_UZS90651|inFB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -978,7 +978,7 @@ DTQGSAEAITSSLNKINDS---KVQIRVLYACAGEITETDVEFASASSATLIAF----NT
 TSASGALKTAKNVGITITDFDVIYDLFDFVQSMIDTLVGPQFEEK-FIGSAI--------
 IK-----TVFPLAKSFVAGSSVTEGKITKSSFVHILRNNEIIHKGLIDSIKRLKETVSEV
 SEGSECGIFLKEFDAWKEGDLLKAFELIPK--KRETF-------
->QSD57109.1|infB
+>QSD57109.1_QSD57109.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1006,7 +1006,7 @@ DTQGSLEAILDLLSVIPQN---KVRLNIISANFYTISNSDLELAIATKSLIITF----NI
 NLTTNILNIVKKNNIVFRSFNVIYDLFDYIKKSMLDLIEIEYEKV-FIGSAI--------
 VR-----TVFNINKGSVAGCYVSEGKLIKMCYICVYRENQLVYEGILNSLKRLKNDVNEV
 SVNTECGLMC-DYNLWEENDLINAYNLIPK--DKTL--------
->WAX02905.1|infB
+>WAX02905.1_WAX02905.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1034,7 +1034,7 @@ DTQGALEAILDLLSNISQS---KVQINIIAASFGNISNTDVELAVTTGSFIIAF----NV
 NSLSNVNNSLKKYKIDFKVFNVIYDLLEYVTSAMLDLIQPSYDKI-LIGKAI--------
 VQ-----TVFNMHKGYVAGCIVNEGKINKKSYIYVYRNNSIVYEGFILSLKRMKNDVEEV
 ISINECGLMS-DFEQWQDSDVIKVYDLVAK--EKTL--------
->YP_009295981.1|infB
+>YP_009295981.1_AOM64916|infB
 ----------------------------------------------------MM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1062,7 +1062,7 @@ DTQGSVEALMHSFANISQN---KVQINILSFNAGNISDTDLEFALTSQSLIIGF----NI
 NIPIHVYNTAKRLGITLKKFSIIYDLLDYVKEYMLNLIEPEYDEI-LMGSAI--------
 VQ-----SIFTVNKGLVAGCLVTSGKLKKQAQISVYRDKTLVYNGMLNSLKRLKDDVDEV
 NDGNECGIMCNDYNLWNQKDTIEAYELIEK--PKEL--------
->BFV52885.1|infB
+>BFV52885.1_BFV52885.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1090,7 +1090,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVLIMPGEITATDVELASTTNANLLGF----NT
 NFAPGAKQAAAKLNILVENYQIIYALIEDVTGRMEELLDPEYSEV-PVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLLKNSWIKVIREHEVIYEGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQSGDRIHSFDLIPK--QKSLF-------
->WDB00649.1|infB
+>WDB00649.1_WDB00649.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1118,7 +1118,7 @@ DVQSSVEAIIGMIDQLPKN---KVKINMVSAQTGEISETDIKLALATNSYIINF----NT
 PVTTRIKKIAAQKTITLVEHNIIYKLIDLVEELLKTKIKPSYERI-QIGEGI--------
 IK-----AVFSVSKGTVAGCYIQNGKLTSSSYIEIFRDSKIIHQSYLTSLRREKESSEEV
 LQGKDCGILISGFDNWRTDDVIKIFELKTK--ALTLE-------
->ARW65594.1|infB
+>ARW65594.1_ARW65594.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1146,7 +1146,7 @@ VNQGSLEAILELFSNMPQS---KVQINIVHANFGDISHADVELALATKSNIIAF----NV
 NISSQMVRMLKNFEINFKVFNVVYDLFDYVKDMMLDLIELEYDYM-FIGSAI--------
 VK-----TVFKMNKGCVAGCLVDSGKLSKDAYIRVYRNDSIEYQGPITSLKHMKNDVNEV
 LVSTECGLMS-DFESWQISDKIEAYEIVKK--DKTL--------
->WKD83805.1|infB
+>WKD83805.1_WKD83805.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1174,7 +1174,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTTNASLIGF----NT
 NFAPGAKQASAKFNILVENYKIIYALIEDITRRMEDLLDPEYSEI-PVGEAE--------
 VS-----TVFSLANKKIAGCRVTNNKLLKNSWIKVIREDEVIYEGKIESLKRVREDVEDI
 QAGNECGIFISEFQLWQPGDKIHSFDLVPK--QKSLS-------
->YP_009296391.1|infB
+>YP_009296391.1_AOM65326|infB
 ----------------------------------------------------MSAK----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1202,7 +1202,7 @@ ETQSSIDALLKAFNDIPQK---KVRLNIMSIAIGQITINDIKFASVSNSIIVSFTN-CSN
 SLTFSTKREAEKLNIFISNFTVIYDLLEYLKNLMLDLVDIEYKEH-LIGHAI--------
 VK-----NIFTINKGVVAGCYVISGKLKQNSYIRVIRNKNIIHNGKLSSLKRVKEEVLQV
 LQGYECGLLSENFHMWQKKDEIIAYELIPQ--TKKL--------
->YP_009314735.1|infB
+>YP_009314735.1_SCW23190|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1230,7 +1230,7 @@ DTEGTIDAIINAFLKIPQS---KVQINLVAAGVGQINVRDVNLASVSSAHIISF----HE
 -ASSQIQHLANQLNVPIANFYVIYDLLDYIQELMIEMVPIEYNEK-EIGKAI--------
 VE-----NTFSVSKGMVAGCLVMEGKMKLGAKIKVVRGKETVYTGNITSLKRIKDDVQEV
 AQGSECGVLSGDFNLWQQKDTIEAYDLIEK--EKAL--------
->WAX03680.1|infB
+>WAX03680.1_WAX03680.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1258,7 +1258,7 @@ HTQGALEAILDLLSNVSQS---KVQINIVSASFGNISNTDIELAVATGSSIVAF----NV
 NISSNINSVLKKYQVNYKVFNVIYDLLEYVKSIMLNLIEPAYNKV-LIGNAI--------
 VQ-----TVFNMNKGYIAGCLVNEGKLNNKSYIHVYRNNSMVYQGFIISLKRMKNDVEEV
 IATNECGLMS-DFMLWQASDVIQAYDLVPQ--EKTL--------
->YP_010337320.1|infB
+>YP_010337320.1_UNJ16905|infB
 ----------------------------------------------------MNKNLTTL
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1286,7 +1286,7 @@ NTQGSIEAIIHSLSKIPQN---LINLQIMNISVGEITENDVELAYSANAYLIGF----NT
 TLASGAKQSAEKKSIQIKEYNIIYDLIEDTISKMESLLEPEYKEE-EIGKSE--------
 VK-----TIFSLSKGVIAGCYVNSGKLKKDAWIHIIRNNDIIYKGNLESLKKVKDDITEI
 EAGLECGIFIKNFQDWKVGDLIKCYNLTEQ--KQSLTSLIL---
->QBX88655.1|infB
+>QBX88655.1_QBX88655.1|infB
 ---------------------------------------------------------MNI
 NQN---------------------------------------------------------
 ------------------------------------------------------------
@@ -1314,7 +1314,7 @@ DAQGSIEAIIDAFTNIPQS---KVQLNLIYIGVGEIRESDIQLASVSKSTIISF----NI
 VPTNNIKTLASKAKVNIHYFAVIYEMIDYIQESMLQLVEIEYSEY-IIGHAQ--------
 VE-----TVFIVSKGSVAGCKVLSGKLKHRASIRVLRDDKILYTGKIDSLKRVKEDIAEI
 SVGNECGVLSIDFDSWQKKDRIEAYESIPK--IKEL--------
->XBW43548.1|infB
+>XBW43548.1_XBW43548.1|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1342,7 +1342,7 @@ DTQGSIEAIINSLAQIPQN---KVQLNILSATAGCISRKDIDLAITSKSVIISF----NT
 DLKTSINKLAKKSGLNLQKFEVIYNLLEYLQDYMLNLMDIEYDKV-EIGEAT--------
 IK-----TVFNVNKGVVAGCTVNRGKLKRNAHIVIYRDQELIYTGKLDSLKQMKDNINEV
 LEGNECGVMCNNYNNFIKFDTIKAYELVQV--QKVL--------
->WGH12709.1|infB
+>WGH12709.1_WGH12709.1|infB
 --------------------------------------------------MYIV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1370,7 +1370,7 @@ DTQGTLEAILDLLSNISQS---KVQINIISASFGNISNTDAELAIATNSCILAF----NV
 NISSKINSLLKQYKITFNMFNVIYDLLQHVEATMLNLIEPAYDKI-LIGKAI--------
 VQ-----TVFNMNKGYVAGCIVNEGKLNIKSYIYVYRNNIIVHEGFINSLKRIKNDVEEI
 IAINECGLMS-NFESWKDADAIEAYELVPK--EKTL--------
->YP_009398258.1|infB
+>YP_009398258.1_ARW67444|infB
 ----------------------------------------------------MS------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1398,7 +1398,7 @@ DTQGSLEAIIELLSNIPQS---KVQINITFANFGDISNSDIKLALATKASILAF----NV
 SCSSQINALLKKYKVICKNFNVIYDLFKYVKSFMLDLVEPEYEKN-LIGHAI--------
 VQ-----TVFKMNKGCVAGCFVNEGKLNKTCYINVYRQGNMIYEGFITSLKRMKNDVDEV
 SLNNECGLMS-EYTLWQESDVIDAYELVSK--DKSL--------
->YP_009244054.1|infB
+>YP_009244054.1_AMK96296|infB
 ---------------------------------MIKPIN--------KKVRTMQ------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1426,7 +1426,7 @@ DTQGSIEAIIYAFSKISQD---KVQINILNANSGEVSQNDLQLASSTNALIVCF----NR
 DISSNLKNLSNNLNILVKNFQVIYDLIDYVKNSMISLIDLEHDKI-LIGQAI--------
 VQ-----TVFPMNKGSVAGCLVVQGKLEKNSWIEVYHNQNLMYEGHLDSLKHLKDDVNQV
 NEGSECGVMCKDYSLWIEKEIIKSYNLQEK--LKEL--------
->ARW61457.1|infB
+>ARW61457.1_ARW61457.1|infB
 ----------------------------------------------------MP------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1454,7 +1454,7 @@ DTQGTLEALVSSLAKISQE---KVQINLVKADIGNISSTDIELALASDAIIIGF----CI
 NSSTYIDGLIKQYKLIFVTFNVIYNLLDYIYKCMLDLVELEYEKI-FLGEAV--------
 VQ-----TVFFINKRSVAGCLVKKGKLKKMSYIYVYDNNAIFYEGVLTSLKRLKDDVDEV
 LTGNECGIMC-KYDSWKVDNTIKAYDLKPK--EKTL--------
->ARW64474.1|infB
+>ARW64474.1_ARW64474.1|infB
 --------------------------------------------------MVTM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1482,7 +1482,7 @@ DTQGSLEAIIDLLSNISQE---KVQINIIAASFGNISNNDIHLSMTTKSSILAF----NV
 NALPQISSLIKKYSINFNIFYVIYDLLEYVKNLMLELIDPEYSIA-LTGNAS--------
 VQ-----TVFKMNKGLVAGCIVTNGKINAESYIHVYRKNIIVHKGYILSLKYMKNDVKEV
 LSPSECGLMS-DFQEWEQSDLIEAYDTIIK--EKEL--------
->YP_009396203.1|infB
+>YP_009396203.1_ARW65290|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1510,7 +1510,7 @@ DTQGSLEAIVNLFSTIPQS---KVQINFIAASFGNITSSDLDLSVTSRSPILAF----NV
 VILPQINNLIKRRQIDFKVFNVIYDIFDYVQNLMLDLVDTEYTNL-PIGNAI--------
 VQ-----SVFKNNKGNVAGCTVSSGRLKSSSYLKVYRNTKMIYEGFVVSLKFMKNDVEEV
 LSPSECGLMS-DFHEWNQSDLIEVYEMVAK--EKAL--------
->UNJ17838.1|infB
+>UNJ17838.1_UNJ17838.1|infB
 ----------------------------------------------------MIYKKLQP
 T-----------------------------------------------------------
 ------------------------------------------------------------
@@ -1538,7 +1538,7 @@ DTQGSLEAILNILSQIPQG---KVQLQVIYDDIGDIKENDIELAHTTNAKIISF----NT
 DITNNAKNLAARYKTIIKPFNVIYDLLNEVEKMMKDLVDIEYKEE-KIGEAE--------
 VK-----NTFPLSKGTVAGCYVDEGKLQKGSKIKVVRNNENIYEGELNSLKRVKEDIEEI
 GKGNECGIVINEFHGWQKKDRIIAYILEPQ--PASLI-------
->BED43631.1|infB
+>BED43631.1_BED43631.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1566,7 +1566,7 @@ DNQGSTEAILDSLSILPQS---KVQLNVVSIMSGEITVTDVELASTTNATLVGF----NT
 NFAPGAKQAAAKLNIQIGNYQIIYALVEDIIRKMKDLLDPEYSEV-ELGEAE--------
 VS-----TVFSLANKKIAGCRVISNKLVKNSWIKVIRKEKVIYQGKLESLKRLREDVEEI
 QAGNECGIFIYEFQLWQTGDKIQSFDLIPK--EKSLS-------
->ARW60834.1|infB
+>ARW60834.1_ARW60834.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1594,7 +1594,7 @@ DTQGSLEAIIDLLSQISQL---KVQIHIISANFGNVSTNDIELALSTDSSILTF----NI
 NVTSQIIALIKKTNITFKNFNIIYDLLEYVQNFMLSLIDPEYKKV-FIGRAF--------
 VQ-----AVFKMNKGCVAGCLVNEGKIKRFCYIHVLRNDQLVYEGFLTSLKRMKNDAHEV
 VAVNECGLMA-DYDLWEISDTIDAYELISQ--EKNL--------
->SCW22373.1|infB
+>SCW22373.1_SCW22373.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1622,7 +1622,7 @@ ESEGTIDAIINAFLKIPQN---KVQINLVAAGVGPITVSDINLAVISNANIISF----HE
 -ITPQIKHIANQSNISLANFQIIYDLLDYIKDLMISMVPVEYKAQ-KIGKAM--------
 VE-----NTFSVSKGIVAGCIVTEGKLKLGAKIKVIREQETIYEGDITSLKRIKDDIQEV
 VLGNECGVMSANFSLWQQKDIIEAYTLIKQ--EKTL--------
->WMP12476.1|infB
+>WMP12476.1_WMP12476.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1650,7 +1650,7 @@ DTQGSLEAVIDLLISIPQS---KVKLRIISTSFGVISNSDVELAAVTHSMILSF----NI
 DLSSNTIGLIKKYNIVFKKFEIIYDLFEYIKNTMLDLIEPNYDKI-FIGRAI--------
 VR-----TVFNMNRGVVAGCYVNEGKLIKMCHIFVHRKDQTVYEGKLSSLKVIKDDVTQV
 MCDHECGLMC-DYNFWEKDDMIDAYELVPR--KKTLS-------
->AYR05768.1|infB
+>AYR05768.1_AYR05768.1|infB
 ----------------------------------------------------MLQ-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1678,7 +1678,7 @@ DVQGSIDPIIYSFSKIPQE---KVQVNIISIASGQVSLNDIKLASTSKSIILAF----NL
 NVASSILDNANNLFLTVKQFNVIYDLIDYVKNYMLKFVEISYKKE-VLGHAE--------
 VK-----SLFTINKGVVAGCLIMDGKMKKNAFISILRNEKIIYDGLLNSLKIGKENVDEV
 LSGNECGLMCNNYFLWEINDVIEAYLRKPL--EKTL--------
->AOM65518.1|infB
+>AOM65518.1_AOM65518.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1706,7 +1706,7 @@ DTQGSIEAIINSFAQIPQE---KVQLNILSTSSGQVSDQDIALASMSQSVILGF----NL
 NISLPIQHTADKANVLILKFNIIYDLLDHIKNYMLNLVEPEYLQV-DIGEAI--------
 VE-----AVFSINKGSVAGCSVSSGKLKRGAYIDVYRGKDLVHNGRLDSLKKIKDDVEEV
 SYGNECGVMCSEYNLWQKLDIIKAYELDPK--EKAL--------
->YP_010197389.1|infB
+>YP_010197389.1_UAD85396|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1734,7 +1734,7 @@ DTQGTIDAIINSFLQIPQN---KIKLNILTSSLGVVSSTDLDLAFNTQALIIAF----NI
 NIATNILNAAEKLNVHLCKFVLIYDLIDYVKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFFVNKGTVAGCIVKSGKLKKNALINVYREDQLIYEGVLDSLKRMKDDVEEV
 VTGNECGIMCKDYSLWQPKDLIEVYELYEK--SKIL--------
->YP_003359240.1|infB
+>YP_003359240.1_ACT46776|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1762,7 +1762,7 @@ ESQGLLEAVALNIPTQKHP---NVNVRITKASVGYVTETDVEFAITSKSEILAF----NT
 TYAPEAKKLANKKNIIIKDFKVIYDILNYISALENGNKSRNEKTD-PTGIGI--------
 VK-----AIFPTSKTFVAGVLVTKGTITKKSLIHIIQELKTIYTGEIKSLKRGKEDISEA
 HYGSECGICLPNFAAWKIGDFIHAF-------DHPL--------
->YP_009397648.1|infB
+>YP_009397648.1_ARW66834|infB
 ----------------------------------------------------MF------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1790,7 +1790,7 @@ DTQGTLEAILDLLGNISQS---KVQINILSASFGNISSTDVELALATNSVIVAF----KV
 NILPQIDSLLKKYKINFKVFDVIYNLFEYIRNLMLDLIEPEYDKI-LIGNAT--------
 VQ-----MVFNMNKGYVAGCIVNEGRLNKDSYIHVLRNDLIVYEGFITSLKQAKNDVEEV
 LAINECGLMS-DFKLWKDSDIIKVYKLLPK--DKTL--------
->WMP13892.1|infB
+>WMP13892.1_WMP13892.1|infB
 ----------------------------------------------------MTM-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1818,7 +1818,7 @@ DTQGSLEAILNAFRQIPQE---KVQINIIVANVGSISNKDVDLAKSSQSLVLGF----NV
 ETSLNTRSLIENLNIVVRTFSVIYDLLDYVEKYMIDLVDPEYEKY-VIGKAT--------
 VK-----TVFSINKGLVAGCLVNSGKLKKNLRASIYDGNKMVHDGFITSLKRAKDDVNEV
 VASYECGVMCGDFYAWKASNTIEAYELIEK--RKSL--------
->YP_009297734.1|infB
+>YP_009297734.1_AOM67468|infB
 ----------MQL--------------------------------------DNILHILNF
 LHN---------------------------------------------------------
 ------------------------------------------------------------
@@ -1846,7 +1846,7 @@ DTHGSIDAIIQAFSKIPQE---KVQLNLISINVGEITESDIQLATVSQALVIGF----NS
 LLPYNIKILAERSKIIISTFNIIYGLIDYIKQKMLELVLIEYQEN-TIGLAR--------
 VE-----SIFSISKGSVAGCIIQSGKVKHNAYIRVYRNKSIIYQGKIDSLKRIKEDVDEV
 KIGNECGILTKEFSQWQKKDEIEAYELVPV--EKTL--------
->WGT74036.1|infB
+>WGT74036.1_WGT74036.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1874,7 +1874,7 @@ DTQGSSEAIINAFNNISQA---KVQINILQLSFGNISNTDIELASTSKSIIIGF----NI
 NISSQANDVAKKLNVVLQKFNIIYNLIDFVVLNMLHLVEPEYDQL-MIGKAI--------
 VQ-----TIFYINKGSVAGCKVLEGKLTKGAFLNIYRNSTIIHNSTLNSLKRVKDDVNEV
 TENNECGVMCYDYTLWNAGDIIEAYELKEK--EKVL--------
->YP_009393928.1|infB
+>YP_009393928.1_ARW62490|infB
 ------------------------------------------------MLYIKC------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1902,7 +1902,7 @@ DTQGSLEAIVKLLSSISQI---KVQLNLISASFGNITNSDVNLSIATQAYILAF----NV
 IDLPQISNLIKQHQIKFKGFDIIYDLFEYVKSLMLTLVKPEYKEV-LTGNVL--------
 VQ-----TIFKMSKGLVAGCTVTDGKISSKSYIKVYRDNNIVYDGYVTSLKYMKNDIGEV
 LAPGECGLMS-DFQEWQESDLIEAYEMILT--EKVL--------
->AJH65963.1|infB
+>AJH65963.1_AJH65963.1|infB
 --------------------------------------------------MVSM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1930,7 +1930,7 @@ DTQGSLEAIMDLLANISQE---KVQINIISASFGNISNGDTHLSVTTKSSIIAF----NV
 NALPQINSLIKKYKINFKIFYVIYDLLDCVQNLMLDLVDPEYSMR-LTGSAS--------
 VQ-----TIFKMNKGFVAGCIVSSGKINSKSYIYVYRKNIMIYKNYITSLKYLKSDVKEV
 IAPSECGLMS-DFQEWQESDLIEAYDVFIK--EKEL--------
->WGH13697.1|infB
+>WGH13697.1_WGH13697.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1958,7 +1958,7 @@ DTQGTLEAILDLLSNISQS---KVQINIISASFGNISNTDVELAVATNSFILAF----NV
 NISSHIRGLLKKYKINFKVFNIIYDLLQYVQTIMLNLIEPAYEKV-LRGKAV--------
 VQ-----TVFSMNKGYVAGCLVNEGKLTIKSYIHVYRNNLLVYEGFINSLKRVKNDVEEV
 VAVNECGLMS-NFKSWQNLDVIEAYDLVPK--EKTL--------
->BDA97600.1|infB
+>BDA97600.1_BDA97600.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1986,7 +1986,7 @@ DTQGSAEAITSSLNKINNS---KVQIRVLYSCAGEITETDVEFASTSSANLVAF----NT
 ALASGAEKAAKNMGITIKHFDVIYDLFDFVQSMIDSLIGPQYEEK-LIGSAI--------
 IK-----TVFPLAKSFVAGSLVMEGKITKSSFVHVLRNDEIIHKGFIESLKRVKESVSEV
 NSGSECGIFLNEFDSWKTGDILKAFDLIPK--KQNTF-------
->ASB29751.1|infB
+>ASB29751.1_ASB29751.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2014,7 +2014,7 @@ KTQGSIDAIMQMLSSIPQD---KVQINLLAVSCGEVSMKDVELAITSNSLILVF----GL
 KVPLNILQYLEDKHILISEFYVIYDLIDYVKMHMLQFVDVEYTKN-ILGNAV--------
 IK-----NLFTINKGIVAGCFVQSGKLQRYAKFELRRNDNSLYVGTIDSLKRVKQDVAEV
 YSGNECGILCKDYTNWDIGNSIECYDLQPL--DKTL--------
->WCH55133.1|infB
+>WCH55133.1_WCH55133.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2042,7 +2042,7 @@ DTQGSIEAVINSFANIAQK---KVQINIISTNCGFISSNDLEFAVASKSIILGF----NI
 GINSSLNQKVKKLGIVIALFDIIYDLLDYMQNYMLSLVDPEFDQQ-LIGKAK--------
 VQ-----TVFKINKGLVAGCLVNYGKLKKGSKISIYHNQDLVHEGLIDSLKRLKDDVDEV
 SEGNECGIMCSSYQSWRSFDIIEAYELIEK--VKVL--------
->YP_009399109.1|infB
+>YP_009399109.1_ARW68506|infB
 --------------------------------------------------MNMV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2070,7 +2070,7 @@ DTQSSLEALISSLMKIPQQ---KVHLNIVKAALGSISNIDIDLALSTNALILVF----NA
 HIPNSIFNLIKQNNLDVKKFLIIYDLLNYVNQIMLDLVDPEYEKI-FIGSAI--------
 VQ-----TVFYINKGSVAGCFVNQGKLKKMSYIYIYNKNKLVYEGQLVSLKRLKDNVDEV
 FAETECGIMC-NYNKWEEEDRIEAYDLVLK--EKTL--------
->YP_007627421.1|infB
+>YP_007627421.1_CCP38168|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2098,7 +2098,7 @@ DTQGSIEAIINSLAQIPQD---KVQLNILSATSGCICHKDIDLATTSKSAIIGF----NT
 NIETTISKLAKKLDLNIQKFEVIYDLLEYLQDYMLNLMDIEYDKV-EIGEAI--------
 IK-----TVFHVNKGMVAGCIVNRGKLKRNAHIVIYRDKELLYKGKLDSLKHMKDNIDEV
 LEGNECGVMCNNYNDFIKFDIIKAYELIKV--QKVL--------
->YP_009313508.1|infB
+>YP_009313508.1_SCW21762|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2126,7 +2126,7 @@ DSDGTINAILNTFNSIPQQ---KIQLNIVSAGVGEITINDVDLAIISKSVIVGF----NN
 IIGTSSQQMAVKNNIIIKNFSVIYDLVDYIKQVMLDLVDIEYNEN-IIGYAI--------
 VK-----DVFSLSKGSVAGCYVNQGKLKRKSYIRVKRNQELIYNGQLTSLKRIKENVEEV
 NVNNECGVLCNDFNLWEKEDIIEAYELVPM--EKTLEIFSPKK-
->ARW59797.1|infB
+>ARW59797.1_ARW59797.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2154,7 +2154,7 @@ DTQGSLEAVIDLLFSIPQS---KVKLRIVSASVGIVANSDIELAIVSQSIIVAF----NM
 DISSGINNLIKKNNLIFKKFRIIYNLFEYVKDIMLDLIEPSYEKV-FIGRAS--------
 VR-----TVFNMNRGSVAGCYVDQGKLIKMCHIRVYRRDQIVYEGILSSLKIIKDNVSEV
 LSDHECGLMC-DYNLWQKDDIIDAYELVPQ--KKTLQ-------
->YP_010619279.1|infB
+>YP_010619279.1_WAX03292|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2182,7 +2182,7 @@ DTQGALEAIIHLLSNISQS---KVQINIVSASFGNISNTDVELAVATDSFIVAF----NV
 NILSHINSLLKKYRINFKVFNVIYNLLEYVKLIMLNLIEPSYDKV-LTGNAV--------
 VQ-----TVFNMNKGYVAGCIVNEGKLNKKSYIHVYRNNAIIYQGFILSLKRMKNDVEEV
 VAINECGLMS-EFELWQDLDVINAYDLVAK--EKTL--------
->AMK96097.1|infB
+>AMK96097.1_AMK96097.1|infB
 ----------------------------------------------------MLK-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2210,7 +2210,7 @@ DTQGSIEAIINAFEQIPQQ---KVQINILFASASEISGKDIELASTSNAIILAF----NI
 NLSS--RHIPKNTKLIIKEFSIIYDLVDYIRNYMLTFVDLVYKKE-NLGKAE--------
 VK-----TVFEVKKGAVAGCFVLYGKLKKNALITVRRKQVIVYEGKLNSLKKLKEDVQEV
 TMNNECGIMCYDYHLWHEKDEIDAYELKVG--EKNL--------
->YP_009397445.1|infB
+>YP_009397445.1_ARW66631|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2238,7 +2238,7 @@ DTQGSLEAITNLFAQIPQT---KVQIYVISANFNIISNTDIELALATGSSIITF----NL
 NINAQMINLIKKNNIVCHNFNVIYDLLDYVKSCMLNLIEPEYDRN-FIGRAI--------
 VQ-----TVFNMNKGSVAGCIVNEGKLKKMCYIHVHRNNLLVYEGLLISLKRLKDDVEEV
 LSINECGLMC-DYSFWEKLDVINAYELVQK--SKSL--------
->QJF58630.1|infB
+>QJF58630.1_QJF58630.1|infB
 ----------------------------------------------------MRE-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2266,7 +2266,7 @@ DVQGSIDAVIHTLSSIPQE---KVQINLLLVASGEISLKDIQLASTSNSIILAF----NL
 NVSSNILSQAQKEGLILEKFKVIYDLLDYVKSHMLTLVDIEYEKQ-ILGNAV--------
 VK-----NIFTINKGVVAGCFITHGKLKKNVYFNVTRKNEIQYIGIIDSLKRLKEDAEEV
 FVNNECGVMCKDYHLWQIEDNLEAYELKPL--DKIL--------
->QVY57876.1|infB
+>QVY57876.1_QVY57876.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2294,7 +2294,7 @@ DTQGSIEAIINALFQLPQE---KVQINILTTQCGSISLKDIELAMASNAIILGF----NI
 NINHSLRNIAKKEGIQIKLFNIIYRLLDDIKQYMLNLIDIEYNQV-LIGKAT--------
 VQ-----TVFNINKGTVAGCIVNSGKLIKNGYIKVYSKKELVYSGLIDSLKRIKDDVEEV
 IEGHECGLMCSDYHAWNRLDAIEVYEMVEK--VKVL--------
->YP_010338179.1|infB
+>YP_010338179.1_UNJ17764|infB
 ----------------------------------------------------MTNKITQS
 AKK---------------------------------------------------------
 ------------------------------------------------------------
@@ -2322,7 +2322,7 @@ DTPGSLEAIMNCLSQIPQN---KIQIKVVSLAAGDITETDIDLAKVTNSIITGF----NS
 NITNNTKIAKNLGQVNVKTFNIIYDLIEYIEEEMKNLLDIEYMEE-ELGIAS--------
 VK-----TTFPLSKGVVAGCYVSSGKLEKECLIKVIRDNETIFEGKLDSLKRVKEDVKEI
 EKDNECGVVTHKFNNWNKNDTIVAYKLVAK--APSLI-------
->YP_009739133.1|infB
+>YP_009739133.1_QIC19572|infB
 ----------------------------------------------------MIPYRKHR
 CK----------------------------------------------------------
 ------------------------------------------------------------
@@ -2350,7 +2350,7 @@ DSDGTIEAIIQSFSNIPQE---KVQLNIVSISVGEVNASDVNLASVSDSLMLSF----NT
 NIPSKMSSLALKMNVIIEDFKVIYDLIEYVETEMLKFVDIDYREQ-TIGSGV--------
 VE-----SVFVVSKGSVAGSIVTEGKLKRNSYIRVHRNDELMHEGRLSSLKRVKEDVEEV
 SVGNECGVLCNNFDKWQKQDIISSYELIEK--AKTL--------
->UAD87032.1|infB
+>UAD87032.1_UAD87032.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2378,7 +2378,7 @@ DTQGTIDAIINSLIQIPQN---KIKLNILTSSLGVVSSTDIDLAANTQALIMAF----NI
 NIATNILNTAEKLNVHICKFFVIYDLLDYVHNYMLDLIDPEYDKL-LIGQAQ--------
 IR-----TIFSVNKGTVAGCIVKSGKVKKNALINVYRGNKLIHEGVISSLKRMKDNVDEV
 VLGNECGIMSTDYNLWQSQDIIEVYELHEK--TKIL--------
->UNJ14792.1|infB
+>UNJ14792.1_UNJ14792.1|infB
 ---------------------------------------------MWRDKTFMYCSL---
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2406,7 +2406,7 @@ STQGSLEAVLKVLYGIPQN---KVTLKVVSATLGEITETDVILASTTKAIIVGF----DT
 NLGQGTRQAANRMEILIKEHSVIYDLIDTLEEYMCSLLDPEYEKV-EIGQAQ--------
 VK-----DIFELARGKVAGCYVKSGKLIHHCNIQVIRDTNIIYEGELDSLKRVKEDIEEI
 NSGNECGIFIKDFQDWQKQDMLRAFELNEK--QASLT-------
->AGG37035.1|infB
+>AGG37035.1_AGG37035.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2434,7 +2434,7 @@ DNQGSTEAILDSLSQFPQS---KVQINVVSIMPGEITATDVELASTTNANLIGF----NT
 NFAPGAKQAAAKFNILVENYQIIYALIEDIKGRMKDLLDPEYSEV-PVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLLKNSWIKVIREDEVIYEGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDKIHSFDLVPK--QKSLS-------
->YP_009420299.1|infB
+>YP_009420299.1_ASO75787|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2462,7 +2462,7 @@ DTQGSAEAISSSLNKINDS---KVHVRVLYSCAGEVTETDVEFASTSSATLIAF----NT
 TSASGAMKTAKNMGISIKSFDVIYDLFDFVQSLVDSLAGPEFEER-FLGSAL--------
 IR-----TVFPLAKSFVAGSFITEGKIVKSSFVHIIRNNEVIHKGFIDSIKRVKESVLEV
 SQGSECGIFLKEFDSWKEGDIIRAFELIPK--KKTHFKISIKIS
->YP_009244776.1|infB
+>YP_009244776.1_AMK97018|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2490,7 +2490,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTTSANLIGF----NT
 NFAPGAKQAAAKFNIVIENYQIIYALIEDVIGRMEDLLDPEYSEI-QVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLLKNSWIKVIREEKVIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDKIHSFDLVPK--QKSLS-------
->SCW21966.1|infB
+>SCW21966.1_SCW21966.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2518,7 +2518,7 @@ DSEGTIDAILNAFINIPQK---KVQLNIIAAGVGQITVGDVNLAIVSNSTIISF----ND
 -YSSQIENLALQSNVTVANFKVIYDLLDYVQDLMIQLVDVEYNEQ-VIGKAM--------
 VE-----NIFAVSKGIVAGCIVLSGKLKRGSQMKIIRNQHIVYSGEINSLKRLKEDVDEV
 LINNECGIMSTNFSAWEKKDIIEAYDLVEK--DKML--------
->YP_010336780.1|infB
+>YP_010336780.1_UNJ15186|infB
 ----------------------------------------------------MQCSLPE-
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2546,7 +2546,7 @@ STQGSLEAVLNILQKIPQK---KVILKLVSASLGEITETDVIFASTTKAIIIGF----DT
 TMAPGAKQASNRLNILIHEHTIIYDLVDKLELEMCNLLDPEYEKH-EIGLAK--------
 VK-----DVFELARGKVAGCIVESGKLIHNCNIQIIRNEDVIYEGELNSLKRLKEDVEEV
 NSGNECGVLIKQFQEWQKLDIVKAFEFNEK--PPSLV-------
->ARW62287.1|infB
+>ARW62287.1_ARW62287.1|infB
 ----------------------------------------------------MS------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2574,7 +2574,7 @@ DTQGTLEALFSSLAKISQN---KVQINLVSASVGNIVSKDIELALAANSIIVGF----HV
 DISNNIISLVKQYNLSFKIFYVIYDLLDYIQECMLNLVDIEYENI-FIGSAI--------
 VQ-----TIFAINKGSVAGCIVNEGSLKKMSYIYVYQGTNLVYDGFLISLKRMKTDVDEV
 LINNECGIMC-NYNDWKVKDIIKAYDLRPK--KKTL--------
->QVQ56749.1|infB
+>QVQ56749.1_QVQ56749.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2602,7 +2602,7 @@ DSQGSLEAIINLFSNISQQ---KVQIHIIAASFGNITTSDIDLSVASKAPILAF----NV
 ALLPQINNLIKKYQITFKIFYIIYDMLDYVKTLMLDIVEPEYTNI-LIGNAV--------
 VQ-----TVFKTNQGYVAGCIVSNGKINISSYIHVYRKNQILYQGYIKSLKYIKDDIEEV
 LFPSEFGLMS-DFQDWKKSDLIEVYEIILK--DKVL--------
->WCH54934.1|infB
+>WCH54934.1_WCH54934.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2630,7 +2630,7 @@ DTQGTLEAIINSFANISQK---KVQINVISINCGFISSNDLELAVTSKSIILGF----NI
 GISSSLAQKVKKLGIVVALFDIIYDLLDYMQNYMLTFVDLEFDQK-LMGKAK--------
 VQ-----TVFKINKGLVAGCLVNDGKLKKGSKISIYRNQNLVHEGSIDSLKRLKDDVDEV
 LEGNECGVMCYDYQLWQSLDIIEAYELIEK--AKVL--------
->ARO90743.1|infB
+>ARO90743.1_ARO90743.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2658,7 +2658,7 @@ DTQGSIEAILNMMKNISQE---KVQLNILLALVGELSIADIKTLTTNNAFLINF----NV
 PISFAVKQKAKQHNFNIKKYTVIYDVFNDLEMEMKKLLDPVYKPY-KIGEAI--------
 VK-----TSFKLTRGVIAGCLVNSGKLVQDCEIEILRNNECIYKGKLDSLKKVKENVKEI
 NAGNECGVFTSDFQEWKAGDVVYAFNLVEE--DAVL--------
->WDA99439.1|infB
+>WDA99439.1_WDA99439.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2686,7 +2686,7 @@ DVQDSVEAVIGVIRKNVNNVGENITITIIRAEIGEVSLNDINLAAITKAYIIGF----NI
 KISKPIQKIAQMKQIIIKNYNLIYDLFEDLNKLIQGSLKGRIAEIEVIGKAI--------
 VK-----NIFNLAKGKVAGCLVLEGKLVNNFQIQVIRNNLIIHKGKLDSLKFEKNDIEEI
 YEGRECGVLCKDFQSWKENDIIECISS-----------------
->YP_009394964.1|infB
+>YP_009394964.1_ARW63526|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2714,7 +2714,7 @@ DTQGSLEAILELLCSLSQS---KVQINIVSANFGNISNADVELASATDALILAF----NV
 SILSQISQFLKNANINFKIFNVIYDLFDYVKDKMLNLIEPEYDYV-LTGSAV--------
 VK-----TVFKMNKGFVAGCLVNEGKLSKNSYIRVCRNGSCEYKGFITSLKHMKNDVDEV
 SVSTECGLMS-DFELWQQSDIIEAYEVVTK--RKTL--------
->BCD52561.1|infB
+>BCD52561.1_BCD52561.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2742,7 +2742,7 @@ DSEGTIDAIINAFTSIPQN---KVQINIISAGVGDITASDINLAGVSQATIISF----NN
 FVPAPVKRMISNSTVLSLNFTVIYDLMDYIKTRMLELVETEYAEQ-ITGTAI--------
 VE-----GIFTLSKGVVAGCVVVSGKLKRNSYIKVKRNQEVIHSGELHSLKRIKEDVDEV
 SIKHECGVMSADFDRWQRKDLIEAYDLIAQ--DKTL--------
->YP_009774080.1|infB
+>YP_009774080.1_QIZ74697|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2770,7 +2770,7 @@ NTQGSLEAIINSFLTIPQE---KVQLNILAADSGSISNKDVELAVASQSIILGF----NI
 YVDSRTQNLADKLNIKINVFNIIYNLLDFVQDYMLNLVDLEYNKL-FIGQAT--------
 VQ-----TVFSVNKGIVAGCIVDSGKLKKKVSMNIYRNQVLLYSGIIDSLKRLKNDVEEV
 VVGNECGVMCINFHSWQRLDIIKVYELVEK--EKKL--------
->ASO76086.1|infB
+>ASO76086.1_ASO76086.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2798,7 +2798,7 @@ DIQGSVEAIVNTIYKMSHP---KVQIKVLYAAPGEITETDIDFAYTSNATVLAF----NT
 TLASGARKAAKNSNVIVKESDVIYDLFDYVQDMIDLVVGPEYDEQ-FIGSAT--------
 VK-----NIFPLGKSFVAGSFVSEGKLVQGCHIKIMRNAEVVYEGSLDSLKRLKDDVLEV
 KENLECGIFVKDFDTWSEADVIRAFNLIEK--KRSR--------
->YP_009244254.1|infB
+>YP_009244254.1_AMK96496|infB
 ----------------------------------------------------MK------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2826,7 +2826,7 @@ DTHGSIEAVMYAFSKISQD---KVQINILNAYSGEVSQNDLQLAFNTNALIICF----NR
 DIPSHLKNLSNTLNIVVKNFQVIYDLIDYVENSMINLIDLEHDKI-LIGEAV--------
 IQ-----TVFSMNKGSVAGCLVIKGKLEKKSWIEVYYNKNLMYEGQLDSLKHLKDDVNQV
 YEGNECGVMCDDYNLWLERGVIKAYNLQEK--QKEL--------
->YP_010951972.1|infB
+>YP_010951972.1_WMP12911|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2854,7 +2854,7 @@ DTQGSLEAVIDLLLSIPQS---KVKLRIVSTSFGVVSNSDVELAAVTQSMIITF----NI
 DLSSNIISLIKKHNITFEKFQIIYDLFEYIQDAMLDLIEPNYDKI-FIGRAF--------
 VR-----TVFNMNKGVVAGCFVNQGKLIKMCHICVYRKDQVVYEGILTSLKVIKDDVTQV
 LSDHECGLMC-DYNLWEKDDIVDAYELVPR--KKTLS-------
->WYA87297.1|infB
+>WYA87297.1_WYA87297.1|infB
 ----------------------------MKIS----------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2882,7 +2882,7 @@ DTQGSLEALILSLSSIPQK---KVQLNLIVCEAGNITRKDIDLSIASNAMIIGF----NI
 QPVSEILSLVKKYNIKLNTFNIIYDLLDYIHNAMLNLVEPEYESI-IIGNAI--------
 VQ-----TIFSINKGTVAGCLVSSGKLKKKSHISVYRDNQIVYKGILDSLKRMKEDIDEV
 SESHECGVMCNNYSLWESKDRIEAYDLQAK--NKEL--------
->QUE29277.1|infB
+>QUE29277.1_QUE29277.1|infB
 ----------------------------------------------------MSVHNLNK
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2910,7 +2910,7 @@ NTQGSLESLLYSIKNIPQE---KIQVEMLGASSGEVTENDVNLAISTNSLVIAF----NV
 KVNPGAKSLASKHKLEIRSYTVIYNLIEDLESQMISMLEPEYLEN-EIGSGE--------
 IK-----ATFNLSRGVIAGCYVVSGKLKKDTLVKVYKKDRKIYSGNLDSIKKVKDDVTEI
 EAKQECGLFIENFQEWESGNIIKSFELIEQ--KQKL--------
->BFV53241.1|infB
+>BFV53241.1_BFV53241.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2938,7 +2938,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTTNATLIGF----NT
 NYAPSAKQAAVKLNILVKNYQIIYALIEDITEMMENLLDPEYSEV-QVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLLKNSWIKIIREEKVIYQGKIESLKCVREDVEEI
 QAGNECGIFISEFQLWQPGDKIHSFDLIPK--QKSLS-------
->AUG32253.1|infB
+>AUG32253.1_AUG32253.1|infB
 -MTSNGKIRIYELSRDLGLDNKDVIDAAEKLSIIVKSHSSSISDAEAAKIRDLIKSNKKD
 TNSNPFPIDSVTTA-TSNHPSISIQSSENVSQELKSPSQLAPPISQESTNSLHNEDKSTA
 DDAIQGVA----LGSLPPLTQKGETMNKVDTITSTSGSLTHEDSG----------IVKPS
@@ -2966,7 +2966,7 @@ DVQGSVEAILGSLEQLPKD---EVQVRVLLSAPGEITETDVDLAAASGAVIIGF----NT
 SMASGAKRAADTHGVDVRDYSVIYKLLEDIQMAMEGLLEPELVEE-SLGEAE--------
 VR-----AVFSIGKSAVAGCYVLDGKVQRNTKIRVRRAKQLIFEGDLNSLRRNKDDIKEV
 ATGFECGIGCDRFANWEEGDRIEVYKMVSQ--RRTLNI------
->QUE29454.1|infB
+>QUE29454.1_QUE29454.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2994,7 +2994,7 @@ NTQGSLESILYSIKNIPQE---KIQVEMLGASSGEITENDVSLAISTDSFIFAF----NV
 GTNPIARNLASKHKLKIKNYTVIYDLIEDLENNMIAQLEPEYLEN-EIGSGE--------
 IR-----ATFDLSRGTIAGCYVLAGKLKKDTLIKVYNKDMEIYRGNLDSIKKVKEDVTEI
 EAKQECGLFIEGFQDWESGNIVKSFELIEQ--KQKL--------
->YP_009314530.1|infB
+>YP_009314530.1_SCW22784|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3022,7 +3022,7 @@ DSEGTIDAIINAFMNISQE---KVQLNVIAAGVGEVTRSDINLASVSQAIILGF----NA
 IVTSQIKQLVLKYGITSVNFKVIYDLINYVQDAMLKLVDADYKEH-MIGKAI--------
 VE-----NIFVVSKGTVAGCVVTSGKLRRNSYIKVIRNKEIIYSGQLNSLKRGKEDVEEV
 IIEHECGVMSNNFDSWRKQDSIEAYDLIAQ--EKTL--------
->QVY58081.1|infB
+>QVY58081.1_QVY58081.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3050,7 +3050,7 @@ DTQGSIEAIINSLFQLPQE---KVQINILKAQCGSISHKDLELAITSNAIILGF----NI
 T--YNLHNVAKKEGINVKLFNVIYRLLDDVKQYMLNLVDIEYNQL-LVGEAT--------
 VQ-----TVFNINRGTVAGCLVNSGKLIRNGYIKVYTDKELVYSGLIDSLKHIKDDVEEV
 VKGHECGLMCNNYHAWNRLDIIEVYEMVEQ--VKVL--------
->QUE28155.1|infB
+>QUE28155.1_QUE28155.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3078,7 +3078,7 @@ DTQGSLESLVYSIKNIPQE---KIQVEMLSASSGEITENDVNLATSTGSIILGF----NI
 GATSGAKNTATKYNLDIQNYKVIYDLIEDLETKMISMLEPEYLED-EIGSGE--------
 IK-----ATFNLSKGVIAGCYVTSGKLKKDTLIKVYKEDNVIYKGNLDSIKKVKEDVMEI
 DAKQECGLFVEGFQDWQSGNTLKCFELIEQ--KQKL--------
->ARW67038.1|infB
+>ARW67038.1_ARW67038.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3106,7 +3106,7 @@ NTQGSLEAILNLLSNIGQE---KVHINIIFANFGNISSSDIELAIATNSMIIGF----SI
 NLTSKINQIIKKNSIIFQNFNVIYKLFDYIKSVMLDLVDPEYTKS-LIGRAI--------
 VQ-----TVFNVNKGLVAGCLVYEGKITKFSYIYVYRNNSIVYEGLITSLKHIKDDVEEV
 ISKNECGLMC-DYNLWEALDKIDVYELVLK--EKLL--------
->YP_010951752.1|infB
+>YP_010951752.1_WMP12691|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3134,7 +3134,7 @@ DTQGSLEAVIDLLLSIPQS---KVKLRIVSTSFGVVSNSDVELAAVTQSMIITF----NI
 DLSSNIIGLTKKHNIIFKKFQIIYDLFEYIKDTMLDLIEPNYDKI-FIGRAF--------
 VR-----TVFNMNRGVVAGCYVNQGKLIKMCHICVSRKDQVVYEGRLTSLKVIKDDVTQV
 LLDHECGLMC-DYNLWEKDDIIDAYELVLR--KKTL--------
->UEQ11899.1|infB
+>UEQ11899.1_UEQ11899.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3162,7 +3162,7 @@ DTHGSIDAIIQAFSKIPQE---KVQLNLISINVGEITESDIQLATVSQALIIGF----NS
 LLPYNIKILAERSKIIVSTFEIIYSLVDYIEHKMLELVPLEYKEN-IIGVAI--------
 VE-----NIFAISKGSVAGCVIQSGKVKHNAYIRVYRNKSVIYQGKIDSLKRVKEDVEEV
 KIGNECGILSREFSQWQRKDEIEAYNLVPI--EKML--------
->YP_010196779.1|infB
+>YP_010196779.1_UAD84583|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3190,7 +3190,7 @@ DTQGSIDAVIHSLIKVPQS---KIKLNILTSSLGVVSDTDIDLACSTQALIIAF----NT
 HISTNILNAVKKLNIRLSKFLIIYDLIDYIRNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFSINKGIVAGCIVESGKLKKDSLINVYRSDDLIYEGIISSLKQIKDDVDEV
 IIGNECGIMCTDYNLWQSQDFIEVYELYKK--PKTL--------
->AGV01096.1|infB
+>AGV01096.1_AGV01096.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3218,7 +3218,7 @@ DNQGSTEAILDSLSQFPQN---KVQLNVVSIMPGEITATDVELASTTNANLIGF----NT
 NFAPGAKQAAAKFNILVENYQIIYTLIEDITRRMEDLLDPEYSEI-PLGEAE--------
 VS-----TVFSLANKKIAGCRVTNNKVLKNSWIKVIRDDRIIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQSGDKIHSFDLLPK--QKSLS-------
->YP_010619472.1|infB
+>YP_010619472.1_WAX03485|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3246,7 +3246,7 @@ NTQGVLEAILDLLSNISQS---KVQINIISASFGNISNSDVQLAVATGSFIVAF----NV
 NILSHINSLLKKYKINVKVFHVIYDLLEYVKSMMLNLIEPAYDKI-LIGNAT--------
 VQ-----TVFNMNKGYVAGCIVNEGKINQNSYIHVYRNNSIIYQGFILSLKRMKNDVEEV
 IAINECGLMS-DFELWQNLDIIQAYNLVAK--EKTL--------
->WOE88335.1|infB
+>WOE88335.1_WOE88335.1|infB
 ----------------------------------------------------MP------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3274,7 +3274,7 @@ DTQGSIEAIIHSLSQIPQD---KVQINILSATSGCVARKDIDLAIASKSLIIGF----NV
 PFPSNLCKIATKLDIEMKNFSVIYDLLDYLKDYMLDLIDIKYNKI-EIGEAT--------
 IQ-----TVFHINKGTVAGCIVKKGKLKKGAHLMVYRNQKLVHTGILDSLKQIKDDIDEV
 LEGSECGVMCNNYYDFARLDIIKVYEMVEA--EKSL--------
->AIG92551.1|infB
+>AIG92551.1_AIG92551.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3302,7 +3302,7 @@ DVQDSVEAVIEVIKKNINNVEGNIKITIVRAEIGEVSLNDINLASITKAYIIGF----NI
 KISKPIQKIAQMKQIVIKNYNLIYDLFEDLNKLIQDLLKGNIAKVEVIGKAV--------
 VK-----TIFNLAKGKVAGCIVIEGKLLNNSQIQIFRNNLIIYKGKLDSLKFEKNDIEEI
 YEGKECGVLCKNFQSWKENDIIECVSS-----------------
->BFV51553.1|infB
+>BFV51553.1_BFV51553.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3330,7 +3330,7 @@ DNQGSTEAILDSLSELPQS---KVQLNVVSIMSGEITTTDVELAATTHATLIGF----NT
 NFAPGTKQAASKLNILIENYQIIYALVEDVIEKMKDLLDPEYSEV-QVGEAE--------
 VS-----TVFSLANRKIAGCRVTSNKLVKNSWIKVIRQEKIIYQGQLESLKRIREDVEEV
 QAGNECGIFISEFQLWQTGDRIHSLDLIPK--QKSLS-------
->YP_009315756.1|infB
+>YP_009315756.1_SCW24414|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3358,7 +3358,7 @@ DSEGTIDAIISAFMSIPQN---KVQINLVGAGVGQITISDINLAVVSNANIISF----LE
 -IPPQIKHLAVKSNVYAVQFNIIYDLLDYVKDLMIQLVPIEYTEK-QIGTAL--------
 VE-----NIFSVSKGVVAGCTVTEGKLKQGSKIKVFRKKDVIYTGEITSLKRIKEDVKEV
 LDGHDCGVMSGTFSFWECKDIIKAYDLIEQ--EKIL--------
->BDA99303.1|infB
+>BDA99303.1_BDA99303.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3386,7 +3386,7 @@ DTQGSAEAISSTLNRINDS---KVQIRVLYACAGEITETDVEFASASSATLFAF----NT
 TSASGAVKAAKNMGINIAYFDVIYDLFDSVQSMIESLVGPQFEEK-FIGSAI--------
 IK-----TVFPLAKSFVAGSSVIEGKISKSAFVHIIRDTDIIHKGFIDSIKRLKESVAEV
 LEGSECGIFLKDFDSWKEGDILKAFELIPK--KRNTF-------
->QUE27882.1|infB
+>QUE27882.1_QUE27882.1|infB
 ----------------------------------------------------MSQTKPS-
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3414,7 +3414,7 @@ NAQGALEAVIYMLKQIPQK---KVALQVLSAGVGEITETDVAFASTTKALILGF----DT
 TFAPGAKQAANRLNVFAHEYQVIYDLIENLEQKMCDLLDPEYNKN-EIGFAV--------
 VK-----NTFPLAKGKVAGCYVESGKLVHNCSIAVVRENKTIYEGKLDSLKRVKDDVEEI
 SSGNECGVLIKDFQDWEKNDSIQAFELSLK--KISLT-------
->QJH88289.1|infB
+>QJH88289.1_QJH88289.1|infB
 ----------------------------------------------------MD------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3442,7 +3442,7 @@ DTQGSIEAIINAFSSIVQD---KVQINILTASSGIVSSNDLQLASSSKALIVCF----NA
 DAPADLFHIANNLHVIIENFNVIYDLIDYVKESMMNLIDPEYDKI-EIGEAV--------
 VQ-----IVFPLNKGSVAGCLVKSGKLQKHINIEVYRNNCLMYEGIIDSLKRSKDDVYQV
 DSGNECGIMCKSYNLWQEKDLIKAYNLNEK--QKEL--------
->QUE29088.1|infB
+>QUE29088.1_QUE29088.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3470,7 +3470,7 @@ STQGTLESILDCINNIPQT---KIQIEILTAASGEITETDIHLANSTQAQVIGF----DT
 SYAPGAKQAAEKSQIVVQEYKVIYDVIENLEKEMISLLDPFYIEE-EIGKSE--------
 IK-----TIFNLSKGVIAGCYINEGKLKRNCLVKIFRQHQEIYKGNLDSIKKIKEDVAEL
 EQGQECGIFIEDFQDWQKDDQLIAFNLIEQ--NQNL--------
->AAT79713.1|infB
+>AAT79713.1_AAT79713.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3498,7 +3498,7 @@ DTQGTIDAIINSFIQISQK---KIKLNILTASLGVVSNTDLDLAFSTQALIIAF----NI
 NISTNILNAAEKLNLSLRKFVLIYDLVDYVTYSMLDLVDPEYDKI-LIGQAE--------
 VQ-----TTFTINKGTVAGCIVKSGKLKKDALIGVYRKNKLIYEGVINSLKRMKNDVNEV
 VIGNECGILSKDYHFWQSEDLIKAYELHEK--AKTL--------
->BDA98270.1|infB
+>BDA98270.1_BDA98270.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3526,7 +3526,7 @@ DIQGSAEAIIGSINKIPQD---KVQVKVLYASPGEITETDIDFADTSGAIVLAF----NT
 TLATGANKAARHLNVTVKEYDVIYDLLDHIEMMIEEITGPEYDKK-SLGKAI--------
 VQ-----GVFPLAKSFVAGLRVTEGKITKDSHIAVIRNEDTVFEGSITSLKKVKEDIIEA
 IEDTECGLFVEEFDTWQEKDIVEAFELIPK--KRKER-------
->ARW67643.1|infB
+>ARW67643.1_ARW67643.1|infB
 ---------------------------------------------------MIY------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3554,7 +3554,7 @@ NTQGSLEAIIDLLSSIPQN---KVQINIIAANLGNISNKDIELSLAFNAMIIGF----NI
 NASMQINNLIKKYDITFQNFGIIYDLYDYIESSMLNLITPEYDKV-FIGSAV--------
 VQ-----AIFNMNKGYVAGCLVNEGKLKKMCYIYVYRKEIIVHEGYLNSLKHLKSDVDEV
 YADDECGVMC-DYNLWQLSDIIKAYDLVLR--DKSL--------
->AXI97552.1|infB
+>AXI97552.1_AXI97552.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3582,7 +3582,7 @@ GTQGCIDAIMHLFSQISQR---KVRLNVLASSLGDVSNSDVNLALTSQSLIISF----NV
 DFSSHVQALAEKLHVSLSKFFVIYDLLDYIKKHMLDLIDAEYDKV-LTGNAK--------
 VQ-----TVFYVQKKCVAGCVVQLGKLKKHSSIDIYRSDKLICTTVITSIKRIKDDVNEV
 DAVNECGLMCKDYDLWQSGDFIKAYELTQK--PKSL--------
->ASO75938.1|infB
+>ASO75938.1_ASO75938.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3610,7 +3610,7 @@ DIQGSTEAVLGIINKIPQD---KVQIKVLYASPGEITETDIDFADTSNATILAF----NT
 SLATGAYKAARHLNVNVKEYNVIYDLLDDIELMVEKITGPEYDKK-NLGEAI--------
 VQ-----GVFPLAKSFVAGLKVNKGKITKEAYIEVIRDNETIFKGEITSLKKVKDDINEA
 IEGTECGLFVEEFDQWEEADKIRAFELILK--KRKN--------
->WEA76791.1|infB
+>WEA76791.1_WEA76791.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3638,7 +3638,7 @@ DLQGSIDPIMNAFSKISQE---KVQINILSASSGEISLKDIQLASTSNSIILAF----NT
 NVPSNILSNAENGGIIVRQFNVIYDLVDYVKDYMLTFVEIEYVKE-VLGHAE--------
 VR-----SLFFINKGVVAGCFVLDGKLKRNEYISVIRKNQIVYNGLLDSLKRVKEDVEEV
 FASNECGLMCKEYNLWQLSDRIEAYILRPL--EKTL--------
->SCW24007.1|infB
+>SCW24007.1_SCW24007.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3666,7 +3666,7 @@ DTEGTIDAIINAFIKIPQN---KVQINLIGAGVGQITEADINLATISNATIISF----YD
 -TPAQIKNLAAKSNIPIANFNIIYDLLDYLQDLMIQLVPIEFKEN-KIGKAI--------
 VQ-----NTFSVSKGIVAGCNVTEGKLKKGSNIKVIREQEIIYTGEITSLKRIKEDVAEV
 VIGNECGVMSINFSLWEHKDIIEAYDLIEQ--EKTL--------
->ARW60609.1|infB
+>ARW60609.1_ARW60609.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3694,7 +3694,7 @@ DTQGALEAILDLLGNIPQS---KVQLNIVSASLGNISNTDVELALATESVILAF----NV
 NILSQISTLLKKYKINFKVFTVIYDLFLYVQSLMLNLIDPEYDKV-LIGHAF--------
 VQ-----TVFNMNKGYVAGCLVNKGRLNKSSYIHVYRNNAIIHQGFITSLKRMKNDVEEV
 IAVNECGLMS-NFELWQNSDIIEVYDLVIK--EKTL--------
->WCH56527.1|infB
+>WCH56527.1_WCH56527.1|infB
 -------------------MFILLKLIYLLNKYIIVYIY--------NNKKNMI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3722,7 +3722,7 @@ DTQGSIEAIINSFTNISQK---KVQINIISTNCGFISSNDLELAITSKSIILGF----NI
 GISSSLAQKVKKLDITMAIFDIIYGLLNYMHDYMLSFVNPEFDQQ-LIGKAK--------
 VQ-----TVFKINRGLVAGCLVDYGKLKKGSKISIYRNQNLLHEGSIDSLKRLKDDVNEV
 LEGNECGVMCYSYQFWQSFDVIEAYELIEK--PKVL--------
->NP_050746.1|infB
+>NP_050746.1_AAC35680|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3750,7 +3750,7 @@ DTQGSIEAIVNAISRIKTK---QLQIKILYSNLGEVTETDVEFASTTNAFVLAF----NT
 RLAPGAKKTARQLNIDIREYNVVYDLVEDIESLIAQHSEPEYKKL-KIGAAT--------
 VK-----AVFPLGKNFVAGIIINEGKIVRSAHIQVQRKSGLVFEGDITTIKIVKKDVEEV
 SEGNECGLFIEEFSEWKVGDSIEIFELIQI--------------
->YP_009393103.1|infB
+>YP_009393103.1_ARW61665|infB
 ----------------------------------------------------MR------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3778,7 +3778,7 @@ DTQGTLEAVINLLSKLPQS---KVQLNIISANFTGISNSDIELALSTNSFLIAF----NL
 NISSQIYNLIKKNNIIFENFYVIYDLMNYVENLMLDLVELEYDKL-FVGSAT--------
 VR-----TVFEIQKKFVAGCFINQGKIKKICYIHVCRNNHIVYEGNIISLKHLKEDVNEV
 YSGDECGLMC-EYNSWKSLDIVEAYELVPK--KKSLL-------
->ARW67874.1|infB
+>ARW67874.1_ARW67874.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3806,7 +3806,7 @@ DTQGSLEAIIDLLSQVSQL---KVQINIISANFGSISNNDIELAIATDSVIVSF----NI
 SITSQINALLKKSNILFKNFDVIYDLFEYVKTSMLDLIDPEYEKK-FIGRAI--------
 VQ-----AVFRMNKGIVAGCLVEEGKIKKSCYIHVIRNKQLVYEGLLISLKRTKNDVDEV
 IAINECGLMA-DYDLWENTDIIEAYELISQ--EKIL--------
->YP_010851622.1|infB
+>YP_010851622.1_WGH14488|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3834,7 +3834,7 @@ DTQGKLEAILDLLSSISQS---KVQINIISASFGNISNTDVELAVATNSSILAF----NV
 NISSHMSSLLKKYKINFKVFNVIYDLLQYVKTTMLNLIEPAYEKI-LRGKAI--------
 VQ-----TVFIMNKGYVAGCIVNEGKLTIKSYIYVYRNNLVIYEGFISSLKRIKNDVEEV
 VAINECGLMS-SFESWKDSDIIEAYDLVPK--EKTL--------
->BBK20534.1|infB
+>BBK20534.1_BBK20534.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3862,7 +3862,7 @@ DTQGSAEAIHTSISKFHHP---KVQLKILYATAGEVTETDIEFACTSNATLVAF----NT
 TFASGARKAAKNVSIMIKEFDVIYSVFEYVQSAMDSLAGPQYEEE-LIGSAI--------
 VK-----VVFPLAKSFVAGSYVLNGKITKVSVVEILRNSEILYKGTITSLKIMKDDVSEV
 LQDSECGIFIDEFEAWKQGDIIKAFERTPK--KNNAL-------
->WMP12050.1|infB
+>WMP12050.1_WMP12050.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3890,7 +3890,7 @@ DTQGSLEAVIDLLSSIPQS---KVKLRIISTSFGVISNSDIELAAVTQSMIISF----NI
 DLSSNMIGLVKKHNIVFKKIKIIYDLFEYIKNIMLDLIEPNYDKI-FIGRAF--------
 VR-----TVFNMNRRVVAGCYVSQGKLIKMCYICVNRKDQVVYEGKLSSLKVVKDDVTQV
 LSDNECGLMC-DYNFWEKDDIIDAYELVPR--KKTLQ-------
->ARW62697.1|infB
+>ARW62697.1_ARW62697.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3918,7 +3918,7 @@ DTQGSLEAIIDLLFNIAQS---KVQINLISANVGNITNTDIELANTTNAAILAF----NL
 NSSFQVDNLVKKHKIIFKSFNIIYDLFDYVKQTMLDLIEPEYDRI-FIGHAY--------
 VQ-----TVFNMNKGFVAGCLVDEGKLTRMCYIKVSRKGNLVYEGFITSLKRMKNDVDEI
 VAINECGLMS-DYKLWEQSDTIDAYELVSK--EKTL--------
->YP_009294035.1|infB
+>YP_009294035.1_AOM67277|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3946,7 +3946,7 @@ DTQGSINALFSSLSNIPRS---KVELSITSAEIGIITETDIRLAAITKSLVIGF----NT
 EITSNAEVIAKNGKIDIRNYKIISDLIYDMECYTNQFLKTVHTKD-CIGMAT--------
 VC-----SVFRLSTGVVAGCIVNSGKISKDSLLEISRDKSIIYKGLLKSMKHMKDNIFEA
 KQDDECGISVVGFDDWHVNDKIKVYVGQ----------------
->ARW62086.1|infB
+>ARW62086.1_ARW62086.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3974,7 +3974,7 @@ DTQGSLEAILNLLSKISQI---KVQLNIVSANFGIISNMDVELALATNSRIISF----NI
 NNRSKINALIKKNNISFENFYVIYHLFDYIKTSMLELIDPEYDKN-FIGSAI--------
 VQ-----TVFQINKRFVAGCIVKEGKLKKMSYIHITRKNKVVYQGILTSLKYIKEDIEEV
 FANNECGLMC-DYNFWQENDFIQAYDLIPK--NKTL--------
->YP_010728783.1|infB
+>YP_010728783.1_WEA76988|infB
 ----------------------------------------------------MLQ-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4002,7 +4002,7 @@ DVQGSIDPIIHTLSKIPQE---KVQVNILSVASGEISLKDIQLASTSNSIILAF----NI
 NISSAILNRAENAGIIVKHFNIIYDLVDYIKDYMLTFVEIEYTEE-VLGHAE--------
 VR-----DLFHINKGVVAGCFILDGKLKKNAYINITRKGQIIYSGLFNSLKRVKEDVEEV
 LSGNECGLMCKDYNLWQVNDQIEAYTRQPL--EKTL--------
->ARW62905.1|infB
+>ARW62905.1_ARW62905.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4030,7 +4030,7 @@ DSQGSLEAIINLFSNIPQL---KVKINVIAATFGNITNNDIDLSIASESPILAF----NV
 ILLPQIIILIKKHQINFKMFNIIYDLLDYVKSLMLDIVEPEYANV-LVGNAV--------
 VQ-----NVFKTNKGYVAGCIVSSGKININSYINVLRNNMNIYNGYIKSLKYTKNDVEEV
 LSPSECGLMS-DFQDWQKSDLIEVYDVTLK--DKVL--------
->UAD89257.1|infB
+>UAD89257.1_UAD89257.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4058,7 +4058,7 @@ DTQGTIDAIINAFMQIPQN---KVQLNILTSNSGSISDTDIDLASNSHALIIAF----NI
 NISTNILSKAEKANVHLCQFSIIYDLLDYVQNYMIDLIDPEYSKI-LIGKAI--------
 VQ-----TVFYIQKGAIAGCLVKSGKLKKDALIHIYRNNQLIHESIIVSLKRIKDNVNEV
 NAGNECGVMCQDNYLWQSQDIIEAYELDEK--PKTL--------
->YP_009315145.1|infB
+>YP_009315145.1_SCW23600|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4086,7 +4086,7 @@ DTEGTIDAIINAFTKIPQS---KVQINLVAAGVGQITVGDINLASVSNASIISF----HE
 -PSSQIRHLANQSNVSIAHFNIIYDLLDYVQDLMIAMVPVEYEEH-EIGKAL--------
 VE-----NTFSVSRGVVAGCLVTEGKIRLGTKIKVVREKQIIHVGEITSLKRIKEDVSEV
 IKGIECGIISANFSLWQEKDIINAYDLIKK--EKTL--------
->YP_010196160.1|infB
+>YP_010196160.1_UAD83557|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4114,7 +4114,7 @@ DTQGTIDAIIHSFVQIPQS---KIKLNILTSSLGVVSSTDIDLAYNAQALIIAF----NI
 NISTNMLNIAEKLNVRLCKFFIIYDLIDYIRNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFSINKGIVAGCIVESGKLKKNALINVYRSDQLMYEGIISSLKQVKDDVNEV
 IIGNECGVMCADYNLWQSQDLIEVYELYEK--PKIL--------
->QUE28537.1|infB
+>QUE28537.1_QUE28537.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4142,7 +4142,7 @@ NTQGSLESILYSIKNIPQE---KIQVEILEASSGEITENDINLAISTNSLVLAF----NV
 STNPGAKNIASKNNLTIRNYRVIYDLIENLENQMISLLEPEYLEN-EIGAGE--------
 IK-----ATFNLSRGVIAGCYVISGKLKKDTLIKVYSKDMEIYKGNLDSIKKVKEDVAEI
 EAQQECGLFVKEFQEWQSGNIVKSFELIEK--KQTL--------
->BDA97893.1|infB
+>BDA97893.1_BDA97893.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4170,7 +4170,7 @@ DIQGSVEAIVNSIYKMAHP---KVQLKVLYASPGEITETDIDFAYTSNALVLAF----NT
 TLASGARKAAKSANVIIKESDVIYDLFDYLQDLVDEVVGPEYDEQ-FIGSAQ--------
 VK-----SIFPLGKSFVAGSLVVEGKLIQGCHIKVFRDEVIIYEGALDSLKRLKEDVPEV
 KEDLECGVFLKEFDGWNERDLIKAFNLVQK--KRNR--------
->ARW69326.1|infB
+>ARW69326.1_ARW69326.1|infB
 --------------------------------------------------MYIN------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4198,7 +4198,7 @@ DTQGSLEAIMDLLVNISQS---KIQLNIVYAGYGSISNSDVELAVATGSILIGF----NT
 DVLCHIRQLLKKNEVSFKTFDIIYDLFTYIRDLMLDLVDPEYDKI-LIGNIS--------
 VQ-----TVFSMNKNFVAGCKVNKGKLRRDSYVHVYRNNSLIHEGFITSLKRMKDDVDEV
 LSVNECGLMS-DFDSWKDGDTLEAYDLVTK--EKTL--------
->BDA98713.1|infB
+>BDA98713.1_BDA98713.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4226,7 +4226,7 @@ DIQGSVEAILGTINKIPQD---KVQIRVLYASPGEITETDIDFADTSKATVLAF----NT
 NLAIGARKSARHLNVTVKEYNVIYDLVDYIEVLIEKITGPEYDQK-NIGKAI--------
 VQ-----GVFPLAKSFVAGLKVIQGKIKKESYIEVSRDENIVFKGNITSLKKIKENITEA
 IEESECGLFIEEFDTWQEKDIVNAFELIPK--KRRGK-------
->BDA99009.1|infB
+>BDA99009.1_BDA99009.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4254,7 +4254,7 @@ DIQGSAEAIIGSINKIPQD---KVQIRVLYASAGEITETDIDFADTSGSIVLAF----NT
 SLATGASKAARHLNVIVKEYDVIYDLLDYIEFTIEEITGPEYDKK-NLGKAI--------
 VQ-----GVFPLAKSFVAGLRITQGKITKTSHIEVLRDELIIFNGSITSLKKVKEDIAEA
 TEDSECGLFVEDFDTWQENDVIEAFELIPK--KRKEK-------
->YP_009296966.1|infB
+>YP_009296966.1_AOM66309|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4282,7 +4282,7 @@ DGQGSSEAIVHAFNNISQN---KVQINILELGFGNISHTDIELGLTTNSIVIGF----NV
 NISSQANQLAKKMNISVKTFNIIYDIIDYIILNMLNLLEPEYDQS-MIGQAV--------
 VK-----TVFSINKGSVAGCTVIEGKLKKACLLNIYRDSKIVHTSTLNSLKHMKDDVNEV
 IQDNECGIMCYDYTKWASGDIVEAYELKEK--EKTL--------
->WCH56127.1|infB
+>WCH56127.1_WCH56127.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4310,7 +4310,7 @@ DTQGSIEAVINSCTHISQE---KVQINILSTSCGSISNNDIELAIASKSIILGF----NI
 STSSHLNQVAKKYGITIALFDIIYGLLDYINEYMLSFVEPEYDQY-LIGKAK--------
 VK-----TVFNINKRVAAGCIVNYGKLKKNATISVYRNQNLLYKGSINSLKHIKDDVEEV
 LEGNECGIMCNDYQSWQSFDIIEVHELIEK--IKVL--------
->YP_010851226.1|infB
+>YP_010851226.1_WGH14092|infB
 --------------------------------------------------MYIV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4338,7 +4338,7 @@ DTQGTLEAILDLLSNISQS---RVQINIISANFGNISNTDVELAVATSSYILAF----NV
 NISSHVNSLLKKYKITFKVFNIIYDLLNYVQSTMLNLIEPSYDKI-FIGKAT--------
 VK-----TVFNMNKGVIAGCIVNEGKLNVKSYIYVYRNNIIVHEGFISSLKRIKNDVEEI
 FAINECGLMS-NFELWQDSDQIEAYELIPK--EKTL--------
->ATJ02845.1|infB
+>ATJ02845.1_ATJ02845.1|infB
 ----------------------------------------------------MLSYTIKY
 LSLY--------------------------------------------------------
 ------------------------------------------------------------
@@ -4366,7 +4366,7 @@ DAQGSLEAILDSLKQIPQS---KIQIGLINASLGDIKETDIEMANTTNSFIIGF----NT
 KIHNSAKSLLSKHKVGIQYFQVIYDLLEFVENNMRDMMEPEFLRE-EIGEAI--------
 VK-----NIFTISKGVVAGCFINKGKLIRGCNLEVIRNNSNVFEGTLDSLKQIKDDIYEI
 EEGKECGLVVNNYQEWNKNDLIKAYILTAK--SPEL--------
->AOM65911.1|infB
+>AOM65911.1_AOM65911.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4394,7 +4394,7 @@ DTQGSIEAVINAFAQIPQE---KIQINILSANSGEISDKDLNLALTSNSLILGF----NI
 GIASKVSSEISQIGVIIETFNVIYDLIDYVKRYMLNLVTPEYNKT-VLGSAV--------
 VQ-----TVFSVNKKYVAGCLVNSGKLKKNAYICVSRNNTIVYDGLLSSLKRLKDDVSEI
 YAVNECGVMCNDYDLWEKSDIIEAYELNQK--EKQL--------
->XHJ84453.1|infB
+>XHJ84453.1_XHJ84453.1|infB
 -------------------------------------MY--------LRINIMV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4422,7 +4422,7 @@ DTQGSMEALIYSFAKMSQN---KVQINILSANPGNISDTDFDFALMSKSLIIGF----NI
 NIPSNLYDAANKLGIVIKSFNIIYDLLDYIKQYMLDLIDPEYDKI-LIGTAK--------
 VQ-----SIFTVNKGLVAGCLVTSGRLKKHAHISIYRDRKNVYNGILDSLKRLKDDVDEV
 NDGNECGVMCDNYNLWNQEDIIEVYELVEQ--PKEL--------
->WDA98923.1|infB
+>WDA98923.1_WDA98923.1|infB
 ----------------------------------------------------MIK-----
 ------------------------------------------------------------
 ------------L-----------------------------------------------
@@ -4450,7 +4450,7 @@ DLQSSIEAIINMVNQLPQH---KIKINIIKAQTGEIGETDIELALATNSYLVNF----NT
 SLSGGAKKLTTQKSIQIIEHKIIYQLIEVIQDLLKTKVEPEYIKE-KTGEGI--------
 VK-----AVFSISRGLVAGSYIKEGKISRNSHIEIIRANQIIYQGKITSLKRGKENIEEI
 SQSYECGIFIESFDNWKVNDLIKIFDIRAK--PLTLK-------
->BDA98861.1|infB
+>BDA98861.1_BDA98861.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4478,7 +4478,7 @@ DIQGSVEAIVNTLQKISQP---KVQIRILYASPGEVTETDIDFAYTSNALVLAF----NT
 TIAPGVKKAEKNSGVIVKEFNVIYDLFDYVEDEIYAIVGIEYDEQ-YIGEGV--------
 VK-----SIFPLGKSFVAGSYIAEGKLTQACHIKVFRNETIVYEGELDSLKQVKTDVLEV
 REKSECGIFLKGFDAWVTGDIIKAFNLIEK--KRK---------
->ARW68916.1|infB
+>ARW68916.1_ARW68916.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4506,7 +4506,7 @@ DTQGSLEAIVSLFSTISQS---KVQINFISSSFGNITSNDIDLSIASESPILAF----NV
 NVLPQINILLKKNQIHFKVFHIIYDLFEYVRTLMLNLIDPDYSNV-LIGNAV--------
 VQ-----NVFRTNRGNVAGCIVSNGKINQDSYIKVYRKNLFIYEGYIKSLKFMKNDVDEV
 VSPSECGLMS-DFYEWQKSDLIEVYEVVIQ--EKVL--------
->UNJ17269.1|infB
+>UNJ17269.1_UNJ17269.1|infB
 ----------------------------------------------------MSAHNQDQ
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4534,7 +4534,7 @@ DTQGSLESLVYSIKSIPQD---KIQIEMLSASSGEITENDVNLAASTNSIMIGF----NI
 GSTPGAKNAATKYNLEIQNYNVIYDLIEDLQTKMISMLEPTYLEN-EIGSGE--------
 IK-----ATFNLSKGIIAGCYVTSGKLKKDSLIKVYKGKDEIYKGNLDSIKKVKEDVTEI
 DAKQECGLFVEGFQHWQSGNIVKSFELIKQ--KQKL--------
->UNJ17114.1|infB
+>UNJ17114.1_UNJ17114.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4562,7 +4562,7 @@ DTQGSIEAILNMIKQIAQE---KVQLNILLAVVGEVNIADIKFMTNNNAFLINF----NN
 PISFAVKQKLKQNNLSIKKYTIIYDVLNDLEIEMKKLLDPVYKLF-NIGEAT--------
 VK-----TSFKLVRGVIAGCVVNTGILVQDCDMEVFRNRECIYKGKIDSLKKVKENVREI
 SAGNECGVFSRDFQDWKEGCDLYLFKIIFHFNNSYFI-------
->UAD86009.1|infB
+>UAD86009.1_UAD86009.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4590,7 +4590,7 @@ DTQGTIDAVINSFIQIPQS---KIKLNILTSSLGVVSSTDLDLAFNTEALIIAF----NI
 NITTNILNAAEKLNVHLCKFVLIYDLIDYVKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFFINKGTVAGCIVKSGKLKKNALINVYREDKLIYEGVINSLKRMKDDVNEV
 VIGNECGIMCTDYNLWQPQDLIEVYELYEK--PKVL--------
->SCW21350.1|infB
+>SCW21350.1_SCW21350.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4618,7 +4618,7 @@ DSEGTINAVLNALMNIPQK---KVQLNIIEAHIGQVTTGDINLASVSNATIVSF----NQ
 -DSYDAEQVKHKINVNIAHFKVIYDLIDYVQELMIQLVETDYDEE-VIGKAQ--------
 VE-----NIFAVSKGIVAGCIVQNGKLKVGAHMKVFRQDSIVHSGEVSSLKRLKEDVLEV
 FKDTECGIMSNNFSSWELKDRIEVYDLIEK--EKSL--------
->UVF62945.1|infB
+>UVF62945.1_UVF62945.1|infB
 ----------------------------------------------------MLQ-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4646,7 +4646,7 @@ DAQGSIEPILHAFSKIPQE---KVQVNILSIALGEISLKDIQLAFTSNSSILAF----NI
 NIPSAILDNAENSLIIVKQFNIIYDLIDYIKNYMLSFVDIQYTKE-IIGHAE--------
 VK-----SLFIVNKGMVAGCSVLDGKLKKSSYISVLRKGKIIYNGLINSLKREKEDFEEV
 LSGYECGLMCKDFNLWEVNDKIEAYFRKPL--EKSL--------
->QUE30059.1|infB
+>QUE30059.1_QUE30059.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4674,7 +4674,7 @@ NAQGALESILYSIKNIPQE---KIKIEILAASSGEITETDINLAASSNSLVIGF----NT
 TCAPGTKQTAEKNQVRIQQYDIIYDLIEDVEKEMIKLLEPEFIEQ-EIGIGE--------
 IK-----ATFNLSKGVIAGCYIVSGKLKKNSLVKVYKEDLQIYKGNLDSIKRIKEDVEEV
 ESQQECGVFIENFQAWQSGHMIKCFDLLEQ--EQTL--------
->WOK79502.1|infB
+>WOK79502.1_WOK79502.1|infB
 ----------------------------------------------------MIQHKQSI
 NR----------------------------------------------------------
 ------------------------------------------------------------
@@ -4702,7 +4702,7 @@ DSEGTIEALINAFEGIPQE---KVQLNIVSLGVGEITLSDISLASVSESILIGF----NS
 NITPRTQLLADKANTTLADFKIIYNLIEFIKKVMLELVEVDYEEI-IIGQAI--------
 VE-----TVFAVSKGNVAGCMVSSGKLKRGSHFRVKRKNECIYNGELNSLKRVKEDVEEI
 TSGNECGVLCHKFDIWQKKDEIEAYDLVEM--EKTL--------
->YP_010196572.1|infB
+>YP_010196572.1_UAD83969|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4730,7 +4730,7 @@ DTQGTIDAVINSFIQIPQG---KIKLNILTSNLGVVSSTDLDLACNTQALIIAF----NI
 NVTTNILNAAEKLNVHLCQFVLIYDLIDYVKNYMLDLIDPEYDQL-LIGQAK--------
 VQ-----TTFFVNKGTVAGCIVKSGKLKKNALINVYREDQLIYKGIISSLKRLKDDVNEV
 SIGNECGIMCKDYNLWQPQDLIEVYEFYQK--PKVL--------
->WAX02711.1|infB
+>WAX02711.1_WAX02711.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4758,7 +4758,7 @@ DTQGSLEAILDLLSNVSQS---KVQINILSASIGNISNTDVELAVATSSFIVAF----NV
 NILSHINSILKKYKINFKVFNVIYDLLGYVEGIMLDLIEPAYDKV-LIGNAI--------
 VQ-----TVFHMNKGYVAGCIVNEGKLNKKSYIHVYRNNSIVYEGFIISLKRMKNDVEEV
 IAINECGLMS-DFESWQDLDIIKAYDLIPK--EKTL--------
->YP_009159235.1|infB
+>YP_009159235.1_AKP94653|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4786,7 +4786,7 @@ DIQGSVEAIISSINQIEQE---KVKIRVLYASPGEITETDVDFADASKSVILAF----NT
 SLAPGAKKVARHLGVSIKEYNVIYDLFDDIQTMVDDIIGPQYEEK-DIGKAI--------
 VK-----AVFPLGKNYVAGSFVNEGKIIKGCHIKVSRDGEVVYEGILSSLKQFKQDVAEI
 EQDSECGIYVEEFDEWKEDDIISAFELVEK--KKNR--------
->BFV52351.1|infB
+>BFV52351.1_BFV52351.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4814,7 +4814,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVLIMPGEITATDVELASTTNANLIGF----NT
 NFAPGAKQAAAKFNILVENYQIIYALIEDVTRIMEDLLDPEYSEI-QVGEAE--------
 VS-----TVFSLANRKIAGCRVTNNKLLKNSWIKVIREEIVIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDKIHSFDLVPK--QKSLS-------
->ART65227.1|infB
+>ART65227.1_ART65227.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4842,7 +4842,7 @@ DTRGSIDAIISSLTQIPQS---KIKLNVLAFSLGIVSNTDIDLAYSTQALIVAF----NI
 NISTNILNEAEKFNVHLSKFCIIYDLIDYIRGHMLELIDPEYDKL-LIGQVR--------
 VQ-----TTFPINKGIVAGCVVKSGKMKKKSFINVYRNNHLIYEGIISSLKRVKDDVDEV
 TVGNECGIMCSDYNLWQSQDFIEVYELYTK--TKTL--------
->ARW69538.1|infB
+>ARW69538.1_ARW69538.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4870,7 +4870,7 @@ ETQGSLEAIIDVLSSIPQS---KVQLNIVSANLGNLSNNDVEIATTTNSIITCF----NI
 NPSPQAMMLMKKNSITYNVFNIIYDLLNYVRNSMLNLIEPEYDKI-FIGCAT--------
 VQ-----TIFKISKGIVAGCLVNEGKIKKMSYIHVKRADREICQCFLTSLKRGKNDVDEV
 YVGSECGLMA-NYDLWEENDTIDVYDLVAK--EKTLG-------
->ARW69745.1|infB
+>ARW69745.1_ARW69745.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4898,7 +4898,7 @@ DTQGSLEAIINLLSSISQV---KVQISIISASSGNITNSDIELAFTTNAYIVAF----NV
 KTLPQIDVLIKKYNINLRVFNIIYDLLEYVQNSMLNLVDPEYDNI-LTGHAI--------
 VQ-----TIFKTNKGFVAGCTVTSGKISLNSYLYIYRKKILVYKGYVTSLKYMKNDVQEV
 VSPSECGLMS-DFYDWQQSDLIEAYNVVAK--EKVL--------
->AOM64512.1|infB
+>AOM64512.1_AOM64512.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4926,7 +4926,7 @@ DTQGSMEAILNAFSQIPQS---KVQINIISCSLGSVFDADLDLALTSNSIIIGF----NI
 NILSTISSHANKLKIILEKFNVIYDLLDFVNNYMLSLVEPEYDRI-SLGKAS--------
 VE-----TVFNMNKGSVAGCFVNIGCLKKGSYIVVYRNDKVVYEGLLDSLRHLKDDVNQV
 LAGNECGVMSKDYDSWQKADLIESFEMIQR--KKVL--------
->ARW69119.1|infB
+>ARW69119.1_ARW69119.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4954,7 +4954,7 @@ DTQGALEAILDLLSNVSQS---KVQINIVSASFGNISNTDVELAVATGSFILAF----NV
 NILSHINDLLKKYKINFQVFNIIYELLEYVENIMLDLIEPAYDKV-LIGNAI--------
 VQ-----TVFNMNKGYVAGCIVNKGKLNKKSYINVYRNDCIVYQGFIISLKRMKNDVEEV
 IAINECGLMS-DFESWQELDLIYAYELVPK--EKTL--------
->BBK20302.1|infB
+>BBK20302.1_BBK20302.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4982,7 +4982,7 @@ DTQGSAEAIATSLNKINDS---KVQIRILYSCAGEITETDVEFASTSSAALFAF----NT
 TAASGALKSAKILGVTIKEFNVIYDLFDFIQSLIDSLVGPQYEER-FIGMAS--------
 VK-----TVFPLAKSFVAGSFVLEGKITKSSFIHVLRDNDILYKGLVDSLKKVKENVLEV
 TEDSECGIFVAEFDSWKQGDLIKAFELIPK--KKSTF-------
->BFV52172.1|infB
+>BFV52172.1_BFV52172.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5010,7 +5010,7 @@ DNQGSTEAILDSLSELPQS---KVQLNVISIMSGEITVTDVELASTTNATLIGF----NT
 NFAPGVKQAAAKLNILIENYQIIYALVEDVIGKMKDLLDPEYSEV-QLGEAE--------
 VS-----TVFSLANRKIAGCLVTNNKLLKNSWIKVIRKEKVIYQGKLESLKRVREDVEEI
 QAGNECGIFISEFQLWQPGDKIYSFDLIPK--EKCLS-------
->WOL36903.1|infB
+>WOL36903.1_WOL36903.1|infB
 ----------------------------------------------------MVK-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5038,7 +5038,7 @@ DTQGSIEAIINSLSQIPQE---KVQINIIAASSGNISDTDIDLAMTSNSLVIAF----NS
 NIPLHLASTAEKLNMILCSFSIIYDLLDYIKSYMLDLIEPEYEKQ-LIGTAI--------
 VQ-----TVFDINKGSVAGCLVSTGKLKQDAAISVYRQNQIVYDGFLNSLKRIKDNVTEV
 SVDNECGVMCKDYHLWQKQDIIKAYELKQK--TKVL--------
->YP_009296185.1|infB
+>YP_009296185.1_AOM65120|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5066,7 +5066,7 @@ DTKGSIEAIIYAFSQIPQE---KIQLNVIAASSGNISETDIELAVTSNSLFIAF----NL
 NVSANLYNIVQKSGLVLKNFTVIYDLLDYIQDYMLDLIDPEYDKV-SIGVAT--------
 VD-----TVFYINRGCVAGCIVNSGKLQKESYISVYRNDELIYDGLLNSLKRLKDDVYEV
 NAGNECGVMSYEYHLWQQGDIIKAYQMIEK--SKAL--------
->WGH14290.1|infB
+>WGH14290.1_WGH14290.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5094,7 +5094,7 @@ DTQGTLEAILDLLSNIPQS---KVQINIISASLGNISNNDVELAVATNSSILAF----NV
 NVLSHISNLLKKYKINFEVFNVIYDLFQYVETSMLNLIEPAYEKV-LKGKAI--------
 VQ-----TVFSMNKGYVAGCLVNEGKLTTKSYIYVYRNNLIVYEGFISSLKRIKSDVEEV
 VAINECGLMS-NFEFWKNSDRIEAYDLVPI--EKTL--------
->UNJ16321.1|infB
+>UNJ16321.1_UNJ16321.1|infB
 ----------------------------------------------------MENNKIKK
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5122,7 +5122,7 @@ NTQGSTEAILHSFSKIPQA---LVNLQVLSANVGEITENDVELAYSANAWLVGF----NT
 TLASGTKQAAERNDIKISEYQIIYDLIADTIKRMENLLEPEYIEE-EIGISK--------
 VK-----AIFNLSKGVTAGCYVSSGKLKKDTWIHVIRNNKIIYKGNLESLKKVKEDVKEI
 DTGLECGIFIENFQNWQIGDIIKCFNLIKQ--KRYLK-------
->YP_009395178.1|infB
+>YP_009395178.1_ARW63946|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5150,7 +5150,7 @@ ETQGGLEAIIDLLSNISQN---KVQLNIVSISVGSISNTDIELAITTASLIICF----NV
 YPSLQVNNSLKKHKIICQTFNIIYDLLDYIKDSMLNLIEPEYEKN-FIGRAV--------
 VQ-----TVFKMNKGFVAGCIVNEGKLKRNSHICVYSNNQIVYEGMLISLKRVKNDVDEV
 SAVSECGLMA-NYDLWQQSDIIDAYELLAK--DKALD-------
->WOL37102.1|infB
+>WOL37102.1_WOL37102.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5178,7 +5178,7 @@ DTQGSIEAIIHCFSKIPQE---KVQLNIIAASSGDISETDIDLAMTSNSLVIAF----NT
 NIPANLSNLVNRSHVILSNFTVIYDLLDYIRLYMLDLIDPEYEKN-FIGTAI--------
 VQ-----TVFYINRGVVAGCVVNTGKLQKDAAISVYRQNKVVYNGFLSSLKHIKDDVNEV
 NASNECGVMCYDYDSWQEQDIIKAYESKEK--IRVL--------
->WVQ28149.1|infB
+>WVQ28149.1_WVQ28149.1|infB
 ------------------------------------------------MIKNMT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5206,7 +5206,7 @@ DTQGSIEAIINSFSQIPQD---KVQINILSATSGSISDTDIDLAITSQSIILGF----NI
 QVSSNIYKTAEKSGVTISTFTVIYNLLDYVKQYMLSLIDIEYDKV-EIGKAT--------
 VQ-----TVFHINKGTVAGCIVNSGKLRKNAHIMIYRNQDLIHNGLLSSLKRMKDDVDEV
 IAGNECGVMCDNYNEWAQFDILEAYELIQT--EKFL--------
->YP_010904277.1|infB
+>YP_010904277.1_WCH57528|infB
 -------------------------------------------------MKNMI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5234,7 +5234,7 @@ DTQGSLEAIINSFAQIRQE---KVQINILAASSGSVSNTDIELAITSQSIILGF----NI
 TISSNLRRLAERSGVLIHVFGIIYSLLDYTKEYMLSLIEPEYKQS-LIGKAT--------
 VQ-----TVFNINKGTVAGCVVDSGRLKKHANINIYGEKSLLHSGKIDSLKRLKDDVEEV
 IAGNECGVMCSNYYSWKPSNIIEVYELIEK--NKVL--------
->QBA96359.1|infB
+>QBA96359.1_QBA96359.1|infB
 ----------------------------------------------------MQ------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5262,7 +5262,7 @@ DTQGSVEALIYAFSKISQD---KVQINVLNANSGEVSQNDLQLASSTGALIICF----NR
 DISTHLKNLSHNLRIVVKNFKVIYDLIDYVENSMINLLDIEYDKV-LIGEAI--------
 IQ-----TVFSMNKGSVAGCLVLKGKLEKNSWIEVYHNKKLVHEGKLDSLKHLKNDVNQV
 YEGNECGVLCKDYNLWMENGIIKAYNLQEK--LKEL--------
->BBK20450.1|infB
+>BBK20450.1_BBK20450.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5290,7 +5290,7 @@ CTQGVAEALSLAIENFCSS---ELLPRVLYARAGEITETDVTFAFANRAILLAF----RT
 TFASGAKKAAKKVALVVREFNILQDLWSYIQNLVSISSVFPSEER-CTGTAV--------
 VK-----TVFPLAKSFVAGSLVLTGNICKSSTIRVVRESQVIFRGPIASLKKMRENVLSV
 TQHNECGIFISTFDSWKPGDIIEAFEPVSV--SEYM--------
->YP_009237353.1|infB
+>YP_009237353.1_AKS28400|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5318,7 +5318,7 @@ DNQGSTEAILDSLSQIPQS---KVQLNILSIYPGEITATDVELAYTTNAELIGF----NT
 NFAPGARQAAVKFNITIEIYQVIYALIEDIVERLETLLDPEYSEI-LVGEAE--------
 VG-----TVFSLANRKIAGCRVTSNKLRKNSWIKVLRGEEVVYQGKIESLKRIREDVEEI
 TAGNECGIFISEFQLWQIGDKIRSFDLIVK--EKSLS-------
->YP_009295320.1|infB
+>YP_009295320.1_AOH77332|infB
 ---------------------------------MPKHIY---------YYSIMS------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5346,7 +5346,7 @@ DTQGSLEAIIDSFSKISQR---KVQISIISSDLGNISSTDIELALTTNALLLGF----NI
 NISTQVNDLVKQKSLNLKVFYIIYDLIEYVQNVMLSLIDPEYDEV-FLGRAL--------
 VQ-----TVFNMNKGTVAGCLVNEGKLKKMSYIKVYRENALIYQGFLSSLKRIKNDVDEV
 FQSNECGVMC-DYNLWKDKDIIEAYDLIEK--VKTL--------
->QUE28580.1|infB
+>QUE28580.1_QUE28580.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5374,7 +5374,7 @@ NTQGSLESLLYSIRNIPQE---KIQVEMLGASLGEITENDANLAVSTNSLILGF----DV
 GTNPGAKSIASRNNLEIKTYKIIYDLIEDLEYRMISLLEPEYLEN-EIGTGE--------
 IK-----ATFNLSRGIIAGCYVISGKLKKNTLIKVYKKDIEVYKGNLDSIKKVKEDVLEM
 EAKQECGLFVKDFQDWESGNIVKSFELVEQ--KQTL--------
->YP_010904076.1|infB
+>YP_010904076.1_WCH57327|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5402,7 +5402,7 @@ NTQGSLEAIISSFADIPQE---KVQLNILAVDSGSISNKDVELAAASQSIILGF----NI
 NLDARTQYLADKLNIKINVFKIIYSLLDFVKYYMLNLVDLEYDKS-LIGQAT--------
 VQ-----TVFSMNKGTVAGCRVDSGKLKRKLNMNIYRNQNLLYSGIIDSLKRLKNDVEEV
 SIGNECGVMCIDFHGWQRLDIIKVYELVEK--VKTL--------
->YP_009500276.1|infB
+>YP_009500276.1_AXE43438|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5430,7 +5430,7 @@ DTQGTIDAIINAFMQIPQN---KVQLNVLTCNSGSISDTDISLASNSQALIIAF----NI
 NVSSYILSKAEKVNINLCQFDIIYDLLDYVQNYMLNLIDPEYSKI-LIGKAV--------
 VQ-----TVFYIQKGAVAGCLVKSGKLKQNASINIYRNDQLIHESMIVSLKRVKDDVNEV
 IAGNECGLRCQDDYVWQSEDVIEAYELYEK--PKNL--------
->QUE28892.1|infB
+>QUE28892.1_QUE28892.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5458,7 +5458,7 @@ SSQGALESILYSIKNIPQE---KIQVEILGASAGEITETDINLAISTNSIVVGF----DT
 KCAPGVNQSADRNAIKIKQYQVIYDLIEDIETEMINLLEPEYIES-EIGSAE--------
 IK-----TTFNLSKGIIAGCYVVSGKLKKDTLIKVYKENNEVYKGNLDSIKRIKEDVEEI
 ESKQECGLFIENFQGWQTGFTIRCFELIEK--EQSL--------
->AYR06474.1|infB
+>AYR06474.1_AYR06474.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5486,7 +5486,7 @@ DVQGSIEALVHSFSKIPQE---KVQINVLSASSGEISGKDIELANMTQASILTF----KL
 NVLPSVRAVIKRNNIVLKTFNVIYDLVSYLKDYMLTFVDVQYRKE-TLGKAE--------
 VK-----TVFAVNKGMAAGCFVLEGKLKKSAYITVSRNQVVVFDGILTSLKRLKDDVEEV
 STQYECGILCEEYHAWQKGDSIESYYLEPI--EKAL--------
->YP_010336582.1|infB
+>YP_010336582.1_UNJ14988|infB
 ----------------------------------------------------MYSHKKT-
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5514,7 +5514,7 @@ STQGTLEAVLQVIQDIPQT---KVTLKVVSAALGEITETDISFASTTKAIIVGF----DT
 SLAQGARQASSRLGISIYEHQVIYDLVDKLEKEMCDLLDPEYDKK-EIGISV--------
 VK-----DIFELAKGKVAGCYVESGKLVNHCNIQIIRNDQVIYEGEIDSLKRLKEDVEEV
 NLGNECGIFIKRFQDWRKNDLIKGFELIFK--KPSLV-------
->UAD83765.1|infB
+>UAD83765.1_UAD83765.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5542,7 +5542,7 @@ DTQGTIDAVINSFIQIPQS---KIKLNILTSSLGIVSSTDLDLAFNTQALIIAF----NI
 NIATNILNAAEKLNVHLCKFVLIYDLIDYIKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFSVNKGTVAGCIVKSGKLKKNALINVYREDQLIYEGIISSLKRMKDDVHEV
 IIGNECGIMCTDYNLWQPQDLIEVYELYEK--PKIL--------
->YP_010198993.1|infB
+>YP_010198993.1_UAD88442|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5570,7 +5570,7 @@ DTQGTIDALFNLLTQIPQS---KVQLNVLNVGLGVISNTDLDLAFSTQALIVAF----NT
 NIPNNTLNKAKKLSINICKFVIIYDFLEYIQDYMLNLIDPEYNKI-LIGEAI--------
 VQ-----TIFSVNKGVAAGCIVRSGKLKKNALINIYRNNQFIHEGVISSLKQLKDDVDEV
 VINNECGIMCKDYTLWEANDIIKAYELYEK--SKVL--------
->UAD86213.1|infB
+>UAD86213.1_UAD86213.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5598,7 +5598,7 @@ DTQGTIDALINSFIQIPQS---KVKLNILTSSLGVVSSTDLDLAFNTQALIIAF----NI
 NITTSILNAAEKLNVHLCKFVLIYDLIDYVKKYMLDLIDPEYDKL-LIGEAK--------
 VQ-----TTFFVNKGTVAGCIVKSGKLKKKALINVYREDQLIYEGVIDSLKRMKDDVDEV
 IIGNECGIMCTDYNLWQPQDLIEVYEFYEK--PKIL--------
->YP_010199196.1|infB
+>YP_010199196.1_UAD88645|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5626,7 +5626,7 @@ DTQGTIDAVIHSLIQIPQS---KIKLNILTSSLGVVSNTDVNLAYNAQALIIAF----NI
 NISTNILNAAEKLNVCLCKFFIIYDLIDYIRNYMLNLIDPEYDKS-LIGQAK--------
 VE-----TTFSINKGVVAGCIVESGKLKKNALINVYRSDQLVYEGIVSSLKQIKNDVDEV
 IIGNECGIMCRDYNLWQSQDLIEVYELYEK--PKAL--------
->YP_009394761.1|infB
+>YP_009394761.1_ARW63323|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5654,7 +5654,7 @@ DTQGSLEAIIELFSTISQL---KVQINVIDASFGNVTNNDIDLSIASQAPIIAF----NV
 NLLPQISNLIKKHQINFKMFNIIYDLLEYVQKLMLDILEPEYANI-LIGNAI--------
 VQ-----TIFKNNKGSVAGCIVSSGKVIMNSYINVHRNNIIVHKGYITSLKYTKNDVTEV
 VSPSECGLMS-DFQDWQKSDLIEVYEMVLK--EKVL--------
->YP_009944596.1|infB
+>YP_009944596.1_QFR99890|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5682,7 +5682,7 @@ DTQGSLEAILDLLLNLPQS---QVKVRVVSASCGTIANSDIELALVTNSIMIAF----NI
 DISSTISKLIKDNSLIVKNFDVIYDLSEYVQAKMLDLIEPNYDKV-FVGRAS--------
 VR-----TVFNINNGVVAGCYVDQGKLIKMCHLCVSRNNQVVYEGILNSLKVIKDDVNEV
 IFDNECGLMC-NYDSWKTGDIIDAYQLVPR--KKTLI-------
->UEQ12099.1|infB
+>UEQ12099.1_UEQ12099.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5710,7 +5710,7 @@ DTHGSIDAIIQAFTKIPQQ---KVQLNILSVTVGKISESDLQLASISKSILVGF----NI
 IPDNNIKITADKLGIVICNFKVIYDLINYIQEQMLCLVKIEYQEM-IIGLAI--------
 VE-----NIFNVSKGLVAGCIVQSGQLKHHAYIRVKRNKLVIYDGKIDSLKRVKEDVQEV
 KSGNECGILISNFIQWERKDEIESYELIPK--EKALE-------
->WAX03874.1|infB
+>WAX03874.1_WAX03874.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5738,7 +5738,7 @@ DTQGVLEAIVELLSNISQS---KVQISIVSASLGSIANTDVELAVATGASILAF----NV
 NVLSDISSLLKKYKIDFKLFYVIYNLLQYVESIMLNLIEPAYDKV-LVGNAV--------
 VQ-----TVFNMNKGYVAGCIVNEGKLNKKSYIQVYRNNSIVYQGFILSLKRIKNDVDEV
 VAINECGLMS-DFDSWQNLDVIQAYDLVAK--EKTL--------
->ARW60407.1|infB
+>ARW60407.1_ARW60407.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5766,7 +5766,7 @@ DTQGTLEAILDLLYNIPQS---KVQINVVFASFGSISNSDVELALTTSACILAF----NV
 SISSQLSSLLKQYKIIYKSFNIIYSLLSYVEDSMLNLVEPVYDKV-LIGKAT--------
 VQ-----TIFHMNKGVVAGCIVKEGKVKTQSYINVYRNNLIVYEGYISSLKIIKSNVEEV
 IAVNECGLMS-DFKLWQNEDLIVAYDLVSR--DKVL--------
->YP_009293628.1|infB
+>YP_009293628.1_AOM64310|infB
 ---------------------------------------------------MMKH-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5794,7 +5794,7 @@ DTQGSIEALVHSFSQIPQD---KVQLNILSANSGSVTGTDIDLALTSGSMIVAF----NV
 NISIGIHNIIKKSGVDFHNFTIIYDLLDFIRSYMLNLVEPEYDQV-LIGTAF--------
 VQ-----TVFEVNKGSVAGCFVDQGKLQKHSSISVFRDDKVIYTGILDSLKRVKDDVDEV
 VCANECGIMCYSYHLWQKGDTIKAYKMNEK--KKTL--------
->YP_009396812.1|infB
+>YP_009396812.1_ARW65998|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5822,7 +5822,7 @@ NTQGSLEAIIQLLSQIPQA---KVQINLLSSNLGNLSNRDIDLAISTNSLIIAF----NL
 NISSQIRILLKKNKIIFEHFNNIYELFDYVQDYMLDLIEPEYEKI-PIGNAI--------
 VQ-----TVFNMNQGSVAGCFVSKGKLKKACYIHVNRKGILVYQGHLKSLKQMKNSVDEV
 FAMNECGLMS-DYNQWQQNDVIDAYELVLK--DKVL--------
->YP_009402664.1|infB
+>YP_009402664.1_ARX96020|infB
 ----------------------------------------------------MKKYKLKI
 IIK---------------------------------------------------------
 ------------------------------------------------------------
@@ -5850,7 +5850,7 @@ NTQGSIEAILYSFSTIPQN---LINLQIINISTGEITENDVELAYSSKSWLIGF----NT
 TLAPGTKQCAEKKSIKISEYNIIYNLIEDTVQRMEDLLDPNYTEE-EIGSSE--------
 VK-----NIFSLSKGVIAGCYISSGKLKKDSWIHIIRNNKIIHKGILESLKKIKEDAKEV
 EAGLECGVFINDFQDWAIGDIIKCFNLIKQ--KKSLIE------
->ARW64365.1|infB
+>ARW64365.1_ARW64365.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5878,7 +5878,7 @@ DTQGSLEAIFNLFSTIPQS---KVQINVIAASCGNITNSDISFSITSQSPILTF----NV
 MLLPQINNLIKKYQINFKMFRVIYGLLEYVRQLMLDIVEPEYNNL-LSGNAV--------
 VQ-----TVFKTNKGFAAGCIVSNGKINVKSYINVYRNNLSVYTGIITSLKYMKNDVEEV
 LSPSECGLMS-DFQDWQKSDLIEVYDIIPK--EKTL--------
->WGH13499.1|infB
+>WGH13499.1_WGH13499.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5906,7 +5906,7 @@ DTQGILEAILDLLSNISQS---KVQINIISASFGNISNTDVELAVATNSSILAF----NV
 NVSSHIRSLLKKYKINFKVFNIIYDLLQYVQTNMLSLIEPAYEKV-LRGKAI--------
 VQ-----TVFSMNKGYVAGCLVNEGKLTIKSYIYVYRNNLLVYEGFISSLKRIKSDVEEV
 AAINECGLMS-NFESWKDLDIIEAYDLVPK--EKTL--------
->YP_010195953.1|infB
+>YP_010195953.1_UAD83350|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5934,7 +5934,7 @@ DTQGTIDAVINSFIQIPQS---KIKLNILTSSLGVVSSTDLDLAFNTQALIIAF----NI
 NITTNILNAAEKLNVHLCKFVLIYDLIDYVKNYMLDLIDPEYDKL-LIGQAK--------
 VQ-----TTFFINKGTVAGCIVKSGKLKKNALINVYREDKLIHEGTITSLKRMKDDVDEV
 IIGNECGIMCKDYNLWQPQDLIEVYELYEK--TKVL--------
->YP_008144888.1|infB
+>YP_008144888.1_AGO19809|infB
 ----------------------------------------------------MVK-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5962,7 +5962,7 @@ DTQGSIEAIINSFSQISQE---KVQINIIAASSGNISDTDIDLAMTSSSLVIAF----NS
 HIPLQLVSTAEKLNIVLCSFSIIYDLLDYIKSYMLNLIDPEYEKQ-LIGTAI--------
 VQ-----TVFDINKGSVAGCLVSKGKLKQDAAISVYRQDQIVYDGFLNSLKRIKDNVTEV
 SENNECGVMCNDYNLWQKQDIIKAYELKEK--TKML--------
->UNJ14594.1|infB
+>UNJ14594.1_UNJ14594.1|infB
 ----------------------------------------------------MQCNL---
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5990,7 +5990,7 @@ NTQGGVEAICHVIQQLPQS---KVQVKIVSALAGEITETDVVFAATTKSVILGF----CT
 TMAPGARQASVRLNIAIYEYQVIYDLVDKVTAEMLTLLDPEYEKE-EIGIST--------
 VK-----DIFELARGKVAGCYVESGKIVSNANIQVIRNNEVLYEGALDSLKRIKEDVKEV
 LAGDECGVLVKNFQNWQKGDSIKAFTLKEK--VPSLG-------
->BDA98125.1|infB
+>BDA98125.1_BDA98125.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6018,7 +6018,7 @@ DIQGSVEAIIGTIAKMPQN---RVQIRILYGSPGEVTETDIDFSYASGASVLAF----NT
 TSAPGAQKLARHLGVEVREYDVIYDLFDDIDSMIEELVGPEYDEI-AVGNAT--------
 VK-----MVFPLAKSFVAGSIVTEGRLTSDCQLEVTRKKEVVYRGPISSLKHLKESVNEI
 LEGSECGVFIEDFDTWEEGDSIRAFTLSPK--KKQK--------
->BDA98565.1|infB
+>BDA98565.1_BDA98565.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6046,7 +6046,7 @@ DIQGSVEAIIGTIAKMPQT---RVQIRILYGSPGEVTETDIDFSYASGASVLAF----NT
 TSAPGAQKLARHLGVEVREYDVIYDLFDDIDSMIEELVGPEYDEI-AVGVAT--------
 VK-----MVFPLAKSFVAGSIVNEGRLTSDCQLEVTRKKEVVYKGPISSLKHLKESVNEV
 LEGSECGVFIEDFDTWEEGDNIRAFTLSPK--KKQK--------
->YP_009391446.1|infB
+>YP_009391446.1_ARW59590|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6074,7 +6074,7 @@ DTQGSLEAVINALSKISQS---KVQLYVINASVGNISNTDIELAFTSNALMIGF----NI
 EALSSINYLTKKYDITLRTFNLIYDLLDYIKSSMLSLIDVEYNLA-LVGSAV--------
 VQ-----NVFFVSKRLVAGCLVSEGKLKKMSHIKVYRNNVFIYEGLLNSLKIMKNDVEEV
 VSKYECGIMC-DYNSWEKNDLIKCYDFVEK--EKTL--------
->AOM64714.1|infB
+>AOM64714.1_AOM64714.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6102,7 +6102,7 @@ DTQGSIEAIIYAFSRIPQE---KVQINILSASSGIISNTDVQLASTTSSLIIGF----NV
 NISSNIRNFLKKSCVTFFNFSVIYDLLDHVKCYMLDLVDPEYNKV-IIGRAT--------
 VQ-----TVFYINKGSVAGCFVDSGKLKKLSHITVYRDKTIVYDGILKSLKRIKEDVEEV
 MYGSECGVMCDDYQMWKKQDIIESYELSPK--EKVL--------
->UNJ18708.1|infB
+>UNJ18708.1_UNJ18708.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6130,7 +6130,7 @@ DVQGSIEAILNSLQQIPQK---KVSIHILSSMPGEINISDVNLAKLNNAILINF----NT
 SFAFGIKPLIKKESLNVKTYKVIYDLIIDIEKQMKSLLDPVYESK-EIGEAT--------
 VK-----TSFPISRGFVAGCLVTKGKLLKGCEIEVIRNQENIYKGSLDSLKRIKENVDEI
 IAGNECGILSSNFHNWLPNDIIKAYQLIEK--EPSLSE------
->ARW64155.1|infB
+>ARW64155.1_ARW64155.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6158,7 +6158,7 @@ DKLGSLEAIIDLLSTISQL---KVQLCIISASLNLISNSDLNLAVNTSSIIVAF----NT
 SPIADISNNIKKYNLVFQNFNVIYDLLDYVKSAMLNLIEPEYDKV-FIGSAT--------
 VR-----TVFKINKGFVAGCYVYEGKLVKMSYISVYRNNQLVYEGDLKSLKRVKDDVDEV
 LVENECGIMC-DYILWEKNDQISAYSLIPK--QKSL--------
->YP_009413270.1|infB
+>YP_009413270.1_ASN78731|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6186,7 +6186,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVLSILPGEITATDVELASTTNSSLIGF----NT
 NFAPGTRQAAAKLNVIIENYQIIYGLIEGIREKMETLLDPEYSEV-PVGEAE--------
 VG-----TVFSLANRKIAGCRVTNNKLLKNSLIKVLREDTIVYQGTIESLKRVREDVQEV
 QAGNECGIFIAEFQLWQPGDKIQSFDLVPK--NRSL--------
->BDA97455.1|infB
+>BDA97455.1_BDA97455.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6214,7 +6214,7 @@ DSQGSLEAVTSNLAKLCSN---NVQIRILNSSVGEITETDVEFANTSKSNLLAF----NT
 TYATGVKKGMKDKNIDIKEFNIIYDLFDYVQILVDEKNGPQYQEH-LVGSGV--------
 VQ-----TIFPLTKSFVAGTSVIKGKILKSSFIHVIRNSEILYKGYIDSLKRIKEDVLEV
 PTGSDCGIFINKFNGWKPGDIIEAFNFIQK--KDDTL-------
->AOM65723.1|infB
+>AOM65723.1_AOM65723.1|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6242,7 +6242,7 @@ DTQSSAEAILASLSQAPQL---KVQLNIVSMATGMISQTDVQLAIITKSIIIGF----NV
 KVIPVAQLKAKRNNLKICTCTTIDNVLYQTKSCIEDLLKVKSIEN-CIGMAT--------
 VC-----SVFTLATGTVAGCIVESGKIIYNARVKVLRHEIIVYEGSLKSLKQMKKDIFEA
 QEGQEFGISVVNFDDWKVKDKINFYKL-----------------
->YP_010330407.1|infB
+>YP_010330407.1_UNJ18123|infB
 ----------------------------------------------------MLLFYNNN
 IF----------------------------------------------------------
 ------------------------------------------------------------
@@ -6270,7 +6270,7 @@ DVQGSVEAILKCLKTIPQN---KVQLFILLISPGDITETDVELAITSKAMIIGF----NT
 SVKSNVKNTIIQENIILKQFKVIYDLIEDMQEEMKKLLDPIFIEE-KVGTAK--------
 VR-----TTFQVNKGVVAGCFVMQGKVTKDSIIKVRRDDDLLYDGKLTSLRKVKENVSEV
 LAENECGIFVEEFDRWRTDDVIAAYQLVET--ANEL--------
->UNJ15482.1|infB
+>UNJ15482.1_UNJ15482.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6298,7 +6298,7 @@ EYQSGLELVCYFL--------LDAKWELLSAEVGGIRMQDVKLAENTNSILVAWQT----
 SIMTSIPSHVKI--VEAQNFE---QLLAGLHSFFEQ-------TT-ITSKAV--------
 VK-----QIFR--NGTIAGCVVTKGSFQVGMECEIWRGNELKTKARISEIKIHKQEVKEV
 KISQECGIYIKEWIDWQVGDEIVYYS------------------
->AOM66786.1|infB
+>AOM66786.1_AOM66786.1|infB
 ----------------------------------------------------MPVHNSDQ
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6326,7 +6326,7 @@ NTQGSLESLLYSIKNIPQE---KIQVEMLIASAGEITENDVNLAISTNSVVFAF----DV
 NINQGAKSIASKNKVEITNYSVIYDLIEDLESRMIAMLEPKYLEN-EIGSGE--------
 IK-----ATFNLSRGVIAGCYVTSGKLRKDTLVKVYKQNIQIYSGNLDSIKKVKDDVLEI
 EAQQECGLFIEDFQDWESGNIIRSFELIEQ--KQKL--------
->ARW61876.1|infB
+>ARW61876.1_ARW61876.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6354,7 +6354,7 @@ NTQGSLEAILDLLSNISQS---KVQINIISASFGSISNTDVELAVATGSFILAF----NV
 NILSQINSLLKKYKINFKLFYVIYDLFEYVKSMMLSLIEPAYDKV-LVGNAV--------
 VQ-----TVFNMNKGYVAGCIVNEGKINKKSYIHVYRHKSIVYEGLILSLKRIKSDVEEV
 VAINECGLMS-DFDSWQDLDVIQAYELVAK--EKTL--------
->YP_009397238.1|infB
+>YP_009397238.1_ARW66424|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6382,7 +6382,7 @@ DTQGSLEAIINSFSKISQR---KVQLNIISAYSGNISNTDIDLALTTNALIIAF----NV
 NASSKINHLIKQNNLTLKEFNVIYHLLDYIEFYMLSLTDTEYEHI-FIGLAV--------
 VQ-----QIFYVNKVSVAGCLVKEGKLKKMSYIHVCRDSKIVYKGNLNSLKHIKEDVDQV
 LVNNECGVMC-EYNLWKKMDIIEAYELHPK--EKSL--------
->WGH13103.1|infB
+>WGH13103.1_WGH13103.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6410,7 +6410,7 @@ DTQGILEAILDLLSNISQS---KVQINIISASFGNISNTDVELAVATNSSILAF----NV
 NISSHIRSLLKKYKINFEVFDIIYDLFQYVQITMLSLIDPAYEKV-LKGKAT--------
 VQ-----TVFSMNKGYVAGCLVNEGRLTIKSYIYVHRNGLLVHEGFISSLKRIKSDVEEV
 AAINECGLMS-NFESWKELDIIEAYDLVPK--EKTL--------
->QCH39660.1|infB
+>QCH39660.1_QCH39660.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6438,7 +6438,7 @@ DSQGALEAILDLLSNISQY---KVQINIVSANFGNISNKDIELALATNSFIVAF----NV
 SATSHISSLLKKYKISFKFFNIIYDLFEHIRGLMLDLIQPEYNEI-LVGNAI--------
 VK-----TVFNMNQGYVAGCTVNEGKLTKNSYIYVYRDSAIVYQGYINSLKRMKNDIQEV
 IAVTECGLTA-DFQLWKESDKIEAYDLVPK--EKAL--------
->ARW64774.1|infB
+>ARW64774.1_ARW64774.1|infB
 ----------------------------------------------------ML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6466,7 +6466,7 @@ NSQGTLEAILNLLGNISQS---KVQINIVFANCGDVSNNDIELAIATSAIIVAF----DV
 NIPNQIKRLLKQHKIIFTIFNIIYDLLNYVETLMLDLIEPEYDEV-LVGQAV--------
 VK-----TVFNMHKGYVAGCIVTDGKLNIKSYIHVYRNKLIVYQGFISSLKQMKSDVNEV
 SAPNECGLMA-DFDLWKNNDIIKAHDLISQ--EKTL--------
->WGH13894.1|infB
+>WGH13894.1_WGH13894.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6494,7 +6494,7 @@ DTQGTLEAILDLLSNISQS---KVQINIISASFGNISNTDVELAVATNSYILAF----NV
 NISSDIRSLLKKYKINFKVFNVIYDLLQYVQAIMLSLIEPSYEKV-LRGKAI--------
 VQ-----TVFSMNKGYVAGCLVNEGKITIKSYIYVYRNNLLVYDGFISSLKRIKSDVEEV
 VAINECGLMS-NFESWKDLDIIEAYDLVPK--EKTL--------
->YP_010902482.1|infB
+>YP_010902482.1_WCH54337|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6522,7 +6522,7 @@ DTQGALEAIINSFANISQK---KVQINIISTNCGFISNNDLELAITSKSIILGF----NV
 GISSSLAQKVKKLGITMGLFDIIYALLDYMQNYMLTFVDLEFDQK-LIGKAK--------
 VQ-----TVFKINKGLVAGCLVDYGKLKKGSKISIYRNKNLVHEGSIDSLKRLKDDVYEV
 LEGNECGVMCDDYQFWQSLDIIEVYELIEK--VKVL--------
->QQP22452.1|infB
+>QQP22452.1_QQP22452.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6550,7 +6550,7 @@ DIHGSIEAIVNTINKIPQN---KVQIRMLYSSPGEVTETDIDFADTSGATILAF----NT
 TLASGAKRAARHLNVIVKEYDVIYDLFEDVEMMIEEITGPEYEEE-TIGQAI--------
 VK-----TVFPLGKNFVAGCYLDEGKITKSCSIEVIRGDETVYKGALTSLKQFKQDVGEV
 LEKNECGIFIDQFNDWKEQDVIKALNLTPK--KRS---------
->QUE29720.1|infB
+>QUE29720.1_QUE29720.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6578,7 +6578,7 @@ NTQGSLESILYTIRNIPQE---KIQVEMLGASSGEITENDVSLAISTNSLIFAF----NV
 GTNPVAKNLASKHKLNIKNYTIIYDLIEDLESDMIEQLEPEYLEN-EIGSGE--------
 IK-----TTFNLSRGVIAGCYVLSGRLKKDTLIKVYKKDVEIYKGNLDSIKKVKEDVGEI
 ESKQECGLFIENFQDWENGNIVKSFELIEQ--KQQL--------
->WOL37305.1|infB
+>WOL37305.1_WOL37305.1|infB
 ----------------------------------------------------MVN-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6606,7 +6606,7 @@ DTQGSIEAIINAFSQISQE---KVQINIISASSGNISGTDIDLAMTSNSLMIAF----NS
 SIPLQLVSTAEKLNIVLRSFSIIYDLLDYIKSYMLDLIEPEYEKQ-LIGTAI--------
 VQ-----TVFDINKGAVAGCLVSMGKLKQDAAISVYRQNQIVYDGFLNSLKRIKDSVTEV
 SANNECGVMCNDYHLWQKQDVIKAYDLKQK--NKVL--------
->YP_009396609.1|infB
+>YP_009396609.1_ARW65795|infB
 --------------------------------------------------MVSM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6634,7 +6634,7 @@ DTQGSLEAIIDLLSNISQL---KVQINIITASFGNITNNDIHLAMTTKSSILAF----NV
 NVLSKINNLIKQYKINFNIFYVIYDLLNYVQSLMLDLIDPEYNMT-LTGNIL--------
 VQ-----TIFKMNKGFVAGCLVTNGKVNYTSYIYVYRKNIIVYKGYINSLKYMKNDVQEV
 FAPSECGLMS-DFQEWQQSDLIEAYDTVAK--DKEL--------
->AMJ16963.1|infB
+>AMJ16963.1_AMJ16963.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6662,7 +6662,7 @@ NTQGSLEAIVDSLLKIPQG---KVQINIVSADSGNISNTNIELALATNALIIGF----NI
 NISSHINNLIKQNNLNFQMFYIIYDLIDYIQNHMLDLIDPEYKHI-FIGRAI--------
 VQ-----TVFYINKKAVVGCLVNEGKMKKLSHINVYREGSIVYEGILTSLKRIKDNVDEV
 LSDNECGVMC-DYDLWQKMDIIEAYDLNPQ--EKCL--------
->YP_010903278.1|infB
+>YP_010903278.1_WCH55731|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6690,7 +6690,7 @@ DTQGSIEAVINSFANISQK---KVQINIISANCGFISSNDLEFAVASKSIILGF----NV
 GISSSLSQKVKKLGIVVSLFNIIYALLDYIQNYMLSFVDPEFDQQ-LIGKAK--------
 VQ-----TVFKINKGLVAGCLVSYGKLKKGSQISIYHNQDLVHKGLIDSLKRLKDDVNEV
 VEGNECGVMCSSYQSWRSFDIIEAYELIEK--AKVL--------
->BDA97310.1|infB
+>BDA97310.1_BDA97310.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6718,7 +6718,7 @@ DTQGSAEAIATSLNKINDS---KVQIRILYSCAGEVTETDVEFASTSSAALLAF----NT
 TAASGAIKSAKALSVIIKEFNVIYDLFDFIESLIDSLVGPQYEEK-FIGMAS--------
 VK-----TVFPLAKSFVAGSFVLEGKITKASFIHVIRGNEIVYKGLIDSLKRIKENVLEV
 SQDSECGIFVSEFDSWKSGDIIKAFELVPK--KKTTF-------
->UAD85598.1|infB
+>UAD85598.1_UAD85598.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6746,7 +6746,7 @@ DTQGTIDALVNSLVQIPQS---KIQLNILSSGLGVVSNTDLDLASNTKALIIVF----NL
 DIDSNILNKAEQVNVRICHFVIIYDFLEYIKSCMLDLIDPEYNKV-LIGQAT--------
 VQ-----TIFSVNKGVVAGCIVKFGKLKKNALISVYRYDQLIYEGNITSLKQLKDNVDEV
 SMNHECGVMCNDYNLWQSQDNIKAYELYPR--SKTL--------
->YP_009294631.1|infB
+>YP_009294631.1_AOM66891|infB
 -----------------------------------------------MRQNILF------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6774,7 +6774,7 @@ DTQGTIDAIINAFMQISQN---KVQLNVLTSNSGSISDTDINLASNSRALIIAF----NI
 NISTNILSKAEKANVSLCQFSIIYDLLDYIQNYMLNSIDPEYSKV-LIGKAI--------
 VQ-----TVFYIQKGAIAGCLVQSGKLKKDASINIYRNNQLIHESIIVSLKRIKDDVNEV
 TANNECGVRCQDDYLWQSQDIIEAYELCEK--SKIL--------
->YP_009530347.1|infB
+>YP_009530347.1_AXY63036|infB
 MTTSSGKIRIYELSRDLGLDNKDVLDVAEKLSIPVKSHSSSISNDEAAQIRDLIESKRKN
 PGGGSSTVHKVTLPIQADSPILSKSPKKDSNQILRSLSEPVPPISRQSARPVQNPPKSKI
 HSSNHSVTSESQLLSAPTKV----IIDKLNTFTSSSEVSTQSDSGTSESNLPVTRFTSPS
@@ -6802,7 +6802,7 @@ DVQGSVEAILGSLEQLPKD---EVQVRVLLSAPGEITETDVDLAAASGAVIIGF----NT
 SMASGAKRAADTNGVDVREYSVIYKLLEDIQMAMEGLLEPELVEE-SLGEAE--------
 VR-----AVFSIGKSAVAGCYVLDGKVQRNTKIRVRRGKQLIFEGDLNSLRRNKDDIKEV
 ATGFECGIGCDRFANWEEGDRIEVYKMVTQ--RRTLSI------
->YP_009397026.1|infB
+>YP_009397026.1_ARW66212|infB
 ----------------------------------------------------MLI-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6830,7 +6830,7 @@ NTQGSMEALMHSFSAISQE---KVQINVVSASSTSLSNTDLDMALASNSIILGF----NI
 YISSNIRSAAKKSNIVLQNFEIIYDLIDYLNNYMLDLLDPEYDQV-LIGTAT--------
 VQ-----TTFSVNRGFAAGCLVNTGKLQSKCTIEIYRNAILMYTGILDSLKHIKDDISEV
 IVGNECGLMCINYHSWQKDDVIKAYELKEK--DRIL--------
->UVW80732.1|infB
+>UVW80732.1_UVW80732.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6858,7 +6858,7 @@ DTQGSIEAIINSFANISQK---KVQINIISTNCGFISSNDLELAVTSKSIILGF----NV
 GISSSLKQKVKKLGIIVALFDIIYDLLDYMQNYMLNFVDPEFNQQ-LIGKAK--------
 VQ-----TVFKINKGLVAGCLVDYGKLKKGSKISIYHKQNLVHEGSIDSLKHRKDDVYEV
 LEGNECGVMCSNYQLWQSSDIIEAYELIEK--VKVL--------
->YP_009391244.1|infB
+>YP_009391244.1_ARW59388|infB
 ----------------------------MSIKFVSQFIF---------YYSTVS------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6886,7 +6886,7 @@ DTQGSLEAIMHAFSKISQS---KVQISIINASSGNISNTDIDLALSTNALILGF----NI
 NVSSHINHSVKQKNLNLKIFYIIYDLIDYVTNCMLNLVDVDYEYT-FIGSAV--------
 VQ-----TVFNMNKGAVAGCLVNEGKLKKMCYIKVYTNNDLVYEGNLISLKRGKDNVDEV
 LQNNECGVMC-DYNLWKKIDIIEAYDINYR--PKFL--------
->ARW63731.1|infB
+>ARW63731.1_ARW63731.1|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6914,7 +6914,7 @@ DTQGSLEAIIDLLSTISQQ---KVQLSIISASFTTVSNSDFDLASTTGASIIAF----NV
 DLTSDINNSIKKYNIIFKNFNVIYDLFEFVKTSMLNLVEPEYDRV-FIGRAI--------
 VK-----TIFNINKGCVAGCYVSEGKLIKSSYLCVYRKQQLIYEGLLNSLKRLKNDVNEV
 SLGNECGVMC-DYDLWKEDDSISAYQLIPK--QKIL--------
->YP_009509284.1|infB
+>YP_009509284.1_AXI96934|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6942,7 +6942,7 @@ DTQGTIDAIINLLMQIPQK---KIQLNILTASLGVVSNTDLDLAYSTQGVIIAF----NI
 DISTNILNAAEKLDIPLYKFVLIYDLIDHITNYMLNLIDTEYEKY-LIGQAE--------
 VQ-----TTFSVNKGTVAGCIVKSGKLKKSAFMHVYRNNHLIYEGVINSLKRMKNDTDEV
 NVGNECGVLCEAYHLWQPKDSIKAYELHEK--PKTL--------
->BDA99157.1|infB
+>BDA99157.1_BDA99157.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6970,7 +6970,7 @@ DIQGSVEALVNSIYKLSHP---KVQIRILYSSPGEITETDIDFADTSNAIVLAF----NT
 TLATGARKAAKSSNVIIKESNVIYDLFDYVQDLIDEIVGPEYDEQ-PIGSAK--------
 VK-----SIFPLGKSFVAGSLVLEGKLTQGCHIKVVRNEDIVYEGVLDSLKRLKEDVLEV
 KENLECGIFVKEFDSWSEEDEIKAFTLIQK--KRSR--------
->ALL97210.1|infB
+>ALL97210.1_ALL97210.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6998,7 +6998,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVLIMPGEITTTDVELASTTNANLIGF----NT
 NFAPGAKQAAAKFNIVVENYQIIYALIEDVTGIMEDLLDPEYSEI-QVGEAE--------
 VS-----TVFSLANRKIAGCKVTNNKLLKNSWIKVIREEKVIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQAGDKIHSFDLVPK--QKSLS-------
->WOE88931.1|infB
+>WOE88931.1_WOE88931.1|infB
 --------------------------------------M--------QNKKNML------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7026,7 +7026,7 @@ NTQGSIEAIINSFSQIPQE---KVQINILSASLGSISNKDINLAITSNSSILGF----NV
 DISLNARDIIEKSKIRVHAFNVIYDLLNHVKSYMLNLVDPEYSKV-PLGKAT--------
 VQ-----TVFLINKGTVAGCIVDSGKLKKNSHISVYRNDKLVYDGVINSLKRIKDDVDEV
 IAGNDCGVMCKDYNLWNNLDIIEAYELIEK--EKIL--------
->AKU47455.1|infB
+>AKU47455.1_AKU47455.1|infB
 ------------------------------MSIFTYFLFIII----FIWYFNMI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7054,7 +7054,7 @@ DAQGSSEAIVNAFNNISQA---KVQINILQLSFGNISNKDIELASTSKSIILGF----NV
 NISSQANDFAKKLNVVLQTFNIIYNLIDFVILNMLNLVEPEYDQL-MIGKAI--------
 VQ-----TVFYINKGSVAGCKVIEGKLTKGAFLNIYRNSKIIYNSTLNSLKRVKDDVNEV
 IESNECGIMCYDYNLWNTGDIIEAYELKEK--EKVL--------
->QVY58284.1|infB
+>QVY58284.1_QVY58284.1|infB
 ----------------------------------------------------MV------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7082,7 +7082,7 @@ DTQGSIEAIINCLFQLPQE---KVQINILTAQCGPITRKDLELAITSNAIILGF----NI
 TMNYNLRNIAKKEGIKIKLFNIIYRLLDDIKQYMLNLVDVEYNQV-LIGKAT--------
 VQ-----TVFNINRGTVAGCLVNSGKLTRDGYIKVYSNEELVYGGLIDSLKRIKDDVEEV
 FEGHECGLMCKDYHAWNRLDIIEVYEMVEK--IKVL--------
->UNJ17579.1|infB
+>UNJ17579.1_UNJ17579.1|infB
 ----------------------------------------------------MLNRIFYS
 ILN---------------------------------------------------------
 ------------------------------------------------------------
@@ -7110,7 +7110,7 @@ DSPGSLEAILNALSQIPQQ---KIQIKVVYMGTGDISQKDMELAYNTQSIILGF----NS
 VVTSSNKHSLS-NKISIQSFDVIYDLIDCVEQHMKSLLDEEFDEQ-ILGSAT--------
 VK-----TTFSLTKGVVAGCYVDSGKLERDCCIRIIRNADIIAEAKLDSLKRVKEDINEI
 GQGNECGVVSDSFTAWNKDDTIQAYKLVPR--TPSLS-------
->SCW22578.1|infB
+>SCW22578.1_SCW22578.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7138,7 +7138,7 @@ DSEGTIDAIINAFLKIPQD---KVQINLVAAGVGPITIGDINLAVVSNANIISL----HE
 -ITSQIQHLAQQSNISLASFHVIYDLLDYVKGLMMLMVPIEYKAN-KIGQAI--------
 VE-----NTFSVSKGSVAGCMVTEGKLQIGAQIKVIRAQDMIYEGKITSLKRIKEDVEEV
 GLGNECGVMSGDFSSWNQKDIIEVYTLIEQ--KKTL--------
->WGH12906.1|infB
+>WGH12906.1_WGH12906.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7166,7 +7166,7 @@ DTQGRLEAILDLLSSISQS---KVQINIISANFGNISNTDVELAVATNSYILAF----NV
 NISSNINSLLKKYRITFKVFNVIYDLLNYVQDTMLDLIEPSYDKI-LVGKAT--------
 VQ-----TVFNMNKGIIAGCIVNEGKLNLKSYIYVYRNNVIVHEGFITSLKRIKNDVEEI
 CAINECGLMS-NFELWQDLDKIEAYELIAK--EKTL--------
->WOE88137.1|infB
+>WOE88137.1_WOE88137.1|infB
 ----------------------------------------------------MT------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7194,7 +7194,7 @@ DTQGSIEAIVNSLAKIPQD---KVQLNILSATSGCISRKDIDLATTSKSAIIGF----NT
 NLDISISKLGKKLGLNIQKFEVIYDLLEYLQDYMLNLMDIEYDKV-EIGEAT--------
 IK-----TVFHVNKGMVAGCIVNRGKLKRNAHIVIYRDQELIYTGKLDSLKQMKDNIDEV
 LEGNECGVMCNNYNDFIKFDIIKAYELIQV--QKVL--------
->YP_007878263.1|infB
+>YP_007878263.1_AGA63874|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7222,7 +7222,7 @@ DVQGSIDAIIHTLSNIPQE---KVQINLLLVAAGEISLKDIQLASTSNSIVLAF----NL
 NVSSNILNQAEKAGIIVQKFNVIYDLLDYVKIHMLGLVEVDYEKQ-ILGSAV--------
 VR-----NIFMINKGVVAGCFILEGKLKKNTYLNVKRKNEIIYTGVINSLKRMKEDVEEV
 FANNECGVMCKEYHSWNVGDNLESYELKPL--EKNL--------
->SCW23804.1|infB
+>SCW23804.1_SCW23804.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7250,7 +7250,7 @@ DSEGTIDAILQALATLPQN---KVLLNIIAAGVGQVTIQDLNLATISNAITLNF----NQ
 -SAFGPKNKINTSDVQVVNFNVIYDLLDYVKHLMLELVDPEYIEN-KLGKAV--------
 VE-----NIFVVSKGVVAGCVVLEGKLKLGAYIKVIRKNQLIYDGSLTSLKRVKEDVDEV
 AVNYDCGVMCSEFTEWRKKDTLEAYELVEQ--PKSL--------
->AGH27582.1|infB
+>AGH27582.1_AGH27582.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7278,7 +7278,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVVSIMPGEITATDVELASTTNSTLIGF----NT
 NFAPGTKQASAKSNILIENYQIIYALIEDIKRRMEDLLDPEYSEV-PVGEAE--------
 VS-----TVFSLANRKIAGCRVINNKLLKNSWIKVIREEKVIYQGKIESLKRVREDVEEI
 QAGNECGIFISEFQLWQSGDKIHSFDLIPK--QKSLF-------
->YP_010337252.1|infB
+>YP_010337252.1_UNJ16837|infB
 ----------------------------------------------------MSSYGKEK
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7306,7 +7306,7 @@ STQGSLESILYAIKNIPQK---KIQIEILGASSGEITETDINLAVSTNSIVVGF----NT
 TCAPGAKQSAERNKVKIQQYDIIYDLIEDIEKVMINMLEPEFLEQ-EIGIGE--------
 IK-----ATFNLSKGIIAGCYVISGKLKKNSLIKVYKDNEKIYEGNLDSIKRVKEDVEEV
 ASQQECGVFIEDFQTWQSGSIIKSFELIEQ--PQSL--------
->WDA99135.1|infB
+>WDA99135.1_WDA99135.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7334,7 +7334,7 @@ DTQNSIEAVTDIISQLPQT---KIATNIIRAQTGNIGENDVQLALAANAYIINF----NT
 SFTPRARKSASQKSITVIENLVIYELIQELEGLLKAQIKPEYEKE-RVGGCK--------
 VK-----MTFSMSKGLVAGCTIDEGKILSNSSIKVIRSGRTLYEGSITSLKRGKSNVEEV
 EQGSECGIFVRGFQDWRINDVVYVFESKIK--PIIL--------
->UAD87411.1|infB
+>UAD87411.1_UAD87411.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7362,7 +7362,7 @@ DKQGTIDALVTSLAQIPQS---KIQLNMLSSGLGVVSNTDLDLAFNTKALIIVF----NL
 NIDNNILNKAEQLNVCISQFVIIYDFLEYIKSYMLDLIDPEYDKV-LIGQAT--------
 VQ-----TIFSVNKGVVAGCIVKSGKLKKNALISVYRYDQLIYEGIITSLKQLKDNVGEV
 FMNNECGVMCKDYNSWQSQDNIKAYELYQQ--SKVL--------
->XCA55703.1|infB
+>XCA55703.1_XCA55703.1|infB
 ----------------------------------------------------MR------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7390,7 +7390,7 @@ DTQGSTEAIVDALSQITQD---KVQISILKASSGSVSSSDLQLAASSKALIVCF----NT
 SVSMDLKYLIKSLPVIVKVFHIIYDLIDYIKDSMIDLIDPEYSKV-LVGEAV--------
 IQ-----TIFLVNKGVVAGCLVTSGKLKINSQIELYRGNSLIYEGNLDSLKHLKDDVSYV
 DLGSECGVMSNSYNLWEQNDVIKVYELSEK--KKEL--------
->UAD87613.1|infB
+>UAD87613.1_UAD87613.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7418,7 +7418,7 @@ DTQGTIDAIINSFIQIPQN---KIKLNVLISNLGVVSNTDLDLAFNTQALIIAF----NI
 NITSNILHTAEKLNVQICKFVIIYDLIDYVKNYMLNLIDPEHEKT-LIGEAE--------
 VQ-----TTFSINKGIVAGCIVTSGKLKKNALVNVYRSDQLIYEGVISSLKRMKDDVDEV
 IFDHECGIMCANYNSWQSQDLIKVYELYEK--PKIL--------
->YP_009398906.1|infB
+>YP_009398906.1_ARW67989|infB
 ----------------------------------------------------MI------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7446,7 +7446,7 @@ DTQGSLEAIIQLLSSISQN---KVQINIVFANFGNISSSDIELASTTSSIIMAF----NI
 NNTSQINNLIKKYNIVYKNFNIIYDMLDYIENYMLNLLEVEYNKK-LIGRAT--------
 VQ-----TVFNINKGMVAGCVINEGVLKKISYIKVLRKNSIVYEGSLESLKRLKDDVDEV
 YAQNECGLMC-SYNDWEKFDVIDIYELVAL--EKTL--------
->ANH09622.1|infB
+>ANH09622.1_ANH09622.1|infB
 ----------------------------------------------------MKY-----
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7474,7 +7474,7 @@ NTQGSIEAIINALSKICQD---KVQLNIVNTGSSNVSSADIDLAIASNSIVILF----NF
 NLSSPYENLIKKSAVLLYSFNVIYDLVDFISQHMLSLIEPEYSKV-LIGTAI--------
 VK-----NIFGINKGVVAGCLVNNGKLLKDSFISVYRSNNLIYEGHLNSLKVIKDDVNEV
 LAGNECGVMSHNCNDWQIQDEIKSYRITAQ--TKTLSANM----
->QQY85245.1|infB
+>QQY85245.1_QQY85245.1|infB
 ------------------MINMYWFYDYLKLDGIYKFIS---------YYNIMM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7502,7 +7502,7 @@ NTQGSLEAIIDSFLKIPQG---KVQINIVSADLGNISSNNIELALATNALIVCF----NI
 NISSYINNLVKQNNLSLKVFNIIYDLIDYIESYMLSLIEPEYQRI-FIGRAV--------
 VQ-----TVFYINKKTVVGCLVNEGKLKKMSHINVYRANNIVHEGILTSLKRIKDDVDEV
 LSDNECGVMC-TYDLWQKMDIIEAYDLNPK--EKSL--------
->SCW22169.1|infB
+>SCW22169.1_SCW22169.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7530,7 +7530,7 @@ DSEGTIDAIINAFLKIPQE---KVQINLVAAGVGQITVGDINLAIVSQAKIVSF----HE
 -IPTHIKNLASQSNVLVASFNVIYDLLDYVRDLMIELVPIEYVEK-NIGKAL--------
 VE-----NTFAVSKGIVAGCTVIEGKLKQGSNIKVIRNKDTVYIGEITSLKRIKEDVNEV
 IAGNECGVMSANFSLWQHKDMIESYDLLEQ--EKTL--------
->YP_010619087.1|infB
+>YP_010619087.1_WAX03100|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7558,7 +7558,7 @@ DTQGKLEAILNLLSKVPQS---KVQINIIFAGIGNISNNDVQLAVATSSFILAF----NV
 NILSHINSLLKKYRINFKVFNVIYHLLEYVEDIMLDLIEPAYDKV-LIGNAL--------
 VQ-----TVFHMNTGYVAGCIVNEGKLNKKSYIHVYRNNSIVYEGSIISLKRVKNDVEEV
 IAINECGLMS-DFELWQELDVIYAYDLVPK--EKTL--------
->ARW60205.1|infB
+>ARW60205.1_ARW60205.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7586,7 +7586,7 @@ DTQGSLEAIVDLLSSIPQS---KVRINIVLAGFGVVSSTDVELAIVTRSLIIAF----NI
 DTSSSINNLIKKYNLTFKAFKIIYDLCEYVKSVMLDLIDLDYDKV-FIGRAC--------
 VR-----TVFNMSKGSVAGCYVNEGRLTKMSHICVYREDEIVYEGLLYSLKRIKSDVSEV
 LVGHECGVMC-NYTLWQKDDIIDAYDLIPK--QKTL--------
->YP_009541860.1|infB
+>YP_009541860.1_AYR06069|infB
 ----------------------------------------------------MLLIKIPE
 NHP---------------------------------------------------------
 ------------------------------------------------------------
@@ -7614,7 +7614,7 @@ DCQGSIEAVMHLLKSIPQN---KVQLNLLLVATGEISMKEINLALTSKAIILAF----NL
 PITAYIVDIAKKENIPIKSFDLIYYMLDYIKECMLLLVDAEYEKH-VIGLAI--------
 VK-----DLFTVNRGIVAGCFVSKGKLEKKAPFDLIRMGKVIYTGTIDSLKKEKDDAENI
 LADHDCGVMCHNYSLWEVGDSLEVYELRPL--EKTL--------
->YP_009968355.1|infB
+>YP_009968355.1_QMX77456|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7642,7 +7642,7 @@ ESQSGLENVCYFL--------VQEKWELLSAEVGSIRMQDIRLAQDTNSILVAWQ-----
 --MTARHKQVKV--VEAYDFE---QLITRLQQIFAQP-----IST-ITSKAV--------
 VK-----QVFR--QGTIAGCLVTKGVFQTGMECQILRGNHLKATAHINEIKIHKQEVKEV
 KASQECGISMKEWNDWQVDDEIVLYN------------------
->BDA97210.1|infB
+>BDA97210.1_BDA97210.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7670,7 +7670,7 @@ DTQGSIEAIILSLHEINNH---NVHIRILQSSIGEITATDLKFANTSKSYILAF----NT
 SYATGVKKLAKNTPVTIKEFCVIYDLVEYVQSIMEEDSDIKNEEK-RIGVGI--------
 VK-----NVFPLAKSFVAGTSVTEGKILKTACIHVIRNNEILYNGLISSLKKLKEDVFEV
 AEGSDCGIFINDFSSWKPGDIIEVFELVQK--KKNTL-------
->ARW61248.1|infB
+>ARW61248.1_ARW61248.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7698,7 +7698,7 @@ DTQGSLEAILNLLSKLSQA---KVQINIISANFGMISNTDIELAIATKCIIISF----NL
 NKRSQINNLIKKHDINFRNFNVIYDLFDYIKNCMLDLIDPEYDKK-FIGRAV--------
 VQ-----TIFDMNKGSVAGCIVKEGKLKKMSHVHVLRKNKITYQGTLTSLKRIKEDVEEV
 LSNNECGVMC-NYNLWQKNDIIESYELTLR--PKTL--------
->ARW61047.1|infB
+>ARW61047.1_ARW61047.1|infB
 ----------------------------------------------------MS------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7726,7 +7726,7 @@ DTQGTLEALVNSLVKISQE---KVQINLINASIGNVSSTDIELALSANALIIGF----RI
 NSSVYTDNLIKQYKLNFITFNIIYDLLNYVNKCMLNLVDLEYENI-FLGEAV--------
 VQ-----TVFSINKKAVAGCLVRKGKLKKMSYIYIYENNSLFYEGVLVSLKRLKDDVNEV
 LFGNECGIMC-GYDNWKAGNIIKAYDLVPK--EKTL--------
->YP_009395997.1|infB
+>YP_009395997.1_ARW65183|infB
 ----------------------------------------------------MP------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7754,7 +7754,7 @@ NTQGSLEAILDALFKIPQT---KVQLNVISSDTGNISSTDIELALAADALIIGF----NI
 DVSNYINNLVKQKNLTLKVFDIIYNLIDYLQESMLDLIEPEYNYT-FIGRAL--------
 VQ-----TVFNMNKGSVAGCLVQQGKLKKMSYIKVYSNSLIVYEGFLTSLKRVKDDVAEV
 LQDNECGVMC-DYTNWKNLDTIEAFDLNEK--IKSL--------
->UNJ18278.1|infB
+>UNJ18278.1_UNJ18278.1|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7782,7 +7782,7 @@ DNQGSTEAILDSLSQFPQS---KVQLNVLSILPGEITATDVELASTTNSSLIGF----NT
 NFAPGAKQAAAKLNVIIENYQIIYALIENVKEKMEILLDPEYSEV-PIGEAE--------
 VS-----TVFSLANRKIAGCKVTNNKLLKNSWIKVIREDQIVYQGRIESLKRIREDVEEV
 SAGNECGIFISEFQLWQAEDKIQSFDLVPK--KRSL--------
->YP_009394553.1|infB
+>YP_009394553.1_ARW63115|infB
 --------------------------------------------------MVSM------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7810,7 +7810,7 @@ DTQGSLEAIIDVLSNISQE---KVQVNIIAASFGNITNNDIHLSMTTKSSLLAF----SV
 DALPQINILIKKYKINFNIFYIIYDLLDYVTNLMLDLVEPEYSMT-LTGNVS--------
 IK-----TIFKMNKGFVAGCVVTNGTINSKSYIYVYRKNVIVYKGYITSLKYMKTDVDEV
 LFPSECGLMS-DFQDWQQSDLIEAYDTVIK--EKEL--------
->YP_009628672.1|infB
+>YP_009628672.1_QBX88455|infB
 ----------------------------------------------------MIQQKQSI
 TN----------------------------------------------------------
 ------------------------------------------------------------
@@ -7838,7 +7838,7 @@ DSEGSIEALLNSFASIPQE---KVQLNIVSLGVGQISPSDINLAAVSQSILIGF----NS
 HLTAKTKLLVDKVNIIHASFKVIYNLIDFIEKAMLELVEVDYQEN-IIGQAI--------
 VE-----TVFVVSKGNVAGCIVQSGKLKRDSHIRVKRNNDLIYQGKLSSLKRIKENVDEV
 NLGNECGVSCNTFDIWQKKDEIEAYELIEI--EKTL--------
->YP_010835301.1|infB
+>YP_010835301.1_WFQ82976|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7866,7 +7866,7 @@ DTQGSAEAITNSLSSVNF----KLSLKLLNCSPGEVTETDVDFAIATKAKLISF----NT
 SCVSGVKRICKSNDILLKEFDIIYDLLDYIESLAKDPLQSEYQEI-RVGSAI--------
 VK-----TVFPLAKSFLAGTSVMDGKVQKSSLLHIKRNSQIIYKGAITSLKKLKEDVAEV
 VQGEECGIFIKDFDSWAEFDIIEAFTLVKK--I-----------
->YP_001293557.1|infB
+>YP_001293557.1_ABO70809|infB
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7894,7 +7894,7 @@ DIQGSAEAIIGSINKIPQD---KVQVRVLYASAGEITETDIDFADTSGAIVLAF----NT
 SLATGASKAARHLNVKVKEYDVIYDLLDYIELTIEEITGPEYDKK-SLGKAI--------
 VQ-----GVFPLAKSFVAGLRVTEGKITKNAHIEVIRQDLVVFDGSITSLKKVKEDIGEA
 IEDSECGLFVEEFDTWQENDIVQAFELIPK--KRKEK-------
->WDA99576.1|infB
+>WDA99576.1_WDA99576.1|infB
 -----------------------------------------------------M------
 ------------------------------------------------------------
 ------------------------------------------------------------

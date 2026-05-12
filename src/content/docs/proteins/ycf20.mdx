@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51214`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51214/entry](https://www.uniprot.org/uniprotkb/P51214/entry)
 - **Number of aligned sequences:** 435
-- **Pfam domains:**
-  - [PF04483](https://www.ebi.ac.uk/interpro/entry/pfam/PF04483)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf20Viewer" fastaUrl="../../alignments/ycf20.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf20_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf20.aln" icon="download">ycf20.aln</LinkButton>
 <LinkButton href="../../structure/ycf20_model.cif" icon="download">ycf20.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf20Viewer" fastaUrl="../../alignments/ycf20.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf20_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Uncharacterized protein ycf20 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51214/entry |
-| pfam domains | [PF04483] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF04483] |
-| alignment_path | /public/downloads/ycf20.aln |
 | n_seqs | 435.0 |
-| structure_path | /public/downloads/ycf20.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF04483](https://www.ebi.ac.uk/interpro/entry/pfam/PF04483) | Protein of unknown function (DUF565) | Predicted transmembrane protein found in plants, chloroplasts and cyanobacteria. |

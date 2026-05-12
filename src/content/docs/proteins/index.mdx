@@ -1,18 +1,19 @@
 ---
 title: Proteins
-description: The 496 Genes for A2K
+description: The 221 selected proteins' metadata displayed
 template: splash
 ---
 
 import MsaBrowser from '../../../components/MSA.astro';
+import DownloadCard from '../../../components/DownloadCard.astro';
 
-Browse by name
-Display MSA
-    e.g. https://cmdcolin.github.io/awesome-genome-visualization/?latest=true&tag=MSA
-Stats for MSA
-Download MSA (.aln)
-AlphaFold for each?
-Phylogeny GeneTree?
+## Protein Metadata
+The 221 selected proteins' metadata displayed in the website, including their names, protein structures, alignments, Pfam domains and short descriptions and links to external resources (UniProt and InterPro).
 
-example: 
-- [rbcL](./rbcL/)
+Note: For the other 248 proteins with less representations (the number of proteins in each orthogroup < 10), they are not displayed in the website.
+
+We also prepared orthogroups for another ~2000 clusters with unknown identity (mainly they are made of ORFs without annotation). However, we currrently do not display them in the website because they are less represented and their functions are unknown.
+
+Links to download:
+
+<DownloadCard href="../downloads/OGs_unknown.tar.gz" icon="Unknown Orthogroups">OGs_unknown.tar.gz</DownloadCard>

@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51210`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51210/entry](https://www.uniprot.org/uniprotkb/P51210/entry)
 - **Number of aligned sequences:** 560
-- **Pfam domains:**
-  - [PF01016](https://www.ebi.ac.uk/interpro/entry/pfam/PF01016)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="rpl27Viewer" fastaUrl="../../alignments/rpl27.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl27_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/rpl27.aln" icon="download">rpl27.aln</LinkButton>
 <LinkButton href="../../structure/rpl27_model.cif" icon="download">rpl27.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="rpl27Viewer" fastaUrl="../../alignments/rpl27.aln" colorSchema="clustal" hasConsensus={true} exportName="rpl27_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Large ribosomal subunit protein bL27c |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51210/entry |
-| pfam domains | [PF01016] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01016] |
-| alignment_path | /public/downloads/rpl27.aln |
 | n_seqs | 560.0 |
-| structure_path | /public/downloads/rpl27.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01016](https://www.ebi.ac.uk/interpro/entry/pfam/PF01016) | Ribosomal L27 protein | No description available. |

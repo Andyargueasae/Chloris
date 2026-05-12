@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51329`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51329/entry](https://www.uniprot.org/uniprotkb/P51329/entry)
 - **Number of aligned sequences:** 444
-- **Pfam domains:**
-  - [PF05421](https://www.ebi.ac.uk/interpro/entry/pfam/PF05421)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf33Viewer" fastaUrl="../../alignments/ycf33.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf33_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf33.aln" icon="download">ycf33.aln</LinkButton>
 <LinkButton href="../../structure/ycf33_model.cif" icon="download">ycf33.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf33Viewer" fastaUrl="../../alignments/ycf33.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf33_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Uncharacterized protein ycf33 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51329/entry |
-| pfam domains | [PF05421] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF05421] |
-| alignment_path | /public/downloads/ycf33.aln |
 | n_seqs | 444.0 |
-| structure_path | /public/downloads/ycf33.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF05421](https://www.ebi.ac.uk/interpro/entry/pfam/PF05421) | Protein of unknown function (DUF751) | This family contains several plant, cyanobacterial and algal proteins of unknown function. |

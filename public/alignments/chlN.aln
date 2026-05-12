@@ -1,4 +1,4 @@
->AXC47192.1|chlN
+>AXC47192.1_AXC47192.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -21,7 +21,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKKVPLPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEQ-----------I-S-------SER-----------YTDR
 R--------------
->WKT06265.1|chlN
+>WKT06265.1_WKT06265.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -SL---------------------------------------------------------
@@ -44,7 +44,7 @@ KSVFFMGDNLLEVSLARFLAR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNAIDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WAQ-----------LVQS
 -PV------------
->WKT06266.1|chlN
+>WKT06266.1_WKT06266.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -SL---------------------------------------------------------
@@ -67,7 +67,7 @@ KSVFFMGDNLLEVSLARFLAR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNAIDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WAQ-----------LVQS
 -PV------------
->QIA47061.1|chlN
+>QIA47061.1_QIA47061.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 FLKFK-------------------------------------------------------
@@ -90,7 +90,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELAFLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RR-------------------------------------TNKVLL---
 ---------------
->YP_009297629.1|chlN
+>YP_009297629.1_AOM67173|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MMN---------------------------------------------------------
@@ -113,7 +113,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRYQAAELELLEKTCRYMDTMLPV
 IVEKPDNYNQLERIHELKPDLVITGMAYANPLEARGINTKWSVEFTFSQIHGFMNTKEIL
 QLVTKPL-----IRNT-TLKN-----------L-S-------PAL-----------Y--T
 TQIKS----------
->QJA13729.1|chlN
+>QJA13729.1_QJA13729.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MYKNT
 ELS---------------------------------------------------------
@@ -136,7 +136,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYECGVPYLDKRYQAAELKLLETTCFEMNVPMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGITTKWSVEFTFAQIHGFSNAKDIL
 ELVTRPL-----RRNQ--LQQ-----------V-S-------SKT-----------LVKF
 NEKKHQLI-------
->YP_009314867.1|chlN
+>YP_009314867.1_SCW23322|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -159,7 +159,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELELLQKTCIDMKIKMPK
 IVEKPDNHNQLDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAHIHGFTNAQDIL
 ELVTRPL-----RRNS-NLAA-----------S-Y-------NEA-----------YR--
 ---------------
->ADJ66644.1|chlN
+>ADJ66644.1_ADJ66644.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 GIA---------------------------------------------------------
@@ -182,7 +182,7 @@ RSVLFTGDNMLEIALGRFLTR-CGMRVCEIGIPYMDQRYQAGELALLEHTCRTMGVRLPK
 IVEKPDNSNQLDRIRDLQPDLVITGMALANPLEARAIKTKWSVEFTFAQIHGFPHAGDLL
 WLVVRPLLHVAPKRHS-KV-----------------------------------------
 ---------------
->ADJ66655.1|chlN'
+>ADJ66655.1_ADJ66655.1|chlN'
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 GIA---------------------------------------------------------
@@ -205,7 +205,7 @@ RSVLFTGDNMLEIALGRFLTR-CGMRVCEIGIPYMDQRYQAGELALLEHTCRTMGVRLPK
 IVEKPDNSNQLDRIRDLQPDLVITGMALANPLEARAIKTKWSVEFTFAQIHGFPHAGDLL
 WLVVRPLLHVAPKRHS-KV-----------------------------------------
 ---------------
->WKD83947.1|chlN
+>WKD83947.1_WKD83947.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STF---------------------------------------------------------
@@ -228,7 +228,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->AMO01103.1|chlN
+>AMO01103.1_AMO01103.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 TNT---------------------------------------------------------
@@ -251,7 +251,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQASELQLLEKTCLEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNVRQIL
 DLVTRPL-----KRQE-NLN----------LNS-N-------ITK----------YTVKQ
 -N-------------
->AYR06374.1|chlN
+>AYR06374.1_AYR06374.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTSTK-
 KLN---------------------------------------------------------
@@ -274,7 +274,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRYQKAELDLLEATCKQMQVMMPK
 IVEKPDNYNQLDRIKDLQPDLVITGMAHANPLEARGVNTKWSVEFTFSPIHGFSNSKDIL
 ELVTRPL-----RRNQ-RLPN-----------F-K-------FT----------------
 ---------------
->YP_009105754.1|chlN
+>YP_009105754.1_AIT94391|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 -E----------------------------------------------------------
@@ -297,7 +297,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMIVYEIGIPYMDKRFQAAELAFLEKTCREMDVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLES-----------L-G-------WTK-----------LVKS
 -ALT-----------
->AHX25362.1|chlN
+>AHX25362.1_AHX25362.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 TEQ---------------------------------------------------------
@@ -320,7 +320,7 @@ KSVFFMGDNLLEISLARFFIR-CGMSVYEIGIPYLDKRYQGGELALLEKTCQEMGTFLPV
 IVEKPDNYNQLNRIKDLHPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 DLICKPL-----ERQT-TFKE-----------L-G-------WKN-----------YHTL
 V--------------
->YP_010338431.1|chlN
+>YP_010338431.1_UNJ18381|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNQ---------------------------------------------------------
@@ -343,7 +343,7 @@ KSVFFMGDNLLEISIARFLAR-CGMIVYEVGIPYMDKRYQQAELELLKETCIKQNSVIPR
 IVEKPDNYNQIDRIYDLAPDLVITGMAHANPLEARNINTKWSVEFTFAQIHGFSNAGEIL
 NLVTRPL-----KRNV-AKIP-----------L-S-------------------------
 ---------------
->WDY12784.1|chlN
+>WDY12784.1_WDY12784.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -366,7 +366,7 @@ KSVFFMGDNLFEISLARFLIR-CGMTVYEIGIPYMDKRFQAAELALLEATCREMKVPIPR
 IVEKPDNYHQIQRIRELRPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQN-----------L-G-------WTE-----------LVLS
 -N-------------
->AYQ95352.1|chlN
+>AYQ95352.1_AYQ95352.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSV---------------------------------------------------------
@@ -389,7 +389,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYECGVPYLDKRYQAAEILLLEKTCKEKNVLMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGITTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--LQK-----------I-N-------TKS-----------LVKP
 MK-------------
->YP_009390000.1|chlN
+>YP_009390000.1_ART65370|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLS---------------------------------------------------------
@@ -412,7 +412,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVHEIGIPYMDKRYQGAELILLQKTCEDMKVRIPK
 IVEKPDNYNQLERIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFASIHGFTNARDIL
 ELVTRPL-----RRTV-NLQA-----------S-E-------NSI-----------FSQT
 Y--------------
->XBS32580.1|chlN
+>XBS32580.1_XBS32580.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -435,7 +435,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLQKTCAEMNVPIPR
 IVEKPDNYNQIQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLKD-----------L-G-------WTN-----------LVKK
 -QNILIEK-------
->YP_009472561.1|chlN
+>YP_009472561.1_ARO74172|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -458,7 +458,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQFLEKTCQEMSVPMPR
 IVEKPDNSNQIQRIRAMKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLNN-----------L-G-------WSK-----------LVTE
 KSFVF----------
->AMO01264.1|chlN
+>AMO01264.1_AMO01264.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -T----------------------------------------------------------
@@ -481,7 +481,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEVGIPYMDKRFQAAELELLQSTCHDMKVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFANSREIL
 ELVTRPL-----RRNQ-SLDS-----------L-G-------WAK-----------LVK-
 ---------------
->AKE98792.1|chlN
+>AKE98792.1_AKE98792.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SKV---------------------------------------------------------
@@ -504,7 +504,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDEMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 V--------------
->YP_010152812.1|chlN
+>YP_010152812.1_QQW50473|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ------------------------------------------------------------
@@ -527,7 +527,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDKRYQGAELNLLEQTCKDMNVFLPR
 IVEKPDNYNQLERIRDFQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRNT-ILNK-----------L-N-------WNE-----------YNVQ
 Y--------------
->YP_010260964.1|chlN
+>YP_010260964.1_UIB38718|chlN
 --------------------------------------------------------MI--
 ----------------------SNHNFLKTKRIIF------------------PTIFSMQ
 HKNIQLGNT-------------------------------------------------RN
@@ -550,7 +550,7 @@ LMRRRKCRLISAPFPIGV------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------
->YP_011005608.1|chlN
+>YP_011005608.1_WAM62612|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTK---------------------------------------------------------
@@ -573,7 +573,7 @@ KSVFFMGDNLLEISLARFLIK-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IVEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->AYR05969.1|chlN
+>AYR05969.1_AYR05969.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTFTK-
 QTE---------------------------------------------------------
@@ -596,7 +596,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQKAELDLLEETCKKMQVMMPK
 IVEKPDNYNQLDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNSVDIL
 ELVTRPL-----RRNS-SLPN-----------L-D-------FA----------------
 ---------------
->AWW13773.1|chlN
+>AWW13773.1_AWW13773.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QLE---------------------------------------------------------
@@ -619,7 +619,7 @@ KSVFFMGDNLLELSLARFLIR-CGMIVPEIGIPYLDKRYQEAEINLLEETCKKMNVPLPL
 IIEKPDNYSQLRRIEKCRPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRSL-----RRKN-YVQS-----------F-C-------EKE-----------LVE-
 ---------------
->YP_009306301.1|chlN
+>YP_009306301.1_AOP19205|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 ------------------------------------------------------------
@@ -642,7 +642,7 @@ KSVFFMGDNLLEISLARFLIR-CGMQVYEIGVPYLDKRFQSAELNLLENTCRQMNCALPR
 IVEKPDNYHQIQRIHELKPDLVITGMGLANPLESRGINTKWSVEFTFAQIHGFTNARDIL
 ELITRPI-----RRNR-KIQS-----------I-E-------SVQK--------YIL---
 ---------------
->AOY35981.1|chlN
+>AOY35981.1_AOY35981.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NFL---------------------------------------------------------
@@ -665,7 +665,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAAEIALLEKTCLDMNVPFPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFSQIHGFTNARDIL
 DLVTRPL-----RRNK-NINL-------LSEFH-E-------SKN---------TSFVKK
 ---------------
->YP_004222007.1|chlN
+>YP_004222007.1_ADV29855|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -688,7 +688,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELELLERTCHEMGVPLPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNE-SLQS-----------L-G-------WTS-----------LVKS
 -SGN-----------
->UNJ14113.1|chlN
+>UNJ14113.1_UNJ14113.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MAQ---------------------------------------------------------
@@ -711,7 +711,7 @@ KSVFFMGDNLLEISIARFLAA-CGMNIYEVGIPYMDKRYQAAELSLLQETCNKNNSVMPC
 IVEKPDNYNQIDRIYDLKPDLVITGMAHANPLEARNINTKWSVEFTFTQIHGFSNAEEIL
 KAVTRPM-----KRNN-FVVS-----------N-N-------INS---------------
 ---------------
->AYQ94322.1|chlN
+>AYQ94322.1_AYQ94322.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TTT---------------------------------------------------------
@@ -734,7 +734,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLEKTCYEMNVNCPR
 IVEKPDNYYQIQRIKELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRNK-NLE----------KSI-T-------VMS----------GQL--
 ---------------
->ARO90304.1|chlN
+>ARO90304.1_ARO90304.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MLK---------------------------------------------------------
@@ -757,7 +757,7 @@ KSVFFMGDNLLEISLARFLAR-CGMTIYEIGIPYMDKRFQSAELELLEKTCLEKQHFLPK
 IVEKPDNYNQIERIYDLGPDLVITGMAHANPLEARNINTKWSVEFTFAQIHGFGNAGEIL
 KLVTRPL-----QRKS-MRSS-----------S-F-------V-----------------
 ---------------
->QJA13809.1|chlN
+>QJA13809.1_QJA13809.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QLI---------------------------------------------------------
@@ -780,7 +780,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYECGVPYLDKRYQASELLLLEQTCLEKNVPMPR
 IVEKPDNYYQIQRIRELQPDLVITGMALSNPLEARGINTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--MQK-----------V-S-------NKT-----------LVKP
 AN-------------
->YP_009258437.1|chlN
+>YP_009258437.1_ANI25261|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 LK----------------------------------------------------------
@@ -803,7 +803,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRYQAAELALLQQTCLDMGVPIPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEE-----------L-G-------WTG-----------LVKK
 -QKLNV---------
->YP_010445150.1|chlN
+>YP_010445150.1_UTJ90651|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -826,7 +826,7 @@ KSVFFMGDNLLEISLARFLIR-AGMVVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->AIT93808.1|chlN
+>AIT93808.1_AIT93808.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -E----------------------------------------------------------
@@ -849,7 +849,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEVGIPYMDKRFQAAELALLEDTCNEMNVPLPR
 IVEKPDNYNQIQRIKELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELITRPL-----RRNQ-SLEG-----------L-G-------WTK-----------LVKS
 -ATS-----------
->YP_009326798.1|chlN
+>YP_009326798.1_ANJ70713|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MSPTE
 ------------------------------------------------------------
@@ -872,7 +872,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCKQMNVSMPL
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVSQ
 TK-------------
->BFV51872.1|chlN
+>BFV51872.1_BFV51872.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -895,7 +895,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->QKS32268.1|chlN
+>QKS32268.1_QKS32268.1|chlN
 ------------------------------------------------------------
 ---------------------------------------------------------MCS
 ------------------------------------------------------------
@@ -918,7 +918,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCQQMNVSLPR
 IVEKPDNYNQVQRIRSLQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSD-----------LVQD
 SSLI-----------
->YP_009450180.1|chlN
+>YP_009450180.1_AOS53055|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NFL---------------------------------------------------------
@@ -941,7 +941,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRYQAAELAFLEKTCFEMNVPMPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNE-NIHS-------FAQSF-G-------SKN---------PSFVQN
 L--------------
->ALO63343.1|chlN
+>ALO63343.1_ALO63343.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 ------------------------------------------------------------
@@ -964,7 +964,7 @@ KSVFFTGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRFQGAELTLLEKTCKEKNIPMPR
 IVEKPDNYYQMQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFANARDIL
 ELVTRPL-----RRNE-SLKA-----------L-G-------ITS-----------AVYN
 HNFSEI---------
->YP_009105998.1|chlN
+>YP_009105998.1_AIT94748|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 -K----------------------------------------------------------
@@ -987,7 +987,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELSLLEKTCVFMNVPIPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-NLQE-----------L-G-------WTD-----------LVKE
 -KI------------
->SCW22915.1|chlN
+>SCW22915.1_SCW22915.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TFS---------------------------------------------------------
@@ -1010,7 +1010,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELALLEQTCINMKVKVPK
 IVEKPDNYNQIDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPI-----RRNN-NLSE-----------L-G-------SQV-----------YSTA
 D--------------
->YP_011005889.1|chlN
+>YP_011005889.1_WAM62893|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTK---------------------------------------------------------
@@ -1033,7 +1033,7 @@ KSVFFMGDNLLEISLARFLIK-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKQIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-S-------SER-----------YTDM
 R--------------
->YP_009313227.1|chlN
+>YP_009313227.1_SCW21481|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MT---------------------------------------------------------
@@ -1056,7 +1056,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQNAELALLEHTCNIMNIKKPR
 IIEKPDNYNQLDRIQDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELITRPL-----RRNN-SLQT-----------I-N-------NNI-----------YY--
 ---------------
->YP_009104868.1|chlN
+>YP_009104868.1_AIT93397|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -1079,7 +1079,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELSLLEKTCLEMNVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WTQ-----------LVKQ
 -NG------------
->YP_011044954.1|chlN
+>YP_011044954.1_WRW10647|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MK---------------------------------------------------------
@@ -1102,7 +1102,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVYEIGIPYMDKRYQGAELQLLEKTCRQKNVPIPI
 IVEKPDNYNQIERIRDIKPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------L-G-------SQR-----------YTDR
 R--------------
->AID67425.1|chlN
+>AID67425.1_AID67425.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 N-I---------------------------------------------------------
@@ -1125,7 +1125,7 @@ KSVFFMGDNLLEISLARFFLR-CGMIVYEIGIPYLDKRYQSAELDLLRLTCQEKGVPFPR
 IVEKPDSYNQIQRIRELSPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFNSARDIL
 EIVTRPL-----RRNI-NLQ---------TDIL-S-------TN-----------SFVQE
 AGDFALTM-------
->YP_009258539.1|chlN
+>YP_009258539.1_ANI25471|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -1148,7 +1148,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRYQAAELALLQQTCEELGVPLPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEE-----------L-G-------WAG-----------LVKK
 -DKINL---------
->ANN39005.1|chlN
+>ANN39005.1_ANN39005.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -1171,7 +1171,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELELLEKTCIQMNVPVPR
 IVEKPDNYNQIQRIRELQPDLVITGMGLANPLESRGINTKWSVEFTFAQIHGFTNATDIL
 ELVTRPL-----RRNK-NLQQ-----------L-E-------TIQN--------YVYLK-
 ---------------
->YP_010580192.1|chlN
+>YP_010580192.1_UZS90576|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MNSKLN-
 IEP---------------------------------------------------------
@@ -1194,7 +1194,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVHEIGIPYMDKRYQSNELLLLEKTCLEMGVHIPL
 IVEKPDNYKQLERIRELKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDVL
 ELVTRPL-----RRNG-SLQQ-----------L-A-------WNS-----------YTLD
 N--------------
->YP_009185058.1|chlN
+>YP_009185058.1_ALO63271|chlN
 MKQNEFKLEKSILLRSSNVQSNVRYAHPVKNTTSHNSLRSVLTDEPLHKESERCSAMCRA
 TCSAPYILILKSNQKLFLSSRSTNSFVVRFANLSDSRTSKGERSDRFAASLRTISLLPLS
 QGNEVR------------------------------------------------------
@@ -1217,7 +1217,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELELLRKTCYDMKVPFPR
 IVEKPDNYSQIQRIKELKPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFSNAREIC
 ELVSRPL-----RRTM-ETYG-----------T-T-------LIEK--------------
 ---------------
->YP_009258795.1|chlN
+>YP_009258795.1_ANI25831|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -1240,7 +1240,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLQETCNQMGTLMPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEN-----------L-G-------WTA-----------LVKK
 -DKINII--------
->BFV52939.1|chlN
+>BFV52939.1_BFV52939.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1263,7 +1263,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMKVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 R--------------
->YP_009185203.1|chlN
+>YP_009185203.1_ALO63496|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -T----------------------------------------------------------
@@ -1286,7 +1286,7 @@ KSVFFMGDNLLEISLARFLTR-CGMVIYEIGIPYMDKRFQAAELELLQKTCSEMKVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFANSREIL
 ELVTRPL-----RRNQ-SLDS-----------L-G-------WAK-----------LVK-
 ---------------
->WEM32128.1|chlN
+>WEM32128.1_WEM32128.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 -T----------------------------------------------------------
@@ -1309,7 +1309,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQSAELSLLEKTCIEMNVPIPR
 IVEKPDNYNQIQRIRELQPDLVITGLAHANPLEARNITTKWSVEFTFAQIHGFTNSRDVL
 ELVTRPL-----RRNQ-SLKN-----------L-G-------WSQ-----------LVNT
 -QLK-----------
->WKD83735.1|chlN
+>WKD83735.1_WKD83735.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -1332,7 +1332,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->AYC65360.1|chlN
+>AYC65360.1_AYC65360.1|chlN
 ------------------------------------------------------------
 --------------------------------------------------------MSTE
 ------------------------------------------------------------
@@ -1355,7 +1355,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQLLEKTCRQMQVPMPR
 IVEKPDNSNQIQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNS-HLKD-----------L-G-------WST-----------LVTD
 GESQKTL--------
->AWI68870.1|chlN
+>AWI68870.1_AWI68870.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -1378,7 +1378,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELELLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-H-------FTK---------------
 ---------------
->AXZ97192.1|chlN
+>AXZ97192.1_AXZ97192.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1401,7 +1401,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIYELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNV----------------MCN-------LPSKPK--RKKEANLVT-
 ---------------
->YP_010987538.1|chlN
+>YP_010987538.1_WOR09583|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1424,7 +1424,7 @@ KSVFFMGDNILEISLARFLTR-CGMIVYEVGIPYLDKRYQAAELALFQETCEKMGVPMPR
 IVEKPDNCFQIQRIRELQPDLVITGMSLANPLEARGINTKWSVEFTFAQIHGFVNSRELV
 ELVTRPL-----RRNQ-KLSN-----------F-N-------SDNSFEQSSEIQRSFSLN
 LNVPV----------
->ALO62773.1|chlN
+>ALO62773.1_ALO62773.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 SLNKSSYNSLLLARCIYNKPHRRWGMLYSISDSVIDCLPVPKRRDKAQAIKAVERIAMHG
@@ -1447,7 +1447,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVHEIGIPYLDKRFQAAELGLLEKTCEKMNVPCPT
 IIEKPDNYFQIQRIKELKPDLVITGMAHSNPLEARGITTKWSVEFTFAQIHGFTNARSLL
 EMITKPL-----QKNS-SIKN---PF------I-N------------------HRNFVFL
 ---------------
->WDY12908.1|chlN
+>WDY12908.1_WDY12908.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1470,7 +1470,7 @@ KSVFFMGDNLFEISLARFLIR-CGMTVYEIGIPYMDKRFQAAELAFLETTCREMGVNVPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQQ-----------L-G-------WAE-----------LVI-
 ---------------
->YP_010032298.1|chlN
+>YP_010032298.1_QOW07505|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ITK---------------------------------------------------------
@@ -1493,7 +1493,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVYEIGIPYMDKRYQGAELNLLEKTCKEKNIPVPI
 IVEKPDNYNQVDRIQDMKPHLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLQE-----------I-G-------CQR-----------YTDF
 S--------------
->YP_009296485.1|chlN
+>YP_009296485.1_AOM65420|chlN
 ------------------------------------------------------------
 ---------------------------------------------------------MN-
 NMI---------------------------------------------------------
@@ -1516,7 +1516,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRYQAAELDLLKHTCVEMNVRYPK
 IVEKPDNYGQLDRIRDLQPDLVITGMAHANPLEARGLSTKWSVEFTFASIHGFTNASDIL
 ELVTRPL-----RRNN-SLQI-----------T-S-------SSI-----------YSKN
 Y--------------
->YP_009314661.1|chlN
+>YP_009314661.1_SCW23116|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 QTS---------------------------------------------------------
@@ -1539,7 +1539,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRYQKAELELLVKTCNDMNIKMPK
 IVEKPDNYNQLDRIKDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDIL
 ELITRPL-----RRND-GLKH-----------I-S-------NNI-----------YITH
 DAKN-----------
->YP_010478988.1|chlN
+>YP_010478988.1_UVI61293|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MQ
 TKQ---------------------------------------------------------
@@ -1562,7 +1562,7 @@ KSIFFMGDNLLEISLARFLIR-CGMVVFEIGIPYLDKRYQGAELSLLEKTCEKMGVFLPI
 IVEKPDNYNQVDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 ELITKPL-----QRQQ--TNN-----------V-F-------VSN-----------LVNA
 TS-------------
->AOT84287.1|chlN
+>AOT84287.1_AOT84287.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -1585,7 +1585,7 @@ KSVFFMGDNILEISLARFLIR-CGMVVYEIGIPYMDKRFQAAELSLLEQTCFEMNVPIPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGINTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LVEN
 ---------------
->AIY30188.1|chlN
+>AIY30188.1_AIY30188.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -1608,7 +1608,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAGEISLLEKTCRDMNVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WTK-----------LVKT
 -I-------------
->WIL95481.1|chlN
+>WIL95481.1_WIL95481.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TENI--------------------------------------------------------
@@ -1631,7 +1631,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDHRFQKSELELLIQTCIDMNVPIPK
 IVEKPDNYKQIQRIKDLKPDLVITGMAHANPLEAHGITTKWSVEFTFSQIHGFTNAKDIL
 ELVTRPL-----RRSL-GLKT-----------F-Q-------NLEK----------I---
 ---------------
->YP_009184545.1|chlN
+>YP_009184545.1_ALO62625|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 ------------------------------------------------------------
@@ -1654,7 +1654,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRYQAAELAFLEKTCLEMGVPMPR
 VVEKPDNYYQIQRIHELQPDLVISGMAQANPLEARGISTKWSVEFTFAQIHGFTNAQEIL
 ELITKPL-----RRNQ-NLQF-----------L-E-------YNT-----------LVKN
 -S-------------
->YP_009106869.1|chlN
+>YP_009106869.1_AIT95650|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 MNT---------------------------------------------------------
@@ -1677,7 +1677,7 @@ KSVFFMGDNLLEISLARFLAR-CGMSIYEIGIPYMDKRFQKAELDLLEQTCKDMNIPLPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDVL
 ELVTRPL-----RRNN-ALDQ-----------L-G-------ITQ-----------LIKP
 TETSLVQNI------
->YP_009020844.1|chlN
+>YP_009020844.1_AHM23718|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 -N----------------------------------------------------------
@@ -1700,7 +1700,7 @@ KSVFFMGDNLLEISLARFLIR-CGMSVYEVGIPYLDKRFQAAELDLLEKTCKQMQVSMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-ALES-----------L-G-------WNQ-----------LVKN
 ---------------
->QIZ74201.1|chlN
+>QIZ74201.1_QIZ74201.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1723,7 +1723,7 @@ KSVFFMGDNLLELSLARFLTR-CGMIVYECGVPYLDKRYQASEIALLEQTCLEQNVPMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGISTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--MQS-----------T-S-------NKT-----------LVK-
 ---------------
->AWI68790.1|chlN
+>AWI68790.1_AWI68790.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -1746,7 +1746,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->AMO01346.1|chlN
+>AMO01346.1_AMO01346.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ------------------------------------------------------------
@@ -1769,7 +1769,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELELLQKTCVQMNVPIPR
 IVEKPDNYYQIQRIKELQPDITITGMAHANPLEARGITTKWSVEFTFAQIHGFSNSREIL
 ELITRPL-----RRNN-NLDT-----------L-G-------FSK-----------LVK-
 ---------------
->BED43494.1|chlN
+>BED43494.1_BED43494.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SKV---------------------------------------------------------
@@ -1792,7 +1792,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKKTCEEMNVMMPT
 IVEKPDNYNQVNRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->WKT06370.1|chlN
+>WKT06370.1_WKT06370.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -1815,7 +1815,7 @@ KSIFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVLLPR
 IVEKPDNYHQVQRIRELQPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFTNAMDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PAYYKRG-------
->WKT06371.1|chlN
+>WKT06371.1_WKT06371.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -1838,7 +1838,7 @@ KSIFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVLLPR
 IVEKPDNYHQVQRIRELQPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFTNAMDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PAYYKRG-------
->YP_009105896.1|chlN
+>YP_009105896.1_AIT94673|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -K----------------------------------------------------------
@@ -1861,7 +1861,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELSLLEQTCNKMNVPIPR
 IVEKPDNYNQIQRIRELQPDLVITGMAHCNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRIQ-SLET-----------L-G-------WTK-----------LVKS
 -NI------------
->YP_009632814.1|chlN
+>YP_009632814.1_AYQ95166|chlN
 ------------------------------------------------------------
 -----------------------------------------------------------M
 KES---------------------------------------------------------
@@ -1884,7 +1884,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLEKTCLKMNAPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAREIL
 ELVTRPL-----RRQK-NIQE---------KSL-T-------FV----------------
 ---------------
->WKT05960.1|chlN
+>WKT05960.1_WKT05960.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MS---------------------------------------------------------
@@ -1907,7 +1907,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVHEIGIPYMDKRYQAAELCLLQETCQQMNVPMPR
 IVEKPDNYNQVQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAQDIL
 ELVTRPL-----RRNH-SLEE-----------L-G-------WAR-----------LVQD
 HPAASDLNAVPS---
->UXE31212.1|chlN
+>UXE31212.1_UXE31212.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -1930,7 +1930,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQSAELALLEKTCIEMNVPIPR
 IVEKPDNYNQIQRIRELQPDLAITGLAHANPLEARNITTKWSVEFTFAQIHGFTNARDLL
 ELVTRPL-----RRNQ-NLKH-----------L-G-------WSK-----------LVNS
 -QLN-----------
->WVD55913.1|chlN
+>WVD55913.1_WVD55913.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TIL---------------------------------------------------------
@@ -1953,7 +1953,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSESF-G-------SMS---------STFVQN
 -QF------------
->YP_009106645.1|chlN
+>YP_009106645.1_AIT95397|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -NL---------------------------------------------------------
@@ -1976,7 +1976,7 @@ KSIFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAGEIFLLQQTCKKMNIPLPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-ALES-----------L-G-------WTQ-----------LIKN
 ---------------
->UIB38871.1|chlN
+>UIB38871.1_UIB38871.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MQ
 STSY--------------------------------------------------------
@@ -1999,7 +1999,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVYEIGIPYLDRRFQAAELDLLEKTCIKMNVPIPR
 IVEKPDNLFQLQRIRGLNPDLVVTGLAVSNPLQYRGVNTKWSTELVFSMIHGFTNAKDLL
 ALITRPL-----QRDN-VLQS-----------L---------------------PV----
 ---------------
->AXU40737.1|chlN
+>AXU40737.1_AXU40737.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -2022,7 +2022,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKKVPIPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-S-------SER-----------YTDR
 R--------------
->AOH77102.1|chlN
+>AOH77102.1_AOH77102.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 KNK---------------------------------------------------------
@@ -2045,7 +2045,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAGELALLEKTCIEMKVPFPR
 IVEKPDNYYQIQRIKELKPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFTNTKDLL
 ELVSRPL-----RRNK-NLEN--------HDSL-S-------KTF----------ALQ--
 ---------------
->QHQ73335.1|chlN
+>QHQ73335.1_QHQ73335.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MSPTE
 ------------------------------------------------------------
@@ -2068,7 +2068,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCKQMNVSMPL
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVSQ
 TKLSRSL--------
->UMB51697.1|chlN
+>UMB51697.1_UMB51697.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MY
 NKKKTLSIT---------------------------------------------------
@@ -2091,7 +2091,7 @@ KTVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDKRFQAGELALLEKTCIEMKVPFPR
 IVEKPDNYYQIQRIKELMPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFSNAKEIL
 ELVTRPL-----RRNK-NLAQ-----------------------------------FATS
 ---------------
->SCW22300.1|chlN
+>SCW22300.1_SCW22300.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SAS---------------------------------------------------------
@@ -2114,7 +2114,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAEIELLQQTCEKMNVKMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDIL
 ELITRPL-----RRNN-GLQA-----------I-S-------DNI-----------YTIP
 TSTNQ----------
->ASF83645.1|chlN
+>ASF83645.1_ASF83645.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2137,7 +2137,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELKPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNL----------------MS-----------------NQSVNAIS-
 ---------------
->YP_010485221.1|chlN
+>YP_010485221.1_UVW81015|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 IKQ---------------------------------------------------------
@@ -2160,7 +2160,7 @@ KSVFFMGDNLLEISLARFLLR-AGMIVFEIGIPYMDKRYQGAELELLQKTCKEKNVPLPI
 IIEKPDNYNQVDRIRDIKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEIL
 ELVTRPL-----RRNQ-KLQK-----------I-S-------SQQ-----------YTDR
 R--------------
->AYC64988.1|chlN
+>AYC64988.1_AYC64988.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2183,7 +2183,7 @@ KSVFFMGDNLLEISLARFLIR-CKMIVYEIGIPYMDKRFQAGELQLLEKTCKDMNVPLPC
 IVEKPDNWNQIQRIRALKPDLVITGLAHSNPLQARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNR-NLKD-----------S-G-------WPS-----------VMIK
 I--------------
->YP_009104984.1|chlN
+>YP_009104984.1_AIT93559|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2206,7 +2206,7 @@ KSVFFMGDNLFEISLARFLIR-CGMVVYEIGIPYMDKRFQAAELAFLEKTCRDMNVPMPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WAS-----------LVKS
 -SSK-----------
->AYR05666.1|chlN
+>AYR05666.1_AYR05666.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTFIK-
 QTQ---------------------------------------------------------
@@ -2229,7 +2229,7 @@ KSVFFMGDNLLEVSLARFLIA-CGMVVYEIGIPYMDKRYQKAELDLLEKTCIKMDVMMPK
 IVEKPDNYNQLDRIKDLKPDLVITGMAHANPLEARGVNTKWSVEFTFSPIHGFTNSRDVL
 ELVTRPL-----RRNS-SLPN-----------L-D-------FVE-----------KI--
 ---------------
->YP_009329555.1|chlN
+>YP_009329555.1_APD80614|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 YSQFKHS-----------------------------------------------------
@@ -2252,7 +2252,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDQRFQAGELELLKKTCMEMNVPLPR
 IVEKPDNYYQIQRIKELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFGNARDIL
 ELVTKPL-----RRNK-NLSKYQFP-------LDS-------WDK---------PASVGA
 HELSA----------
->AYQ22861.1|chlN
+>AYQ22861.1_AYQ22861.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 QTS---------------------------------------------------------
@@ -2275,7 +2275,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELSLLEKTCREMNVPMPR
 IVEKADNYYQVQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFANARDIL
 ELVTRPL-----RRNE-SLD-----------SL-G-------WAK----------LVK--
 ---------------
->WKK50191.1|chlN
+>WKK50191.1_WKK50191.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 SVI---------------------------------------------------------
@@ -2298,7 +2298,7 @@ KSVFFMGDNLLEISLARFLTR-CGMKVYEIGIPYMDKRYQAAELALLQQTCKEFDVMLPR
 IVEKPDNYNQLERIQELKPDLVITGMAHANPLQARGINTKWSVEFTFAQIHGFSNAKDLL
 ELITRPL-----TRAE-NLSS-----------L-S-------HFAD--------------
 ---------------
->YP_011007436.1|chlN
+>YP_011007436.1_WAM64865|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTK---------------------------------------------------------
@@ -2321,7 +2321,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->ALO62853.1|chlN
+>ALO62853.1_ALO62853.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2344,7 +2344,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRFQAAELALLEKTCQQMNVPMPR
 IVEKPDNYYQVQRIREFQPSLVITGMAHCNPLEARGIDTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNN-NLKS-----------L-G-------WSK-----------LVKN
 ---------------
->QIZ74063.1|chlN
+>QIZ74063.1_QIZ74063.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QLI---------------------------------------------------------
@@ -2367,7 +2367,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYECGVPYLDKRYQASELLLLEQTCLEKNVPMPR
 IVEKPDNYYQIQRIRELQPDLVITGMALSNPLEARGINTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--MQQ-----------V-S-------NKT-----------LVKP
 AN-------------
->ACZ58438.1|chlN
+>ACZ58438.1_ACZ58438.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 QKT---------------------------------------------------------
@@ -2390,7 +2390,7 @@ KSVFFMGDNILEVSLARFLIR-CGMIVTEIGIPYMDRRFQAAELALLEKTCLDMNVPMPR
 IVEKPDNALQILRIRELLPDLVITGMAHCNPLEARGINTKWSVEFTFAQIHGFVNAREVL
 ELVTRPL-----RRNQ-AIDSF----------L-N-------IKEKKN-----ISLFVKE
 G--------------
->YP_010732194.1|chlN
+>YP_010732194.1_WDY13108|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2413,7 +2413,7 @@ KSVFFMGDNLFEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLQQTCVEMGAPMPR
 IVEKPDNYHQIQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRQK-SLQE-----------F-G-------WTQ-----------LIKS
 KKVLLNNGKSTD---
->YP_010488905.1|chlN
+>YP_010488905.1_UWJ89481|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TFI---------------------------------------------------------
@@ -2436,7 +2436,7 @@ KSVFFMGDNLFEISLARFLIR-CGMIVYEIGIPYMDRRFQAAELALLEKTCIDMNVPLPK
 IVEKPDNYYQITRIHDLQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 QLVTRPL-----RRNK-NIKA-------FSSFG-Q-------NSE---------IQFVQN
 EKHLSPESMNF----
->WDY13137.1|chlN
+>WDY13137.1_WDY13137.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2459,7 +2459,7 @@ KSVFFMGDNLFEISLARFLIR-CGMVVYEIGIPYMDKRFQAAELAFLEKTCREMNVPMPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WAS-----------LVKS
 -SPNS----------
->YP_009632753.1|chlN
+>YP_009632753.1_AYQ94478|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 N-----------------------------------------------------------
@@ -2482,7 +2482,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAGELALLEKTCLEMKVPCPR
 IVEKPDNYYQIQRIKELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRNK-NLE----------NSI-N-------LLS----------ALPTS
 ---------------
->YP_011051308.1|chlN
+>YP_011051308.1_WVD55636|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ILL---------------------------------------------------------
@@ -2505,7 +2505,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSEFF-G-------STT---------STFVQN
 -QF------------
->YP_010261163.1|chlN
+>YP_010261163.1_UIB39104|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ADSS--------------------------------------------------------
@@ -2528,7 +2528,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVYEIGIPYLDRRFQAAELELLEKTCLEMKVPIPR
 IVEKPDNLFQLQRVRSLNPDLVITGLAVSNPLQYRGLNTKWSTELVFSLIHGFTNSKDLL
 ALITRPL-----VRET-VLQN-----------I---------------------PI----
 ---------------
->YP_009297804.1|chlN
+>YP_009297804.1_AOM67538|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTL---------------------------------------------------------
@@ -2551,7 +2551,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVHEIGIPYMDKRYQGAELNLLEQTCQEMQVRIPK
 IIEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFASIHGFANARDIL
 ELVTRPL-----RRNL-NVEV-----------I-P--------ST-----------FSQT
 Y--------------
->AUJ22917.1|chlN
+>AUJ22917.1_AUJ22917.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2574,7 +2574,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMLVYEIGIPYMDKRFQAAELELLEKTCHEMNVPLPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQS-----------L-G-------WTS-----------LVKS
 -NSS-----------
->WKT05846.1|chlN
+>WKT05846.1_WKT05846.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -ML---------------------------------------------------------
@@ -2597,7 +2597,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEIGIPYMDRRFQAAELALLQQTCDDMGVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNE-NLQQ-----------F-S-------LIP-----------FIK-
 --G------------
->WKT05847.1|chlN
+>WKT05847.1_WKT05847.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -ML---------------------------------------------------------
@@ -2620,7 +2620,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEIGIPYMDRRFQAAELALLQQTCDDMGVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNE-NLQQ-----------F-S-------LIP-----------FIK-
 --G------------
->CAV31291.1|chlN
+>CAV31291.1_CAV31291.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -2643,7 +2643,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNVPIPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-S-------SER-----------YTDR
 R--------------
->AYC64727.1|chlN
+>AYC64727.1_AYC64727.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 ------------------------------------------------------------
@@ -2666,7 +2666,7 @@ RSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRFQASELNLLEKTCNEQGIPMPL
 IVEKPDNYNQIQRIRALKPDLVITGLAHSNPLEARGIITKWSVEFTFAQIHGFTNVRDIL
 ELVTRPL-----RRNN-NLKE-----------L-G-------WSE-----------LALN
 NRF------------
->YP_009519266.1|chlN
+>YP_009519266.1_AYC65197|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -2689,7 +2689,7 @@ KSVFFMGDNLLEISLARFLIR-CGMKVYEIGIPYLDKRFQASELQFLKSTCKQMHCALPR
 IVEKPDNYSQIQRIHEFQPDLVITGMGLANPLEARGINTKWSVEFTFAQIHGFANARDIL
 ELVTRPL-----RRNI-KLQI---------------------------------------
 ---------------
->BDA97549.1|chlN
+>BDA97549.1_BDA97549.1|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MDVKLT-
 AES---------------------------------------------------------
@@ -2712,7 +2712,7 @@ KSVFFMGDNLLEISLARFLIR-CGMKVYEIGIPYMDKRYQASELILLEKTCQEMGVKIPL
 IVEKPDNYKQLERIRNLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDVL
 ELVTRPL-----RRNS-SLQQ-----------L-A-------WNS-----------YSLE
 A--------------
->AEH05357.1|chlN
+>AEH05357.1_AEH05357.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 IL----------------------------------------------------------
@@ -2735,7 +2735,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYECGVPYLDKRYQAAEIQLLEKTCLEMNVPMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGISTKWSVEFTFAQIHGFSNSKDVL
 ELVTRPL-----RRNM--IQQ-----------F-T-------HKT-----------LVKS
 ---------DV----
->AIT95161.1|chlN
+>AIT95161.1_AIT95161.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -T----------------------------------------------------------
@@ -2758,7 +2758,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLQKTCHDMNVPIPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLEG-----------L-G-------WTK-----------LVKS
 -AF------------
->ALO63472.1|chlN
+>ALO63472.1_ALO63472.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LQI---------------------------------------------------------
@@ -2781,7 +2781,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYLDKRFQGAELLLLQQTCQEMNVPVPR
 IVEKPDNYYQIQRIRELNPDLVITGMAHCNPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNE-NISS--------INNL-I-------LTA-----------NTKK
 ---------------
->ASB29652.1|chlN
+>ASB29652.1_ASB29652.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MALTK-
 SIE---------------------------------------------------------
@@ -2804,7 +2804,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQKAELDLLKSTCSEMNVMLPK
 IVEKPDNYNQLDRIKDLKPDLVITGMSYANPLEARGINTKWSVEFTFSSIHGFSNARDIL
 ELVTRPL-----RRNS-SISK-----------M-S-------FS----------------
 ---------------
->YP_010478706.1|chlN
+>YP_010478706.1_UVI61011|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ID----------------------------------------------------------
@@ -2827,7 +2827,7 @@ KSVFFMGDNLLEICLARFLIR-CGMVVFEIGIPYMDKRYQAGELELLEKTCEQMGVFLPI
 IVEKPDNYNQIARIKDLQPDIVITGMAHANPLEALGTNTKWSVEFTFSQIHGFTNAKTIL
 ELISNPL-----RRTN-IHKK-----------N-F-------Y-----------------
 ---------------
->WAP91371.1|chlN
+>WAP91371.1_WAP91371.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 -E----------------------------------------------------------
@@ -2850,7 +2850,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELMLLQKTCEMMNVPLPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLHE-----------L-G-------WNN-----------LVKV
 -NSQ-----------
->YP_009106013.1|chlN
+>YP_009106013.1_AIT94829|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2873,7 +2873,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEVGIPYMDRRFQCEELALLEQTCRDMDVPMPR
 IVEKPDNYHQVQRIREFQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLRD-----------L-G-------WTY-----------LVKN
 NEGVTSNLDNV----
->AIT94908.1|chlN
+>AIT94908.1_AIT94908.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -2896,7 +2896,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMLVYEIGIPYMDKRFQAAELELLEKTCHEMNVPLPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQS-----------L-G-------WTS-----------LVKS
 -NVS-----------
->YP_009728213.1|chlN
+>YP_009728213.1_QIA47164|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -2919,7 +2919,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELAFLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RR-------------------------------------TNKVLL---
 ---------------
->YP_009313435.1|chlN
+>YP_009313435.1_SCW21689|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 KST---------------------------------------------------------
@@ -2942,7 +2942,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELALLEKTCYDMNVKQPK
 IIEKPDNYNQLDRIKDLEPDLVITGMAHANPLEAKGINTKWSVEFTFAQIHGFTNAKDIL
 ELITRPL-----RRNN-SLQQ-----------M-N-------YNI-----------DS--
 ---------------
->YP_009106505.1|chlN
+>YP_009106505.1_AIT95317|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 TNF---------------------------------------------------------
@@ -2965,7 +2965,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDRRFQAAELALLEETCKRMGAPLPR
 IVEKPDNYHQVQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFGNSRDIL
 ELVTRPL-----RRNH-SLEG-----------L-G-------WNS-----------FVL-
 ---------------
->QXT44768.1|chlN
+>QXT44768.1_QXT44768.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 -E----------------------------------------------------------
@@ -2988,7 +2988,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELMLLQKTCEIMNVPLPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLHE-----------L-G-------WNN-----------LVKT
 -NP------------
->YP_011045102.1|chlN
+>YP_011045102.1_WRW10795|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -3011,7 +3011,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELKLLQKTCKEKNVPIPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLDK-----------I-S-------SER-----------YTDR
 R--------------
->AID67749.1|chlN
+>AID67749.1_AID67749.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 --M---------------------------------------------------------
@@ -3034,7 +3034,7 @@ KSVFLMGDNLLEISLARFLIR-CGMLVCEVGIPYMDRRFQAGELELLEKTVHEMNTTMPR
 IVEKPDNYYQVQRIRSLEPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFANARDIL
 ELVSRPL-----RRND-SLAK-------S-----F-------GSN----------PLVRG
 NVMMDH---------
->AID67668.1|chlN
+>AID67668.1_AID67668.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 --M---------------------------------------------------------
@@ -3057,7 +3057,7 @@ KSVFLMGDNLLEISLARFLIR-CGMLVCEVGIPYMDRRFQAGELELLEKTVHEMNTTMPR
 IVEKPDNYYQVQRIRSLEPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFANARDIL
 ELVSRPL-----RRND-SLAK-------S-----F-------GSN----------PLVRG
 NVMMDH---------
->AMK96197.1|chlN
+>AMK96197.1_AMK96197.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTF-K-
 TSG---------------------------------------------------------
@@ -3080,7 +3080,7 @@ SSVFFMGDNLLEVSLARFLIR-AGMIVYEIGIPYMDKRYQKAELDLLKKTCYDMNVLIPK
 IVEKPDNYNQLDRIRDLKPDLVITGMAHANPLEARNINTKWSVEFTFASIHGFSNSKDIL
 ELVTRPL-----RRNQ-SLSN-----------L-G-------FI----------------
 ---------------
->AIT93645.1|chlN
+>AIT93645.1_AIT93645.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 -NL---------------------------------------------------------
@@ -3103,7 +3103,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRFQSAELQFLQQTCQHMNTPMPR
 IVEKPDNYNQIQRIREFQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-NLEN-----------L-D-------WTK-----------LVKL
 -VEN-----------
->QJF58652.1|QJF58652.1
+>QJF58652.1_QJF58652.1|QJF58652.1
 ------------------------------------------------------------
 ------------------------------------------------------MTSIK-
 ELK---------------------------------------------------------
@@ -3126,7 +3126,7 @@ KSVFFMGDNLLEVSLARFLVN-CGMTVYEIGIPYMDKRYQKAELEFLQATCQKNGVMMPK
 IVEKPDNYNQLDRIQDLKPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNAKDVL
 ELVTRPL-----RRNS-SLPD-----------L-N-------FKV---------------
 ---------------
->YP_009739032.1|chlN
+>YP_009739032.1_QIC19471|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TIS---------------------------------------------------------
@@ -3149,7 +3149,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDKRYQGAELLLLEKTCREMNVPIPK
 IIEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFSNAKDIL
 ELVTRPL-----RRNL-NLNE-----------V-S-------SEM-----------YSSR
 Y--------------
->YP_009519217.1|chlN
+>YP_009519217.1_AYC65073|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -3172,7 +3172,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELNLLEKTCEQMNVPIPH
 IVEKPDNYNQIQRIRALKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVLA
 DRRDSGGFNK-----
->UNJ14702.1|chlN
+>UNJ14702.1_UNJ14702.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MLQ---------------------------------------------------------
@@ -3195,7 +3195,7 @@ KSVFFMGDNLLEISIARFLAS-CGMHVYEVGIPYMDKRYQSAELKLLQETCLKQNTNLPR
 IVEKPDNYNQINRIYDLKPDLVITGMAHANPLEARNINTKWSVEFTFAQIHGFSNALEIL
 KLVTRPL-----KREM-LTY----------------------------------------
 ---------------
->AGG36965.1|chlN
+>AGG36965.1_AGG36965.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -3218,7 +3218,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKATCDEMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->WAM64038.1|chlN
+>WAM64038.1_WAM64038.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3241,7 +3241,7 @@ KSVFFMGDNLLEISLARFLIR-SGMMVYEIGIPYMDKRYQAAELQLLEKTCKEQQKPIPI
 IIEKPDNYNQVDRIREIHPDLVITGMAHANPLEARGVNTKWSVEFTFAQIHGFTNSIDIL
 ELITRPL-----RRNQ-KLER-----------I-G-------GSL-----------YTNF
 R--------------
->WKT08819.1|chlN
+>WKT08819.1_WKT08819.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MP---------------------------------------------------------
@@ -3264,7 +3264,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEIGIPYMDKRYQAAELSLLQNTCQQMGVPMPR
 IVEKPDNYNQVQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-NLEE-----------L-G-------WTR-----------LVQD
 H--SSMPQALPA---
->YP_009420241.1|chlN
+>YP_009420241.1_ASO75729|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3287,7 +3287,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVHEIGIPYMDKRYQSNELLLLEKTCLEMGVKIPL
 IVEKPDNYKQLERIRKLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDVL
 ELITRPL-----RRNA-SLQQ-----------L-A-------WNS-----------YTTQ
 N--------------
->UCS09658.1|chlN
+>UCS09658.1_UCS09658.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -3310,7 +3310,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELELLEQTCFEMNVPIPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGVNTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LVEN
 THL------------
->YP_009244708.1|chlN
+>YP_009244708.1_AMK96950|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -3333,7 +3333,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRIL-VCQN---------------------------------------
 ---------------
->SCW21893.1|chlN
+>SCW21893.1_SCW21893.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TFS---------------------------------------------------------
@@ -3356,7 +3356,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYMDKRYQSAELNLLRDTCTKMNVKMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDIL
 ELVTRPL-----RRNN-KLKD-----------I-T-------SDT-----------YVKS
 ESKR-----------
->YP_010336689.1|chlN
+>YP_010336689.1_UNJ15095|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MVK---------------------------------------------------------
@@ -3379,7 +3379,7 @@ KSVFFMGDNLLEISLARFLAS-CGMHVYEVGIPYMDKRYQAAELKLLQEVCEQKQTITPR
 IVEKPDNYNQLNRIFDLQPDLVITGMAHANPLEARNINTKWSVEFTFAQIHGFTNAAEIL
 KLVTRPL-----KRKL-PEFK-----------L-L-------PQE---------------
 ---------------
->YP_009532099.1|chlN
+>YP_009532099.1_AXZ97328|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 K-----------------------------------------------------------
@@ -3402,7 +3402,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYLDKRYQAAELALLEQTCKEMNVPMPK
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNV----------------ISS-------NACKTT--GNNGASLVA-
 ---------------
->AIT93474.1|chlN
+>AIT93474.1_AIT93474.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MC
 -K----------------------------------------------------------
@@ -3425,7 +3425,7 @@ KSVFFMGDNLLEVSLARFLMR-CGMVVYEIGIPYMDKRFQAAELSLLEKTCKEVNSPMPR
 IIEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGVSTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLES-----------L-E-------WTK-----------LVKS
 -L-------------
->YP_007890189.1|chlN
+>YP_007890189.1_AFY64458|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TLQSK-------------------------------------------------------
@@ -3448,7 +3448,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNL----------------MCS-------LTTKAK--GNKTASLAA-
 ---------------
->QFK68975.1|chlN
+>QFK68975.1_QFK68975.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3471,7 +3471,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDRRYQAAELALLEETCCQMNVPIPR
 IVEKPDNYYQISRIQELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 NLVTRPL-----RRNQ-NIDS-----------F-SFSLNSK-NNG-----------FVQT
 DNF------------
->ACQ90919.1|chlN
+>ACQ90919.1_ACQ90919.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -NI---------------------------------------------------------
@@ -3494,7 +3494,7 @@ KSIFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAGEISLLEQTCKKMNVPLPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-ALDT-----------L-G-------WAQ-----------LIK-
 ---------------
->AHZ11223.1|chlN
+>AHZ11223.1_AHZ11223.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 -S----------------------------------------------------------
@@ -3517,7 +3517,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMLVYEIGIPYMDKRYQAAELALLQKTCQDMNVPLPR
 IVEKPDNYSQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-SLES-----------L-G-------WAG-----------LVKN
 -KTDQSYT-------
->WDY12765.1|chlN
+>WDY12765.1_WDY12765.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3540,7 +3540,7 @@ KSVFFMGDNLFEISLARFLIR-CGMTVYEIGIPYMDKRFQAAELNLLEKTCIQMNVPMPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRHQ-SLQQ-----------L-G-------WAT-----------LIKS
 ---------------
->WAM64305.1|chlN
+>WAM64305.1_WAM64305.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -3563,7 +3563,7 @@ KSVFFMGDNLLEISLARFLIR-SGMTVFEIGIPYMDKRYQGAELNLLQQTCKEKHIPIPI
 IVEKPDNYNQVDRIREMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLKE-----------I-G-------SQL-----------YTDL
 R--------------
->WDA99518.1|chlN
+>WDA99518.1_WDA99518.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLQ---------------------------------------------------------
@@ -3586,7 +3586,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQSAELNLLEKTCKEMNVIYPK
 IVEKPDNQNQLERISDLQPDIVITGMAHANPLEARGINTKWSVEFTFAQIHGFANCRDIL
 ELVTRPL-----RRNN-TLNQ-----------L-G-------WNN-----------YVET
 TK-------------
->WKT07678.1|chlN
+>WKT07678.1_WKT07678.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -3609,7 +3609,7 @@ KSVFFMGDNLLEISLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLHSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->WKT07679.1|chlN
+>WKT07679.1_WKT07679.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -3632,7 +3632,7 @@ KSVFFMGDNLLEISLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLHSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->UXC96669.1|chlN
+>UXC96669.1_UXC96669.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MSSTE
 ------------------------------------------------------------
@@ -3655,7 +3655,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCKQMNVSMPL
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVSQ
 IQPNR----------
->BCD52432.1|chlN
+>BCD52432.1_BCD52432.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TFS---------------------------------------------------------
@@ -3678,7 +3678,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELALLEQTCMKMKVKIPK
 IVEKPDNYNQIDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPI-----RRNN-NLGE-----------L-G-------AQI-----------YSTV
 D--------------
->XCM63627.1|chlN
+>XCM63627.1_XCM63627.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NS----------------------------------------------------------
@@ -3701,7 +3701,7 @@ KSIFFMGDNLLEISLARFLAR-CGMIIYEIGIPYMDKRFQKAELELLEKTCKSMNIPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-ALKNLGVGDDQLLNSL-G-------FNK-----------LVKS
 -EVI-----------
->AIT95484.1|chlN
+>AIT95484.1_AIT95484.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -3724,7 +3724,7 @@ KSVFFMGDNVFEIALARFLIR-CGMIVYEIGIPYMDRRFQSSELDLLEKTCYEMGVPLPK
 IVEKPDNYQQLQRIRSLHPDLVITGMAHANPLEARGITTKWSVEFTFTQIHGFSNTREIL
 ELVSRPL-----RRNK-ALNA-------SKEWFNF-------ESN---------QELVLS
 NK-------------
->BFV53295.1|chlN
+>BFV53295.1_BFV53295.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STA---------------------------------------------------------
@@ -3747,7 +3747,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 N--------------
->YP_009646181.1|chlN
+>YP_009646181.1_QBX97685|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -3770,7 +3770,7 @@ KSVFFMGDNLLEVSLARFLIK-CGMVVYEIGIPYMDRRYQMAELELLKQTCEEQGVPLPR
 IVEKPDNYNQVQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNTKDLL
 ELVTRPL-----RRNA-KLEE-----------V-D-------QPQ-----------HIK-
 --FAID---------
->YP_009667522.1|chlN
+>YP_009667522.1_QCW57825|chlN
 ------------------------------------------------------------
 ---------------------------MNLKYI----------------------ENTMN
 KKKTSQ------------------------------------------------------
@@ -3793,7 +3793,7 @@ KSVFFMGDNLLEISLSRFLIS-CGMIVYEIGIPYLDRRYQAAELALLEKTCIKMKVPMPR
 IVEKPDNIYQVARVKALNPDLVVTGLSNANPLLYRNINVKWSTELVFSCIHGFTNTADLL
 AIMTRPL-----QRDS-VLQN-----------I---------------------NKFS--
 ---------------
->ANS72335.1|chlN
+>ANS72335.1_ANS72335.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ITQ---------------------------------------------------------
@@ -3816,7 +3816,7 @@ KSVFFMGDNLLEISLARFLLR-AGMIVFELVFHIWIKRYQGAELELLQKTCKEKKVPFPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEIL
 ELVTRPL-----RRNQ-KLQK-----------I-G-------SQQ-----------YTDR
 R--------------
->ANG44383.1|chlN
+>ANG44383.1_ANG44383.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -3839,7 +3839,7 @@ KSVFFMGDNLLEISLARFLVK-CGMIVYEIGIPYMDKRFQSAELILLEKTCNEMNVPIPR
 IVEKPDNYNQIQRIRELQPDLAITGLAHANPLEARNITTKWSVEFTFAQIHGFTNARDLL
 ELVTRPL-----RRNQ-NLKY-----------L-G-------WSQ-----------LVNS
 -QLIQ----------
->AXZ97259.1|chlN
+>AXZ97259.1_AXZ97259.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MY
 TLKSK-------------------------------------------------------
@@ -3862,7 +3862,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNV----------------MS-----------------NNSVSIC--
 ---------------
->ACS95101.1|chlN
+>ACS95101.1_ACS95101.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 KNK---------------------------------------------------------
@@ -3885,7 +3885,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRFQAGELALLEKTCIKMKVPFPR
 IVEKPDNYYQIQRIKELKPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTKDLL
 ELVSRPL-----RRNK-NLEN--------HDSL-S-------KTF----------ALQ--
 ---------------
->AUG32867.1|chlN
+>AUG32867.1_AUG32867.1|chlN
 --------------------------------------------------------MGGV
 ----------------------------------------------------SCITAPMP
 MSP---------------------------------------------------------
@@ -3908,7 +3908,7 @@ KRIFFLPDSQLEIPLARFLCRECGMDLVEVGVPYLDRQIMAPELALLPQNTP--------
 ISEGQHVEYQLERVRNSSPDLVVCGMGLANPLEAEGITTKWSIELVFSPIHGCDQAADLA
 ELFTRPL----SRRSL----------------L--------RWE----------------
 ---------------
->YP_009314457.1|chlN
+>YP_009314457.1_SCW22711|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLS---------------------------------------------------------
@@ -3931,7 +3931,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELKLLEKTCSEMQVKVPK
 IIEKPDNYNQIDRIKDLRPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELITRPI-----RRNK-KLEN-----------I-G-------NHL-----------YSTQ
 D--------------
->UZA61409.1|chlN
+>UZA61409.1_UZA61409.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 PYE---------------------------------------------------------
@@ -3954,7 +3954,7 @@ KTVFFMGDNLLEISLARFLIR-CGMTVSEIGIPYMDKRFQSGELSLLEKTCYDMKVPLPR
 IVEKPDNYYQIQRIKELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRNQ-NLGS-------FHQTF-G-------GAQG----------FANR
 P--------------
->BBD21558.1|chlN
+>BBD21558.1_BBD21558.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -3977,7 +3977,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQFLEKTCQEMNVPMPR
 IVEKPDNSNQIQRIRAMKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFINARDIL
 ELVTRPL-----RRNK-HLND-----------L-G-------WSE-----------LVIE
 KSFV-----------
->QJD22251.1|chlN
+>QJD22251.1_QJD22251.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -N----------------------------------------------------------
@@ -4000,7 +4000,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELDFLEKTCQELNVPMPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALEN-----------L-G-------WNQ-----------LVKI
 ---------------
->AOW70769.1|chlN
+>AOW70769.1_AOW70769.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 QKQ---------------------------------------------------------
@@ -4023,7 +4023,7 @@ KSVFFMGDNLLEISLARFLIR-CGMYVYEIGIPYLDKRYQAAELTLLEKTCKDMGTFLPV
 IVEKPDNYNQLNRIKDLQPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNGRNIL
 DLICKPL-----ERQT-TFNE-----------L-G-------WKN-----------YHTI
 A--------------
->UTE95025.1|chlN
+>UTE95025.1_UTE95025.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NIQ---------------------------------------------------------
@@ -4046,7 +4046,7 @@ RSIFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLEKTCLEMGTFIPK
 IVEKPDNYNQIDRIREMEPDLVITGMANANPLEARGINTKWSVEFTFSQIHGFTNARDIL
 ELITQPL-----KRNR-NLQE-----------L-G-------WNQ-----------YNTK
 DK-------------
->UTE95073.1|chlN
+>UTE95073.1_UTE95073.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NIQ---------------------------------------------------------
@@ -4069,7 +4069,7 @@ RSIFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLEKTCLEMGTFIPK
 IVEKPDNYNQIDRIREMEPDLVITGMANANPLEARGINTKWSVEFTFSQIHGFTNARDIL
 ELITQPL-----KRNR-NLQE-----------L-G-------WNQ-----------YNTK
 DK-------------
->UEQ11970.1|chlN
+>UEQ11970.1_UEQ11970.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTI---------------------------------------------------------
@@ -4092,7 +4092,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVHEIGIPYMDKRYQGAELSLLEQTCQEMHTRIPK
 IIEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFASIHGFANARDVL
 ELVTRPL-----KRNL-NVEV-----------I-P--------ST-----------FSKI
 Y--------------
->AGQ17031.1|chlN
+>AGQ17031.1_AGQ17031.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -4115,7 +4115,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKVTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->YP_011006039.1|chlN
+>YP_011006039.1_WAM63043|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -4138,7 +4138,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->AIG92619.1|chlN
+>AIG92619.1_AIG92619.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLQ---------------------------------------------------------
@@ -4161,7 +4161,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQNAELNLLEKTCKEMNVIYPK
 IVEKPDNQNQLERIYDLQPDIVITGMAHANPLEARGINTKWSVEFTFAQIHGFANCRDIL
 ELVTRPL-----RRNN-TLSK-----------L-G-------WNN-----------YVET
 TKY------------
->AIT95568.1|chlN
+>AIT95568.1_AIT95568.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -4184,7 +4184,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQAAELALLERTCHEMDVPIPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WTS-----------LVKS
 -NL------------
->BFV51608.1|chlN
+>BFV51608.1_BFV51608.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SKV---------------------------------------------------------
@@ -4207,7 +4207,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEVGIPYMDKRYQAAELALLKTTCDEMNIMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WNV-----------YSKQ
 S--------------
->AWI68028.1|chlN
+>AWI68028.1_AWI68028.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -4230,7 +4230,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLQKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->YP_009315683.1|chlN
+>YP_009315683.1_SCW24341|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLA---------------------------------------------------------
@@ -4253,7 +4253,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQSAEIQLLTDTCKKMKVNMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAQDIL
 ELITKPL-----RRNT-SIHN-------------G-------DNI-----------YIKS
 ---------------
->BDA99252.1|chlN
+>BDA99252.1_BDA99252.1|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MNLDLN-
 ETS---------------------------------------------------------
@@ -4276,7 +4276,7 @@ KSVFFMGDNLLEISLSRFLIR-CGMIVHEIGIPYMDKRYQSSELLLLEKTCLEMGVKIPI
 IVEKPDNYKQLQRIRELQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDVL
 ELVTRPL-----RRNG-SLQQ-----------L-A-------WNS-----------YTLV
 K--------------
->WKT07571.1|chlN
+>WKT07571.1_WKT07571.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -4299,7 +4299,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->WKT07572.1|chlN
+>WKT07572.1_WKT07572.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -4322,7 +4322,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->WVM33040.1|chlN
+>WVM33040.1_WVM33040.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 VSSS--------------------------------------------------------
@@ -4345,7 +4345,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVYEIGIPYLDRRFQAAELEFLQETCQEMNVPIPR
 IVEKPDNLYQLQRIRSLNPDLVITGLAVSNPLQYRGINTKWSTELVFSLIHGFTNAKDLL
 ALITRPL-----VRDN-VLGN-----------I---------------------PV----
 ---------------
->QBX98034.1|chlN
+>QBX98034.1_QBX98034.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -4368,7 +4368,7 @@ KSVFFMGDNLLEVSLARFLIK-CGMVVYEVGIPYMDRRYQMAELDLLKATCEEKGVPFPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNTKDIL
 ELVTRPL-----RRNA-KLEE-----------V-G-------QTQ-----------HIK-
 --LAMD---------
->QUE27794.1|chlN
+>QUE27794.1_QUE27794.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TIQ---------------------------------------------------------
@@ -4391,7 +4391,7 @@ KSVFFMGDNLLEISIARFLIN-CGMTVYEIGIPYMDKRYQAAELKLLETVCHKKNTMMPR
 IVEKPDNYNQIDRIYDLSPDLVITGMAHANPLEARNIHTKWSVEFTFSQIHGFSNAVEIL
 NLVTRPL-----KRTA-KLEV-----------S-R-------LTT-----------I---
 ---------------
->YP_009184635.1|chlN
+>YP_009184635.1_ALO62700|chlN
 ------------------------------------------------------------
 --------------------------------------------------MKSTAVRSMR
 TYAVL-------------------------------------------------------
@@ -4414,7 +4414,7 @@ KSVFLMGDNLLEVSLGRFLTR-CGMQVYEVGIPYLDRRFQESELRLFQQTCEQMNMPLPP
 IVEKPDNYYQIQRIRELAPDLVITGMAHANPLEARGIATKWSVEFTFAQIHGFSNSRTIL
 ELITKAL-----TRHS-KLAL-----------I-G-------------------------
 ---------------
->AST08782.1|chlN
+>AST08782.1_AST08782.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -N----------------------------------------------------------
@@ -4437,7 +4437,7 @@ KSVFFMGDNLLEISLARFLVR-CGMVVYEIGIPYLDKRFQSAELKFLETTCLEMNVAMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALES-----------L-G-------WNQ-----------LVKS
 ---------------
->QKN19237.1|chlN
+>QKN19237.1_QKN19237.1|chlN
 --------MTKVIIRQKGV--------RCSYTQV------LLLQRP--------KVMC--
 -----YVATVWS--LLFLEK---------------------------------FNTVFMF
 TLQSK-------------------------------------------------------
@@ -4460,7 +4460,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNR----------------MCS-------LTTKPK--GNQIASLVA-
 ---------------
->ARO74082.1|chlN
+>ARO74082.1_ARO74082.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -4483,7 +4483,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDRRYQSAELELLESTCHMMNVPIPR
 IVEKPDNYNQIQRIRELQPDLVITGMGLANPLESRGISTKWSVEFTFAQIHSFTNASDIL
 ELITRPL-----RRNT-NIQK-----------L-E-------TIKN--------YVYL--
 ---------------
->WKT08114.1|chlN
+>WKT08114.1_WKT08114.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -4506,7 +4506,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->WKT08115.1|chlN
+>WKT08115.1_WKT08115.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -4529,7 +4529,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->ASO75878.1|chlN
+>ASO75878.1_ASO75878.1|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MSDNLD-
 LQ----------------------------------------------------------
@@ -4552,7 +4552,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVKEIGIPYMDKRYQGAELKLLQQTCQDMGIPLPS
 IVEKPDNYKQLERIREYKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNN-SLQQ-----------L-A-------WNS-----------YTNI
 KI-------------
->WEA76773.1|chlN
+>WEA76773.1_WEA76773.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTFTK-
 QTK---------------------------------------------------------
@@ -4575,7 +4575,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMTVYEIGIPYMDKRYQKAELDLLEATCKKMKVMMPK
 IVEKPDNYNQLDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNSRDIL
 ELVTRPL-----RRNS-KLPN-----------L-D-------FA----------------
 ---------------
->SCW23934.1|chlN
+>SCW23934.1_SCW23934.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TSA---------------------------------------------------------
@@ -4598,7 +4598,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQKGELELLAFTCNQMNVKIPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAHDIL
 ELITRPL-----RRNT-GLKN-----------I-S-------SNI-----------YVAN
 ESNI-----------
->AQZ25011.1|chlN
+>AQZ25011.1_AQZ25011.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 NIK---------------------------------------------------------
@@ -4621,7 +4621,7 @@ KSVFFMGDNLLEISLARFLIK-AGMVVFEIGIPYMDKRYQGAELQLLQQTCKEKKIPIPI
 IIEKPDNYNQVDRIREIRPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-NLEK-----------L-G-------SQH-----------YTDL
 R--------------
->YP_011005533.1|chlN
+>YP_011005533.1_WAM62396|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 TLN---------------------------------------------------------
@@ -4644,7 +4644,7 @@ KSVFFMGDNLLEISLARFLIK-AGMIVFEIGIPYMDRRYQGAELQLLEKTCLEQQIPIPI
 IIEKPDNYNQIDRIREIQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEIL
 ELVTRPL-----RRNQ-KLKE-----------I-S-------CQR-----------YTDK
 R--------------
->BBK20594.1|chlN
+>BBK20594.1_BBK20594.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 LPL---------------------------------------------------------
@@ -4667,7 +4667,7 @@ KSIFFMGDNLLELSLARFFIR-CGMKVHEIGVPYIDKRYQSSELALLEKTCSDMGVDFPT
 IVEKPDNYKQLKRIRALQPDLVVTGMSMANPLEARGINTKWSVEFTFTHIHGFTNSRSVL
 ELITKPI-----RRNL-SMQQ-----------L-A-------WNS--------YSLLI--
 ---------------
->YP_010206641.1|chlN
+>YP_010206641.1_UAX20815|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -4690,7 +4690,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->NP_050911.1|chlN
+>NP_050911.1_AAD54882|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 SDQV--------------------------------------------------------
@@ -4713,7 +4713,7 @@ KSAFLMGDNLLEISLARFLIR-CGMIVHEVGIPYMDARFQAAELHLLMRTCEAAHVPMPR
 IVTKPDNFYQVQRMRDVQPDLAITGMAHANPLEARGTGTKWSVELTFWQLHGFASAKDLL
 ELVTRPL-----RRTH--------------------------------------------
 ---------------
->NP_050936.1|chlN
+>NP_050936.1_AAD54907|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 SDQV--------------------------------------------------------
@@ -4736,7 +4736,7 @@ KSAFLMGDNLLEISLARFLIR-CGMIVHEVGIPYMDARFQAAELHLLMRTCEAAHVPMPR
 IVTKPDNFYQVQRMRDVQPDLAITGMAHANPLEARGTGTKWSVELTFWQLHGFASAKDLL
 ELVTRPL-----RRTH--------------------------------------------
 ---------------
->YP_009294121.1|chlN
+>YP_009294121.1_AOM67363|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTK---------------------------------------------------------
@@ -4759,7 +4759,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGVPYMDKRYQAAELALLQKTCQDMNTIIPR
 IVEKPDNYNQLERIHELKPDLVITGMAYANPLEARGTNTKWSVEFTFSQIHGFVNTQEIL
 QLVTKPL-----LRNA-IFNS-----------P-V-------PIL-----------Y--N
 TKN------------
->AMP43443.1|chlN
+>AMP43443.1_AMP43443.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4782,7 +4782,7 @@ KSIFFMGDNLLEISLARFLLR-CGMIVYEIGIPYMDQRFQKPELELLEQICQKFDLFMPR
 IVEKPDNYYQIHRIRELQPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFSNARDLL
 ELITRPL-----RRNE-S------------------------------------------
 ---------------
->AMP43452.1|chlN
+>AMP43452.1_AMP43452.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -4805,7 +4805,7 @@ KSIFFMGDNLLEISLARFLLR-CGMIVYEIGIPYMDQRFQKPELELLEQICQKFDLFMPR
 IVEKPDNYYQIHRIRELQPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFSNARDLL
 ELITRPL-----RRNE-S------------------------------------------
 ---------------
->YP_009646110.1|chlN
+>YP_009646110.1_QBX97614|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -4828,7 +4828,7 @@ KSVFFMGDNLLEVSLARFLIK-CGMVVYEIGIPYMDRRYQMAELELLKQTCEEKGVPIPR
 IVEKPDNYNQIQRIRELKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNTKDIL
 ELVTRPL-----RRNA-KLGE-----------V-G-------QSQ-----------HIK-
 --FAMD---------
->AWI68307.1|AWI68307.1
+>AWI68307.1_AWI68307.1|AWI68307.1
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -4851,7 +4851,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->WVM32879.1|chlN
+>WVM32879.1_WVM32879.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 VST---------------------------------------------------------
@@ -4874,7 +4874,7 @@ KSVFFMGDNLLEISLARFLIK-AGMIVYEIGIPYLD-----------QKTCLEMNVPIPR
 IVEKPDNMFQLQRIRSLNPDLVITGLAV----------------IVFSLIHGFTNAKDLL
 ALITRPL-----VREN-VLQS-----------I---------------------PV----
 ---------------
->QRG32198.1|chlN
+>QRG32198.1_QRG32198.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 TEQ---------------------------------------------------------
@@ -4897,7 +4897,7 @@ KSVFFMGDNLLEISLARFFIR-CGMSVYEIGIPYLDKRYQGGELALLEKTCQEMGTFLPV
 IVEKPDNYNQLNRIKDLHPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 DLICKPL-----QRQT-TFKE-----------L-G-------WKN-----------YHTL
 V--------------
->ACK36794.1|chlN
+>ACK36794.1_ACK36794.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 KTNFISY-----------------------------------------------------
@@ -4920,7 +4920,7 @@ KTVFFMGDSLLEIALARFLIR-SGVVVQEIGIPFLDQRYQAAELQLLQQTCKELDVTMPV
 IVHKPDNYFQLKRIQALQPDLVITGMAHANPIEARGITTKWSVEFVFSQIHGFTNAGNLV
 TLLSKPL-----SRHN-SLAE-----------L-G-------WTE-----------IV--
 ---------------
->YP_010728881.1|chlN
+>YP_010728881.1_WEA76970|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTFTK-
 QSE---------------------------------------------------------
@@ -4943,7 +4943,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRYQKAELDLLEETCKKMQVMMPK
 IVEKPDNYNQLDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNSRDIL
 ELVTRPL-----RRNS-SLPN-----------L-D-------FI----------------
 ---------------
->AVZ00602.1|chlN
+>AVZ00602.1_AVZ00602.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 IKQ---------------------------------------------------------
@@ -4966,7 +4966,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVFEIGIPYMDKRYQGAELDLLQKTCKIKNLPLPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEIL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQQ-----------YTDR
 R--------------
->YP_009315072.1|chlN
+>YP_009315072.1_SCW23527|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 QAS---------------------------------------------------------
@@ -4989,7 +4989,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQKAEIELLTQTCHKMGVKIPK
 IVEKPDNYNQLDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFTNAKDIL
 ELITRPL-----RRNN-GLKN-----------I-S-------DNI-----------YITH
 NSKH-----------
->YP_010447330.1|chlN
+>YP_010447330.1_UTN43250|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -5012,7 +5012,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELKLLEKTCHEMNVSMPR
 IVEKPDNYNQIQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFSNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSK-----------LAT-
 ---------------
->QAA11441.1|chlN
+>QAA11441.1_QAA11441.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 IQS---------------------------------------------------------
@@ -5035,7 +5035,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRYQAAELALLEKTCLEQGQFIPM
 IVEKPDNYNQIDRIKDLQPDLVITGMANANPLEARGLRTKWSVEFTFAHVHGFKNAHNIL
 ELISRPL-----RHLP-KFED-------------Q-------LLE-----------YATN
 ---------------
->QBX98244.1|chlN
+>QBX98244.1_QBX98244.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QNTKVK------------------------------------------------------
@@ -5058,7 +5058,7 @@ KSVFLIGDNLLEISLARFLIK-CGIIVYEIGIPYLDQRFQAAELALLETTCHEINVPIPK
 IVEKPDNYNQVQRIRELRPDLVITGIAHANPLEARGISTKWSVEFTFAQIHGFGNANDIL
 ELVTRPL-----RRNN-TLD--------------Q-------FNNN----------YSTE
 SWSNQKNWS------
->YP_009550386.1|chlN
+>YP_009550386.1_QAA11316|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 SDQ---------------------------------------------------------
@@ -5081,7 +5081,7 @@ KSIFFMGDNLLEISLARFLIR-CGMIVFEIGIPYMDKRYQGAELAFLEKTCESMGVFLPI
 IVEKPDNYNQVDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 ELISKPL-----LRKN-ITGK-----------V-F-------V-----------------
 ---------------
->WVM32968.1|chlN
+>WVM32968.1_WVM32968.1|chlN
 --------------------------------------------------------MC--
 ----PY-----------------NEYSVSKKKIIN------------------ATNNALE
 KNSLN-------------------------------------------------------
@@ -5104,7 +5104,7 @@ KSVFFMGDNF--------------------------------------------------
 ----------------LNPDLVITGLAVSNPLQYRGINTKWSTELVFSLIHGFTNSKDLL
 ALITRPL-----VREN-VLQS-----------I---------------------PA----
 ---------------
->YP_003227063.1|chlN
+>YP_003227063.1_ACX33753|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -5127,7 +5127,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQSAELELLETTCYKMNVPIPR
 IVEKPDNYNQIQRIRELQPDLVITGMGLANPLESRGINTKWSVEFTFAQIHSFTNARDIL
 ELVTRPL-----RRNK-NLQK-----------L-E-------TIKN--------YVYLQS
 ---------------
->QUO99261.1|chlN
+>QUO99261.1_QUO99261.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -5150,7 +5150,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELSLLEQTCFEMNVPIPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGVNTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LVEN
 ---------------
->YP_010932801.1|chlN
+>YP_010932801.1_WKT06698|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -5173,7 +5173,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LIQS
 -PA------------
->YP_010932815.1|chlN
+>YP_010932815.1_WKT06699|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -5196,7 +5196,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LIQS
 -PA------------
->QSV37329.1|chlN
+>QSV37329.1_QSV37329.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 RLT---------------------------------------------------------
@@ -5219,7 +5219,7 @@ RSIFFMGDNLLEVSLARFLAR-CGMTILEVGVPYVDRRFQGPEIQFLEQTCQEMDLLMPR
 IVEKPDNYYQVHRIHAVRPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFTNARDIL
 KLIQRPL-----ERNQ-SLDQ-----------L-G-------WST-----------LTRE
 PALT-----------
->AYC64910.1|chlN
+>AYC64910.1_AYC64910.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MYKNKD
 ------------------------------------------------------------
@@ -5242,7 +5242,7 @@ KSLFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELKLLEQTCKDMKVLIPR
 IVEKPDNYNQIQRIKSLKPDLVVTGLAHSNPLEARGITTKWSVEFTFAQIHGFSNARDIL
 ELITRPL-----RRNN-HLKD-----------L-G-------WST-----------LIVE
 ---------------
->WDA98850.1|chlN
+>WDA98850.1_WDA98850.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TFR---------------------------------------------------------
@@ -5265,7 +5265,7 @@ KSVFFMGDNLLEISLARFLVN-CGMRVYEIGIPYMDKRYQAAELHLLEKACINMHSPMPK
 IVEKPDNYNQVQRIHSLKPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFASTKDIL
 ELVTRPL-----RRNN-NLKF-----------L-D-------WDL-----------YISG
 NKS------------
->BDA98809.1|chlN
+>BDA98809.1_BDA98809.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5288,7 +5288,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVQEIGIPYMDKRYQGGELSLLEKTCREMGVSIPI
 IVEKPDNYKQLERIRKLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNS-SLQQ-----------L-A-------WNS-----------YSTL
 Q--------------
->AOP19263.1|chlN
+>AOP19263.1_AOP19263.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MPFTE
 ------------------------------------------------------------
@@ -5311,7 +5311,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELNLLEKTCQQMNVSMPR
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------F-G-------SAKR---------ALVRT
 L--------------
->AID67759.1|chlN
+>AID67759.1_AID67759.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTT---------------------------------------------------------
@@ -5334,7 +5334,7 @@ KSVFFMGDNLLEVSLARFLIK-CGMIVYEVGIPYMDRRYQLAELELLKKTCEEKGVPFPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNTKDIL
 ELVTRPL-----RRNA-KLEQ-----------V-G-------QTQ-----------HIK-
 --LAMDENKV-----
->WAM64735.1|chlN
+>WAM64735.1_WAM64735.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 PIK---------------------------------------------------------
@@ -5357,7 +5357,7 @@ KSVFFMGDNLLEISLARFLIR-SGMVVFEIGIPYMDKRYQGAELQLLQKTCKDQNLPIPI
 IIEKPDNYNQIDRIRDMRPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-NLEK-----------I-G-------SQN-----------YTDR
 R--------------
->YP_009130569.1|chlN
+>YP_009130569.1_CEO91099|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -5380,7 +5380,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYMDKRFQGSELNLLEKTCYEMNVPLPH
 IVEKPDNYNQIQRIRALKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSK-----------LVAK
 ---------------
->UNJ17118.1|chlN
+>UNJ17118.1_UNJ17118.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 TSN---------------------------------------------------------
@@ -5403,7 +5403,7 @@ KTIFFMGDNLLEISLARFFIR-AGMIVHEIGIPYIDKRFQSAELLFLEETCNYKEVIVPR
 IIEKPDNISQIDRIYDLQPDLIITGMAHANPLEAKGFNTKWSVEFTFTHIHGFTNAKDIL
 HLITKPI-----LRNF---------YKQVSGNI-----------------------L---
 ---------------
->UXE30979.1|chlN
+>UXE30979.1_UXE30979.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 -T----------------------------------------------------------
@@ -5426,7 +5426,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQSAELELLEKTCIEMNVPIPR
 IVEKPDNYNQIQRIRDLQPDLAITGLAHANPLEARNITTKWSVEFTFAQIHGFTNARDLL
 ELVTRPL-----RRNQ-SLKS-----------L-G-------WSQ-----------LVNT
 -QLN-----------
->YP_010451138.1|chlN
+>YP_010451138.1_UTV00919|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 SKQ---------------------------------------------------------
@@ -5449,7 +5449,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVFEIGIPYMDKRYQGAELLLLEKTCEEKGVFLPI
 IVEKPDNYNQIDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 DLISKPL-----LRNL--NKD-----------T-Y-------FSH---------------
 ---------------
->YP_009326872.1|chlN
+>YP_009326872.1_ANJ70846|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -5472,7 +5472,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVNEIGIPYLDKRFQASELQLLKQTCQQMQCSLPR
 IVEKPDNYNQIQRIHEFQPDLVITGMGLANPLESRGINTKWSVEFTFAQIHGFFNASDIL
 ELVTRPL-----RRNS-KIFK---------------------------------------
 ---------------
->SCW21277.1|chlN
+>SCW21277.1_SCW21277.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SFI---------------------------------------------------------
@@ -5495,7 +5495,7 @@ KSVFFMGDNLLEISLARFLTR-CGMTVYEIGIPYMDKRYQSAELNLLRQTCSDMNVKMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNN-KIKS-----------I-T-------NDP-----------NPCI
 ENRVTS---------
->UVF62845.1|chlN
+>UVF62845.1_UVF62845.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTFTK-
 QTE---------------------------------------------------------
@@ -5518,7 +5518,7 @@ KSVFFMGDNLLEVSLARFLIA-CGMIVYELGIPYMDKRYQRAELDLLEQTCRKMQVMMPK
 IIEKPDNYNQLDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFSNSRDIL
 ELVTRPM-----RRNN-SLPN-----------V-D-------FV----------------
 ---------------
->WOK79371.1|chlN
+>WOK79371.1_WOK79371.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLS---------------------------------------------------------
@@ -5541,7 +5541,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAELALLRQTCLDMQVKIPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFTNTKDIL
 ELVTRPL-----RRNS-NLKE-----------V-S-------SEI-----------YSTK
 Y--------------
->YP_009674998.1|chlN
+>YP_009674998.1_QDH81849|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 RKPKI-------------------------------------------------------
@@ -5564,7 +5564,7 @@ KSVVLMGDNLLELSLARFLIK-CGMTVYEIGLPYLDPRYQNEELNLLYKTCIEMNVRLPH
 IIEKPDNYNQIERIQDLQPDLVITGMAQANPLEAQGITTKWSVEFTFSQIHGFMHAKDVL
 ELVTRPM-----RRKL-LLHE-------------T-------YTKKIDQTNNVPKLFVV-
 ---------------
->QWK41844.1|chlN
+>QWK41844.1_QWK41844.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 LIS---------------------------------------------------------
@@ -5587,7 +5587,7 @@ KSVFFMGDNLLEISLARFLIK-SGMIVFEIGIPYMDKRYQGAELQLLQQTCKEQHIPIPI
 IIEKPDNYNQVDRIREMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEQ-----------I-G-------SQL-----------YTDR
 R--------------
->WDY13264.1|chlN
+>WDY13264.1_WDY13264.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -5610,7 +5610,7 @@ KSVFFMGDNLFEISLARFLIR-CGMTVYEIGIPYMDRRFQAAELAFLEKTCQEMGVPVPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNR-SLQE-----------L-G-------WAE-----------LVK-
 ---------------
->AOS86641.1|chlN
+>AOS86641.1_AOS86641.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MT---------------------------------------------------------
@@ -5633,7 +5633,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYLDNRYQNAELLLLEQTCYEKNIMIPQ
 IVEKPDNYNQIERIRALKPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFSNAKDIL
 ELITRPL-----RRNK-EFEV-----------R-G-------WNQ-----------F-ST
 KL-------------
->YP_009105497.1|chlN
+>YP_009105497.1_AIT94124|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -5656,7 +5656,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELSLLEKTCQEMDVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFSNSRDIL
 ELVTRPL-----RRNQ-SLEG-----------L-G-------WTK-----------LVKS
 -AL------------
->AVV61542.1|chlN
+>AVV61542.1_AVV61542.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NFI---------------------------------------------------------
@@ -5679,7 +5679,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAAELALLEKTCLQMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 NLVTRPL-----RRNQ-NIDS-------FSSSL-G-------SNN---------QGFVQT
 NESLVSF--------
->BFV52405.1|chlN
+>BFV52405.1_BFV52405.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -5702,7 +5702,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 N--------------
->YP_010580354.1|chlN
+>YP_010580354.1_UZS90738|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 T-----------------------------------------------------------
@@ -5725,7 +5725,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEIGIPYLDKRFQAAELALLQQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAREIL
 ELVTRPL-----RRNE----------------MSM------------N--FNNTVNI---
 ---------------
->BAM85993.1|chlN
+>BAM85993.1_BAM85993.1|chlN
 ----------------------------MSYT----------------------------
 ----------------------------------------------------------NY
 IFKST-------------------------------------------------------
@@ -5748,7 +5748,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRFQAAELALLEQTCKEMNVLMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAREIL
 ELVTRPL-----RRNL----------------MS-----------------NYSVSIC--
 ---------------
->YP_009730819.1|chlN
+>YP_009730819.1_QAY81056|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -5771,7 +5771,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNVPIPI
 IVEKPDNFNQVDRIRAMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNH-KLDK-----------I-S-------SER-----------YTDH
 R--------------
->BCA78195.1|chlN
+>BCA78195.1_BCA78195.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 TIKSK-------------------------------------------------------
@@ -5794,7 +5794,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYLDKRFQAAELALLEQTCKEMNVPMPK
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAREIL
 ELVTRPL-----RRNN----------------SIT-------YSSV-----DTKTSLIPL
 ---------------
->QWK41689.1|chlN
+>QWK41689.1_QWK41689.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTK---------------------------------------------------------
@@ -5817,7 +5817,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQL-----------YTDR
 R--------------
->QDE53608.1|chlN
+>QDE53608.1_QDE53608.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -N----------------------------------------------------------
@@ -5840,7 +5840,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELDFLEKTCHQLNVSMPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-ALQN-----------L-G-------WNQ-----------LVKS
 ---------------
->WLG71275.1|chlN
+>WLG71275.1_WLG71275.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ------------------------------------------------------------
@@ -5863,7 +5863,7 @@ KSVFFMGDNLLEISLARFLVS-CGMTVYEIGIPYMDKRFQAAELALLEKTCILKNVPIPL
 IVEKPDNYYQVQRIRELMPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFTNAREIL
 ELVTRPL-----RRNQ-SLDA-----------L-G-------WTS-----------LIMQ
 -N-------------
->UWM13054.1|chlN
+>UWM13054.1_UWM13054.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NFL---------------------------------------------------------
@@ -5886,7 +5886,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRYQAAELSLLEKTCFEMNVPFPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFSQIHGFTNARDIL
 DLVTRPL-----RRNQ-NIQM-------FSEFQ-N-------AKN---------PSFVQN
 S--------------
->BBK20391.1|chlN
+>BBK20391.1_BBK20391.1|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MNSQVV-
 TES---------------------------------------------------------
@@ -5909,7 +5909,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVCEIGIPYMDKRYQASELLLLEKTCLEMGVKVPS
 IVEKPDNYKQLERIRILKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDVL
 ELVTRPL-----RRNA-SLQQ-----------L-A-------WNS-----------YTLE
 K--------------
->BFV52227.1|chlN
+>BFV52227.1_BFV52227.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SKV---------------------------------------------------------
@@ -5932,7 +5932,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEVGIPYMDKRYQAAELALLKTTCDEMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-CLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->YP_009518921.1|chlN
+>YP_009518921.1_AYC64812|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -5955,7 +5955,7 @@ RSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELHLLEKTCKEMNVSLPQ
 IVEKPDNYNQIQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-HLKN-----------L-G-------WSQ-----------LVSS
 HH-------------
->UXE31059.1|chlN
+>UXE31059.1_UXE31059.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -N----------------------------------------------------------
@@ -5978,7 +5978,7 @@ KSVFFMGDNLLEISLARFLVK-CGMIVYEIGIPYMDKRFQSAELVLLEKTCVEMNVPIPR
 IVEKPDNYNQIQRIRELQPDLAITGLAHANPLEARNITTKWSVEFTFAQIHGFTNARDLL
 ELVTRPL-----RRNQ-NLKH-----------L-G-------WSQ-----------LVNS
 -QSK-----------
->YP_001019172.1|chlN
+>YP_001019172.1_ABD62180|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -A----------------------------------------------------------
@@ -6001,7 +6001,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMIVYEIGIPYMDKRYQAAELALLEKTCQEMGVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-SLEG-----------L-G-------WTS-----------LVKE
 -GVLSN---------
->WAM63187.1|chlN
+>WAM63187.1_WAM63187.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6024,7 +6024,7 @@ KSVFFMGDNLLEISLARFLIK-AGMLVFEIGIPYMDKRYQGAELQLLEQTCKEKNIPIPI
 IIEKPDNYNQVDRIREIRPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNALEVL
 DLVTRPL-----RRNQ-NVEK-----------V-T-------IQP-----------FTDL
 R--------------
->UTQ75729.1|chlN
+>UTQ75729.1_UTQ75729.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -T----------------------------------------------------------
@@ -6047,7 +6047,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIIYEIGIPYMDRRFQSAELDLLEKTCHEMNVPLPR
 IVEKPDNYNQIQRIRELQPDICICGMAHANPLEARNISTKWSVEFTFAQIHGFTNAGNIL
 ELVTRPL-----RRNL----------------------------------------LIFK
 -D-------------
->ALO62942.1|chlN
+>ALO62942.1_ALO62942.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -6070,7 +6070,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEVGIPYMDKRFQAAELLLLQKTCKQMNVPMPR
 IVEKPDNYYQIQRIREFQPSLVITGMAHCNPLEARGIDTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRND-NLKA-----------L-G-------WSK-----------LVKN
 ---------------
->YP_009367574.1|chlN
+>YP_009367574.1_ARK14561|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 TKL---------------------------------------------------------
@@ -6093,7 +6093,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQFAELQLLEKTCQQLNVPMPK
 IVEKPDNYNQIQRIRELQPDLVICGLAHANPLEARGITTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPM-----RRNS-SLSN-----D-----A-A-------FTS-----------FTRK
 ---------------
->YP_009185298.1|chlN
+>YP_009185298.1_ALO63575|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MQ
 HKND--------------------------------------------------------
@@ -6116,7 +6116,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRFQEAELALLEKTCLEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFANSRDIL
 ELVTRPL-----RRNS-NLD-----------SL-G-------WTK----------LVKD-
 ---------------
->UTE94832.1|chlN
+>UTE94832.1_UTE94832.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NLT---------------------------------------------------------
@@ -6139,7 +6139,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYLDRRYQLGELILLEETCKDFNLLLPK
 IVEKPDNYNQINRIHDLKPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNSLDIL
 KLITRPL-----GRIE-VTKN-----------I-A-------SNQ-----------YNTR
 ---------------
->YP_010933351.1|chlN
+>YP_010933351.1_WKT08515|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ------------------------------------------------------------
@@ -6162,7 +6162,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMVVYEIGIPYMDKRYQAAELALLEKTCLEMNVAMPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGIHTKWSVEFTFAQIHGFTNAKDIL
 ELVTRPL-----RRND-SLQE-----------L-G-------WNQ-----------LVKN
 -NVLNNVV-------
->QBX98380.1|chlN
+>QBX98380.1_QBX98380.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTH---------------------------------------------------------
@@ -6185,7 +6185,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRYQMAELALLKKTCHDMNVPIPR
 IVEKPDNYNQVQRIHELKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFSNAKDIL
 ELVTRPL-----RRNE-KINK-----------F-Q-------SR----------------
 ---------------
->QKN19187.1|chlN
+>QKN19187.1_QKN19187.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TLKSK-------------------------------------------------------
@@ -6208,7 +6208,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYLDKRFQAAELALLEQTCKEMNVPMPR
 IVEKPDNYYQIQRIRELQPDLTITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTREIL
 ELVTRPL-----RRNL----------------MCS-------LTNKTK--GKKTENLGA-
 ---------------
->UVI60873.1|chlN
+>UVI60873.1_UVI60873.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 SNQ---------------------------------------------------------
@@ -6231,7 +6231,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVFEIGIPYMDKRYQGAELLLLEKTCEKMGIFLPM
 IVEKPDNYNQVDRIKDLAPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFSNAKNIL
 ELISKPL-----QRQK--NND-----------N-L-------IYT-----------LAK-
 ---------------
->AAX45806.1|chlN
+>AAX45806.1_AAX45806.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -6254,7 +6254,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLQQTCEQMGTPMPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLED-----------L-G-------WSA-----------LVKR
 -DKINLV--------
->BCT02511.1|chlN
+>BCT02511.1_BCT02511.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TQT---------------------------------------------------------
@@ -6277,7 +6277,7 @@ KSVFFMGDNVFEVALARFLIR-CGMIVYEIGIPYIDKRFQESELQLLEQTCLDMGVMMPR
 IVQKPDNYHQIQRIRELMPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNR-SLSE-----------L-G-------WTT-----------FVKD
 LPQKVV---------
->BBD21659.1|chlN
+>BBD21659.1_BBD21659.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -6300,7 +6300,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQFLEKTCQEMSVPMPR
 IVEKPDNSNQIQRIRAMKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKN-----------L-G-------WSK-----------LVIE
 N--------------
->YP_010147477.1|chlN
+>YP_010147477.1_QQP22293|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LMK---------------------------------------------------------
@@ -6323,7 +6323,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKKVPIPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-S-------SER-----------YTDR
 R--------------
->AWI68117.1|chlN
+>AWI68117.1_AWI68117.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -6346,7 +6346,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVIRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->YP_010634135.1|chlN
+>YP_010634135.1_WBQ42874|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -6369,7 +6369,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQL-----------YTDR
 R--------------
->AID67512.1|chlN
+>AID67512.1_AID67512.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 SS----------------------------------------------------------
@@ -6392,7 +6392,7 @@ KSIFFMGDNLLEISLARFLTR-CGMLVIEIGIPYIDKKYQAAELKLLKQTCDFMSVPIPR
 IVEKPDNFHQIQRLNESKPDITITGMALANPLEARGLNTKWSVEFTFSQIHGFSNARDIL
 ELVSRPL-----RRNE-NLTQ-----------L-G-------WFK-----------LVKD
 QNDQTVAKV------
->YP_010261046.1|chlN
+>YP_010261046.1_UIB38987|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6415,7 +6415,7 @@ KSVFLMGDNLLEISLARFLIR-AGMIVYEIGIPYLDRRFQAAELELLEKTCLEMNVPTPR
 IVEKPDNLFQLQRIRSLNPDLVITGMAVSNPLQYRGINCCWSTQVVFSLIHGFTNAKDLL
 QIITRPL-----VREN-VLQN-----------I---------------------PV----
 ---------------
->XDR80230.1|chlN
+>XDR80230.1_XDR80230.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6438,7 +6438,7 @@ KSVFFMGDNLLEISLARFLIN-CGMIVYEVGIPYMDKRFQAAELALLEKTCILKNTPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFANAREIL
 ELVTRPL-----RRNQ-NL-E-----------L-GMGISSSSWGK-----------LVK-
 ---------------
->QWK42117.1|chlN
+>QWK42117.1_QWK42117.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTK---------------------------------------------------------
@@ -6461,7 +6461,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKDKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQL-----------YTDR
 R--------------
->WVD55843.1|chlN
+>WVD55843.1_WVD55843.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TLL---------------------------------------------------------
@@ -6484,7 +6484,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEVGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSESF-G-------STT---------STFVQN
 -QS------------
->ASQ39814.1|chlN
+>ASQ39814.1_ASQ39814.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TIS---------------------------------------------------------
@@ -6507,7 +6507,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVHEIGIPYMDKRYQAAELNLLEETCRKMGTAMPR
 IVEKPDNYNQIQRIQQLKPDLVITGMAQANPLEARGINTKWSVEFTFAQIHGFSNARDIL
 ELVTRPL-----RRKG-NLRE-----------L-G-------WNT-----------LIE-
 ---------------
->BEI31749.1|chlN
+>BEI31749.1_BEI31749.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -6530,7 +6530,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQSAELELLETTCYKMNVPIPR
 IVEKPDNYNQIQRIRELQPDLVITGMGLANPLESRGINTKWSVEFTFAQIHSFTNARDIL
 ELITRPL-----RRNK-NLQK-----------L-E-------TIKN--------YVYLSS
 ---------------
->QHD45100.1|chlN
+>QHD45100.1_QHD45100.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -6553,7 +6553,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVNEIGIPYLDKRFQASELKLLKQTCEFMQSPLPR
 IVEKPDNYNQIQRIHEFQPDLVITGMGLANPLESRHINTKWSVEFTFAQIHGFINARDIL
 ELVTRPL-----RRNE-KISK-----------F-E-------I-----------------
 ---------------
->AMO00966.1|chlN
+>AMO00966.1_AMO00966.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 EFI---------------------------------------------------------
@@ -6576,7 +6576,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDRRFQAAELELLEKTCKQLNVPLPR
 IVEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNSREIL
 ELVTRPL-----RRNE-SLN----------SLT-N-------FGE----------KLVKV
 -S-------------
->USG56486.1|chlN
+>USG56486.1_USG56486.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -N----------------------------------------------------------
@@ -6599,7 +6599,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQSAELQLLEKTCSEMNVAMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALEN-----------L-G-------WNQ-----------LVKM
 ---------------
->BBK20508.1|chlN
+>BBK20508.1_BBK20508.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6622,7 +6622,7 @@ KSVFFMGDNLLEISLARFLTH-CGMIIKEIGIPYVDKRYQAKELLFLENVLTEMNISFPA
 IIEKPDNYRQLERIRKLKPDLVITGMAHANPLEARGITTKWSVEFMFAQLHGFVNSRNVL
 QLITTPL-----RRNA-NLQQ-----------L-P-------WNS-----------YSDV
 QKIKPIERINPPR--
->YP_009237284.1|chlN
+>YP_009237284.1_AKS28331|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SIV---------------------------------------------------------
@@ -6645,7 +6645,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKATCEQMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->AYR06576.1|chlN
+>AYR06576.1_AYR06576.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MPMK-
 KLN---------------------------------------------------------
@@ -6668,7 +6668,7 @@ KSVLFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQKAELNLLESTCAQMRVMTPK
 IVEKPDNYNQLDRIKDLQPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNSKDIL
 ELVTRPL-----RRND-KLPN-----------F-K-------FA----------------
 ---------------
->ARO74258.1|chlN
+>ARO74258.1_ARO74258.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -6691,7 +6691,7 @@ RSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELHLLEKTCQEMNVALPQ
 IVEKPDNYNQIQRIRALQPDLVITGLAHSNPLEARGMTTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNT-HLKN-----------L-G-------WSK-----------LVSS
 AEGASPPLK------
->YP_010336493.1|chlN
+>YP_010336493.1_UNJ14899|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MIQ---------------------------------------------------------
@@ -6714,7 +6714,7 @@ KSVFLMGDNLLEISIARFLAS-CGMHIYEIGIPYMDKRYQSAELKLLQETCLKKNTAVPR
 VVEKPDNYNQIDRIYDLSPDLVITGMAHANPLEARNINTKWSVEFTFAQIHGFSNAAEIL
 NLVTRPL-----KRNI-AYH----------------------------------------
 ---------------
->UXE30671.1|chlN
+>UXE30671.1_UXE30671.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -N----------------------------------------------------------
@@ -6737,7 +6737,7 @@ KSVFFMGDNLLEISLARFLAR-CGMIVYEIGIPYMDKRFQSAELALLEKTCLEMDVPIPR
 IVEKPDNYNQVQRIRELQPDLAITGLAHANPLEARNITTKWSVEFTFAQIHGFTNSRDLL
 ELVTRPL-----RRNQ-NLKN-----------L-G-------WSQ-----------LVNT
 -QLN-----------
->YP_009455978.1|chlN
+>YP_009455978.1_AST08933|chlN
 ------------------------------------------------------------
 --------------------------------------------------------MTMT
 -N----------------------------------------------------------
@@ -6760,7 +6760,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELDFLEKTCHEMNVSIPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALEN-----------L-G-------WNQ-----------LVKI
 ---------------
->AWI68222.1|AWI68222.1
+>AWI68222.1_AWI68222.1|AWI68222.1
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -6783,7 +6783,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->UXE30899.1|chlN
+>UXE30899.1_UXE30899.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NSIN--------------------------------------------------------
@@ -6806,7 +6806,7 @@ KSIFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRYQSAELTLLEKTCLEMKVPNPR
 IVEKPDNYNQLQRIRELDPDLTITGLAHANPLEARNKTTKWSVEFTFSQIHGFANSRDLL
 ELVTRPL-----RRNQ-NLEN-----------L-G-------CLKL----------VQPQ
 LRGE-----------
->YP_003002240.1|chlN
+>YP_003002240.1_ACS36952|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MT---------------------------------------------------------
@@ -6829,7 +6829,7 @@ KSVFFMGDNLLEIALARFLIN-CGMIVYEIGIPYLDKRYQNAELALLEKACKEKGVMLPT
 IVEKPDNYNQLHRITQLKPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNAQDIL
 ELVTRPL-----RRNT-SLDK-----------L-G-------WTS-----------YNTN
 KTFT-----------
->UEQ12162.1|chlN
+>UEQ12162.1_UEQ12162.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLN---------------------------------------------------------
@@ -6852,7 +6852,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDKRYQGAELTLLQKTCKEMEVRVPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFASIHGFTNAKDIL
 ELVTKPL-----RRNA-NLKS-----------S-Q-------NSI-----------FTKT
 Y--------------
->YP_009519538.1|chlN
+>YP_009519538.1_AYC65551|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -6875,7 +6875,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELKLLEKTCHEMNVAMPL
 IVEKPDNFNQIQRIRALKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELITRPL-----RRNN-HLKD-----------L-G-------WSK-----------LVV-
 ---------------
->AYC65453.1|chlN
+>AYC65453.1_AYC65453.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -6898,7 +6898,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELNFLEKTCNEMNVPIPR
 IVEKPDNWNQIQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSK-----------LVTG
 SHGCGDLLDQKVAQ-
->QBX97824.1|chlN
+>QBX97824.1_QBX97824.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -6921,7 +6921,7 @@ KSVFFMGDNLLEISLARFLIK-CGMVVYEIGIPYMDRRYQAAELELLKQVCKEKGVPFPR
 IVEKPDNYSQVQRIRELKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNTKDIL
 ELVTRPL-----RRNA-KLED-----------V-G-------KSQ-----------HIK-
 --FAMD---------
->AYC65280.1|chlN
+>AYC65280.1_AYC65280.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -6944,7 +6944,7 @@ KSVFFMGDNLLEISLARFLIR-CGMQVYEIGIPYLDKRFQAAELNLLKQTCIEMNCPFPR
 IVEKPDNYNQIQRIREFQPDLVITGMGLANPLEARGINTKWSVEFTFAQIHGFSNAQDIL
 ELVTRPL-----RRNL-NLNM-----------D-R-------LNEQ--------FVL---
 ---------------
->AIT94217.1|chlN
+>AIT94217.1_AIT94217.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -6967,7 +6967,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAGEISLLEKTCRDMNVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WTK-----------LVKT
 -I-------------
->UEQ13261.1|chlN
+>UEQ13261.1_UEQ13261.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -6990,7 +6990,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRFQSAELKFLEKTCSKMNVPVPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-ALEN-----------L-G-------WNQ-----------LVKI
 ---------------
->QBX98312.1|chlN
+>QBX98312.1_QBX98312.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 N-TK--------------------------------------------------------
@@ -7013,7 +7013,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIIYEIGIPYLDQRFQAAELALLEATCIEMNVPMPR
 IVEKPDNYNQVQRIRELKPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-ALKT-----------L-H-------DEQS----------LIPE
 TWANRRQWD------
->YP_009256934.1|chlN
+>YP_009256934.1_ANI25921|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -7036,7 +7036,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELTLLQKTCEEMGVPIPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEE-----------L-G-------WTG-----------LVKR
 -DAISA---------
->QKQ14630.1|chlN
+>QKQ14630.1_QKQ14630.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -S----------------------------------------------------------
@@ -7059,7 +7059,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLQHTCEQMGTPMPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLED-----------L-G-------WSA-----------LVKR
 -DTINLV--------
->AIT94295.1|chlN
+>AIT94295.1_AIT94295.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 TLF---------------------------------------------------------
@@ -7082,7 +7082,7 @@ KSVFFMGDNLLEICLARFLIR-CGMIVYEIGIPYIDKKFQAPELALLEKACQQMNVLFPR
 LVERPDNYYQVQRIRELQPDLAITGMAHANPLEARGVSTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALDR-----------L-G-------WTQ-----------LVKT
 NGDI-----------
->AID67831.1|chlN
+>AID67831.1_AID67831.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 NAV---------------------------------------------------------
@@ -7105,7 +7105,7 @@ KSIFFMGDNLLEISLARFLLR-CGMKVYEIGIPYLDQRYQASELSLLKETCDQLNQPLPR
 IVEKPDNYYQVQRIQELKPDITITGMAHANPLEARNFLTKWSVEFTFSQIHGFAHARDIL
 ELVSRPL-----RRNT-SLGE-----------L-G-------WTK-----------LIKS
 EPILS----------
->UNJ14504.1|chlN
+>UNJ14504.1_UNJ14504.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 MVQ---------------------------------------------------------
@@ -7128,7 +7128,7 @@ KSVFFMGDNLLEISIARFLAA-CGMNIYEVGIPYMDKRYQAAELSLLQETCNKNNTVMPC
 IVEKPDNYNQIDRIYDLKPDLVITGMAHANPLEARNINTKWSVEFTFTQIHGFSNAEEIL
 KAVTRPM-----KRNN-FVVS-----------S-G-------VNN---------------
 ---------------
->BDA98073.1|chlN
+>BDA98073.1_BDA98073.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TES---------------------------------------------------------
@@ -7151,7 +7151,7 @@ KSVFFMGDNLLELSLARFLTR-CGMEVLEIGIPYMDKRYQGAEIALLEKTCIEMGVPLPK
 IVEKPDNYNQLKRIRALKPDLVVTGMAHANPLEARGINTKWSVEFTFAQIHGFSSARDIL
 ELITRPL-----RRDH-SLHQ-----------L-A-------WNS-----------Y-TN
 KAFSMS---------
->UIB38693.1|chlN
+>UIB38693.1_UIB38693.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 KGK---------------------------------------------------------
@@ -7174,7 +7174,7 @@ KSVFLMGDNLLEISLARFLIR-AGMIVYEIGIPYLDRRFQAAELELLEKTCLEMNVPTPR
 IVEKPDNLFQLQRIRSLNPDLVITGMAVSNPLQYRGINCCWSTQVVFSLIHGFTNAKDLL
 QIIT--------------------------------------------------------
 ---------------
->BDA98514.1|chlN
+>BDA98514.1_BDA98514.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TES---------------------------------------------------------
@@ -7197,7 +7197,7 @@ KSVFFMGDNLLELSLARFLTR-CGMEVLEIGIPYMDKRYQGAEIALLEKTCIEMGVPLPK
 IVEKPDNYNQLKRIRTLKPDLVVTGMAHANPLEARGINTKWSVEFTFAQIHGFSSARDIL
 ELITRPL-----RRDH-SLHQ-----------L-A-------WNS-----------Y-TN
 KAFSML---------
->YP_011051378.1|chlN
+>YP_011051378.1_WVD55774|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ILF---------------------------------------------------------
@@ -7220,7 +7220,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIREFQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSEFF-G-------STT---------STFVQN
 -QF------------
->AGI99447.1|chlN
+>AGI99447.1_AGI99447.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 TEQ---------------------------------------------------------
@@ -7243,7 +7243,7 @@ KSVFFMGDNLLEISLARFFIR-CGMSVYEIGIPYLDKRYQGGELALLEKTCQEMGTFLPV
 IVEKPDNYNQLNRIKDLHPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 DLICKPL-----ERQT-TFKE-----------L-G-------WKN-----------YHTL
 V--------------
->YP_009455950.1|chlN
+>YP_009455950.1_AST08762|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 -K----------------------------------------------------------
@@ -7266,7 +7266,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDKRFQAAELELLEKTCHEMQVAIPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALES-----------L-G-------WNQ-----------LVKV
 -S-------------
->UNJ18590.1|chlN
+>UNJ18590.1_UNJ18590.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 KT----------------------------------------------------------
@@ -7289,7 +7289,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRYQAAELNLLIETCKEKKVLIPH
 IIEKPDNHSQIDRINDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFANSKYIL
 ELVSKPL-----IRNT-YYQQ-----------L-G-------WKK-----------YI--
 ---------------
->YP_009413201.1|chlN
+>YP_009413201.1_ASN78662|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -7312,7 +7312,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKNTCDEMNIMMPT
 IVEKPDNYNQLDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 G--------------
->BDA97405.1|chlN
+>BDA97405.1_BDA97405.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7335,7 +7335,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEVGVPYMDKRYQASELSMLRDTCLEMGVEFPK
 IVEKPDNFNQLERIRSLKPDLVITGMANANPLEARGITTKWSVEFTFTQLHGFTNSKDIL
 ELLTRPL-----RRNT-SLQQ-----------L-A-------WNS-----------YSS-
 ---------------
->YP_009238151.1|chlN
+>YP_009238151.1_AMO01029|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -7358,7 +7358,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYMDKRFQAAELALLEKTCQDMNVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFSNSRDIL
 ELVTRPL-----RRNT-NLES-----------L-G-------WEK-----------LVK-
 ---------------
->WVD56120.1|chlN
+>WVD56120.1_WVD56120.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TLL---------------------------------------------------------
@@ -7381,7 +7381,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSESF-A-------SMS---------STFVQN
 -QF------------
->YP_009105838.1|chlN
+>YP_009105838.1_AIT94474|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -7404,7 +7404,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEIGIPYLDKRFQSGELELLEQHCALMKVPIPR
 IVEKPDNYNQIQRIRQLQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFSNAKDIL
 ELITRPL-----RRNK-NLQD-----------L-Q-------WTK-----------LIKS
 -R-------------
->YP_009367753.1|chlN
+>YP_009367753.1_ARK14739|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 SSI---------------------------------------------------------
@@ -7427,7 +7427,7 @@ KSVFFMGDNLLEISLARFFIR-CGMIVYEIGIPYMDRRFQAAELELLEKTCQAMNVPFPR
 IVEKPDNFNQIQRIQSLQPDIVITGLAHSNPLEARGITTKWSTEFTFAQIHGFTNSRDIL
 ELITRPI-----RRNT-NLNT-----------L-G-------FTT-----------VVK-
 ---------------
->QEG77681.1|chlN
+>QEG77681.1_QEG77681.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -7450,7 +7450,7 @@ KSVFFMGDNLLEISLARFLIR-CGMQVYEIGIPYMDKRFQAAELNLLEQTCNEMNHPYPR
 IIEKPDNYNQIQRIRELEPDLVITGMALANPLQARGVQTKWSVEFTFAQIHGFSNVRDIL
 ELVTRPI-----RRKN-DLSE-------LGW-----------------------EKLVY-
 ---------------
->WKK50081.1|chlN
+>WKK50081.1_WKK50081.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 SVT---------------------------------------------------------
@@ -7473,7 +7473,7 @@ KSVFLMGDNLLEISLARFLIR-CGMKVYEIGIPYMDKRYQAAELLLLQQTCKEFDVMLPR
 IVEKPDNYNQLERIQELKPDLVITGMAHANPLQARGINTKWSVEFTFAQIHGFSNTKDLL
 ELITRPL-----IRDE-NLSS-----------L-S-------YFAD--------------
 ---------------
->AOM65807.1|chlN
+>AOM65807.1_AOM65807.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 EVA---------------------------------------------------------
@@ -7496,7 +7496,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELNLLQKTCQEMNTIIPC
 IVEKPDNYNQLERINELKPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNTLDLL
 KLVTKPL-----LRNN-------I--------F-N-------SSEA--------VLYTSK
 SINTKL---------
->YP_009105405.1|chlN
+>YP_009105405.1_AIT93971|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -E----------------------------------------------------------
@@ -7519,7 +7519,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLEQTCNDMNVPLPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLEG-----------L-G-------WTK-----------LVKS
 -AVS-----------
->QFR50653.1|chlN
+>QFR50653.1_QFR50653.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -N----------------------------------------------------------
@@ -7542,7 +7542,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELEFLEKTCHQLNVSMPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-ALQN-----------L-G-------WNQ-----------LVKG
 ---------------
->YP_009550814.1|chlN
+>YP_009550814.1_QAA11745|chlN
 ------------------------------------------------------------
 ---------------------------------------------------------MLK
 TPN---------------------------------------------------------
@@ -7565,7 +7565,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVYEIGVPYLDKRYQGAELLLLERTCLELNVFLPL
 IVEKPDNYNQLERIKDLHPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFNNSKNIL
 DLICRPL-----SRKT-NLQS-----------L-G-------WEN-----------YSAH
 A--------------
->WCO87773.1|chlN
+>WCO87773.1_WCO87773.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -N----------------------------------------------------------
@@ -7588,7 +7588,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELDFLEKTCQELSVPMPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALEN-----------L-G-------WNQ-----------LIKT
 ---------------
->AMO01378.1|chlN
+>AMO01378.1_AMO01378.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -I----------------------------------------------------------
@@ -7611,7 +7611,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYEVGIPYMDKRFQAAELLLLEQTCQQMNVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFSNSREIL
 ELVTRPL-----RRNQ-TLDS-----------L-G-------WTK-----------LVK-
 ---------------
->YP_009033654.1|chlN
+>YP_009033654.1_AHZ11037|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -7634,7 +7634,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->YP_009033668.1|chlN
+>YP_009033668.1_AHZ11051|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -PL---------------------------------------------------------
@@ -7657,7 +7657,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEIGIPYMDKRYQAAELALLQSTCQEMGVPFPR
 IVEKPDNYHQVQRIRELHPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->QFS20045.1|chlN
+>QFS20045.1_QFS20045.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -7680,7 +7680,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->YP_009105163.1|chlN
+>YP_009105163.1_AIT93729|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 -E----------------------------------------------------------
@@ -7703,7 +7703,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELAFLEKTCQNMKVPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-SLEG-----------L-G-------WSQ-----------LVKV
 -SA------------
->UIB38840.1|chlN
+>UIB38840.1_UIB38840.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 LTK---------------------------------------------------------
@@ -7726,7 +7726,7 @@ KSVFFMGDNLLEISLARFLIR-AQMIVYEIGIPYLDRRFQAAELELLEKTCIEMNVPIPR
 IVEKPDNLFQLQRIRGLNPDLTITGLAVSNPLQYRGMNTKWSTELVFSCIHGFTNAKDLL
 ALITRPL-----QRDN-VLQN-----------L---------------------PV----
 ---------------
->YP_009238284.1|chlN
+>YP_009238284.1_AMO01162|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -T----------------------------------------------------------
@@ -7749,7 +7749,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIIYEIGIPYMDKRFQAAELELLQKTCREMKVPMPR
 IVEKPDNYYQIQRIRELQPDLAITGMAHANPLEARGITTKWSVEFTFAQIHGFANSREIL
 ELVTRPL-----RRNQ-SLDS-----------L-G-------WAK-----------LVK-
 ---------------
->BDA97252.1|chlN
+>BDA97252.1_BDA97252.1|chlN
 ------------------------------------------------------------
 -----------------------------------------------------MNSQVS-
 TEP---------------------------------------------------------
@@ -7772,7 +7772,7 @@ KSAFFMGDNLLEISLARFLIR-CGMVIHEIGIPYMDKRYQASELSLLERTCIEMGVNPPS
 IVEKPDNYKQLERIRILKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDVL
 ELVTRPL-----RRNA-SLQQ-----------L-T-------WNS-----------YTLE
 N--------------
->YP_009519633.1|chlN
+>YP_009519633.1_AYC65641|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MG
 ------------------------------------------------------------
@@ -7795,7 +7795,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQLLERTCKEMNVAIPP
 IVEKPDNSNQIQRIRALKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELITRPL-----RRNN-HLKD-----------L-G-------WAK-----------LVSE
 AAEKA----------
->ANS57680.1|ANS57680.1
+>ANS57680.1_ANS57680.1|ANS57680.1
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 FIK---------------------------------------------------------
@@ -7818,7 +7818,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELKLLQKTCKEKNVPIPI
 IVEKPDNFNQIDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNK-KLEK-----------I-S-------SER-----------YTDR
 R--------------
->QBX98105.1|chlN
+>QBX98105.1_QBX98105.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NIIK--------------------------------------------------------
@@ -7841,7 +7841,7 @@ KSVFFMGDNLLEISLARFLTR-CGIIVFEVGIPYLDKRFQGAELALLESTCNKMGVPTPR
 IVEKPDNYNQIQRIRELQPDLVITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVSRPL-----RRNN-ALEN-----------P-Q-------MENM----------MSGV
 NWANRREWQ------
->YP_011005050.1|chlN
+>YP_011005050.1_WAM61913|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 FTK---------------------------------------------------------
@@ -7864,7 +7864,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCQEKGIPIPV
 IVEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->WVD55982.1|chlN
+>WVD55982.1_WVD55982.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 TLL---------------------------------------------------------
@@ -7887,7 +7887,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEVGIPYLDQRFQAAELALLEKTCFEMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSESF-G-------SKT---------STFVQN
 -QF------------
->ASY96073.1|chlN
+>ASY96073.1_ASY96073.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ILL---------------------------------------------------------
@@ -7910,7 +7910,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYLDQRFQAAELALLEKTCFEMNVPVPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FSEFF-G-------STT---------STFVQN
 -QF------------
->QUO99003.1|chlN
+>QUO99003.1_QUO99003.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -7933,7 +7933,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELLLLEQTCLEMNVPMPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGINTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNL-NLKA-----------L-G-------WTT-----------LVDN
 ---------------
->UYR96201.1|chlN
+>UYR96201.1_UYR96201.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 EFI---------------------------------------------------------
@@ -7956,7 +7956,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAAELALLETTCEKMKVPFPR
 IVEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNSREIL
 ELVTRPL-----RRNE-NLK----------SFN-N-------FGE----------KFVKV
 -DC------------
->YP_009531123.1|chlN
+>YP_009531123.1_AXY63812|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 VSP---------------------------------------------------------
@@ -7979,7 +7979,7 @@ KRIFFLPDSQLEIPLARFLCRECGMNLVEVGVPYLDRQIMAPELALLPENTV--------
 ISEGQHVEYQLERVRSSFPDLVVCGMGLANPLEAEGITTKWSIELVFSPIHGCDQAADLA
 ELFTRPL----SRRSL----------------L--------RWE----------------
 ---------------
->AWI68969.1|chlN
+>AWI68969.1_AWI68969.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -8002,7 +8002,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCFEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-NLK-----------NF-H-------FTK---------------
 ---------------
->QHN60166.1|chlN
+>QHN60166.1_QHN60166.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MSPTE
 ------------------------------------------------------------
@@ -8025,7 +8025,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCKQMNVSMPL
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVSQ
 TK-------------
->ARO74460.1|chlN
+>ARO74460.1_ARO74460.1|chlN
 ------------------------------------------------------------
 -------------------------------------------------------MSPTE
 ------------------------------------------------------------
@@ -8048,7 +8048,7 @@ RSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRFQASELSLLEKTCKQMNVSMPL
 IVEKPDNYNQVQRIRALQPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-HLKD-----------L-G-------WSE-----------LVSQ
 TK-------------
->ABB81935.1|chlN
+>ABB81935.1_ABB81935.1|chlN
 ----------------------------MRNTVL-NTL----------------------
 -----------------------NAFPTQLG----------------------SNKSTLS
 SKIFHS------------------------------------------------------
@@ -8071,7 +8071,7 @@ KSVFFMGDNLLEISLARFFIR-CGMIVYEIGIPYMDRRYQAAELALLEQTCLEMNVPLPR
 IVEKPDNYNQIQRIRELQPDIVVTGLAHSNPLEARGVTTKWSTEFTFAQIHGFANSRDVL
 ELITRPV-----RRNQ-NLDA-----------L-G-------FTS-----------LVKN
 ---------------
->WDY12951.1|chlN
+>WDY12951.1_WDY12951.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -8094,7 +8094,7 @@ KSVFFMGDNLFEISLARFLIR-CGMTVYEIGIPYMDKRFQAGELAFLEKTCREMGVPMPR
 IVEKPDNYHQIQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRHQ-SLQE-----------L-G-------WAE-----------LIKS
 -NPVGVR--------
->YP_009774606.1|chlN
+>YP_009774606.1_QJA13875|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 IA----------------------------------------------------------
@@ -8117,7 +8117,7 @@ KSVFFMGDNLLEISLARFLTR-CGMVVYECGVPYLDKRYQAAELNLLEKTCLEMNVPMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGITTKWSVEFTFAQIHGFSNSRDIL
 ELVTRPL-----RRNQ--IQH-----------F-S-------AKS-----------LVKS
 TGVTKTLSRDVSLMN
->YP_636378.1|chlN
+>YP_636378.1_AAX45693|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MY
 FQ----------------------------------------------------------
@@ -8140,7 +8140,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLEKTCQEMNVSLPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEQ-----------L-G-------WTG-----------LVKR
 -NKLTA---------
->QGT76971.1|chlN
+>QGT76971.1_QGT76971.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -N----------------------------------------------------------
@@ -8163,7 +8163,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYLDKRFQAAELDFLEKTCNELSVSMPR
 IVEKPDNYNQVQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-ALEN-----------L-G-------WNQ-----------LVKS
 ---------------
->BDA99106.1|chlN
+>BDA99106.1_BDA99106.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -8186,7 +8186,7 @@ KSVFFMGDNLLEISLSRFLIK-CGMIVYEIGIPYMDKRYQGAEIKLLEKTCKEMNIPMLV
 IVEKPDNYKQLERIRKLQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNSKDIL
 ELVTRPM-----RRNS-SLQQ-----------L-A-------WNS-----------YTNL
 ---------------
->ABO69321.1|chlN
+>ABO69321.1_ABO69321.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 AT----------------------------------------------------------
@@ -8209,7 +8209,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRFQAAELAFLEKTCHDMNVPMPR
 IVEKPDNYNQIQRIKELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNN-SLEG----------SL-G-------WTQ-----------LVKS
 -TV------------
->ALL97155.1|chlN
+>ALL97155.1_ALL97155.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -8232,7 +8232,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->WCO87415.1|chlN
+>WCO87415.1_WCO87415.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KNSF--------------------------------------------------------
@@ -8255,7 +8255,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLEKTCYEMNVNCPR
 IVEKPDNYYQIQRIKELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFTNTKDIL
 ELVTRPL-----RRNK-NLE----------KSM-T-------VMA----------S----
 ---------------
->YP_002600954.1|chlN
+>YP_002600954.1_ACJ71150|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -8278,7 +8278,7 @@ KSIFFMGDNLLEVSLARFLIA-CGMIVYEIGIPYLDRRFQFSELKLLEETCNKKGVPIPR
 IVEKPDNYNQIQRIRELQPDLTITGMAHANPLEARGMNTKWSVEFTFAQIHGFLGARNIL
 ELVTRPQ-----RRNA-SLAS-------SGAS--S-------GSE---------DNLVLN
 L--------------
->YP_002600976.1|chlN
+>YP_002600976.1_ACJ71160|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -8301,7 +8301,7 @@ KSIFFMGDNLLEVSLARFLIA-CGMIVYEIGIPYLDRRFQFSELKLLEETCNKKGVPIPR
 IVEKPDNYNQIQRIRELQPDLTITGMAHANPLEARGMNTKWSVEFTFAQIHGFLGARNIL
 ELVTRPQ-----RRNA-SLAS-------SGAS--S-------GSE---------DNLVLN
 L--------------
->SCW22505.1|chlN
+>SCW22505.1_SCW22505.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 QTS---------------------------------------------------------
@@ -8324,7 +8324,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQGAEIELLRKTCNQRQVKMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKDIL
 ELITRPL-----RRND-GLKA-----------I-S-------DNI-----------YTRP
 TSVN-----------
->ACC97214.1|chlN
+>ACC97214.1_ACC97214.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -8347,7 +8347,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELALLEQTCFEMNMPIPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGVNTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LVAN
 ---------------
->ASQ40133.1|chlN
+>ASQ40133.1_ASQ40133.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 VLE---------------------------------------------------------
@@ -8370,7 +8370,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVQEVGIPYLDKRYQAAELDLLQRTCLQMNVPIPK
 IVEKPDNYNQIKRIQELEPDLVITGMAHANPLEALGINTKWSVEFTFSQIHGFTNAKDIL
 ELVTRPL-----RRKE-NFQS-----------F-G-------WKK-----------MVK-
 ---------------
->ASQ40164.1|chlN
+>ASQ40164.1_ASQ40164.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 VLE---------------------------------------------------------
@@ -8393,7 +8393,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVQEVGIPYLDKRYQAAELDLLQRTCLQMNVPIPK
 IVEKPDNYNQIKRIQELEPDLVITGMAHANPLEALGINTKWSVEFTFSQIHGFTNAKDIL
 ELVTRPL-----RRKE-NFQS-----------F-G-------WKK-----------MVK-
 ---------------
->WAM63736.1|chlN
+>WAM63736.1_WAM63736.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LTN---------------------------------------------------------
@@ -8416,7 +8416,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKCVPIPI
 IVEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->AIT94998.1|chlN
+>AIT94998.1_AIT94998.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 ------------------------------------------------------------
@@ -8439,7 +8439,7 @@ KSVFFMGDNLLEISLARFLAR-CGMIIYEIGIPYMDKRFQAAELALLEKTCYEMNVPMPR
 IVEKPDNYNQVQRIREFQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNQ-NLEN-----------L-G-------WTK-----------LIK-
 ---------------
->YP_010443796.1|orf003
+>YP_010443796.1_UTE94683|orf003
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NVT---------------------------------------------------------
@@ -8462,7 +8462,7 @@ KSIFFMGDNLLEICLARFLIR-CGMIVYEIGIPYMDKRYQAAELNLLEKTCLEMNVMFPK
 IVEKPDNYNQIDRIHDLCPDLVITGMANANPLEARGINTKWSVEFTFSQIHGFVNASTIL
 ELILKPL-----TRKF-MPES-----------I-K-------TNQ-----------YNTT
 QKS------------
->AQU64517.1|chlN
+>AQU64517.1_AQU64517.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -8485,7 +8485,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCFEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NL-N-------FTK---------------
 ---------------
->ABF60156.1|chlN
+>ABF60156.1_ABF60156.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QLI---------------------------------------------------------
@@ -8508,7 +8508,7 @@ KSVFFMGDNLLEISLARFLTR-CGMIVYECGVPYLDKRYQASELLLLEQTCLEKNVPMPR
 IVEKPDNYYQIQRIRELQPDLVITGMALSNPLEARGINTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--MQQ-----------V-S-------NKT-----------LVKP
 AK-------------
->YP_007878161.1|chlN
+>YP_007878161.1_AGA63772|chlN
 ------------------------------------------------------------
 ------------------------------------------------------MTSTK-
 NIK---------------------------------------------------------
@@ -8531,7 +8531,7 @@ KSVFFMGDNLLEVSLARFLVS-CGMIVYEIGIPYMDKRYQKAELDLLQATCIKMGVIMPK
 IVEKPDNYNQIDRIKDLKPDLVITGMAHANPLEATGINTKWSVEFTFSPIHGFSNSKDIL
 ELVTRPL-----RRNS-SLPN-----------F-D-------FKL---------------
 ---------------
->UZA61963.1|chlN
+>UZA61963.1_UZA61963.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KNF---------------------------------------------------------
@@ -8554,7 +8554,7 @@ KSVFFMGDNLLEISLARFLIN-CGMIVQEVGIPYIDKRFQSSELELLQKTCLEKNVPFPF
 LVEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFAQIHGFSNSRQIL
 ELVTRPL-----KRNQ-NIHD-----------L-G-------LTN-----------LTKY
 ---------------
->UVI61155.1|chlN
+>UVI61155.1_UVI61155.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MD
 PKQ---------------------------------------------------------
@@ -8577,7 +8577,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVFEIGIPYMDKRYQGAELLLLEKTCAEKGIFLPI
 IVEKPDNYNQVDRIKDLEPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 DLISKPL-----LRKI--NKD-----------V-C-------FSN---------------
 ---------------
->YP_009256842.1|chlN
+>YP_009256842.1_ANI25737|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 -S----------------------------------------------------------
@@ -8600,7 +8600,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDKRYQAAELALLQKTCQEMGVPIPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLEA-----------L-G-------WAG-----------LVKR
 -DKLNA---------
->YP_009104837.1|chlN
+>YP_009104837.1_AIT93315|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -T----------------------------------------------------------
@@ -8623,7 +8623,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMIVYEVGIPYMDKRFQAAELALLESTCREMNVPMPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNE-SLEG-----------L-G-------WTS-----------LVQS
 -N-------------
->SCW23731.1|chlN
+>SCW23731.1_SCW23731.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 EIS---------------------------------------------------------
@@ -8646,7 +8646,7 @@ KSVFFMGDNLLEISLARFLVR-CGMIVYEIGIPYMDKRYQSAELLLLQETCYKMGVRMPK
 IVEKPDNYNQIDRIKDLKPDLVITGMAHANPLQARGINTKWSVEFTFAQIHGFGNAKEIL
 ELITKPL-----RRNN-NLDY-----------I-N-------DKN-----------YI--
 ---------------
->QUO98927.1|chlN
+>QUO98927.1_QUO98927.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -8669,7 +8669,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELSLLEQTCFDMDVPIPK
 IVEKPDNYYQIQRIRELQPDLVITGMAHCNPLEARGVNTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LVEN
 ---------------
->YP_009545902.1|chlN
+>YP_009545902.1_ASQ39963|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TIS---------------------------------------------------------
@@ -8692,7 +8692,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVQEIGIPYMDKRYQAAELNLLEETCRKMGTAIPR
 IVEKPDNYNQIQRIQELKPDLVITGMAQANPLEARGINTKWSVEFTFAQIHGFSNARDIL
 ELVTRPL-----RRKG-NFRE-----------L-G-------WNT-----------LIE-
 ---------------
->AFQ93824.1|chlN
+>AFQ93824.1_AFQ93824.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -I----------------------------------------------------------
@@ -8715,7 +8715,7 @@ KSVFFMGDNLLEVSLARFLVR-CGMVVYEVGIPYMDRRFQAAELELLERTCHEMGVPLPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNQ-SLQG-----------L-G-------WAS-----------LVKP
 -GV------------
->YP_009550930.1|chlN
+>YP_009550930.1_QAA11864|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 IQS---------------------------------------------------------
@@ -8738,7 +8738,7 @@ KSVFFMGDNLLEISLARFLIK-CGMVVYEIGIPYLDKRYQAAELSLLEKTCAEKGQFVPV
 IVEKPDNYNQIDRIKDLQPDLVITGMANANPLEARGLRTKWSVEFTFAQIHGFQNAHTIL
 ELIGRPL-----RHMP-KFDD-----------F-N-------QME-----------YATI
 R--------------
->YP_009691291.1|chlN
+>YP_009691291.1_QEG58048|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -8761,7 +8761,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->YP_009646462.1|chlN
+>YP_009646462.1_QBX98173|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 ITN---------------------------------------------------------
@@ -8784,7 +8784,7 @@ KSVFFMGDNLLEVSLARFLVN-CGMIVYEVGIPYMDRRYQSAELDLLRQTCEKMQVPMPR
 IVEKPDNYNQVQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFSNTREVL
 ELVTRPL-----RRNA-KLDN-----------L-G-------TSQ-----------HIK-
 --LAIDSNTV-----
->AMO00891.1|chlN
+>AMO00891.1_AMO00891.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MR
 SYAAL-------------------------------------------------------
@@ -8807,7 +8807,7 @@ KSVFLMGDNLLEVSLGRFLTR-CGMQVYEVGIPYLDRRFQESELRLFQQTCEELNMPLPP
 IVEKPDNYYQVQRIRELEPDLVITGMAHANPLEARGIATKWSVEFTFAQIHGFSNSRTIL
 ELITKAL-----TRHS-KLAL-----------I-G-------------------------
 ---------------
->AGH27512.1|chlN
+>AGH27512.1_AGH27512.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STA---------------------------------------------------------
@@ -8830,7 +8830,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKATCDKMNVMMPT
 IVEKPDNYNQVDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 S--------------
->WAM62064.1|chlN
+>WAM62064.1_WAM62064.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -8853,7 +8853,7 @@ KSVFFMGDNLLEISLARFLIR-SGMVVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->AIT95236.1|chlN
+>AIT95236.1_AIT95236.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -K----------------------------------------------------------
@@ -8876,7 +8876,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQAAELALLEKTCNLMNVPIPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNK-NLEE-----------L-G-------WVN-----------LIKE
 -KI------------
->WKT06804.1|chlN
+>WKT06804.1_WKT06804.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -8899,7 +8899,7 @@ KSVFFMGDNLLEVSLARFLAR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->WKT06805.1|chlN
+>WKT06805.1_WKT06805.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -PL---------------------------------------------------------
@@ -8922,7 +8922,7 @@ KSVFFMGDNLLEVSLARFLAR-CGMIVYEIGIPYMDKRYQAAELALLQSTCQEMGVPLPR
 IVEKPDNYHQVQRIRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQE-----------L-G-------WVQ-----------LVQS
 -PV------------
->YP_011007623.1|chlN
+>YP_011007623.1_WAM65052|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -8945,7 +8945,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVFEIGIPYMDKRYQGAELKLLQQTCKDKKIPIPI
 IIEKPDNYNQVDRIREMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQL-----------YTDL
 R--------------
->AAM96510.1|chlN
+>AAM96510.1_AAM96510.1|chlN
 ------------------------------------------------------------
 ---------------------------------------------------------MNS
 ------------------------------------------------------------
@@ -8968,7 +8968,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMVVYEIGIPYMDKRYQAAELALLQKTCQDMNVPMPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQG-----------L-G-------WSS-----------LVKE
 -QNQLIPS-------
->AAM96590.1|chlN
+>AAM96590.1_AAM96590.1|chlN
 ------------------------------------------------------------
 ---------------------------------------------------------MNS
 ------------------------------------------------------------
@@ -8991,7 +8991,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMVVYEIGIPYMDKRYQAAELALLQKTCQDMNVPMPR
 IVEKPDNYNQVQRMRELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNH-SLQG-----------L-G-------WSS-----------LVKE
 -QNQLIPS-------
->WDA99052.1|chlN
+>WDA99052.1_WDA99052.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -9014,7 +9014,7 @@ KSVFFMGDNLLEISLARFLVN-CGMTVYEVGIPYMDKRYQAAELNFLEKACIQKQVSMPK
 IVEKPDNYNQTNRIISLQPDLVITGMAHANPLEARGINTKWSVEFTFSPIHGFSNTRDLL
 ELVTRPL-----RRNS-DLEK-----------L-G-------WKT-----------YTAS
 SIE------------
->QIZ74040.1|chlN
+>QIZ74040.1_QIZ74040.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 QLS---------------------------------------------------------
@@ -9037,7 +9037,7 @@ KSVFFMGDNLLELSLARFLTR-CGMIVYECGVPYLDKRYQASEIALLEQTCLEQNVPMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGINTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--MQS-----------T-S-------NKT-----------LVK-
 ---------------
->AGI98697.1|chlN
+>AGI98697.1_AGI98697.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 IEQ---------------------------------------------------------
@@ -9060,7 +9060,7 @@ KSVFFMGDNLLEISLARFFIK-CGMSVYEIGIPYLDKRYQGGELALLEKTCKEMGTFLPV
 IVEKPDNYNQLNRVKDLHPDLVITGMAHANPLEARGINTKWSVEFTFSQIHGFTNAKNIL
 ELISKPL-----QRQT-TFKE-----------L-G-------WKN-----------YHTL
 V--------------
->QIZ74281.1|chlN
+>QIZ74281.1_QIZ74281.1|chlN
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -9083,7 +9083,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYECGVPYLDKRYQASEILLLEKTCKEKNVIMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGITTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--LQK-----------I-N-------TKS-----------LVKP
 IK-------------
->WJZ45217.1|chlN
+>WJZ45217.1_WJZ45217.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LIK---------------------------------------------------------
@@ -9106,7 +9106,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKKVPLPI
 IVEKPDNFNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-S-------SER-----------YTDR
 Q--------------
->SCW22097.1|chlN
+>SCW22097.1_SCW22097.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLS---------------------------------------------------------
@@ -9129,7 +9129,7 @@ KSAFFMGDNLLEISLARFLIR-CGMIVYEVGIPYMDKRYQGAEIELLRTTCEVMKVKMPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSKEIL
 ELITKPL-----RRNIGNTKT-----------S-S-------NEI-----------YIPQ
 N--------------
->ARO74345.1|chlN
+>ARO74345.1_ARO74345.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 ------------------------------------------------------------
@@ -9152,7 +9152,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVNEIGIPYLDKRFQASELQLLKQTCQQMQCSLPR
 IVEKPDNYNQIQRIHEFQPDLVITGMGLANPLESRGINTKWSVEFTFAQIHGFSNARDIL
 ELVTRPL-----RRNS-KIFK-----------Q-T-------YIK---------------
 ---------------
->AYC65734.1|chlN
+>AYC65734.1_AYC65734.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 ------------------------------------------------------------
@@ -9175,7 +9175,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRFQASELQFLEKTCQEMSVPMPR
 IVEKPDNSNQIQRIRAMKPDLVITGLAHSNPLEARGITTKWSVEFTFAQIHGFINARDIL
 ELVTRPL-----RRNN-HLNN-----------L-G-------WSK-----------LVNE
 KSFVF----------
->YP_009541956.1|chlN
+>YP_009541956.1_AYR06165|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 FVK---------------------------------------------------------
@@ -9198,7 +9198,7 @@ KSVFFMGDNLLEISLARFLIR-CGMVVYEVGIPYMDRRYQKAELDLLVSTCHKMQSMVPR
 IVEKPDNYNQLGRIQDLQPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFTNSRDIL
 DLVTRPL-----KRNG------------CSAKL--------------S--------FIA-
 ---------------
->ACF70963.1|chlN
+>ACF70963.1_ACF70963.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 IMK---------------------------------------------------------
@@ -9221,7 +9221,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMTVVEIGIPYMDKRYQNAELILLEETCKKMNSPIPT
 IVEKPDNYNQLDRIREIQPDLVITGMAHANPLEARGINTKWSIEFTFAQIHGFTNAIDIL
 ELITRPL-----RRKT-KLNN-----------S-S-------LQR-----------YTIG
 T--------------
->WNK75871.1|chlN
+>WNK75871.1_WNK75871.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 YFL---------------------------------------------------------
@@ -9244,7 +9244,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDRRFQAAELALLEETCFQMNVPIPR
 IVEKPDNYYQISRIRELQPDLVITGMAHANPLEARNITTKWSVEFTFAQIHGFTNAREIL
 DLVTRPL-----RRNQ-NINS-------FTDSL-G-------SNH---------SSFVQN
 LEFIA----------
->AWI68615.1|chlN
+>AWI68615.1_AWI68615.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -9267,7 +9267,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 ELVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->BDA97112.1|chlN
+>BDA97112.1_BDA97112.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 SQI---------------------------------------------------------
@@ -9290,7 +9290,7 @@ KSVFFMGDNLLEISLARFLIR-SGMIVYEIGIPYMDKRYQSGELLLLKKTCAEMGVEVPP
 IIEKPDNFKQIERIRNLKPDLVITGMAHANPLEARGITTKWSVEFTFAQLHGFVNSKDIL
 EIISRPL-----RRNA-SLQQ-----------L-A-------WNS-----------YI--
 ---------------
->UIO59400.1|chlN
+>UIO59400.1_UIO59400.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NS----------------------------------------------------------
@@ -9313,7 +9313,7 @@ KSIFFMGDNLLEISLARFLAR-CGMIIYEIGIPYMDKRFQKAELELLEKTCKAMNIPMPR
 IVEKPDNYNQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNSRDIL
 ELVTRPL-----RRNN-ALEN-----------L-G-------FDK-----------LVKS
 -ELM-----------
->QUO99176.1|chlN
+>QUO99176.1_QUO99176.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -K----------------------------------------------------------
@@ -9336,7 +9336,7 @@ KSVFFMGDNILEISLARFLIR-CGMIVYEIGIPYMDKRFQSAELSLLEQTCFEMNVPIPK
 IVEKPDNYYQIQRIRELEPDLVITGMAHCNPLEARGVNTKWSVEFTFAQIHGFINAREIL
 ELVTRPL-----RRNM-NLKA-----------L-G-------WTT-----------LIEN
 ---------------
->YP_009550652.1|chlN
+>YP_009550652.1_QAA11584|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 IQS---------------------------------------------------------
@@ -9359,7 +9359,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYLDRRYQAAELALLEKTCIEMDQFVPI
 IVEKPDNYNQIDRIKDLQPDLVITGMANANPLEARGLRTKWSVEFTFAQVHGFQNASNIL
 ELIGRPL-----RHIP-KFED-----------F-G-------KSQ-----------YATV
 ---------------
->QWK43395.1|chlN
+>QWK43395.1_QWK43395.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 QIK---------------------------------------------------------
@@ -9382,7 +9382,7 @@ KSVFFMGDNLLEISLARFLIR-AGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIEVL
 ELVTRPL-----RRNQ-KLEK-----------I-G-------SQR-----------YTDR
 R--------------
->UWV18250.1|chlN
+>UWV18250.1_UWV18250.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 QKT---------------------------------------------------------
@@ -9405,7 +9405,7 @@ KSVFFMGDNILEVSLARFLIR-CGMIVTEIGIPYMDRRFQAAELALLEKTCLDMNVPMPR
 IVEKPDNALQILRIRELLPDLVITGMAHCNPLEARGINTKWSVEFTFAQIHGFVNAREVL
 ELVTRPL-----RRNQ-AIDSF----------L-N-------KKEKKN-----ISLFVKE
 G--------------
->AWW13614.1|chlN
+>AWW13614.1_AWW13614.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QLE---------------------------------------------------------
@@ -9428,7 +9428,7 @@ KSVFFMGDNLLELSLARFLIR-CGMIVPEIGIPYLDKRYQEAEINLLEETCKKMNVPLPL
 IIEKPDNYAQLKRIEKYRPDLVITGMANANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRSL-----RRKN-YVQS-----------F-C-------EKE-----------LVE-
 ---------------
->WKT08431.1|chlN
+>WKT08431.1_WKT08431.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 -D----------------------------------------------------------
@@ -9451,7 +9451,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYEIGIPYMDKRYQAAELNLLQKTCQAMNVPLPR
 IVEKPDNYNQIQRIRELKPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFSNARDIL
 ELVTRPL-----RRNQ-SLHE-----------L-G-------WDN-----------LVKL
 -NYNK----------
->YP_009773693.1|chlN
+>YP_009773693.1_QIZ74120|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QVV---------------------------------------------------------
@@ -9474,7 +9474,7 @@ KSVFFMGDNLLEISLARFLIR-CGMIVYECGVPYLDKRYQASEILLLEKTCKEKNVIMPR
 IVEKPDNYYQVQRIRELQPDLVITGMALSNPLEARGITTKWSVEFTFAQIHGFANSKDVL
 ELVTRPL-----RRNM--LQK-----------I-N-------TKS-----------LVKP
 IK-------------
->NP_038439.1|chlN
+>NP_038439.1_AAF43877|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 -A----------------------------------------------------------
@@ -9497,7 +9497,7 @@ KSVFFMGDNLLEISLARFLIK-CGMIVYEIGIPYMDKRYQAAELALLEKHCNDMNVPMPR
 IVEKPDNYNQIQRIKELQPDLAITGMAHANPLEARGISTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNN-SLEG-----------L-G-------WNS-----------LVKE
 -NIK-----------
->YP_009364017.1|chlN
+>YP_009364017.1_AQU64409|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 QSI---------------------------------------------------------
@@ -9520,7 +9520,7 @@ KSVFFMGDNLLEVSLARFLIR-CGMIVYEIGIPYMDRRFQASELEFLEKTCLEMNVPIPR
 IIEKPDNYYQIQRIRELQPDLVITGMAHANPLEARGITTKWSVEFTFSQIHGFSNARQIL
 DLVTRPL-----KRQK-TLK-----------NF-N-------FTK---------------
 ---------------
->UNJ18210.1|chlN
+>UNJ18210.1_UNJ18210.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 STV---------------------------------------------------------
@@ -9543,7 +9543,7 @@ KSVFFMGDNLLEVSLARFLTR-CGMTVYEIGIPYMDKRYQAAELALLKTTCDEMNVMMPT
 IVEKPDNYNQIDRIRDLKPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELVTRPL-----RRNL-SLSE-----------L-G-------WDV-----------YSKQ
 G--------------
->AGN72489.1|chlN
+>AGN72489.1_AGN72489.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 -N----------------------------------------------------------
@@ -9566,7 +9566,7 @@ KSVFFMGDNLLEISLARFLIS-CGMIVYEIGIPYMDKRFQAAELALLETTCKKMNVPLPR
 IVEKPDNYHQIQRIRELQPDLAITGMAHANPLEARGINTKWSVEFTFAQIHGFTNARDIL
 ELITRPL-----RRNQ-ALGT-----------L-G-------WSQ-----------LIKT
 -DN------------
->YP_009628570.1|chlN
+>YP_009628570.1_QBX88353|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 TLS---------------------------------------------------------
@@ -9589,7 +9589,7 @@ KSVFFMGDNLLEISLARFLIR-CGMTVYEIGIPYMDKRYQGAELALLSQTCLDMDVKIPK
 IVEKPDNYNQLDRIRDLQPDLVITGMAHANPLEARGINTKWSVEFTFAPIHGFTNARDIL
 ELVTRPL-----RRNN-NLKE-----------V-S-------SEI-----------YSSN
 Y--------------
->WAM62234.1|chlN
+>WAM62234.1_WAM62234.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 LVK---------------------------------------------------------
@@ -9612,7 +9612,7 @@ KSVFFMGDNLLEISLARFLIK-SGMIVFEIGIPYMDKRYQGAELQLLQKTCKEKNIPIPI
 IIEKPDNYNQVDRIRDMRPDLVITGMAHANPLEARGINTKWSVEFTFAQIHGFTNAIDVL
 ELVTRPL-----RRNQ-KLEK-----------V-G-------SQR-----------YTDR
 R--------------
->YP_010835243.1|chlN
+>YP_010835243.1_WFQ82918|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------MN
 SLA---------------------------------------------------------
@@ -9635,7 +9635,7 @@ KSVFFMGDNLLELSLARFLIR-CGMTVNEIGIPYMDKRYQLNEITLLEKTCHEMNVALPK
 IIEKPDNFNQLKRIRFQKPDLVITGMANANPLEARGINTKWSVEFTFANIHGFTSSKDIL
 ELVTRPL-----RRNN-SLQQ-----------L-S-------WNS-----------Y-AL
 HP-------------
->QAA12000.1|chlN
+>QAA12000.1_QAA12000.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------ME
 KQL---------------------------------------------------------
@@ -9658,7 +9658,7 @@ KSVFFMGDNLLELSLARFFIK-CGMIVYEVGIPYLDKRYQLSELNLLEATCLEMKTFLPI
 IVEKPDNYNQLDRIQDLKPDLVITGMAHANPLQSRGINTKWSVEFTFSQIHGFTNAKNIL
 DLVLKSL-----KGQI-TVNN-----------L-N-------WKN-----------YNIL
 V--------------
->WDA99655.1|chlN
+>WDA99655.1_WDA99655.1|chlN
 ------------------------------------------------------------
 ----------------------------------------------------------M-
 SLQ---------------------------------------------------------

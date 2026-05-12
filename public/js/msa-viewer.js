@@ -35,6 +35,17 @@
     }
   }
 
+  function rewriteFastaHeadersForDisplay(fasta) {
+    return fasta.replace(/^>([^\n]+)$/gm, (fullMatch, headerLine) => {
+      const headerToken = headerLine.trim().split(/\s+/)[0];
+      if (!headerToken.includes("|")) {
+        return fullMatch;
+      }
+
+      return `>${headerToken.replace("|", " ")} ${headerLine.slice(headerToken.length).trim()}`.trimEnd();
+    });
+  }
+
   async function getFasta(el) {
     const fastaUrl = (el.dataset.fastaUrl || "").trim();
     const inlineFasta = (el.dataset.inlineFasta || "").trim();
@@ -63,6 +74,20 @@
       const alterations = parseJson(el.dataset.alterations, []);
       const colorSchema = (el.dataset.colorSchema || "clustal").trim();
       const hasConsensus = el.dataset.hasConsensus !== "false";
+
+      if (!window.__A2KOriginalMSAProcessor) {
+        window.__A2KOriginalMSAProcessor = window.MSAProcessor;
+        window.MSAProcessor = function wrappedMSAProcessor(options) {
+          const originalFasta = options?.fasta || "";
+          const viewerFasta = rewriteFastaHeadersForDisplay(originalFasta);
+          const processed = window.__A2KOriginalMSAProcessor({
+            ...options,
+            fasta: viewerFasta,
+          });
+          processed.fasta = originalFasta;
+          return processed;
+        };
+      }
 
       const viewer = new window.MSABrowser({
         id: el.id,

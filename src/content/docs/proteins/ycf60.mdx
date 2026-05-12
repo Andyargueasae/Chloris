@@ -17,12 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51360`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51360/entry](https://www.uniprot.org/uniprotkb/P51360/entry)
 - **Number of aligned sequences:** 304
-- **Pfam domains:**
-  - [PF16166](https://www.ebi.ac.uk/interpro/entry/pfam/PF16166)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ycf60Viewer" fastaUrl="../../alignments/ycf60.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf60_alignment.fasta" />
 
 # Structure Visualization
 
@@ -33,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ycf60.aln" icon="download">ycf60.aln</LinkButton>
 <LinkButton href="../../structure/ycf60_model.cif" icon="download">ycf60.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ycf60Viewer" fastaUrl="../../alignments/ycf60.aln" colorSchema="clustal" hasConsensus={true} exportName="ycf60_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -42,8 +40,11 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Tic20 family protein Ycf60 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51360/entry |
-| pfam domains | [PF16166] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF16166] |
-| alignment_path | /public/downloads/ycf60.aln |
 | n_seqs | 304.0 |
-| structure_path | /public/downloads/ycf60.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF16166](https://www.ebi.ac.uk/interpro/entry/pfam/PF16166) | Chloroplast import apparatus Tic20-like | Chloroplast function requires the import of nuclear encoded proteins from the cytoplasm across the chloroplast double membrane. |

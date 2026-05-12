@@ -17,13 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q6B919`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q6B919/entry](https://www.uniprot.org/uniprotkb/Q6B919/entry)
 - **Number of aligned sequences:** 15
-- **Pfam domains:**
-  - [PF00694](https://www.ebi.ac.uk/interpro/entry/pfam/PF00694)
-  - [PF06434](https://www.ebi.ac.uk/interpro/entry/pfam/PF06434)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="leuDViewer" fastaUrl="../../alignments/leuD.aln" colorSchema="clustal" hasConsensus={true} exportName="leuD_alignment.fasta" />
 
 # Structure Visualization
 
@@ -34,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/leuD.aln" icon="download">leuD.aln</LinkButton>
 <LinkButton href="../../structure/leud_model.cif" icon="download">leuD.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="leuDViewer" fastaUrl="../../alignments/leuD.aln" colorSchema="clustal" hasConsensus={true} exportName="leuD_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -43,8 +40,13 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | 3-isopropylmalate dehydratase small subunit |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q6B919/entry |
-| pfam domains | [PF00694,PF06434] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00694,https://www.ebi.ac.uk/interpro/entry/pfam/PF06434] |
-| alignment_path | /public/downloads/leuD.aln |
 | n_seqs | 15.0 |
-| structure_path | /public/downloads/leuD.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00694](https://www.ebi.ac.uk/interpro/entry/pfam/PF00694) | Aconitase C-terminal domain | Members of this family usually also match to [pfam:PF00330]. |
+| [PF00330](https://www.ebi.ac.uk/interpro/entry/pfam/PF00330) | Aconitase family (aconitate hydratase) | No description available. |
+| [PF06434](https://www.ebi.ac.uk/interpro/entry/pfam/PF06434) | Aconitate hydratase 2 N-terminus | This family represents the N-terminal region of several bacterial Aconitate hydratase 2 proteins and is found in conjunction with [pfam:PF00330]. |

@@ -17,15 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `Q1XDQ7`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDQ7/entry](https://www.uniprot.org/uniprotkb/Q1XDQ7/entry)
 - **Number of aligned sequences:** 355
-- **Pfam domains:**
-  - [PF01842](https://www.ebi.ac.uk/interpro/entry/pfam/PF01842)
-  - [PF10369](https://www.ebi.ac.uk/interpro/entry/pfam/PF10369)
-  - [PF13291](https://www.ebi.ac.uk/interpro/entry/pfam/PF13291)
-  - [PF13710](https://www.ebi.ac.uk/interpro/entry/pfam/PF13710)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="ilvHViewer" fastaUrl="../../alignments/ilvH.aln" colorSchema="clustal" hasConsensus={true} exportName="ilvH_alignment.fasta" />
 
 # Structure Visualization
 
@@ -36,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/ilvH.aln" icon="download">ilvH.aln</LinkButton>
 <LinkButton href="../../structure/ilvh_model.cif" icon="download">ilvH.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="ilvHViewer" fastaUrl="../../alignments/ilvH.aln" colorSchema="clustal" hasConsensus={true} exportName="ilvH_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -45,8 +40,14 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Acetolactate synthase small subunit |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDQ7/entry |
-| pfam domains | [PF01842,PF10369,PF13291,PF13710] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF01842,https://www.ebi.ac.uk/interpro/entry/pfam/PF10369,https://www.ebi.ac.uk/interpro/entry/pfam/PF13291,https://www.ebi.ac.uk/interpro/entry/pfam/PF13710] |
-| alignment_path | /public/downloads/ilvH.aln |
 | n_seqs | 355.0 |
-| structure_path | /public/downloads/ilvH.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF01842](https://www.ebi.ac.uk/interpro/entry/pfam/PF01842) | ACT domain | This family of domains generally have a regulatory role. |
+| [PF10369](https://www.ebi.ac.uk/interpro/entry/pfam/PF10369) | Small subunit of acetolactate synthase | ALS_ss_C is the C-terminal half of a family of proteins which are the small subunits of acetolactate synthase. |
+| [PF13291](https://www.ebi.ac.uk/interpro/entry/pfam/PF13291) | ACT domain | ACT domains bind to amino acids and regulate associated enzyme domains. |
+| [PF13710](https://www.ebi.ac.uk/interpro/entry/pfam/PF13710) | ACT domain | ACT domains bind to amino acids and regulate associated enzyme domains. |

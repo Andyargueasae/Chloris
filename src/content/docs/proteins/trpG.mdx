@@ -17,17 +17,6 @@ import { LinkButton } from '@astrojs/starlight/components';
 - **UniRef90 representative:** `P51362`
 - **UniProt entry:** [https://www.uniprot.org/uniprotkb/P51362/entry](https://www.uniprot.org/uniprotkb/P51362/entry)
 - **Number of aligned sequences:** 271
-- **Pfam domains:**
-  - [PF00117](https://www.ebi.ac.uk/interpro/entry/pfam/PF00117)
-  - [PF00958](https://www.ebi.ac.uk/interpro/entry/pfam/PF00958)
-  - [PF01171](https://www.ebi.ac.uk/interpro/entry/pfam/PF01171)
-  - [PF02540](https://www.ebi.ac.uk/interpro/entry/pfam/PF02540)
-  - [PF03054](https://www.ebi.ac.uk/interpro/entry/pfam/PF03054)
-  - [PF07722](https://www.ebi.ac.uk/interpro/entry/pfam/PF07722)
-
-# Multi-Sequence Alignment
-
-<MsaBrowser viewerId="trpGViewer" fastaUrl="../../alignments/trpG.aln" colorSchema="clustal" hasConsensus={true} exportName="trpG_alignment.fasta" />
 
 # Structure Visualization
 
@@ -38,6 +27,10 @@ import { LinkButton } from '@astrojs/starlight/components';
 <LinkButton href="../../alignments/trpG.aln" icon="download">trpG.aln</LinkButton>
 <LinkButton href="../../structure/trpg_model.cif" icon="download">trpG.cif</LinkButton>
 
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="trpGViewer" fastaUrl="../../alignments/trpG.aln" colorSchema="clustal" hasConsensus={true} exportName="trpG_alignment.fasta" />
+
 # Raw Metadata
 
 | Field | Value |
@@ -47,8 +40,16 @@ import { LinkButton } from '@astrojs/starlight/components';
 | full name | Anthranilate synthase component 2 |
 | descriptions | None |
 | UniProt Representative link | https://www.uniprot.org/uniprotkb/P51362/entry |
-| pfam domains | [PF00117,PF00958,PF01171,PF02540,PF03054,PF07722] |
 | pfam_links | [https://www.ebi.ac.uk/interpro/entry/pfam/PF00117,https://www.ebi.ac.uk/interpro/entry/pfam/PF00958,https://www.ebi.ac.uk/interpro/entry/pfam/PF01171,https://www.ebi.ac.uk/interpro/entry/pfam/PF02540,https://www.ebi.ac.uk/interpro/entry/pfam/PF03054,https://www.ebi.ac.uk/interpro/entry/pfam/PF07722] |
-| alignment_path | /public/downloads/trpG.aln |
 | n_seqs | 271.0 |
-| structure_path | /public/downloads/trpG.cif |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00117](https://www.ebi.ac.uk/interpro/entry/pfam/PF00117) | Glutamine amidotransferase class-I | No description available. |
+| [PF00958](https://www.ebi.ac.uk/interpro/entry/pfam/PF00958) | GMP synthase C terminal domain | GMP synthetase is a glutamine amidotransferase from the de novo purine biosynthetic pathway. |
+| [PF01171](https://www.ebi.ac.uk/interpro/entry/pfam/PF01171) | PP-loop domain | The structure of tRNA(Ile)-lysidine synthetase consists of an N-terminal dinucleotide-binding fold domain (NTD), and a C-terminal globular domain (CTD). |
+| [PF02540](https://www.ebi.ac.uk/interpro/entry/pfam/PF02540) | NAD synthase | NAD synthase ([ec:6.3.5.1]) is involved in the de novo synthesis of NAD and is induced by stress factors such as heat shock and glucose limitation. |
+| [PF03054](https://www.ebi.ac.uk/interpro/entry/pfam/PF03054) | tRNA methyl transferase HUP domain | This family represents the N-terminal HUP domain in tRNA(5-methylaminomethyl-2-thiouridine)-methyltransferase which is involved in the biosynthesis of the modified nucleoside 5-methylaminomethyl-2-thiouridine present in the wobble position of some tRNAs [[cite:PUB00017420]]. |
+| [PF07722](https://www.ebi.ac.uk/interpro/entry/pfam/PF07722) | Peptidase C26 | These peptidases have gamma-glutamyl hydrolase activity; that is they catalyse the cleavage of the gamma-glutamyl bond in poly-gamma-glutamyl substrates. |
