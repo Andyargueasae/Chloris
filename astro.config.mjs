@@ -17,7 +17,7 @@ export default defineConfig({
         { label: 'Phylogeny', slug: 'phylogeny' },
         {
           label: 'Proteins',
-          autogenerate: { directory: 'proteins' },
+          items: [{ autogenerate: { directory: 'proteins' } }],
         },
         { label: 'Download', slug: 'download' },
         { label: 'Credits', slug: 'credits' },

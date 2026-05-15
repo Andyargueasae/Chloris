@@ -61,6 +61,7 @@
       const resetBtn = section.querySelector(".js-reset");
       const screenshotBtn = section.querySelector(".js-screenshot");
       const spinBtn = section.querySelector(".js-spin");
+      const fullscreenBtn = section.querySelector(".js-fullscreen");
       const fileInput = section.querySelector(".js-file");
 
       if (resetBtn) {
@@ -89,6 +90,25 @@
       if (spinBtn) {
         spinBtn.addEventListener("click", () => {
           container.classList.toggle("is-spinning");
+        });
+      }
+
+      if (fullscreenBtn) {
+        fullscreenBtn.addEventListener("click", () => {
+          section.classList.toggle("is-fullscreen");
+          fullscreenBtn.classList.toggle("is-active");
+          
+          // Close fullscreen with Escape key
+          if (section.classList.contains("is-fullscreen")) {
+            const handleEscape = (e) => {
+              if (e.key === "Escape") {
+                section.classList.remove("is-fullscreen");
+                fullscreenBtn.classList.remove("is-active");
+                document.removeEventListener("keydown", handleEscape);
+              }
+            };
+            document.addEventListener("keydown", handleEscape);
+          }
         });
       }
 
