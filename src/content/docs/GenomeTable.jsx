@@ -10,7 +10,7 @@ export function GenomeTable() {
       try {
         console.log('🔍 GenomeTable component mounted')
         const baseUrl = import.meta.env.BASE_URL || '/'
-        const tsvUrl = `${baseUrl}galah_cluster_reps_filtered.tsv`
+        const tsvUrl = `${import.meta.env.BASE_URL}galah_cluster_reps_filtered.tsv`;
         const response = await fetch(tsvUrl)
         console.log('Fetch response:', response.status)
         

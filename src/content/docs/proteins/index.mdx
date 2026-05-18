@@ -5,7 +5,7 @@ template: splash
 ---
 
 import MsaBrowser from '../../../components/MSA.astro';
-import DownloadCard from '../../../components/DownloadCard.astro';
+import { LinkButton } from '@astrojs/starlight/components';
 
 ## Protein Metadata
 The 221 selected proteins' metadata displayed in the website, including their names, protein structures, alignments, Pfam domains and short descriptions and links to external resources (UniProt and InterPro).
@@ -16,4 +16,4 @@ We also prepared orthogroups for another ~2000 clusters with unknown identity (m
 
 Links to download:
 
-<DownloadCard href="../downloads/OGs_unknown.tar.gz" icon="Unknown Orthogroups">OGs_unknown.tar.gz</DownloadCard>
+<LinkButton href="../downloads/OGs_unknown.tar.gz" icon="Unknown Orthogroups">OGs_unknown.tar.gz</LinkButton>

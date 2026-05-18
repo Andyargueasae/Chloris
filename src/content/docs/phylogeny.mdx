@@ -14,4 +14,4 @@ import PhyloTree from '../../components/PhyloTree.jsx';
 Here is an interactive tree viewer of the resulting tree. We built the tree with IQ-TREE v2.3.6.
 
 # may need to change it as a static phylogenetic tree rather than interactive one. 
-<PhyloTree treeUrl="/public/downloads/ChlORIS.contree" client:load />
+<PhyloTree treeUrl={`${import.meta.env.BASE_URL}downloads/ChlORIS.contree`} client:load />
