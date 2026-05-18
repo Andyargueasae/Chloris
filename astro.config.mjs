@@ -5,7 +5,7 @@ import react from '@astrojs/react';
 
 export default defineConfig({
   site: 'https://andyargueasae.github.io',
-  base: '/Chloris',
+  base: '/Chloris/',
   integrations: [
     starlight({
       title: 'Chloris',
