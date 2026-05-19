@@ -1,0 +1,51 @@
+---
+title: "apcD"
+description: "Allophycocyanin alpha-B chain"
+slug: "proteins/apcD"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Protein Information
+
+**Full name:** Allophycocyanin alpha-B chain
+
+Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex.
+
+## Metadata
+
+- **UniRef90 representative:** `P59857`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/P59857/entry](https://www.uniprot.org/uniprotkb/P59857/entry)
+- **Number of aligned sequences:** 258
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="../../structure/apcD_model.cif" />
+
+# Downloads
+
+<LinkButton href="../../alignments/apcD.aln" icon="download">apcD.aln</LinkButton>
+<LinkButton href="../../structure/apcD_model.cif" icon="download">apcD.cif</LinkButton>
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="apcDViewer" fastaUrl="../../alignments/apcD.aln" colorSchema="clustal" hasConsensus={true} exportName="apcD_alignment.fasta" />
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | apcD |
+| Uniref90 representative | Q1XDU2 |
+| full name | Allophycocyanin beta chain |
+| descriptions | Light-harvesting photosynthetic tetrapyrrole chromophore-protein from the phycobiliprotein complex. |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDU2/entry |
+| Number of aligned sequences | 258 |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00502](https://www.ebi.ac.uk/interpro/entry/pfam/PF00502) | Phycobilisome protein | No description available. |

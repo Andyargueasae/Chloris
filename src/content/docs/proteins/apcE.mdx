@@ -1,0 +1,51 @@
+---
+title: "apcE"
+description: "Phycobiliprotein ApcE"
+slug: "proteins/apcE"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Protein Information
+
+**Full name:** Phycobiliprotein ApcE
+
+This protein is postulated to act both as terminal energy acceptor and as a linker polypeptide that stabilizes the phycobilisome architecture. May have intrinsic bilin lyase activity (By similarity).
+## Metadata
+
+- **UniRef90 representative:** `Q1XDM4`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDM4/entry](https://www.uniprot.org/uniprotkb/Q1XDM4/entry)
+- **Number of aligned sequences:** 263
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="../../structure/apce_model.cif" />
+
+# Downloads
+
+<LinkButton href="../../alignments/apcE.aln" icon="download">apcE.aln</LinkButton>
+<LinkButton href="../../structure/apce_model.cif" icon="download">apcE.cif</LinkButton>
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="apcEViewer" fastaUrl="../../alignments/apcE.aln" colorSchema="clustal" hasConsensus={true} exportName="apcE_alignment.fasta" />
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | apcE |
+| Uniref90 representative | Q1XDM4 |
+| full name | Phycobiliprotein ApcE |
+| descriptions | This protein is postulated to act both as terminal energy acceptor and as a linker polypeptide that stabilizes the phycobilisome architecture. May have intrinsic bilin lyase activity (By similarity). |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDM4/entry |
+| Number of aligned sequences | 263 |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF00502](https://www.ebi.ac.uk/interpro/entry/pfam/PF00502) | Phycobilisome protein | No description available. |
+| [PF00427](https://www.ebi.ac.uk/interpro/entry/pfam/PF00427) | Phycobilisome linker polypeptide | No description available. |

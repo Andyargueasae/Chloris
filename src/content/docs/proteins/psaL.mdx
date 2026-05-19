@@ -1,0 +1,49 @@
+---
+title: "psaL"
+description: "Photosystem I reaction center subunit XI"
+slug: "proteins/psaL"
+---
+
+import MsaBrowser from '../../../components/MSA.astro';
+import ProteinStructureViewer from '../../../components/ProteinViewer.astro';
+import { LinkButton } from '@astrojs/starlight/components';
+
+# Protein Information
+
+**Full name:** Photosystem I reaction center subunit XI
+
+## Metadata
+
+- **UniRef90 representative:** `Q1XDR5`
+- **UniProt entry:** [https://www.uniprot.org/uniprotkb/Q1XDR5/entry](https://www.uniprot.org/uniprotkb/Q1XDR5/entry)
+- **Number of aligned sequences:** 515
+
+# Structure Visualization
+
+<ProteinStructureViewer cifUrl="../../structure/psal_model.cif" />
+
+# Downloads
+
+<LinkButton href="../../alignments/psaL.aln" icon="download">psaL.aln</LinkButton>
+<LinkButton href="../../structure/psal_model.cif" icon="download">psaL.cif</LinkButton>
+
+# Multi-Sequence Alignment
+
+<MsaBrowser viewerId="psaLViewer" fastaUrl="../../alignments/psaL.aln" colorSchema="clustal" hasConsensus={true} exportName="psaL_alignment.fasta" />
+
+# Raw Metadata
+
+| Field | Value |
+| --- | --- |
+| protein | psaL |
+| Uniref90 representative | Q1XDR5 |
+| full name | Photosystem I reaction center subunit XI |
+| descriptions | None |
+| UniProt Representative link | https://www.uniprot.org/uniprotkb/Q1XDR5/entry |
+| Number of aligned sequences | 515 |
+
+# Pfam Domains
+
+| Pfam Entry ID | Name | Basic Function |
+| --- | --- | --- |
+| [PF02605](https://www.ebi.ac.uk/interpro/entry/pfam/PF02605) | Photosystem I reaction centre subunit XI | No description available. |
