@@ -39,8 +39,9 @@
       const molstar = await waitForMolstar();
 
       const viewer = await molstar.Viewer.create(container, {
-        layoutShowControls: true,
-        layoutShowSequence: true,
+        layoutShowControls: false,
+        layoutShowSequence: false,
+        layoutShowLeftPanel: false,
         layoutShowLog: false,
         layoutIsExpanded: false,
       });
