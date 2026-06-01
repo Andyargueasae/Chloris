@@ -1,30 +1,108 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useMemo, useState } from 'react'
+import { AgGridReact } from 'ag-grid-react'
+import { AllCommunityModule, ModuleRegistry } from 'ag-grid-community'
+import 'ag-grid-community/styles/ag-grid.css'
+import 'ag-grid-community/styles/ag-theme-alpine.css'
+
+ModuleRegistry.registerModules([AllCommunityModule])
 
 export function GenomeTable() {
   const [data, setData] = useState([])
   const [isLoading, setIsLoading] = useState(true)
   const [error, setError] = useState(null)
+  const [quickFilterText, setQuickFilterText] = useState('')
+
+  const defaultColDef = useMemo(() => {
+    return {
+      sortable: true,
+      filter: true,
+      floatingFilter: true,
+      resizable: true,
+      editable: false,
+      minWidth: 140,
+      flex: 1,
+    }
+  }, [])
+
+  const columnDefs = useMemo(() => {
+    return [
+      {
+        field: 'rep_genome',
+        headerName: 'Representative Genome',
+        pinned: 'left',
+        minWidth: 220,
+        filter: 'agTextColumnFilter',
+      },
+      {
+        field: 'species',
+        headerName: 'Species',
+        minWidth: 220,
+        filter: 'agTextColumnFilter',
+      },
+      {
+        field: 'members',
+        headerName: 'Members',
+        minWidth: 360,
+        flex: 2,
+        filter: 'agTextColumnFilter',
+        cellStyle: {
+          whiteSpace: 'normal',
+          lineHeight: '1.4',
+        },
+        autoHeight: true,
+      },
+      {
+        field: 'genomes_in_tree',
+        headerName: 'Genomes in Tree',
+        minWidth: 200,
+        filter: 'agTextColumnFilter',
+        cellRenderer: params => {
+          const value = params.value
+          if (!value) {
+            return <span style={{ color: '#999' }}>-</span>
+          }
+          return (
+            <a
+              href={`https://www.ncbi.nlm.nih.gov/nuccore/${value}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: '#0066cc', textDecoration: 'none', fontWeight: 500 }}
+              onMouseEnter={e => {
+                e.currentTarget.style.textDecoration = 'underline'
+              }}
+              onMouseLeave={e => {
+                e.currentTarget.style.textDecoration = 'none'
+              }}
+            >
+              {value}
+            </a>
+          )
+        },
+      },
+    ]
+  }, [])
+
+  const sideBar = useMemo(() => {
+    return {
+      toolPanels: ['columns', 'filters'],
+      defaultToolPanel: 'columns',
+    }
+  }, [])
 
   useEffect(() => {
     const loadData = async () => {
       try {
-        console.log('🔍 GenomeTable component mounted')
-        const baseUrl = import.meta.env.BASE_URL || '/'
-        const tsvUrl = `${import.meta.env.BASE_URL}downloads/galah_cluster_reps_filtered.tsv`;
-        console.log("TSV URL:", tsvUrl);
+        const tsvUrl = `${import.meta.env.BASE_URL}downloads/galah_cluster_reps_filtered.tsv`
         const response = await fetch(tsvUrl)
-        console.log('Fetch response:', response.status)
-        
+
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`)
         }
-        
+
         const raw = await response.text()
-        console.log('Raw data length:', raw.length)
-        
+
         const rows = raw.trim().split('\n').map(line => line.split('\t'))
         const headers = rows[0].map(h => h.trim())
-        console.log('Headers:', headers)
 
         const parsedData = rows.slice(1).map(row =>
           Object.fromEntries(
@@ -36,12 +114,10 @@ export function GenomeTable() {
             })
           )
         )
-        
-        console.log('✅ Loaded', parsedData.length, 'genomes')
+
         setData(parsedData)
         setError(null)
       } catch (err) {
-        console.error('❌ Error:', err.message)
         setError(err.message)
       } finally {
         setIsLoading(false)
@@ -52,7 +128,7 @@ export function GenomeTable() {
   }, [])
 
   if (isLoading) {
-    return <p>⏳ Loading genome data...</p>
+    return <p>Loading genome data...</p>
   }
 
   if (error) {
@@ -64,66 +140,60 @@ export function GenomeTable() {
   }
 
   if (data.length === 0) {
-    return <p>⚠️ No genome data available</p>
+    return <p>No genome data available</p>
   }
 
   return (
     <div style={{ marginTop: '2rem', width: '100%' }}>
       <p style={{ marginBottom: '1rem', color: '#333', fontWeight: '500' }}>
-        Showing all {data.length} genomes
+        Showing {data.length} genomes
       </p>
 
-      <div style={{ overflowX: 'auto', marginBottom: '1.5rem', border: '1px solid #ccc', borderRadius: '4px', maxHeight: '1200px', overflowY: 'auto' }}>
-        <table style={{
+      <div style={{ display: 'flex', gap: '0.75rem', marginBottom: '0.75rem', alignItems: 'center' }}>
+        <label htmlFor="genome-quick-filter" style={{ fontWeight: 500, color: '#333' }}>
+          Quick filter:
+        </label>
+        <input
+          id="genome-quick-filter"
+          type="text"
+          value={quickFilterText}
+          onChange={e => setQuickFilterText(e.target.value)}
+          placeholder="Type to filter all columns"
+          style={{
+            padding: '0.45rem 0.6rem',
+            border: '1px solid #c8c8c8',
+            borderRadius: '4px',
+            minWidth: '300px',
+            maxWidth: '100%',
+          }}
+        />
+      </div>
+
+      <div
+        className="ag-theme-alpine"
+        style={{
           width: '100%',
-          borderCollapse: 'collapse',
-          fontSize: '14px',
-          backgroundColor: '#fff',
-        }}>
-          <thead>
-            <tr style={{ backgroundColor: '#0066cc', color: '#fff', fontWeight: '600', position: 'sticky', top: 0 }}>
-              <th style={{ padding: '12px', textAlign: 'left', borderRight: '1px solid #ddd' }}>Representative Genome</th>
-              <th style={{ padding: '12px', textAlign: 'left', borderRight: '1px solid #ddd' }}>Members</th>
-              <th style={{ padding: '12px', textAlign: 'left', borderRight: '1px solid #ddd' }}>Species</th>
-              <th style={{ padding: '12px', textAlign: 'left' }}>Genomes in Tree</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.map((row, i) => (
-              <tr key={i} style={{ borderBottom: '1px solid #ddd', backgroundColor: i % 2 === 0 ? '#f9f9f9' : '#fff' }}>
-                <td style={{ padding: '12px', borderRight: '1px solid #ddd', color: '#333', fontWeight: '500' }}>
-                  {row.rep_genome}
-                </td>
-                <td style={{ padding: '12px', borderRight: '1px solid #ddd', color: '#555', fontSize: '13px', maxWidth: '300px', wordBreak: 'break-word' }}>
-                  {row.members}
-                </td>
-                <td style={{ padding: '12px', borderRight: '1px solid #ddd', color: '#333' }}>
-                  {row.species || <span style={{ color: '#999' }}>—</span>}
-                </td>
-                <td style={{ padding: '12px', color: '#333' }}>
-                  {row.genomes_in_tree ? (
-                    <a 
-                      href={`https://www.ncbi.nlm.nih.gov/nuccore/${row.genomes_in_tree}`}
-                      target="_blank" 
-                      rel="noopener noreferrer"
-                      style={{ 
-                        color: '#0066cc', 
-                        textDecoration: 'none',
-                        fontWeight: '500',
-                      }}
-                      onMouseEnter={(e) => e.target.style.textDecoration = 'underline'}
-                      onMouseLeave={(e) => e.target.style.textDecoration = 'none'}
-                    >
-                      {row.genomes_in_tree}
-                    </a>
-                  ) : (
-                    <span style={{ color: '#999' }}>—</span>
-                  )}
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
+          height: '75vh',
+          minHeight: '650px',
+          border: '1px solid #d5d5d5',
+          borderRadius: '6px',
+          overflow: 'hidden',
+        }}
+      >
+        <AgGridReact
+          rowData={data}
+          columnDefs={columnDefs}
+          defaultColDef={defaultColDef}
+          quickFilterText={quickFilterText}
+          sideBar={sideBar}
+          animateRows={true}
+          enableCellTextSelection={true}
+          pagination={true}
+          paginationPageSize={25}
+          paginationPageSizeSelector={[10, 25, 50, 100]}
+          rowSelection={{ mode: 'multiRow' }}
+          suppressRowClickSelection={false}
+        />
       </div>
     </div>
   )
