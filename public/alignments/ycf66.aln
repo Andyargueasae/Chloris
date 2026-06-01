@@ -1,4 +1,4 @@
->AYO28691.1_AYO28691.1|ycf66
+>Neotessella_volvocina|AYO28691.1|ycf66
 -------------------MINIIVEPALL-----LGVTFAVLMILLYGLRFINPD----
 LATDWDVFITTLGIVYSSILVIHGWRLDPILLFSQVLVIFITFSFCWILIRQRELIR---
 ----------------------------------------------------------RL
@@ -6,7 +6,7 @@ I-ETL-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UYC30806.1_UYC30806.1|ycf66
+>Ditylum_brightwellii|UYC30806.1|ycf66
 -------------------MINIGFGPNII-----LGVILGFGVLLLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -14,7 +14,7 @@ AKL---------------------------------------------------------
 --KKEGKNRH--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXV92824.1_QXV92824.1|ycf66
+>Nitzschia_anatoliensis|QXV92824.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -22,7 +22,7 @@ AKG---------------------------------------------------------
 --KNKENN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AXC47156.1_AXC47156.1|ycf66
+>Endarachne_binghamiae|AXC47156.1|ycf66
 -------------------MINIVFGANFL-----LGLLIIFGVLILYFLRSIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -30,7 +30,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT06300.1_WKT06300.1|ycf66
+>Interfilum_sp._SAG_2147|WKT06300.1|ycf66
 -------------------MINLEFNASTL-----LGVCLVATSIGLYAVRKIKPE----
 LSRDSDVVFSTLGIAAGSILTFQGWRLDPILLFSQTCSIGVALFFVWESIRLRHNNN---
 ---------YSKKNLF---------------LSQKNNL--------------------N-
@@ -38,7 +38,7 @@ LSRDSDVVFSTLGIAAGSILTFQGWRLDPILLFSQTCSIGVALFFVWESIRLRHNNN---
 -SKPRNRKEIR-NR-------YMSVQ-----------IKD--------------------
 ------------------------------------------------------------
 --------------------------
->YP_009497065.1_AWT39778|ycf66
+>Psammoneis_obaidii|YP_009497065.1|ycf66
 -------------------MINFSFGPNTM-----LALILGLGVIILYLLRIVKPE----
 VAREEDIFFTTIGLLYCGILIVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------SI
@@ -46,7 +46,7 @@ SKF---------------------------------------------------------
 --RKEDE-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009093294.1_AIR75967|ycf66
+>Cerataulina_daemon|YP_009093294.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -54,7 +54,7 @@ AKK---------------------------------------------------------
 --KK--------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WDZ67039.1_WDZ67039.1|ycf66
+>Stephanodiscus_niagarae|WDZ67039.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -62,7 +62,7 @@ ALRD--------------------------------------------------------
 -IEENKKTN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT40186.1_AWT40186.1|ycf66
+>Biddulphia_tridens|AWT40186.1|ycf66
 -------------------MINFSFGPNII-----LGLILGFGVLLLYFLRIIKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIITSVLVAGWENIRLRGLLV---
 ----------------------------------------------------------NM
@@ -70,7 +70,7 @@ AKF---------------------------------------------------------
 --KKKDD-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO38110.1_XAO38110.1|ycf66
+>Thalassiosira_duostra|XAO38110.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -78,7 +78,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AHX25449.1_AHX25449.1|ycf66
+>Nannochloropsis_oculata|AHX25449.1|ycf66
 -------------------MINIIFEPNIL-----LAMMIGVVMAFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -86,7 +86,7 @@ QKL---------------------------------------------------------
 --TQESENN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009028755.1_AGH28304|ycf66
+>Asterionellopsis_glacialis|YP_009028755.1|ycf66
 -------------------MINFSFGPNIL-----LGLILSFGVLILYFLRIVKPQ----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIITAVLVAGWENIRLRGLLS---
 ----------------------------------------------------------SM
@@ -94,7 +94,7 @@ AKL---------------------------------------------------------
 --KKKDD-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XBS32648.1_XBS32648.1|ycf66
+>Coleochaete_orbicularis|XBS32648.1|ycf66
 -------------------MIHMELGPSTI-----VGLGLIIMGILLYVLRTKKPD----
 VSREYDLFFSSIGLLCGGILIYQGWRLDPILLLGQILSSCTAIFFIIESLYLRRLN----
 --------QFKKHNKY---------------TARWQKLLKY-----------------NV
@@ -102,7 +102,7 @@ DKSIF-----------------FSTNENLN--------------VYEN------FPNIPN
 ISN---------------------------------------------------NLKYTK
 PLDYEEK--------------------NYEIF----------------------------
 --------------------------
->YP_010152903.1_QQW50564|ycf66
+>Olisthodiscus_luteus|YP_010152903.1|ycf66
 -------------------MINLTFGPNTF-----LGILLAFGVLLLYGIRLARPQ----
 MARDEDIFFSTLGIMASFILIMHGWRLDPVLLFSQVLIISLILALIWENIRLRGVIV---
 ----------------------------------------------------------SN
@@ -110,7 +110,7 @@ LKK---------------------------------------------------------
 --K---------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO38533.1_XAO38533.1|ycf66
+>Thalassiosira_lacustris|XAO38533.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -118,7 +118,7 @@ ALRD--------------------------------------------------------
 -IDKNQKT----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011005641.1_WAM62645|ycf66
+>Cutleria_multifida|YP_011005641.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRVVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIAISAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -126,7 +126,7 @@ IKDQL----------------------KLP----------------------------EV
 YSNKHK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ULD16139.1_ULD16139.1|ycf66
+>Cylindrotheca_closterium|ULD16139.1|ycf66
 -------------------MINISFGPNIF-----LGIIVSIGVLILYFLRNIKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -134,7 +134,7 @@ AKF---------------------------------------------------------
 --KNKKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009496509.1_AWT39222|ycf66
+>Actinocyclus_subtilis|YP_009496509.1|ycf66
 -------------------MINIGFGPNIL-----LGFILGIGVLLLYFLRVIRPE----
 IARDEDIFFATINLLYSCILIVHGWRLDPILLFSQVLIITSLIVAGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -142,7 +142,7 @@ AKLK--------------------------------------------------------
 -YKQQDKEL---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ADI40339.1_ADI40339.1|ycf66
+>Kryptoperidinium_foliaceum|ADI40339.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -150,7 +150,7 @@ AKG---------------------------------------------------------
 --KNKENK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009162699.1_AKT26100|ycf66
+>Pseudo-nitzschia_multiseries|YP_009162699.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLIVITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -158,7 +158,7 @@ AKS---------------------------------------------------------
 --KQKNKNES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXM17662.1_QXM17662.1|ycf66
+>Chaetoceros_pseudocurvisetus|QXM17662.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -166,7 +166,7 @@ AKL---------------------------------------------------------
 --KKRVNK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UYC30944.1_UYC30944.1|ycf66
+>Lithodesmioides_polymorpha|UYC30944.1|ycf66
 -------------------MINIGFGPNII-----LGVILGLGVLLLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -174,7 +174,7 @@ AKL---------------------------------------------------------
 --KKEEKKST--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011057865.1_WVS33874|ycf66
+>Cocconeiopsis_kantsiensis|YP_011057865.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNIKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -182,7 +182,7 @@ AKL---------------------------------------------------------
 --KRKKKR----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009258412.1_ANI25337|ycf66
+>Spirogyra_maxima|YP_009258412.1|ycf66
 MCIYDGYLSFKY---GGFFMIHMELAPSTL-----LGLGLTMAGILLYFIRIKQKN----
 ISKDYDLFFSSVAFLCGGILIFQGWRLDPILLLCQMMSGLTAIFFIIETLYLRNFNT-AN
 --------QSGDLNYYL--------------HGAGQNY---------------------L
@@ -190,7 +190,7 @@ IKKII-----------------FNKEN----------------PIFDKK-----KSRGKN
 IINNS------------------------------------------------LTIDYTL
 PIDYD-------------------------------------------------------
 --------------------------
->YP_010445128.1_UTJ90629|ycf66
+>Macrocystis_pyrifera|YP_010445128.1|ycf66
 -------------------MINIAFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -198,7 +198,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011005921.1_WAM62925|ycf66
+>Desmarestia_aculeata|YP_011005921.1|ycf66
 -------------------MVNIVFGANFL-----LGLIIILGVLIVYFLRIVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -206,7 +206,7 @@ IKEKL----------------------NLP----------------------------KI
 YSDKLD------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT39107.1_AWT39107.1|ycf66
+>Attheya_longicornis|AWT39107.1|ycf66
 -------------------MINFSFGPNIL-----LGLILGFGVLILYFLRIVKPE----
 VARDEDIFFATIGLLYGCILMVHGWRLDPILLFSQVLIVASVLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -214,7 +214,7 @@ AKL---------------------------------------------------------
 --KKKDD-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011044986.1_WRW10679|ycf66
+>Ascoseira_mirabilis|YP_011044986.1|ycf66
 -------------------MINIVFGANFL-----LGLIIIIGALIFYFLRVVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQILLVSITLATGWENIRLRGLVA---
 ----------------------------------------------------------KK
@@ -222,7 +222,7 @@ IKEQL----------------------KLP----------------------------KT
 YFDKTK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AID67501.1_AID67501.1|ycf66
+>Prasinococcus_sp._CCMP1194|AID67501.1|ycf66
 -------------------MINIIVQSHFF-----LGISILLGSFFLYFQRLFQPE----
 LSEDSDVFFASIGLLGGSVVLFEGWRLDPILLFEQLLLSGSIFFFIFQNFMLRKMLY---
 -----------------------------KRSILQDTF--------------------NP
@@ -230,7 +230,7 @@ TKSPLKKTVKSG----------FFKKQFLY------------DSNFSE---------LFY
 YFKESQK-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009258531.1_ANI25547|ycf66
+>Netrium_digitus|YP_009258531.1|ycf66
 -------------------MIHLELGPSTI-----VGVGLSVVGLLLYYLKINRPD----
 VSRDYDLLFSSIGLLCGGILIFQGWRLDPILLLCQILSCGTAIFFIGESVWLR-----KT
 IQIYS------KPNIY---------------DLTIQK-----------------------
@@ -238,7 +238,7 @@ IQIYS------KPNIY---------------DLTIQK-----------------------
 IIQ--------------------------YLY-DRKLSLYNIT------IPHWEQIDYTA
 PIEYYEVD---------SGF----LNSNINIYFID-------------------------
 --------------------------
->YP_009258716.1_ANI25907|ycf66
+>Cylindrocystis_brebissonii|YP_009258716.1|ycf66
 -------------------MIYMEIGPSTV-----VGISLSLISIFLYFIKTSNPK----
 VSRDYDIFFSSVGLLCGGILIFQGWRLDPILLLCQILLSGTTIFFIAESLWLR-----TN
 KITLTSK----FSNFF----------------VNTQNLFK-------------------S
@@ -246,7 +246,7 @@ NHNIL-----------------YNKNTN--------------------------------
 LVN---------------------LKNSHKWYINRKLLVVHKY------VINWFSIDYTG
 PIDY--------------------------------------------------------
 --------------------------
->UBQ35270.1_UBQ35270.1|ycf66
+>Thalassiosira_sp.|UBQ35270.1|ycf66
 -------------------MLNFVFSPNVL-----LGFVLGSSVIILYFLRLVKPE----
 IARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLIITAVLAAGWENIRLRGVLS---
 ----------------------------------------------------------MI
@@ -254,7 +254,7 @@ ALRD--------------------------------------------------------
 -MKKEKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WDB00657.1_WDB00657.1|ycf66
+>Cavernulicola_chilensis|WDB00657.1|ycf66
 -------------------MINLGTGPSII-----IGFIVSLTSISLYITRIIKPD----
 ISKDQDILFMTIGLIYSSILIIHGWRLDPILIFSQILLVSTTIFFGYENLTLRNIK----
 ---------IRRKGL-------------------------------------------KS
@@ -262,7 +262,7 @@ SKKET-------------------------------------------------------
 NVKHKSSKNFH-NR-------FSEIKK--------SYLASSQR------FPTAENLTFDL
 LCEYKDLEEYHHK-----------------------------------------------
 --------------------------
->UXN44562.1_UXN44562.1|ycf66
+>Haslea_pseudostrearia|UXN44562.1|ycf66
 -------------------MINFSFGPNIF-----LGILVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLVITTVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -270,7 +270,7 @@ VKV---------------------------------------------------------
 --KKTRKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_004376578.1_BAK18944|ycf66
+>Fistulifera_solaris|YP_004376578.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVGFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILIIHGWRLDPILLFSQVLIITTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NI
@@ -278,7 +278,7 @@ SKL---------------------------------------------------------
 --NRKEKNN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010032282.1_QOW07489|ycf66
+>Schizocladia_ischiensis|YP_010032282.1|ycf66
 -------------------MINIGFGANLV-----LGFFVILGMLLLYFVRIVRPE----
 LSRDEDIFFATLGLIYSCILIIHGWRLDPILLFSQVLIISIILSTGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -286,7 +286,7 @@ IKDQITYPKKK-------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010478938.1_UVI61243|ycf66
+>Lietzensia_polymorpha|YP_010478938.1|ycf66
 -------------------MINIIFEPNIL-----LAILITFVMIFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -294,7 +294,7 @@ QKL---------------------------------------------------------
 --SQQLKKP---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UBA14944.1_UBA14944.1|ycf66
+>Pseudo-nitzschia_micropora|UBA14944.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGLLYSCILMVHGWRLDPILLFSQVLIVVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -302,7 +302,7 @@ AKS---------------------------------------------------------
 --KKKNKNQS--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT39370.1_AWT39370.1|ycf66
+>Entomoneis_sp.|AWT39370.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -310,7 +310,7 @@ AKK---------------------------------------------------------
 --NRKK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XCD23876.1_XCD23876.1|ycf66
+>Halamphora_sp.|XCD23876.1|ycf66
 -------------------MLNFSFGPNIF-----LGVIVSFGVLILYFLRNVKPE----
 IARDEDIFFATIGLLYSCILMIHGWRLDPILLFGQVLIIVTVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -318,7 +318,7 @@ AKL---------------------------------------------------------
 --KKQKRK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WZW78141.1_WZW78141.1|ycf66
+>Pleurosigma_inscriptura|WZW78141.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGALILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIFTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------YM
@@ -326,7 +326,7 @@ TKL---------------------------------------------------------
 --KKKKKR----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT06408.1_WKT06408.1|ycf66
+>Klebsormidium_crenulatum|WKT06408.1|ycf66
 -------------------MINLDFNASTL-----LGVCLVATSIGLYAMRKLHPE----
 LSRDSDVIFSTVGVVAGSILTFQGWRLDPILLFCQTCSTGVALFFVWESVHLRHRSH---
 ---------FLNTN-------------------QINKW--------------------SG
@@ -334,7 +334,7 @@ QRKNLR----------------VCQGWRLP------------------------------
 -SKPRDQKKAK-SR-------YMFIQ-----------IQK-KK------LLQTTPSPHNQ
 ------------------------------------------------------------
 --------------------------
->UBA15286.1_UBA15286.1|ycf66
+>Pseudo-nitzschia_multistriata|UBA15286.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLIVITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -342,7 +342,7 @@ AKS---------------------------------------------------------
 --KQKNKKES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT06000.1_WKT06000.1|ycf66
+>Hormidiella_parvula|WKT06000.1|ycf66
 -------------------MINVEVGPSTM-----LGVALVSAGILLYSVRAISPW----
 LSKDHDVLFSTLGLLTGGILIFQGWRLDPILLFCQICSTGTAFFFAWESLQLR-------
 ---LLIQ---------------------------------------------------DM
@@ -350,7 +350,7 @@ GRSCV------------------------------------SDSAYT-----------PD
 EVRDACD----------------EASPATR-IVPGRIGPEKGQ--------SAWNRGYIT
 FLDYR-------------------DDM---------------------------------
 --------------------------
->WZW78354.1_WZW78354.1|ycf66
+>Nitzschia_dissipatoides|WZW78354.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILFFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIILTVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -358,7 +358,7 @@ AKL---------------------------------------------------------
 --KKK--TDKF-V-----------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010537287.1_UYC31074|ycf66
+>Hemiaulus_sinensis|YP_010537287.1|ycf66
 -------------------MINIGFGPNII-----LGLILGLGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLS---
 ----------------------------------------------------------NM
@@ -366,7 +366,7 @@ AKL---------------------------------------------------------
 --KKKEKQNY--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AXU40701.1_AXU40701.1|ycf66
+>Hapterophycus_canaliculatus|AXU40701.1|ycf66
 -------------------MINIVFGANFL-----LGLLIIFGVLILYFLRSIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -374,7 +374,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_003734992.1_ADI40207|ycf66
+>Durinskia_baltica|YP_003734992.1|ycf66
 -------------------MINLSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -382,7 +382,7 @@ AKV---------------------------------------------------------
 --KNKKKF----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010485168.1_UVW80962|ycf66
+>Sargassum_fulvellum|YP_010485168.1|ycf66
 -------------------MINIVFGANFL-----LGLIIIIGVLLLYFLRIIRPE----
 LCRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIVLVAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -390,7 +390,7 @@ IKEQL----------------------ELP----------------------------DF
 HLN---------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AIR75413.1_AIR75413.1|ycf66
+>Cyclotella_sp._L04_2|AIR75413.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATLGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------MI
@@ -398,7 +398,7 @@ ALRD--------------------------------------------------------
 -IEDNKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AGH28430.1_AGH28430.1|ycf66
+>Coscinodiscus_radiatus|AGH28430.1|ycf66
 -------------------MINIGFGPNII-----LGFILGFGVILLYLLRIVKPE----
 IARDEDIFFATIGLLYSCILIIHGWRLDPILLFSQVLSIISLLVAGWENIRLRGLLS---
 ----------------------------------------------------------NV
@@ -406,7 +406,7 @@ IKFK--------------------------------------------------------
 -NKQDNND----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011007468.1_WAM64897|ycf66
+>Sporochnus_bolleanus|YP_011007468.1|ycf66
 --------------------MNIVFGANFL-----LGLIIILGVLILYFLRIVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -414,7 +414,7 @@ IKEQL----------------------KLP----------------------------KI
 YSDKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AIR76085.1_AIR76085.1|ycf66
+>Conticribra_weissflogii|AIR76085.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -422,7 +422,7 @@ ALRD--------------------------------------------------------
 -LEEKKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WZW78230.1_WZW78230.1|ycf66
+>Nitzschia_reversa|WZW78230.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILIVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -430,7 +430,7 @@ AKL---------------------------------------------------------
 --KNKKKS----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009093030.1_AIR75703|ycf66
+>Rhizosolenia_imbricata|YP_009093030.1|ycf66
 -------------------MVNIGFGPNII-----LGFLLGFGVILLYSLRIVKPE----
 VARDEDIFFATIGLLYSCILIIHGWRLDPILLFSQVLVIVSLLVTGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -438,7 +438,7 @@ TKFK--------------------------------------------------------
 -NKKQDKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT05895.1_WKT05895.1|ycf66
+>Entransia_fimbriata|WKT05895.1|ycf66
 -------------------MINFELGPSTI-----LGIVLICNSLLLYGLRKIAFV----
 LARDYDILFSTLGFLTGGILIFQGWRLDPILLFCQICSMGMSFFFAWESIRMR-------
 ---ICLR---------------------------------------------------HA
@@ -446,7 +446,7 @@ TKRL--------------------------------------------------------
 -DQEKQG----------------ALYKVDR----------------------FYECLFLS
 KILLKDRKRHPILGLSPTNFCFLLDD----------------------------------
 --------------------------
->WKT05896.1_WKT05896.1|ycf66
+>Entransia_fimbriata|WKT05896.1|ycf66
 -------------------MINFELGPSTI-----LGIVLICNSLLLYGLRKIAFV----
 LARDYDILFSTLGFLTGGILIFQGWRLDPILLFCQICSMGMSFFFAWESIRMR-------
 ---ICLR---------------------------------------------------HA
@@ -454,7 +454,7 @@ TKRL--------------------------------------------------------
 -DQEKQG----------------ALYKVDR----------------------FYECLFLS
 KILLKDRKRHPILGLSPTNFCFLLDD----------------------------------
 --------------------------
->CAV31254.1_CAV31254.1|ycf66
+>Ectocarpus_siliculosus|CAV31254.1|ycf66
 -------------------MINIVFGANFL-----LGLLIILGVLILYFLRSVRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSLVLAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -462,7 +462,7 @@ LKKK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010478656.1_UVI60961|ycf66
+>Eustigmatophyceae_sp._WTwin_8/9_T-6m6.8|YP_010478656.1|ycf66
 -------------------MINIIFEPNIL-----LAILITFVMGFLYFLRLVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQILINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -470,7 +470,7 @@ QKQ---------------------------------------------------------
 --MQQLKNR---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAP91285.1_WAP91285.1|ycf66
+>Chara_vulgaris|WAP91285.1|ycf66
 -------------------MINFELTPSTL-----LGIILLIVAIVLYFIRICLPS----
 ISRDYDLIFSSMGLLCGGILIFQGWRLDPILLFSQILSNIIAMFFIWEAIRLRKENI-DK
 ---------------FCEI------------RTQNQIFQRY------------------Y
@@ -478,7 +478,7 @@ NKQIT-----------------FL------------------------------------
 LKDKKKHENKI--------------TIEKIPYLSSKIK----------------RYYYYN
 PLDFYLI------------------D----------------------------------
 --------------------------
->YP_010443552.1_UTE94439|ycf66
+>Gonyostomum_semen|YP_010443552.1|ycf66
 -------------------MINISYNPNFL-----LAIILIIGMILFYSLRIVRPE----
 VSKEEDVFFTTLGLLYSCIMLVHGWRLDPILFFSQVLLVAIVLGIGWENIRLRGLLV---
 ----------------------------------------------------------RT
@@ -486,7 +486,7 @@ FEIEN-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011045138.1_WRW10831|ycf66
+>Papenfussiella_kuromo|YP_011045138.1|ycf66
 -------------------MINIVFGANFL-----LGLLIILGVLVLYFLRNIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -494,7 +494,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009497341.1_AWT40054|ycf66
+>Biddulphia_biddulphiana|YP_009497341.1|ycf66
 -------------------MINFSFGPNII-----LGLILGFGVLLLYFLRIIKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIISVLIAGWENIRLRGLLV---
 ----------------------------------------------------------NM
@@ -502,7 +502,7 @@ AKF---------------------------------------------------------
 --KKKDD-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010139348.1_QQK55014|ycf66
+>Poterioochromonas_malhamensis|YP_010139348.1|ycf66
 -------------------MLNIIIEPTLL-----LGGIFAIFMIFLYLIRFINPN----
 LSTDWDIFIITLGLVYSSILIVHGWRLDPILLFSQILITFITISFCWVLIRQREIIR---
 ----------------------------------------------------------KL
@@ -510,7 +510,7 @@ I-EKF-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UBA15155.1_UBA15155.1|ycf66
+>Pseudo-nitzschia_pungens|UBA15155.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLIVITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -518,7 +518,7 @@ AKS---------------------------------------------------------
 --KQKNKNES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ABK20718.1_ABK20718.1|ycf66
+>Thalassiosira_pseudonana|ABK20718.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -526,7 +526,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WPV76447.1_WPV76447.1|ycf66
+>Naviculales_sp.|WPV76447.1|ycf66
 -------------------MINFSFGPNIF-----LGILVSLGVLILYFLRNVKPE----
 IARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -534,7 +534,7 @@ AKL---------------------------------------------------------
 --KKKKKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009497587.1_AWT40300|ycf66
+>Astrosyne_radiata|YP_009497587.1|ycf66
 -------------------MIKMFIDPNLFEFQNVLAAGILVPCTLLLYIKFFYPT----
 LQRETDILFIAGGLLYSFIMILHGWRLDAILLLSQLIIEGMATVYILETIRLRGVSFCRG
 YN------IQKANNSYAELT----------------------------------YENEDL
@@ -542,7 +542,7 @@ TKQNK---------------YLIRKIESLD----------------------------NM
 IIEQKKEIKKLKKR----------------------------------------------
 -----------------------ILD----------------------------------
 --------------------------
->YP_010536883.1_UYC30670|ycf66
+>Helicotheca_tamesis|YP_010536883.1|ycf66
 -------------------MINIGFGPNII-----LGVILGFGVLLLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -550,7 +550,7 @@ AKL---------------------------------------------------------
 --KKEQKKSN--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAJ57588.1_WAJ57588.1|ycf66
+>Actinocyclus_sp._(in:_diatoms)|WAJ57588.1|ycf66
 -------------------MINIGFGPNIF-----LGFILGIGVLLLYFLRIIKPE----
 IARDEDIFFATINLLYSCILIVHGWRLDPILLFSQVLIITSLIVAGWENIRLRGLLS---
 ----------------------------------------------------------KI
@@ -558,7 +558,7 @@ AKFK--------------------------------------------------------
 -YKQQDKEL---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM64033.1_WAM64033.1|ycf66
+>Ishige_okamurae|WAM64033.1|ycf66
 -------------------MVNITFGANFI-----LGLLVMTGVLILYFLRMIKPE----
 VARDEDIFFTTLGLIYSCILIIHGWRLDPILLFSQVLLVSLCLAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -566,7 +566,7 @@ IKEKL----------------------KLP----------------------------KI
 YEDKLKQFDI--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT08855.1_WKT08855.1|ycf66
+>Streptosarcina_arenaria|WKT08855.1|ycf66
 -------------------MINVEVGPSTM-----LGVALVSAGILLYSVRAVSPW----
 LVKDYDVLFSTLGLLTGGILIFQGWRLDPILLFCQICSTGTAFFFTWESLRLR-------
 ---FTIQ---------------------------------------------------NQ
@@ -574,7 +574,7 @@ KQR----------------------------------------PARN-----------P-
 -IRRATN----------------AVYTLTKPYVVAHTNLLAST--------HAWSRGYLG
 SLDYRKRR----FNQSQKN-----EDSQITPL----------------------------
 --------------------------
->WPV72601.1_WPV72601.1|ycf66
+>Navicula_sp.|WPV72601.1|ycf66
 ---------MKY------LMINFSFGPNIF-----LGILVSFGVLVLYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -582,7 +582,7 @@ AKL---------------------------------------------------------
 --KIKNKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AHZ11238.1_AHZ11238.1|ycf66
+>Mesotaenium_endlicherianum|AHZ11238.1|ycf66
 -------------------MIHMEFGPSTV-----LGLALSMVGLLLFFLRTKRPE----
 MSRDYDLFFSSMGLLSGGILMFQGWRLDPILLLGQVLSSVT-LLFLWEKVFAFGMA----
 -----------RVNLK-------------------------------------------I
@@ -590,7 +590,7 @@ SPCLM-----------------VSQSDGLQI------------HLY--------------
 LVNRS-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UAM91590.1_UAM91590.1|ycf66
+>Skeletonema_tropicum|UAM91590.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -598,7 +598,7 @@ ALRD--------------------------------------------------------
 -IEENKKLN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM64333.1_WAM64333.1|ycf66
+>Phaeostrophion_irregulare|WAM64333.1|ycf66
 -------------------MINIVFGANFI-----LGLLVIVGVLILYFLRIVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSVSMAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -606,7 +606,7 @@ IKEQL----------------------KVP----------------------------KT
 YFDKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT07711.1_WKT07711.1|ycf66
+>Klebsormidium_sp._SEV1-VF17pt|WKT07711.1|ycf66
 -------------------MINLDFNASIL-----LGVCLIGTSIALYAIRKINPE----
 LSRDSDIIFSTIGIAAGSILTFQGWRLDPILLFCQTCSTGVALFFVWESVRLRQDSH---
 ---------YLN-N-------------------SKNLL--------------------NI
@@ -614,7 +614,7 @@ QKKKLS----------------MWQGWRLP------------------------------
 -SKPKDRKIEK-NK-------YMFVQ-----------IQQ-KN------TFTNHFFPIQP
 MKERK-------------------------------------------------------
 --------------------------
->YP_009029020.1_AGH28559|ycf66
+>Cylindrotheca_closterium|YP_009029020.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNIKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -622,7 +622,7 @@ AKF---------------------------------------------------------
 --KDKRKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO39115.1_XAO39115.1|ycf66
+>Cyclotella_distinguenda|XAO39115.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATLGLLYSGILIIHGWRLDPILLFGQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------MI
@@ -630,7 +630,7 @@ ALRD--------------------------------------------------------
 -IEENKKIT---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010282888.1_ULD15652|ycf66
+>Nitzschia_ovalis|YP_010282888.1|ycf66
 -------------------MINISFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIV---
 ----------------------------------------------------------NI
@@ -638,7 +638,7 @@ AKS---------------------------------------------------------
 --KNKKKS----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ADB27527.1_ADB27527.1|ycf66
+>Thalassiosira_oceanica_CCMP1005|ADB27527.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -646,7 +646,7 @@ AMRD--------------------------------------------------------
 -IEENKEIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ANS72282.1_ANS72282.1|ycf66
+>Coccophora_langsdorfii|ANS72282.1|ycf66
 -------------------MINIVFGANFL-----LGLIIIIGVLLLYFLRIIRPE----
 LCRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSVVLVAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -654,7 +654,7 @@ LRNNYNYQ-------------------TFI----------------------------LI
 NLNKKGKVTFV-FL-------FQ-------------------------------------
 ------------------------------------------------------------
 --------------------------
->AUG32642.1_AUG32642.1|AUG32642.1
+>Paulinella_longichromatophora|AUG32642.1|AUG32642.1
 -------------------MVNASLNWASI-----IGIVLAAGGAMLYFMRSFKPA----
 LARDYDVFFAAIGLLCGGILFFQGWRLDPILQFGQFLLAGSTVFFAYESVRLRGVTT---
 ------E-QARRASYF--------------EEEESQSLPNMRNVRSNWDNPRNRFDQPDL
@@ -662,7 +662,7 @@ ERRRIG----------------IRDEESIP------------ETIYRRRASSRAVIPERA
 VSRREKRQETLQDI--NDWGSTLNSFTGKTNFGERRVQRQETR-RGNRPIAADSTLPRSK
 KLDPELDSVHPINNVRGRN-----QNNFEKQTQNKEKSLKRNYSMNSFNNRSNERNQEIK
 QGDLLSEKKDISIEKKVRDNNSQFDD
->AOW70806.1_AOW70806.1|ycf66
+>Monodopsis_sp._MarTras21|AOW70806.1|ycf66
 -------------------MINIIFEPNIL-----LAMMIGIVMAFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -670,7 +670,7 @@ QKL---------------------------------------------------------
 --TQNNKNN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UTE95020.1_UTE95020.1|ycf66
+>Haramonas_pauciplastida|UTE95020.1|ycf66
 -------------------MINIIYREPFS-----LGIILLLGISLFYCLRFIRPE----
 ISKDSDFVFTTITVIYSGIIIEHGWRLDALLFFSQILIIICVLCIGWENIRLRGLLA---
 ----------------------------------------------------------QL
@@ -678,7 +678,7 @@ ITRELGRHNGL-------------------------------------------------
 -SSKIRKKFF--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UTE95078.1_UTE95078.1|ycf66
+>Haramonas_pauciplastida|UTE95078.1|ycf66
 -------------------MINIIYREPFS-----LGIILLLGISLFYCLRFIRPE----
 ISKDSDFVFTTITVIYSGIIIEHGWRLDALLFFSQILIIICVLCIGWENIRLRGLLA---
 ----------------------------------------------------------QL
@@ -686,7 +686,7 @@ ITRELGRHNGL-------------------------------------------------
 -SSKIRKKFF--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010215360.1_UBQ34841|ycf66
+>Thalassiosira_rotula|YP_010215360.1|ycf66
 -------------------MLNFVFSPNIL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -694,7 +694,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT38679.1_AWT38679.1|ycf66
+>Licmophora_sp.|AWT38679.1|ycf66
 -------------------MININFGPNIF-----LSGILAFGVILLYSLRNVKPE----
 VSRDEDIFFVTIGFFYCGILMVHGWRLDPILLFGQALIITGVLLAGWENIRLRGLIF---
 ----------------------------------------------------------KM
@@ -702,7 +702,7 @@ RKK---------------------------------------------------------
 --KNKQ------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011006061.1_WAM63065|ycf66
+>Dictyoneurum_californicum|YP_011006061.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -710,7 +710,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT38922.1_AWT38922.1|ycf66
+>Eunotogramma_sp.|AWT38922.1|ycf66
 -------------------MVNFDFSPNVL-----LGFILGSAVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVVHGWRLDPILLFSQVLVIAALLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -718,7 +718,7 @@ TFRD--------------------------------------------------------
 -IEDK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXM17272.1_QXM17272.1|ycf66
+>Chaetoceros_muellerii|QXM17272.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -726,7 +726,7 @@ AKL---------------------------------------------------------
 --KKRVQS----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT07607.1_WKT07607.1|ycf66
+>Klebsormidium_nitens|WKT07607.1|ycf66
 -------------------MINLDFNASTF-----LGVCLVGSSIGLYTIRKVSPE----
 LSRDSDVILSTVGIAAGSILTFQGWRLDPILLFCQTCSIGIALFFVWESIRLRHSSH---
 ---------YFKKN-------------------QINEL--------------------NI
@@ -734,7 +734,7 @@ QKNNSI----------------LCQGWRLP------------------------------
 -SKPKDRKKTK-KN-------YMFIQ-----------IQ--KK------LLQTTSSPYNQ
 ------------------------------------------------------------
 --------------------------
->UYC31380.1_UYC31380.1|ycf66
+>Minidiscus_spinulatus|UYC31380.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -742,7 +742,7 @@ TLRD--------------------------------------------------------
 -IEENKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UBA15658.1_UBA15658.1|ycf66
+>Pseudo-nitzschia_hainanensis|UBA15658.1|ycf66
 -------------------MINFSFSANFF-----LGLLVSIGVLILYFLRDVKPE----
 IARDEDIFFSTMGFLYGCILMVHGWRLDPILLFSQALIVMIVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NL
@@ -750,7 +750,7 @@ AKS---------------------------------------------------------
 --KKNKNES---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UDP55459.1_UDP55459.1|ycf66
+>Schizostauron_trachyderma|UDP55459.1|ycf66
 --------MERY------LMINFSFGPNIF-----LGIIVGFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILIIHGWRLDPILLFSQVLIITTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -758,7 +758,7 @@ GKI---------------------------------------------------------
 --NRKEKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT08151.1_WKT08151.1|ycf66
+>Klebsormidium_subtilissimum|WKT08151.1|ycf66
 -------------------MINLDFNASTF-----LGVCLVGSSIGLYTIRKLSPE----
 LSRDSDVILSTVGIAAGSILTFQGWRLDPILLFCQTCSIGIALFFVWESINLRHSSH---
 ---------CLEKN-------------------QRNEL--------------------TI
@@ -766,7 +766,7 @@ QKKNSI----------------LCQGWRLP------------------------------
 -SKPKDRKKTK-NN-------YMFIQ-----------VQ--EK------LLQTTPSPYNQ
 ------------------------------------------------------------
 --------------------------
->YP_010537676.1_UYC31593|ycf66
+>Tenuicylindrus_belgicus|YP_010537676.1|ycf66
 -------------------MINIGFGPNII-----LGIVLWIGIILLYLLRVIKPE----
 IARDEDIFFATIGLLYSCILIIHGWRLDPILLFSQVLIVSSLIVAGWENIRLRGLLA---
 ----------------------------------------------------------NT
@@ -774,7 +774,7 @@ SKF---------------------------------------------------------
 --KRRNKLK---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_005089679.1_AEX37804|ycf66
+>Ulnaria_acus|YP_005089679.1|ycf66
 -------------------MINVSFGPNVF-----LSGILLFGVVLLYGLRKVKPE----
 VSRDEDLFFVTTGFFYCGILMVHGWRLDPILLFSQALIITSVLLAGWENIRLRGLIF---
 ----------------------------------------------------------KM
@@ -782,7 +782,7 @@ RKK---------------------------------------------------------
 --KEK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AQZ24994.1_AQZ24994.1|ycf66
+>Dictyopteris_divaricata|AQZ24994.1|ycf66
 -------------------MVNIIFGTNII-----LGLLIIIGVLLLYFLRNIRPE----
 VARDEDIFFTTLGLLYGTILIIHGWRLDPILLFSQSLVVTISLAAGWENIRLRGLIA---
 ----------------------------------------------------------DL
@@ -790,7 +790,7 @@ LVDKLKNEL----------------EVD--------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011005509.1_WAM62372|ycf66
+>Choristocarpus_tenellus|YP_011005509.1|ycf66
 -------------------MINIGFGANFI-----LGLLIICGALFLYFIRNIRPE----
 LARDEDIFFTTLGLIYGCILIIHGWRLDPILLFSQVLIVSLCLAAGWENIRLRALVA---
 ----------------------------------------------------------KK
@@ -798,7 +798,7 @@ IKEQLKSKFFKNSIVNSNRKKDLNTNSKLP----------------------------KN
 LLK---------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT38149.1_AWT38149.1|ycf66
+>Proboscia_sp.|AWT38149.1|ycf66
 -------------------MINISFSPNII-----LGLILIIGVTLLYLLRLVKPE----
 VARDEDIFFATIGLFYSCIIMVHGWRLDPILLFSQVLIIVSLLVAGWENIRLRGLLL---
 ----------------------------------------------------------NL
@@ -806,7 +806,7 @@ TKY---------------------------------------------------------
 --DKQNDIDI--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010206619.1_UAX20793|ycf66
+>Alaria_marginata|YP_010206619.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -814,7 +814,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXM17531.1_QXM17531.1|ycf66
+>Chaetoceros_socialis|QXM17531.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVVLLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -822,7 +822,7 @@ AKL---------------------------------------------------------
 --KKRINK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXE46177.1_QXE46177.1|ycf45-1
+>Nitzschia_inconspicua|QXE46177.1|ycf45-1
 ------------------------------------------------------------
 --------------MYSCILIVHGWRLDPILLFSQVLIILAVLVAGWENIRLRGLVS---
 ----------------------------------------------------------TI
@@ -830,7 +830,7 @@ AKS---------------------------------------------------------
 --KNKEDS----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QRG32153.1_QRG32153.1|ycf66
+>Nannochloropsis_limnetica|QRG32153.1|ycf66
 -------------------MINIIFEPNIL-----LAMMIGVVMAFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -838,7 +838,7 @@ QKL---------------------------------------------------------
 --TQENENN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009029313.1_AGH28844|ycf66
+>Leptocylindrus_danicus|YP_009029313.1|ycf66
 -------------------MINIGFGPNII-----LGIILWIGVTLLYLLRIVKPE----
 VARDEDIFFATIGLLYGCILIIHGWRLDPILLFSQVLIISSLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NT
@@ -846,7 +846,7 @@ TKF---------------------------------------------------------
 --KKQKKQK---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AHI51162.1_AHI51162.1|ycf66
+>Eunotia_naegelii|AHI51162.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVGFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIILTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -854,7 +854,7 @@ AKL---------------------------------------------------------
 --KKRKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXM17926.1_QXM17926.1|ycf66
+>Chaetoceros_laevisporus|QXM17926.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -862,7 +862,7 @@ AKV---------------------------------------------------------
 --KKKKGKT---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AVZ00549.1_AVZ00549.1|ycf66
+>Fucus_spiralis|AVZ00549.1|ycf66
 -------------------MINIVFGANFL-----LGLVIIVGVLLLYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSVSLVAGWENIRLRGLVA---
 ----------------------------------------------------------KK
@@ -870,7 +870,7 @@ VKEQL----------------------KLP----------------------------KL
 YSNKSD------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010283036.1_ULD15800|ycf66
+>Nitzschia_traheaformis|YP_010283036.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYSLRNIKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -878,7 +878,7 @@ TKL---------------------------------------------------------
 --KKKGETDLS-V-----------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WGN98748.1_WGN98748.1|ycf66
+>Ulnaria_ulna|WGN98748.1|ycf66
 -------------------MINVSFGPNVF-----LSGILLFGVVLLYGLRKVKPE----
 VSRDEDLFFVTTGFFYCGILMVHGWRLDPILLFSQALIITSVLLAGWENIRLRGLIF---
 ----------------------------------------------------------KM
@@ -886,7 +886,7 @@ RKK---------------------------------------------------------
 --KEK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QAA11495.1_QAA11495.1|ycf66
+>Eustigmatophyceae_sp._Bat_8/9-7w|QAA11495.1|ycf66
 -------------------MINIIFEPNIL-----LAFFVSFGMLFLYFLRIVRPE----
 IARDQDIFFATLGLLYSSILVIHGWRLDPILLFSQVLITSILLPTCWENIRLRLISY---
 ----------------------------------------------------------VF
@@ -894,7 +894,7 @@ FNS---------------------------------------------------------
 --RLPNQSE---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009550336.1_QAA11352|ycf66
+>Characiopsis_acuta|YP_009550336.1|ycf66
 -------------------MINIIFEPNIL-----LAILITLVMVFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAVAH---
 ----------------------------------------------------------AF
@@ -902,7 +902,7 @@ QKL---------------------------------------------------------
 --NQQLKKP---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WGN98618.1_WGN98618.1|ycf66
+>Fragilaria_capucina_var._mesolepta|WGN98618.1|ycf66
 -------------------MINVNFGPNVF-----LSGILLFGVVLLYGLRKVKPE----
 VSRDEDLFFVTTGFFYCGILMVHGWRLDPILLFSQALIITSVLLAGWENIRLRGLIF---
 ----------------------------------------------------------KM
@@ -910,7 +910,7 @@ RKK---------------------------------------------------------
 --KEK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AIR75281.1_AIR75281.1|ycf66
+>Chaetoceros_simplex|AIR75281.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -918,7 +918,7 @@ AKL---------------------------------------------------------
 --KKKGR-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QXM18057.1_QXM18057.1|ycf66
+>Chaetoceros_curvisetus|QXM18057.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -926,7 +926,7 @@ AKL---------------------------------------------------------
 --KKRVNK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010932752.1_WKT06736|ycf66
+>Klebsormidium_elegans|YP_010932752.1|ycf66
 -------------------MINFDFNASTF-----LGVCLVGSSVGLYAIRKVNPE----
 LSRDSDVILSTVGIAAGSILTFQGWRLDPILLFCQTCSTGVALFFVWESVRLRHNSH---
 ---------YLIKN-------------------RVTEF--------------------NI
@@ -934,7 +934,7 @@ QKNYFF----------------LCQGWRLP------------------------------
 -SKPKDRKRAK-NK-------YMFIQ-----------VK--KR------LLQTASSPYNQ
 ------------------------------------------------------------
 --------------------------
->XAO38976.1_XAO38976.1|ycf66
+>Lindavia_radiosa|XAO38976.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILIIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -942,7 +942,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WDA98933.1_WDA98933.1|ycf66
+>Sciadococcus_taiwanensis|WDA98933.1|ycf66
 -------------------MINVGIGPGII-----LGFLVSLASISLYILRILKPT----
 ISKDQDILFMTIGLIYSSILIVHGWRLDPILIFSQILLVGISIFFGYENLTLRNLQAQKN
 PSKFLNKKILKRKTVE---------------ENKTDNFLIKE---------------NKI
@@ -950,7 +950,7 @@ NKKQTN----------------------LG----------------------------IS
 NVKKKISENIR-NK---------------------------HN------FP-------NL
 LLEYKEFEENKNIND---------------------------------------------
 --------------------------
->QWM93154.1_QWM93154.1|ycf66
+>Nitzschia_supralitorea|QWM93154.1|ycf66
 -------------------MVNVSLGPNVF-----LGIMISIGIAILYFLRDARPD----
 LARDEDIFFATVSLIYSCILIVHGWRLDPILLFSQFLIIITVLVVGWENIRLRYFVK---
 ----------------------------------------------------------NL
@@ -958,7 +958,7 @@ SEL---------------------------------------------------------
 -TDEEED-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM64757.1_WAM64757.1|ycf66
+>Scytothamnus_australis|WAM64757.1|ycf66
 --------------------MNIVFGANFL-----LGLIIILGVIILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -966,7 +966,7 @@ IKEQL----------------------NLP----------------------------NI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UVG41952.1_UVG41952.1|ycf66
+>Pleurosigma_intermedium|UVG41952.1|ycf66
 -------------------MINFSFGPNIF-----LGIIISFGVLILYFLRHIKPE----
 VARDEDIFFATIGFLYSCILIIHGWRLDPILLFSQVLIIFIVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -974,7 +974,7 @@ AKL---------------------------------------------------------
 --KKKKKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XDG11122.1_XDG11122.1|ycf66
+>Pseudo-nitzschia_sabit|XDG11122.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGLLYSCILMVHGWRLDPILLFSQVLIVVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -982,7 +982,7 @@ AKS---------------------------------------------------------
 --KKKNKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WZX07248.1_WZX07248.1|ycf66
+>Haslea_sp.|WZX07248.1|ycf66
 -------------------MINFSFGPNIF-----LGILVSFGVLVLYFLRNIKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLITGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -990,7 +990,7 @@ IKV---------------------------------------------------------
 --KKSRKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WZW77848.1_WZW77848.1|ycf66
+>Haslea_avium|WZW77848.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -998,7 +998,7 @@ AKL---------------------------------------------------------
 --KRRKKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010451083.1_UTV00864|ycf66
+>Vischeria_punctata|YP_010451083.1|ycf66
 -------------------MINIIFEPNIL-----LAILISLVMVFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -1006,7 +1006,7 @@ QKI---------------------------------------------------------
 --NQQPKKL---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009674940.1_QDH81791|ycf66
+>Rhizochromulina_marina|YP_009674940.1|ycf66
 -------------------MINIGFGPNIL-----LGVIVAFSVLGLYLLRVVKYD----
 LARDIDIFFTTLGLIYSSILIIHGWRLDPILLFSQILIVLTLLAVGWENIRLRGLAA---
 ----------------------------------------------------------YN
@@ -1014,7 +1014,7 @@ RNR---------------------------------------------------------
 -TPSGK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWK41810.1_QWK41810.1|ycf66
+>Protohalopteris_sp.|QWK41810.1|ycf66
 -------------------MINIVFGANFI-----LGLVVILAVLILYFLRVVRPE----
 LARDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSISLAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1022,7 +1022,7 @@ IKDQLRLP------------------KKLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAK84850.1_WAK84850.1|ycf66
+>Amicula_sp._isolate_GU52X-4_cfCalB7|WAK84850.1|ycf66
 -------------------MINFSFGLNIF-----LGIIVSLGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILIIHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIV---
 ----------------------------------------------------------NM
@@ -1030,7 +1030,7 @@ TKL---------------------------------------------------------
 --KNKRKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO38392.1_XAO38392.1|ycf66
+>Cyclostephanos_invisitatus|XAO38392.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIVLYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1038,7 +1038,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AOS86590.1_AOS86590.1|ycf66
+>Toxarium_undulatum|AOS86590.1|ycf66
 -------------------MLNISFSTNII-----LGLVWILGSLLVQLIGIIEPR----
 ISDEKDSIIVASLFLSGFILIIHGWRLDPILMFVQELFTLILGIIIYEMMRGRYITI---
 ----------------------------------------------------------IL
@@ -1046,7 +1046,7 @@ FKK-------------------LNTKQNLD----------------------------FF
 KLKKK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009730783.1_QAY81020|ycf66
+>Cladosiphon_okamuranus|YP_009730783.1|ycf66
 -------------------MINIVFGANFL-----LGLLIILGVLILYFLRNIRPE----
 LSRDEDIFFTTLGLIYGTILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -1054,7 +1054,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QGW12735.1_QGW12735.1|ycf66
+>Nanofrustulum_shiloi|QGW12735.1|ycf66
 -------------------MINISLGPNIY-----LGLLVSVGVLLLYYLRVVKPE----
 IARDEDIFFSTIGLLYSCILIVHGWRLDPILLFSQVLIITTVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -1062,7 +1062,7 @@ GKKL--------------------------------------------------------
 -GKK--------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UTQ75603.1_UTQ75603.1|ycf66
+>Nitzschia_dubiiformis|UTQ75603.1|ycf66
 -------------------MINISFGPNIF-----LGIIVTVGVLILYFLRDVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIT---
 ----------------------------------------------------------KM
@@ -1070,7 +1070,7 @@ AKL---------------------------------------------------------
 --KKKNETDTS-V-----------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UHB41341.1_UHB41341.1|ycf66
+>Chaetoceros_sp._DS1|UHB41341.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLLIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -1078,7 +1078,7 @@ AKL---------------------------------------------------------
 --KKRVQSSN--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWK41667.1_QWK41667.1|ycf66
+>Akkesiphycus_lubricus|QWK41667.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LARDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1086,7 +1086,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XLG39612.1_XLG39612.1|ycf66
+>Navicula_incertata|XLG39612.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMIHGWRLDPILIFSQVLIITTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1094,7 +1094,7 @@ AKF---------------------------------------------------------
 --NRKEKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010241938.1_QTI82853|ycf66
+>Coscinodiscus_wailesii|YP_010241938.1|ycf66
 -------------------MINIGFGPNII-----LGFILGFGVILLYLLRIVKPE----
 VARDEDIFFATIGLLYSSILIVHGWRLDPILLFSQVLSILSLLIAGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -1102,7 +1102,7 @@ IKFK--------------------------------------------------------
 -NKKENNNDK--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_001019132.1_ABM87975|ycf66
+>Chlorokybus_atmophyticus|YP_001019132.1|ycf66
 --MKQQILPLNMRSQKAITMINIEFGPSTI-----LGVALVFGGVILYMTRTIRPE----
 VARDYDIFFSSVGLLSGGILIFQGWRLDPILLFGQMLSSGTAIFFVLESIRLRY--L-NN
 KQ--SGQ---QKERHYVPI----------------------------------------G
@@ -1110,7 +1110,7 @@ NKRF------------------FVDQTRMPIKL-----REMSNTSYA-------------
 ANQSPKNSIPLDAT-------VDTLFHVVEPFITKKVS---------------HAADYTK
 PIQYNEY------------------DAEEPGLQKEEP-----------------------
 ------------F-------------
->WAM63204.1_WAM63204.1|ycf66
+>Dictyotopsis_propagulifera|WAM63204.1|ycf66
 -------------------MVNIIFGTNIV-----LGLLIILGVLLLYFLRSIRPE----
 VARDEDIFFTTLGLLYGTILIIHGWRLDPILLFSQSLVVIIALAAGWENIRLRGLIA---
 ----------------------------------------------------------DL
@@ -1118,7 +1118,7 @@ IVDKFENEF----------------DSQ--------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AYO28391.1_AYO28391.1|ycf66
+>Synura_uvella|AYO28391.1|ycf66
 -------------------MINIIVEPALL-----LGVLFAIVMLFLYGLRFVNPE----
 LATDWDIFITTLGIVYSSIIVIHGWRLDPILLFSQVLLIFITFSFCWILVRQREIIR---
 ----------------------------------------------------------RL
@@ -1126,7 +1126,7 @@ I-EDF-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QHR85577.1_QHR85577.1|ycf66
+>Phaeodactylum_tricornutum|QHR85577.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSLGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMIHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1134,7 +1134,7 @@ AKL---------------------------------------------------------
 --TKEKRK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009497708.1_AWT40421|ycf66
+>Acanthoceras_zachariasii|YP_009497708.1|ycf66
 -------------------MINIGFGPNII-----LGLILAFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILIVHGWRLDPILLFSQVLIISSLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NI
@@ -1142,7 +1142,7 @@ AKI---------------------------------------------------------
 --KKKKQTD---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT39476.1_AWT39476.1|ycf66
+>Pseudictyota_dubia|AWT39476.1|ycf66
 -------------------MINFSFGPNIF-----LGFILGFGILLLYLLRFVKPE----
 VARDEDLFFVTLGLLYSSILVVHGWRLDPILLFSQVLIVASVLGAGWENIRLRGLLV---
 ----------------------------------------------------------NL
@@ -1150,7 +1150,7 @@ TKK---------------------------------------------------------
 --RKKEKR----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UTE94854.1_UTE94854.1|ycf66
+>Chattonella_marina|UTE94854.1|ycf66
 -------------------MINISYNPNFL-----LSIILIVGILLFYSLRIVRPE----
 VSKEEDVFLTSLGLLYSCIILIHGWRLDPILFFSQVLLVGVVLSIGWENIRLRGLLV---
 ----------------------------------------------------------RA
@@ -1158,7 +1158,7 @@ LDSEN-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010933317.1_WKT08551|ycf66
+>Streptofilum_capillatum|YP_010933317.1|ycf66
 -------------------MINIEFGPSTV-----LGIALVIGAIALYVIRAIEPE----
 ICREYDVFFCSLKLLSGGILIFQGWRLDPILLFCQMICCFTAIFFIWESIRLRRILC---
 ------------------------------------RFSLAE----------------NR
@@ -1166,7 +1166,7 @@ AKRLQNDDSKHSTF--KNVSS-FSHQQKIL----------------------------LT
 DISDRSTKNL---------------------------VKDSQD------VNDENYQKYTK
 ILDYS-FSNSPIVHASNTS-----TDL---------------------------------
 --------------------------
->UVI60818.1_UVI60818.1|ycf66
+>Chlorobotrys_sp.|UVI60818.1|ycf66
 -------------------MINIIFEPNIL-----LAFLITFVMVCLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -1174,7 +1174,7 @@ KNL---------------------------------------------------------
 --SHQLKKP---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AAX45882.1_AAX45882.1|ycf66
+>Zygnema_circumcarinatum|AAX45882.1|ycf66
 -------------------MIHIEFGPSTI-----VGVGLTVVGILLYLIRTKKPI----
 VSRDYDLLFSSLGLLCGGILIFQGWRLDPILLLCQMLSSGTAIFFIAETLSLRNTQS-TD
 KNTLPFS---SRLQDY-------------KRLSKSQHMNTKLN-------------WLGF
@@ -1182,7 +1182,7 @@ QQSYY-----------------FNKFNRFN-------------YNYK-------------
 LINSTKK-------------------------------------------------DYTT
 PIEYITK------------F----IDSQF-------------------------------
 --------------------------
->YP_010147441.1_QQP22207|ycf66
+>Scytosiphon_lomentaria|YP_010147441.1|ycf66
 -------------------MINIVFGANFL-----LGLLIIFGVLILYFLRSIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -1190,7 +1190,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010634113.1_WBQ42852|ycf66
+>Ecklonia_radiata|YP_010634113.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1198,7 +1198,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AID67576.1_AID67576.1|ycf66
+>Prasinoderma_coloniale|AID67576.1|ycf66
 -------------------MINVILYPTIF-----IGIFLIGWAITLYTLQFVQPT----
 LAKESDIILSTITSLCGGILFFQGWRLDPLLFTCYILLVVTIILLSLELLQLRSLQN---
 -----------------PVV---------SEMNEKEKFFTTRE---------------NS
@@ -1206,7 +1206,7 @@ ATSSVDEKTKKYSS-------------------------FLNEKLFKPRIS---EIN---
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWK42095.1_QWK42095.1|ycf66
+>Pseudochorda_nagaii|QWK42095.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LARDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1214,7 +1214,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UXX44777.1_UXX44777.1|ycf66
+>Gomphonema_parvulum|UXX44777.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1222,7 +1222,7 @@ AKL---------------------------------------------------------
 --KKNKKR----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009029449.1_AGH28980|ycf66
+>Lithodesmium_undulatum|YP_009029449.1|ycf66
 -------------------MINIGFGPNII-----LGVILGFGVLLLYFLRIVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -1230,7 +1230,7 @@ AKL---------------------------------------------------------
 --KKKEKKHN--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010594973.1_WAJ57708|ycf66
+>Stephanopyxis_turris|YP_010594973.1|ycf66
 -------------------MINIGFGPNII-----LGFILGLGVTLLYLLRIVKPE----
 VARDEDIFFATIGLLYSCILVVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -1238,7 +1238,7 @@ TKF---------------------------------------------------------
 --KKQDKNE---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWM93719.1_QWM93719.1|ycf66
+>Navicula_veneta|QWM93719.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1246,7 +1246,7 @@ AKL---------------------------------------------------------
 --KRKKNDKF--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UYC31335.1_UYC31335.1|ycf66
+>Odontella_aurita_var._minima|UYC31335.1|ycf66
 -------------------MINFSFGPNIF-----LGFILGFGILLLYLLRFVKPE----
 VARDEDLFFVTLGLLYSSILVVHGWRLDPILLFSQVLIIASVLGAGWENIRLRGLLV---
 ----------------------------------------------------------NL
@@ -1254,7 +1254,7 @@ TKK---------------------------------------------------------
 --RKKKKRDE--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WZW78498.1_WZW78498.1|ycf66
+>Entomoneis_umbratica|WZW78498.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1262,7 +1262,7 @@ AKK---------------------------------------------------------
 --NRKK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009029197.1_AGH28728|ycf66
+>Didymosphenia_geminata|YP_009029197.1|ycf66
 -------------------MINFSFGPNIF-----LGILVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMIHGWRLDPILLFSQVLIILTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1270,7 +1270,7 @@ AKL---------------------------------------------------------
 --KKKKNDHF--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AIM52692.1_AIM52692.1|ycf66
+>Ochromonas_sp._CCMP1393|AIM52692.1|ycf66
 -------------------MINIIVEPALL-----IGGIFAVVMILLYALRFINPN----
 LATDWDIFITTLGIVYSSIIVIHGWRLDPILLFSQVLLIFISLSFCWTLIRQREIIR---
 ----------------------------------------------------------RL
@@ -1278,7 +1278,7 @@ V-ENI-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009497156.1_AWT39869|ycf66
+>Discostella_pseudostelligera|YP_009497156.1|ycf66
 -------------------MLNFVFSPNVF-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1286,7 +1286,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009256899.1_ANI25994|ycf66
+>Roya_obtusa|YP_009256899.1|ycf66
 -------------------MIHMELGPSTI-----VGMVVTIVALVLYLVRTNKPD----
 VSRDYDLFFSSVGLLCGGILIFQGWRLDPILLLCQILSSGTAIFFIGESLWLRGIQ--YN
 -----------KNNIF---------------QDNNQ------------------------
@@ -1294,7 +1294,7 @@ VSRDYDLFFSSVGLLCGGILIFQGWRLDPILLLCQILSSGTAIFFIGESLWLRGIQ--YN
 MLQ--------------------------NSFKKKKTY----------------------
 ------------------------------------------------------------
 --------------------------
->YP_010472199.1_UVG41664|ycf66
+>Navicula_tsukamotoi|YP_010472199.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSLGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1302,7 +1302,7 @@ AKL---------------------------------------------------------
 --KRRKKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009686373.1_QDR25120|ycf66
+>Halamphora_coffeaeformis|YP_009686373.1|ycf66
 -------------------MLNFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 IARDEDIFFATIGLLYSCILMVHGWRLDPILLFGQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1310,7 +1310,7 @@ AKL---------------------------------------------------------
 --KNQKRK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QKQ14650.1_QKQ14650.1|ycf66
+>Zygnema_circumcarinatum|QKQ14650.1|ycf66
 ------------------------MSQNGVK----IPCLVLRG-------EYQNGG----
 LSHYYDLLFSSVGLLCGGILIFQGWRLDPILLLCQMLSSGTAIFFIGETILLRDIRF---
 --------------------------Q-------------------------------EK
@@ -1318,7 +1318,7 @@ NKLLL-----------------FPYPSNKN----------------------------KT
 LAQRQQLNTKL---------NWEPLQTNHYSINKFKLWNSNYK------LRNSELKDYTQ
 PIEYMD------------------------------------------------------
 --------------------------
->AID67893.1_AID67893.1|ycf66
+>prasinophyte_sp._MBIC10622|AID67893.1|ycf66
 -------------------MINIIFYPNMF-----LALLLIGWAFFLYSLRFFKPQ----
 ITREYDIVLSTIASVCGGVLAFQGWRLDPLLFTIYCLLVGALFAFSFELLQLRTLQ----
 ------------------VE---------SPDSLDEPLDDPLP---------------NS
@@ -1326,7 +1326,7 @@ FNGQVEQ---------------------------------VDDDLW---IS---EIAITD
 LPKRENNKQ---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UXN45118.1_UXN45118.1|ycf66
+>Haslea_karadagensis|UXN45118.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLVILTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1334,7 +1334,7 @@ AKL---------------------------------------------------------
 --KKIKKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009684422.1_QDR24508|ycf66
+>Florenciella_parvula|YP_009684422.1|ycf66
 -------------------MININVGPNIL-----VGMLIIAAFLGLYFVRTVKFE----
 LARDVDMFYTSLGLMYSSILIIHGWRLDPILLFSQILILMTLLGIGWENIRLRGLLI---
 ----------------------------------------------------------AD
@@ -1342,7 +1342,7 @@ KMK---------------------------------------------------------
 -YKSSGNKDYL-GL----------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010443672.1_UTE94559|ycf66
+>Merotricha_bacillata|YP_010443672.1|ycf66
 -------------------MINIAYNPNFL-----LSLIVLISMLLFYLLRIIRPE----
 VSKEEDIFFISLGLLYSCIILIHGWRLDPILFFSQVLLVIIVVCIGWENIRLRGLLV---
 ----------------------------------------------------------KI
@@ -1350,7 +1350,7 @@ FEKDD-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010444238.1_UTE95125|ycf66
+>Fibrocapsa_japonica|YP_010444238.1|ycf66
 -------------------MINISFSPNFL-----LSGILILGMVLIYSLRIIRPE----
 VSRDEDFFFTSVGLLYSCILVIHGWRLDPILFFSQILLVGFVLGVCWENIRLRGLIV---
 ----------------------------------------------------------QM
@@ -1358,7 +1358,7 @@ VKNDIDET--------------------------------------------------KN
 QFKK--------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010444376.1_UTE95262|ycf66
+>Fibrocapsa_japonica|YP_010444376.1|ycf66
 -------------------MINISFSPNFL-----LSGILILGMVLIYSLRIIRPE----
 VSRDEDFFFTSVGLLYSCILVIHGWRLDPILFFSQILLVGFVLGVCWENIRLRGLIV---
 ----------------------------------------------------------QM
@@ -1366,7 +1366,7 @@ VKNDIDET--------------------------------------------------KN
 QFKK--------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AGI99401.1_AGI99401.1|ycf66
+>Nannochloropsis_oceanica|AGI99401.1|ycf66
 -------------------MINIIFEPNIL-----LAMMIGVVMAFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -1374,7 +1374,7 @@ QKL---------------------------------------------------------
 --TQESENN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ULD16079.1_ULD16079.1|ycf66
+>Cylindrotheca_closterium|ULD16079.1|ycf66
 -------------------MINISFGPNIF-----LGIIVSIGVLILYFLRNIKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1382,7 +1382,7 @@ AKF---------------------------------------------------------
 --KSKKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AYO28247.1_AYO28247.1|ycf66
+>Synura_sphagnicola|AYO28247.1|ycf66
 -------------------MINIIVEPALL-----IGVTFAIVMLSLYSLRFVNPE----
 LASEWDIFITTLGLVYSSILFIHGWRLDPILLFSQVLLIFITLSFCWILIRQREIIR---
 ----------------------------------------------------------RL
@@ -1390,7 +1390,7 @@ LNENL-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009686093.1_QDR24839|ycf66
+>Halamphora_americana|YP_009686093.1|ycf66
 -------------------MLNFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 IARDEDIFFATIGLLYSCILIVHGWRLDPILLFGQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1398,7 +1398,7 @@ AKL---------------------------------------------------------
 --KKQKRK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAJ57781.1_WAJ57781.1|ycf66
+>Paralia_sulcata|WAJ57781.1|ycf66
 -------------------MINIGFGPNII-----LGFILGFGVTLLYLLRLVKPE----
 VARDEDIFFATIGLLYSCILVVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -1406,7 +1406,7 @@ VKF---------------------------------------------------------
 --KKQDKNK---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009340890.1_BAW34837|ycf66
+>Palmophyllum_crassum|YP_009340890.1|ycf66
 -------------------MILFDFDFTVF-----LALTLLIFSIYYYFI-CQKKY----
 VLQDSDVFFSCLILLNGGILLFQGWRLDPLLLFTQIISTIMIISFANENISLRNQIK---
 ----------------------------------------------------------KI
@@ -1414,7 +1414,7 @@ SDNKLNNNNTQ-----------------------------------------------SD
 FYKSKNQEIRK------------------------------------------KNFKYKI
 KIPK--------------------------------------------------------
 --------------------------
->YP_009550720.1_QAA11773|ycf66
+>Eustigmatophyceae_sp._Mont_10/10-1w|YP_009550720.1|ycf66
 -------------------MINIIFEPNIL-----LAFISALIMLFLYLLRLVKPQ----
 IARDQDIFFATLGLLYSSILVIHGWRLDPILLFSQVLINSILIPTCWENIRLRAIAH---
 ----------------------------------------------------------IF
@@ -1422,7 +1422,7 @@ YKS---------------------------------------------------------
 --KQDQNKTF--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_007476254.1_AGE93828|ycf66
+>Diacronema_lutheri|YP_007476254.1|ycf66
 -------------------MINIDFGYNFI-----LGCFVALVGIALYSIRFLNPR----
 IAEEKDVFLSTLFFIYSGIIIIHGWRLDPILFLSQILIVILSISFFMENLSLRTRVL---
 ----------------------------------------------------------KQ
@@ -1430,7 +1430,7 @@ KKREL-------------------------------------------------------
 -IKKKIEDNMQ-NL-------VD---------------GNGND------DDDDDDEPIDI
 FKIFR-------------------------------------------------------
 --------------------------
->YP_009033606.1_AHZ10988|ycf66
+>Klebsormidium_flaccidum|YP_009033606.1|ycf66
 -------------------MINLDFNASTF-----LGVCLVGSSIGLYTIRKVSPE----
 LSRDSDVILSTVGIAAGSILTFQGWRLDPILLFCQTCSIGIALFFVWESIRLRHSSH---
 ---------SFEKN-------------------QKNIL--------------------NI
@@ -1438,7 +1438,7 @@ QKKNSI----------------LCQGWRLP------------------------------
 -SKPKDRKKIK-SN-------YMFIQ-----------VQ--KK------LL---------
 ------------------------------------------------------------
 --------------------------
->YP_010172845.1_QSH90664|ycf66
+>Eucampia_zodiacus|YP_010172845.1|ycf66
 -------------------MINIGFGPNII-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLVIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -1446,7 +1446,7 @@ AKI---------------------------------------------------------
 --KKKK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWM93548.1_QWM93548.1|ycf66
+>Tryblionella_apiculata|QWM93548.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1454,7 +1454,7 @@ AKV---------------------------------------------------------
 --KNKKKS----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->NP_043699.1_CAA91731|NP_043699.1
+>Trieres_chinensis|NP_043699.1|NP_043699.1
 -------------------MINFSFGPNIF-----LGFILGFGILLLYLLRFVKPE----
 VARDEDLFFVTLGLLYSSILVVHGWRLDPILLFSQVLIIASVLGAGWENIRLRGLLV---
 ----------------------------------------------------------NL
@@ -1462,7 +1462,7 @@ TKK---------------------------------------------------------
 --KKEKK-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ANS57763.1_ANS57763.1|ANS57763.1
+>Pleurocladia_lacustris|ANS57763.1|ANS57763.1
 -------------------MINIVFGANFL-----LGLLIILGVLILYFLRGIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIVLAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -1470,7 +1470,7 @@ LKITK----------------------NLL------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_011005083.1_WAM61946|ycf66
+>Analipus_japonicus|YP_011005083.1|ycf66
 -------------------MINIVFGANFL-----LGLVIIFGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1478,7 +1478,7 @@ IKEQL----------------------KLP----------------------------EI
 YSNKFK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009530898.1_AXY63587|YP_009530898.1
+>Paulinella_micropora|YP_009530898.1|YP_009530898.1
 -------------------MVNASLNWASI-----IGIILAAGGAMLYFMRSFKPA----
 LARDYDVFFAAIGLLCGGILFFQGWRLDPILQFGQFLLAGSTIFFAYESVRLRGVTT---
 ------E-QARRVSYF--------------DDEETQSLPNIRNLRN--DYPVDRFDQAGF
@@ -1486,7 +1486,7 @@ TRRRIG----------------IPEEERNP------------DNIYRRRISSRPVIPERA
 VSRRESRRETLENLENNDWGSTLSSLSSQTSFGERRVQPQGTRPTSRRPVPPKSEFPQSK
 RLDSQFNYTRSLSRER-QN-----RDDNDKFVEKED--LDKTYPRESPKAQSRTENQQIN
 RADGFSKIENV-FRNQVRDNSGQFDD
->ATN40689.1_ATN40689.1|ycf66
+>Gomphoneis_minuta_var._cassieae|ATN40689.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILIVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1494,7 +1494,7 @@ AKL---------------------------------------------------------
 --KKVKKDTL--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_636413.1_AAX45767|ycf66
+>Staurastrum_punctulatum|YP_636413.1|ycf66
 -------------------MIHMELGPSTI-----VGVGLALIGFLLYLVKTKKPD----
 VSRDYDLFFSSVGLLCGGILIFQGWRLDPILLLCQILSSATAIFFIGESLWLRGIKS-KN
 RKIFPPKYHMGKKNVFLPLELAPSEIQKIDEAFSSQDFF---------------------
@@ -1502,7 +1502,7 @@ DKRVF-----------------FSDDRHEDLKL-------IKEKTFS-----------PS
 ETQRAKEITKI-SQ-------QYFLQSKKRAYEEKKLVIYYQL------KNKSFEFDYTD
 PIDYCHT-----------------------IFSTKE------------------------
 --------------------------
->ULD16497.1_ULD16497.1|ycf66
+>Bacillaria_paxillifer|ULD16497.1|ycf66
 -------------------MINFSFGPNIF-----LAIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1510,7 +1510,7 @@ AKL---------------------------------------------------------
 --KKKKKP----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WGN98863.1_WGN98863.1|ycf66
+>Asterionella_formosa|WGN98863.1|ycf66
 -------------------MINFSFGPNIF-----LGIILALGVLLLYFLRLVKPE----
 VARDEDIFFSTIGLLYSCILMVHGWRLDPILMFSQLLIITSVLVAGWENIRLRGLII---
 ----------------------------------------------------------KI
@@ -1518,7 +1518,7 @@ SKK---------------------------------------------------------
 --KKK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM63769.1_WAM63769.1|ycf66
+>Halosiphon_tomentosus|WAM63769.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRVVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSLALGAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1526,7 +1526,7 @@ IKEQL----------------------KLP----------------------------KV
 YSDKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ABV70158.1_ABV70158.1|ycf66
+>Heterosigma_akashiwo|ABV70158.1|ycf66
 -------------------MINISYSPSFL-----LSVLLIIGLLLFYSLKIIRPE----
 VSKEEDIFLTSLGLLYSCILIIHGWRLDPILFFSQVLLVVFVLAVGWENIRLRGLLV---
 ----------------------------------------------------------KR
@@ -1534,7 +1534,7 @@ LSRDKD------------------------------------------------------
 RFNKY-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010443817.1_UTE94704|ycf66
+>Vacuolaria_virescens|YP_010443817.1|ycf66
 -------------------MINISYNPNFL-----LSIVLMIGMLFFYSLRIVRPE----
 VSKEGDIFLTSLGLLYSCIIFIHGWRLDPILFFSQVLLVGVILSIGWENIRLRGLLV---
 ----------------------------------------------------------HI
@@ -1542,7 +1542,7 @@ LSK---------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AZJ16778.1_AZJ16778.1|ycf66
+>Seminavis_robusta|AZJ16778.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1550,7 +1550,7 @@ AKL---------------------------------------------------------
 --KKK-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO38673.1_XAO38673.1|ycf66
+>Discostella_guiyangensis|XAO38673.1|ycf66
 -------------------MLNFVFSPNVF-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1558,7 +1558,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009711916.1_QGA73636|ycf66
+>Fragilariopsis_cylindrus|YP_009711916.1|ycf66
 -------------------MINISFGPNIF-----LGILVSVGVLILYFLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLISITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1566,7 +1566,7 @@ AES---------------------------------------------------------
 --KKKDKKES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UBQ34982.1_UBQ34982.1|ycf66
+>Thalassiosira_nordenskioeldii|UBQ34982.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1574,7 +1574,7 @@ ALRD--------------------------------------------------------
 -IEDNKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010215642.1_UBQ35123|ycf66
+>Thalassiosira_tenera|YP_010215642.1|ycf66
 -------------------MLNFVFSPNIL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1582,7 +1582,7 @@ ALRD--------------------------------------------------------
 -IEENEKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010208056.1_UBA15069|ycf66
+>Pseudo-nitzschia_americana|YP_010208056.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLIVITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1590,7 +1590,7 @@ AKS---------------------------------------------------------
 --KQKNKNES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UBA15456.1_UBA15456.1|ycf66
+>Pseudo-nitzschia_cuspidata|UBA15456.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGLLYSCILMVHGWRLDPILLFSQVLIVLTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1598,7 +1598,7 @@ AKS---------------------------------------------------------
 --KKKNKNRS--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAJ58050.1_WAJ58050.1|ycf66
+>Guinardia_delicatula|WAJ58050.1|ycf66
 -------------------MINIGFGPNII-----LGFILGFGVILLYLLRIVKPE----
 VARDEDIFFATIGLLYSCILIVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -1606,7 +1606,7 @@ AKFK--------------------------------------------------------
 -SKKTDKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QDR24621.1_QDR24621.1|ycf66
+>Pseudopedinella_elastica|QDR24621.1|ycf66
 -------------------MINIGFGPNII-----LGIVIIIAVLGLYFLRTIKYD----
 LSRDIDIFFTTLGLIYSSILIIHGWRLDPILLFGQILIIVTLLSIGWENIRLRGLVS---
 ----------------------------------------------------------KN
@@ -1614,7 +1614,7 @@ HQF---------------------------------------------------------
 -LNDD-------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UVI61100.1_UVI61100.1|ycf66
+>Neustupella_aerophytica|UVI61100.1|ycf66
 -------------------MINIIFEPNIL-----LAILITLVMIFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -1622,7 +1622,7 @@ QKI---------------------------------------------------------
 --TQQPKKS---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009677040.1_QDH81701|orf125
+>Dictyocha_speculum|YP_009677040.1|orf125
 ------------------------MSFNVIP-RN-YWLLAGTVWIVLAYMKTIRENEQYA
 LTGKSDEFTIFLGIPYTIGILLQGFRLDQMLIFTQGVLVFLFCVITLELMETRNRVE---
 ----------------------------LDNRTRHQGYRRKKS---------------AI
@@ -1630,7 +1630,7 @@ QKEQFGE---------------------------------------------------AK
 FLEREEYR----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009256776.1_ANI25809|ycf66
+>Closterium_baillyanum|YP_009256776.1|ycf66
 -------------------MIHMELGPSTI-----VGLGLSIVGLLLYLIRTNKPD----
 VSRDYDLFFSSVGLLCGGILIFQGWRLDPILLLCQILSSGTALFFIGESLWLRGAND-KT
 -----------KENVD---------------NTSGQQ-----------------------
@@ -1638,7 +1638,7 @@ VSRDYDLFFSSVGLLCGGILIFQGWRLDPILLLCQILSSGTALFFIGESLWLRGAND-KT
 ITE--------------------------NLYQEKKLLLPYII------SASWETVNYTV
 PIDYSK------------------------------------------------------
 --------------------------
->YP_009550971.1_QAA11917|ycf66
+>Eustigmatophyceae_sp._Ndem_8/9T-3m6.8|YP_009550971.1|ycf66
 -------------------MINIIFEPNIL-----LAFFVSFGMLFLYFLRIVRPE----
 IARDQDIFFATLGLLYSSILIIHGWRLDPILLFSQVLLASILLPTCWENIRLRLISY---
 ----------------------------------------------------------LF
@@ -1646,7 +1646,7 @@ FNS---------------------------------------------------------
 --RLPNQSD---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009691277.1_QEG58126|ycf66
+>Laminaria_digitata|YP_009691277.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSISLAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1654,7 +1654,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM62086.1_WAM62086.1|ycf66
+>Aureophycus_aleuticus|WAM62086.1|ycf66
 --------------------MNIVFGANFL-----LGLIIILGVLILYFLRVIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1662,7 +1662,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010201384.1_UAM92149|ycf66
+>Skeletonema_grevillei|YP_010201384.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1670,7 +1670,7 @@ ALRD--------------------------------------------------------
 -IEENKEIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XDG10860.1_XDG10860.1|ycf66
+>Pseudo-nitzschia_brasiliana|XDG10860.1|ycf66
 -------------------MINISFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGFLYSCILMVHGWRLDPILLFSQVLIVITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1678,7 +1678,7 @@ AKS---------------------------------------------------------
 --KQKNKNES--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT06836.1_WKT06836.1|ycf66
+>Klebsormidium_flaccidum|WKT06836.1|ycf66
 -------------------MINLEFNASTL-----LGICLVGTSIGLYAVRKIRPE----
 LSRDSDVIFSTLGIAAGSILAFQGWRLDPILLFCQICSIGVALFFIWESVRLRHNSN---
 ---------LSSK--I---------------LSTKDIF--------------------L-
@@ -1686,7 +1686,7 @@ LSRDSDVIFSTLGIAAGSILAFQGWRLDPILLFCQICSIGVALFFIWESVRLRHNSN---
 -SKPKDRTRSK-NR-------YMPIQ-----------IKKQEQ------AFTDHSFPTQL
 KKEKK-------------------------------------------------------
 --------------------------
->YP_011007590.1_WAM65019|ycf66
+>Syringoderma_abyssicola|YP_011007590.1|ycf66
 -------------------MINIVFGANFV-----LGLVIIIGVLILYFLRVVRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSISLAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1694,7 +1694,7 @@ IKEQL----------------------KVP----------------------------KV
 YNNKLK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AAM96586.1_AAM96586.1|ycf66
+>Chaetosphaeridium_globosum|AAM96586.1|ycf66
 -------------------MIHMEIGPSTF-----VGICLIIMGIILYLLKTQKPE----
 VSKEYDLLFSSIGLLSGGILIFQGWRLDPILLLCQILCSGTAIFFVLESLYLRN------
 -----------QSLKY-------------------------------------------I
@@ -1702,7 +1702,7 @@ SKQVQ-----------------LDKKVTLN-------------------------TTIKL
 LTESKKSDI-----------------NIKYYFKIKKALIEAKV------FP-----EYTN
 HISY-------------------------DLLKKKA------------------------
 --------------------------
->WDA99144.1_WDA99144.1|ycf66
+>Gronococcus_sybilensis|WDA99144.1|ycf66
 -------------------MINLGTGPNVL-----LGFVISFASMTLYLIRIFYPK----
 ISRDKDLLLMTVGLMYGSILIIHGWRLDPILTFSQLLLVIVIFFLGYENFMSRNLNL---
 ---------YKKKSY----------------------F--------------------SI
@@ -1710,7 +1710,7 @@ QKMLLGDRKQDGEM---NRKF-LGQNSKLP----------------------------SN
 RLSKIEDLSLN-KD---------------------------KL------FDE------DF
 IFDYRDFEEEIHDHK---------------------------------------------
 --------------------------
->QXM17401.1_QXM17401.1|ycf66
+>Chaetoceros_costatus|QXM17401.1|ycf66
 -------------------MINIGFGPNIL-----LGLILGFGVILLYFLRVVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIASLLVAGWENIRLRGLLA---
 ----------------------------------------------------------NM
@@ -1718,7 +1718,7 @@ AKL---------------------------------------------------------
 --KKRVNK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010215219.1_UBQ34700|ycf66
+>Thalassiosira_profunda|YP_010215219.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1726,7 +1726,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->UZC30104.1_UZC30104.1|ycf66
+>Entomoneis_sp.|UZC30104.1|ycf66
 -------------------MINFSFGPNIF-----LGIVVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1734,7 +1734,7 @@ AKK---------------------------------------------------------
 --NRKK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QDX17568.1_QDX17568.1|ycf66
+>Haslea_nusantara|QDX17568.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLVILTVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -1742,7 +1742,7 @@ AKL---------------------------------------------------------
 --KKNRKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AGI98654.1_AGI98654.1|ycf66
+>Nannochloropsis_gaditana|AGI98654.1|ycf66
 -------------------MINIIFEPNIL-----LAMVIGVVMAFLYFLRIVKPQ----
 IARDQDIFFATIGLLYSSILIIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAH---
 ----------------------------------------------------------AF
@@ -1750,7 +1750,7 @@ QKF---------------------------------------------------------
 --TQEVENT---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WJZ45182.1_WJZ45182.1|ycf66
+>Colpomenia_sinuosa|WJZ45182.1|ycf66
 -------------------MINIVFGANFL-----LGLLIIFGVLILYFLRSIRPE----
 LSRDEDIFFTTLGLIYGAILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------AK
@@ -1758,7 +1758,7 @@ LKNK--------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ACF70974.1_ACF70974.1|ycf66
+>Vaucheria_litorea|ACF70974.1|ycf66
 -------------------MINIGFGTNLI-----LGFLFVIGVTLLYLVRIVRPE----
 LSRDEDIFFTTLGLIYSCILIIHGWRLDPILLFSQVLILAISLAAGWENIRLRGLVA---
 ----------------------------------------------------------KK
@@ -1766,7 +1766,7 @@ IKDQIINATTEYS--------------ELE----------------------------K-
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AWT38254.1_AWT38254.1|ycf66
+>Plagiogramma_staurophorum|AWT38254.1|ycf66
 -------------------MINFSFGPNTI-----LALILGSGVMILYLLRIVKPE----
 VAREEDIFFTTIGLLYCGILIVHGWRLDPILLFSQVLIITAVLVAGWENIRLRGLIA---
 ----------------------------------------------------------SI
@@ -1774,7 +1774,7 @@ SKL---------------------------------------------------------
 --KKKDK-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->ULD16360.1_ULD16360.1|ycf66
+>Psammodictyon_constrictum|ULD16360.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSIGVLILYFLRNVKPE----
 VARDEDIFFATIGFLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1782,7 +1782,7 @@ AKL---------------------------------------------------------
 --KKKGETDTL-V-----------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009550693.1_QAA11645|ycf66
+>Eustigmatophyceae_sp._Chic_10/23_P-6w|YP_009550693.1|ycf66
 -------------------MINIIFEPNIL-----LAFFVSFGMLFLYFLRIVRPE----
 IARDQDIFFATLGLLYSSILVIHGWRLDPILLFSQVLLASILLPTCWENIRLRLISY---
 ----------------------------------------------------------LF
@@ -1790,7 +1790,7 @@ FNS---------------------------------------------------------
 --RLPNQSE---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009545388.1_AYO28542|ycf66
+>Mallomonas_splendens|YP_009545388.1|ycf66
 -------------------MINIIVEPALL-----LGAIFAIVMIFLYGLRFVNPD----
 LATDWDIFITTLGIVYSSILVIHGWRLDPILLFSQVLLIFITFSFCWILIRQREIIR---
 ----------------------------------------------------------RL
@@ -1798,7 +1798,7 @@ I-DNI-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QWK43373.1_QWK43373.1|ycf66
+>Egregia_menziesii|QWK43373.1|ycf66
 -------------------MINIVFGANFL-----LGLIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1806,7 +1806,7 @@ IKEQL----------------------KLP----------------------------KI
 YSNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QUS63873.1_QUS63873.1|ycf66
+>Haslea_silbo|QUS63873.1|ycf66
 -------------------MINFSFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLVIITVLVAGWENIRLRGLVA---
 ----------------------------------------------------------NM
@@ -1814,7 +1814,7 @@ AKL---------------------------------------------------------
 --KKNRKK----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010472122.1_UVG41587|ycf66
+>Navicula_arenaria|YP_010472122.1|ycf66
 -------------------MINFTFGPNIF-----LGIIVSFGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIIITVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NM
@@ -1822,7 +1822,7 @@ AKL---------------------------------------------------------
 --KRKKKE----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009496090.1_AWT38530|ycf66
+>Plagiogrammopsis_vanheurckii|YP_009496090.1|ycf66
 -------------------MINFSFGPNIF-----LGLILGFGILLLYFLRFVKPE----
 VARDEDLFFVTLGLLYSSILVVHGWRLDPILLFSQVLIIASVLGAGWENIRLRGLLV---
 ----------------------------------------------------------NI
@@ -1830,7 +1830,7 @@ TKK---------------------------------------------------------
 --KKEND-----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WKT08458.1_WKT08458.1|ycf66
+>Nitella_hyalina|WKT08458.1|ycf66
 -------------------MINFELSPSVF-----IGIILLIVAIALYFIRIWTPS----
 ISQDYDLIFSSMGVLCGGILIFQGWRLDPILLFSQILSNIMGVFFIWEAIQLRKQNR-SK
 YT--------DNFNSFFKI------------KNQSKNFHKF------------------N
@@ -1838,7 +1838,7 @@ KKKIT-----------------FS------------------------------------
 FLKPSLHFHQI---------------VRKKNFLHKELK----------------K-DYYN
 PLDFN-------------------------------------------------------
 --------------------------
->NP_038402.1_AAF43842|ycf66
+>Mesostigma_viride|NP_038402.1|ycf66
 -------------------MINIEFGPSTI-----LGIAVVCGGILLYITRTIKPE----
 ISRDHDIFFSSVALLIGGILIFQGWRLDPILLFGQMLSTGTALCFIIESLKLRVPKE-NN
 KSLFSTQ---NKNN---------------------------------------------S
@@ -1846,7 +1846,7 @@ NNRIIK----------------FQPPSKYDINLNQRGKKEKKNNNFQ-------------
 LKENSK------YT-------KDSL--VPSNWNDINIS----------------SIDYEK
 PIDY----------------------------QKK-------------------------
 --------------------------
->WZW77964.1_WZW77964.1|ycf66
+>Nitzschia_anomala|WZW77964.1|ycf66
 ---------MKV------FMINFNFGPNIF-----LSAIVTIGVLILYFLRNVKPE----
 VARDEDIFFATIGLLYSCILMVHGWRLDPILLFSQVLIITTVLVTGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1854,7 +1854,7 @@ AKL---------------------------------------------------------
 --KNKKKI----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XDG10987.1_XDG10987.1|ycf66
+>Pseudo-nitzschia_galaxiae|XDG10987.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGLLYSCILMVHGWRLDPILLFSQVLIVVTVLVAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1862,7 +1862,7 @@ AKS---------------------------------------------------------
 --KKKNKNQS--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_009496908.1_AWT39621|ycf66
+>Rhizosolenia_fallax|YP_009496908.1|ycf66
 -------------------MVNIGFGPNII-----LGCLFGFGVILLYLLRIVKPE----
 VARDEDIFFATIGLLYSGILIIHGWRLDPILLFSQVLIIVSLLVTGWENIRLRGLLS---
 ----------------------------------------------------------NI
@@ -1870,7 +1870,7 @@ TKFK--------------------------------------------------------
 -NKKQDKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO37969.1_XAO37969.1|ycf66
+>Discostella_asterocostata|XAO37969.1|ycf66
 ----MENNLIKWRY---DIMLNFVFSPNVF-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1878,7 +1878,7 @@ ALRD--------------------------------------------------------
 -IEENKKIN---------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->XAO37828.1_XAO37828.1|ycf66
+>Conticribra_weissflogii|XAO37828.1|ycf66
 -------------------MLNFVFSPNVL-----LGFILGSSVIILYFLRLVKPE----
 VARDEDIFFATIGLLYSGILVIHGWRLDPILLFSQVLVITAVLAAGWENIRLRGVLA---
 ----------------------------------------------------------ML
@@ -1886,7 +1886,7 @@ ALRD--------------------------------------------------------
 -LEEKKKN----------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->YP_010208579.1_UBA15872|ycf66
+>Pseudo-nitzschia_simulans|YP_010208579.1|ycf66
 -------------------MINVSFGPNIF-----LGIIVSVGVLILYSLRNVKPE----
 IARDEDIFFSTMGLLYSCILMVHGWRLDPILLFSQVLIVVTVLIAGWENIRLRGLIA---
 ----------------------------------------------------------NL
@@ -1894,7 +1894,7 @@ AKS---------------------------------------------------------
 --KKKNKNQS--------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->AYO28107.1_AYO28107.1|ycf66
+>Synura_petersenii|AYO28107.1|ycf66
 -------------------MLNIIVEPALL-----LGVLFAIVMIFLYGLRFVNPN----
 LASDWDIFITTLGIVYSSILIIHGWRLDPILLFSQVLLIFITFSFCWILIRQREIIR---
 ----------------------------------------------------------RL
@@ -1902,7 +1902,7 @@ I-ENL-------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->WAM62209.1_WAM62209.1|ycf66
+>Chorda_asiatica|WAM62209.1|ycf66
 -------------------MINIVFGANFL-----LGIIIILGVLILYFLRIIRPE----
 LSRDEDIFFTTLGLIYGSILIIHGWRLDPILLFSQVLLVSIALAAGWENIRLRGLIA---
 ----------------------------------------------------------KK
@@ -1910,7 +1910,7 @@ IKEQL----------------------KLP----------------------------KI
 YTNKSK------------------------------------------------------
 ------------------------------------------------------------
 --------------------------
->QAA12056.1_QAA12056.1|ycf66
+>Pseudellipsoidion_edaphicum|QAA12056.1|ycf66
 -------------------MINIIFEPNIL-----LAFLITVLMVLLYFLRIIKPQ----
 IARDQDIFFATIGLLYSSILVIHGWRLDPILLFSQVLINSILVPTCWENIRLRAIAY---
 ----------------------------------------------------------AF

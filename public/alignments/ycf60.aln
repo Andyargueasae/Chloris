@@ -1,4 +1,4 @@
->BAC76161.1_BAC76161.1|ycf60
+>Cyanidioschyzon_merolae_strain_10D|BAC76161.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---MWIIIASYGVLIIVLAIGIGV---GVGVIR-----------KVLKKGMKAEMTIGER
@@ -8,7 +8,7 @@ V-VYSTYPI-L--GFMIFF-----------------MSYFLLVRGI--LQ----------
 CLDILFILTM----GSVIYASYQVWNGELTRLPLISEAAKL-----------QVQDGEGE
 KK----------------------------------------------------------
 -
->YP_010902583.1_WCH54438|ycf60
+>Hypnea_nidulans|YP_010902583.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NQLPIWTIIIISTLLSSIIGIVIYQGYIYLKKY-----N-NSFNKT-------NITIIDR
@@ -18,7 +18,7 @@ I-FYVTHPA-L--AFAVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAVAKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009369983.1_ARO90671|ycf60
+>Boldia_erythrosiphon|YP_009369983.1|ycf60
 ----------------------------------MNNSNIVYYD----------------
 -------------------------------------------------------QYLAH
 QKLKVYSTTIILTIFILAIMIKIYKMLLTKLKVF---YE-KKKN---------NILVRTR
@@ -28,7 +28,7 @@ T-MYIENRH-I--NLISFL-----------------ALYFLIVNSSSPLP----------
 ICNSCFWFIS----GIVIYAIVKCCKGEYSRIPVISEAVRI-----------QVESDGI-
 ------------------------------------------------------------
 -
->AXC47168.1_AXC47168.1|Escp124
+>Endarachne_binghamiae|AXC47168.1|Escp124
 ------------------------------------------------------------
 -----------------------------------MKEAIR-------------------
 VLFGLYWLEIIILVLFLVIAFILEQKFNFKKP------------REWF--FAFNTLIFTR
@@ -38,7 +38,7 @@ D-VIQQIPF-L--TFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------SLYIPCFVRAFLGKYDKNQFIREAVEV-----------HLGRDGPD
 ------FIWWDRE-----RKD-KAPK---------------------------KPPLN--
 -
->AOM66589.1_AOM66589.1|ycf60
+>Porphyridium_sordidum|AOM66589.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------MVEDK---YK--------------KPTLFTR
@@ -48,7 +48,7 @@ N-IYML-PG-M--AIIIFL-----------------LIYFLIVRPKAKV-----------
 VINTLWWFSI----ITSAYSIWHALRGTMPQIPVVSPNARA-----------HLDFDDPW
 KSGND-------------------------------------------------------
 -
->YP_009297662.1_AOM67206|ycf60
+>Hildenbrandia_rivularis|YP_009297662.1|ycf60
 ------------------------------------------------------------
 -------------------------------------------------------MIIIF
 SILNLTFILLLRTIFIVIFGLAIYQGYLSVSKD-------SGKTNH-------KISIIDK
@@ -58,7 +58,7 @@ E-IYIAYPI-L--AFVVFF-----------------LLYYLFIRLDRPIR----------
 VTNILFLFTV----STIIYSVIKSIEGQYPEIPIISEAVKM-----------QISEINQ-
 ------------------------------------------------------------
 -
->YP_009314836.1_SCW23291|ycf60
+>Scinaia_undulata|YP_009314836.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSLPMLLLAILITSIVGIIIISIYQIYVSTVKQN---KF-NVIKDA-------SITVIDR
@@ -68,7 +68,7 @@ I-VYVTNPA-W--AFIIFF-----------------ILYYLFVRPKSPIP----------
 VCNTLFWFVL----LTIIYSVIKSIQGKYAKIPVISQAVRI-----------QIDNQS--
 ------------------------------------------------------------
 -
->WCH56228.1_WCH56228.1|ycf60
+>Hypnea_sp.|WCH56228.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NQLPIWIIVTISILLSGIIGIITYKIYIYLMKY-----K-NTFNKR-------SITFIDR
@@ -78,7 +78,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVIKSIEGKYAKIPVISQAVKI-----------QIDNRL--
 ------------------------------------------------------------
 -
->WKD84121.1_WKD84121.1|ycf60
+>Neoporphyra_seriata|WKD84121.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGLITIFIIV---ISKIAIQRTYIYITLN----KK-INNTES-------KTRLSIR
@@ -88,7 +88,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->QUE29681.1_QUE29681.1|ycf60
+>Erythrotrichia_foliiformis|QUE29681.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------MAAVFLIAQKVFPKSKLF---KK-QKLDPN-------HIAIPTR
@@ -98,7 +98,7 @@ R-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTITYSLIKAISGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->AYR06346.1_AYR06346.1|ycf60
+>Renouxia_sp.|AYR06346.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NGLPVWLIVVISIVAWTLMVITIYQIYLFTKQA----SS-KGYEKS-------YITLLDR
@@ -108,7 +108,7 @@ L-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STVAYSVIKAIEGRYAKIPVISQAVRI-----------QIDNQ---
 ------------------------------------------------------------
 -
->AXI96422.1_AXI96422.1|ycf60
+>Gracilaria_gracilis|AXI96422.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKLPLLIIMILSILSTILISFIIRYLYSYIATS-----Y-KNYNVN-------NITLVDR
@@ -118,7 +118,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_010338547.1_UNJ18497|ycf60
+>Rhodaphanes_brevistipitata|YP_010338547.1|ycf60
 ------------------------------------MDKVSLLGS---------------
 ----------------------------------------------------------VS
 KQFTTIIAYFVIVFILLVITQIIYKSSKFIHKTE---SL--------------ESNLLML
@@ -128,7 +128,7 @@ EGSYVDLNI-L--YVILLF-----------------SQYIIFIQPKR-------------
 TCDLCLLICM----SMIIHAFVKALLGQYCQIPVISEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->WOA02394.1_WOA02394.1|ycf60
+>Gloiopeltis_furcata|WOA02394.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------MYQIYLYTVKP-----K-NNYNKK-------SITAIDR
@@ -138,7 +138,7 @@ L-FYVTHPA-L--AFVIFF-----------------VLYYLFVRAKSPIP----------
 ICNTLFWFVL----LTIVYSIKKSIEGKYANIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009390025.1_ART65393|ycf60
+>Sheathia_arcuata|YP_009390025.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSLPILLIAIFITILIGLVGIILYHLYMYVTQT----KL-HISSNK-------NITILDR
@@ -148,7 +148,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STISYSILKSIEGQYAKIPVISQAVRI-----------QIDNQA--
 ------------------------------------------------------------
 -
->ASK39700.1_ASK39700.1|ycf60
+>Rhodochaete_parvula|ASK39700.1|ycf60
 ----------------------------------MPKIRIYNK-----------------
 -------------------------------------------------------KLITQ
 NTIKFYFTTTILALLILTAMMLIYQKIFSKAYGL---EK-QKEKTN-------GVILSTR
@@ -158,7 +158,7 @@ I-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 TCNTFFLFIL----YTIAYSLFKAIEGKYADIPVISEAVKI-----------QINSKGI-
 ------------------------------------------------------------
 -
->AKE98959.1_AKE98959.1|orf203
+>Bangia_fuscopurpurea|AKE98959.1|orf203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTLGIITIVLIV---IFGLALQRAYKYITLN----KN-INTTES-------KTRLSIR
@@ -168,7 +168,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSVVKAIQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->YP_009122078.1_AJH65836|YP_009122078.1
+>Choreocolax_polysiphoniae|YP_009122078.1|YP_009122078.1
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 IYYMQIIFYYFLLFITLFLILLHFQINLFNFNK--------------------NITLIDK
@@ -178,7 +178,7 @@ I-FYITNPL-L--IFTIFF-----------------ILYYLFIRSKSPIP----------
 LCNILFWFVL----TTVIYSAIESFKGQYTKIPVISQAVKI-----------QIENF---
 ------------------------------------------------------------
 -
->YP_011005653.1_WAM62657|cp30
+>Cutleria_multifida|YP_011005653.1|cp30
 ------------------------------------------------------------
 -----------------------------------MFE------------------QIKT
 IIFGVYWLEVCIFVGFLSLGFLLEQKFKFKKP------------RKWF--LKFNGLIIQR
@@ -188,7 +188,7 @@ E-MIQRIPF-L--PFVYLM-----------------LGYGILIRYK--IP----------
 ----IIWI------IIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FVWWDRT-----KKD-KAPK---------------------------KPKK---
 -
->AYR05943.1_AYR05943.1|ycf60
+>Lithothamnion_sp.|AYR05943.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KGLPEWIIAIIIILILSIIVIGMYQFYNFTINT----IN-A---KH-------KVTIIDR
@@ -198,7 +198,7 @@ L-FYVTHPA-L--AVVTFF-----------------VLYYLFVRPKSPIP----------
 LCNTLFWFVL----STIVYSVIKALEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UAD84274.1_UAD84274.1|ycf60
+>Agarophyton_chilense|UAD84274.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKLPSLIIIMLTTFSIILISFIIRQLYLYIATS-----Y-KDYDVN-------DITIVDR
@@ -208,7 +208,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STISYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UNJ14225.1_UNJ14225.1|ycf60
+>Chroothece_richteriana|UNJ14225.1|ycf60
 ---------------------------------------MSLMGS---------------
 ----------------------------------------------------------TG
 KQFSLILAYFTLSFVLLLAAQIIYRISKPFHRID---NK--------------ESNLVML
@@ -218,7 +218,7 @@ EGSYLDFNT-F--YVILLF-----------------SQYVIFIQPKR-------------
 TCDLCLLICM----SMIAHAFVKALFGHYCQIPVVSEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->ARO90415.1_ARO90415.1|ycf60
+>Bangiopsis_subsimplex|ARO90415.1|ycf60
 ---------------------------------------MSVLGA---------------
 ----------------------------------------------------------AS
 KQFTTIIAYFVLVFIMLLLAQTLYKSFKFLHKTN---SL--------------ESNLLML
@@ -228,7 +228,7 @@ EGSYIDLNI-L--YVILLF-----------------SQYIIFIQPKR-------------
 ACDLCLLICM----SMIIHAFIKGLLGQYCQIPVISEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->AOM67939.1_AOM67939.1|ycf60
+>Plocamium_cartilagineum|AOM67939.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQLPLWIIIIISILVLAVGGILIYYISLFIFDS-----S-KNIDKQ-------DITVIDR
@@ -238,7 +238,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVFKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW68636.1_ARW68636.1|ycf60
+>Palisada_sp.|ARW68636.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NSFPYWVVISILVA---TLIFGIYQLYS-ADPN-------FYVNTR-------SITLVDR
@@ -248,7 +248,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 VCNTLFWFVL----STIGYAIFKSLEGKYARIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009332578.1_AHZ94596|ycf60
+>Membranoptera_weeksiae|YP_009332578.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYIPSWIISMVLII---LISVLFYQVYFRIINA-------YSDDKN-------RITVVDK
@@ -258,7 +258,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPMP----------
 LCNTLFWFVL----STIIYSIVKSIQGKYAKIPVISQAVRI-----------QIDSQ---
 ------------------------------------------------------------
 -
->YP_010445116.1_UTJ90617|ycf60
+>Macrocystis_pyrifera|YP_010445116.1|ycf60
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGLYWFEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -268,7 +268,7 @@ N-IIQKVPF-L--SFIYLL-----------------VGYGVLVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->SCW22885.1_SCW22885.1|ycf60
+>Nemalion_sp._H.1444|SCW22885.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------MYISTVEK---NM-NSKNQP-------AITIVDK
@@ -278,7 +278,7 @@ I-VYVTNPT-W--AFLIFF-----------------LLYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVVKSVQGKYARIPVISQAVKI-----------QIDNRQ--
 ------------------------------------------------------------
 -
->YP_011005932.1_WAM62936|cp30
+>Desmarestia_aculeata|YP_011005932.1|cp30
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------------------------------------MCQR
@@ -288,7 +288,7 @@ N-IIQKIPF-L--SFFYLL-----------------VAYGILVRYK--IP----------
 ----ILWL------IVMIPCFTRALFGRYTRNFFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->YP_009295574.1_AOL58058|ycf60
+>Mastocarpus_papillatus|YP_009295574.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------MKS----IN-NNYDKK-------NITLIDR
@@ -298,7 +298,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STITYSVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009313197.1_SCW21451|ycf60
+>Dichotomaria_marginata|YP_009313197.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------MNKR---KD-SLNENN-------SITIIDR
@@ -308,7 +308,7 @@ I-VYVTNPA-W--AFIIFF-----------------VLYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->QHS70723.1_QHS70723.1|ycf60
+>Gracilaria_spinulosa|QHS70723.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NQSPLLIIIILTILSTILISFIIRYLYLSMSTS-----Y-KNYNVN-------SITLLDR
@@ -318,7 +318,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW68228.1_ARW68228.1|ycf60
+>Chondria_sp._(in:_red_algae)|ARW68228.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NLFLYLIMGL-------LLVFLCYQCYLLI-------DN-YDINKT-------SVNWIDR
@@ -328,7 +328,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPLP----------
 LCNTFFWFVL----STIIYSIFKSMQGQYARIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW59928.1_ARW59928.1|ycf60
+>Acrosorium_ciliolatum|ARW59928.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYLLIWIISITCTI---LISILCYQLYIFVMNS-------YSYDKS-------KITILDR
@@ -338,7 +338,7 @@ I-FYVNHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVMKSLQGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_011044950.1_WRW10643|cp30
+>Ascoseira_mirabilis|YP_011044950.1|cp30
 -------------------------------------MSLE-------------------
 -------------------------------STSFISSSIK-------------------
 FFCGLYWMEISLLLVLVIGTFLLDQKFQIDLP------------KKLF--LAINHIILQR
@@ -348,7 +348,7 @@ E-LLQRVPF-L--SFTYLI-----------------VGYGIFIRYK--IP----------
 ----ILWL------SIFIPCFFRAFFGRYESNAFMREAIEI-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPKPKPKPERKPRWWQRKKKNIVSKKKPRKKPRKKPK
 L
->XCA55400.1_XCA55400.1|ycf60
+>Gracilaria_hainanensis|XCA55400.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NELPLLIIMILSVFSTILISFIIRYLYLYIATS-----Y-KNYNVN-------NITLVDR
@@ -358,7 +358,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSVEGKYARIPVISQAVKI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QHS70926.1_QHS70926.1|ycf60
+>Gracilaria_textorii|QHS70926.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NQSPLLIIIILTILSTILISFIIRYLYLYIATS-----Y-KNYNV----------TLLDR
@@ -368,7 +368,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSVEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW64907.1_ARW64907.1|ycf60
+>Polysiphonia_sertularioides|ARW64907.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 TYFFYFVISLLFIS---FLFLCFYKLYFAFLKS-------YKDSVQ-------GITLIDR
@@ -378,7 +378,7 @@ V-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STILYASFKSLEGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->QSD57040.1_QSD57040.1|ycf60
+>Chondria_tumulosa|QSD57040.1|ycf60
 ---------------------------------------M--------------------
 ----------------------------------------------------------LF
 NIFIYLIISIIII-------FLFYQVYLFVIFS-------YKDCND-------GINLMDR
@@ -388,7 +388,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPLP----------
 LCNTLFWFVL----STIIYSIFKSVQGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->WAX02837.1_WAX02837.1|ycf60
+>Deltalsia_parasitica|WAX02837.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------MFIFCCYQLYLFFFKN-------YTLNSD-------SITFIDR
@@ -398,7 +398,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009296082.1_AOM65017|ycf60
+>Schizymenia_dubyi|YP_009296082.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQLPSWIIVLLSTLSIIFLIILIYQLYVFIIKS----SN-NKENKK-------KVTLIDK
@@ -408,7 +408,7 @@ I-FYVTHPT-L--AFIIFF-----------------ALYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYSVIKSIQGKYTNIPVISQAVRI-----------QIDNRYR-
 ------------------------------------------------------------
 -
->WDB00589.1_WDB00589.1|ycf60
+>Cavernulicola_chilensis|WDB00589.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------MENKE-----NTLTSLSER
@@ -418,7 +418,7 @@ E-VYLTIPN-L--GSYLFFLEGSSIIIPNGGFYISLILYLLFVRQN--IS----------
 MTNGAILTVID--KEVSVFSLF-----------------SI-----------IIPDSDLL
 YKFLT-------------------------------------------------------
 -
->WDB00590.1_WDB00590.1|ycf60
+>Cavernulicola_chilensis|WDB00590.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------MENKE-----NTLTSLSER
@@ -428,7 +428,7 @@ E-VYLTIPN-L--GSYLFFLEGSSIIIPNGGFYISLILYLLFVRQN--IS----------
 MTNGAILTVI----MIIIYSAYKAAKGKYTKIPIISEAVNI-----------HIQD----
 ------------------------------------------------------------
 -
->ARW65520.1_ARW65520.1|ycf60
+>Polysiphonia_scopulorum|ARW65520.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFVISLIFVI---AFVFLCYRLYFIVVKN-------YTDNNI-------KITIIDR
@@ -438,7 +438,7 @@ I-FYVTHPA-L--AFISFF-----------------VLYSLFVRSKSPIP----------
 LCNTLFWFVL----STIIYATMKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WKD83910.1_WKD83910.1|ycf60
+>Pyropia_dentata|WKD83910.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGLITIFIIV---ISKLVIQRTYKYITLN----KK-INNTES-------KTRLSIR
@@ -448,7 +448,7 @@ I-FYMNHAV-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAMQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->YP_009296459.1_AOM65394|ycf60
+>Thorea_hispida|YP_009296459.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------MTTDQN-------NITILDR
@@ -458,7 +458,7 @@ I-FYVTHPA-L--AFVTFF-----------------VLYYLFVRAKSPVP----------
 LCNTLFWFVL----LTIFYSVGKSISGQYAKIPVISQAVRI-----------QIDNQ---
 ------------------------------------------------------------
 -
->YP_009314631.1_SCW23086|ycf60
+>Neoizziella_asiatica|YP_009314631.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 KSFSLSFIIIALTFVTGLTGFTIYKIFKQQKDNN---QK-PSFDNN-------TITTIDR
@@ -468,7 +468,7 @@ I-VYVTHPN-W--AFIVFF-----------------ILYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSVQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->WAX03612.1_WAX03612.1|ycf60
+>Tayloriella_tenebrosa|WAX03612.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------MYVFFLKN-------YTLHSN-------SITFIDR
@@ -478,7 +478,7 @@ I-FYVTHPA-L--AFVIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSVEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010337472.1_UNJ17057|ycf60
+>Pulvinaster_venetus|YP_010337472.1|ycf60
 ---------------MFLL--------------AKQENNLNYY-----------------
 --------------------------------------------------------YLNQ
 QKLKIYFFAIISTLFFIAVIIKMYNNFFPESKIL---QR-KKTT---------NILITTR
@@ -488,7 +488,7 @@ I-FYVENRN-V--NLVTFL-----------------TLYFLIVNSKSPLS----------
 ICNSLLWFSI----GTITYAAAKCILGQYSKIPVISEAVRI-----------QIESKGL-
 ------------------------------------------------------------
 -
->QBX88529.1_QBX88529.1|ycf60
+>Balbiania_investiens|QBX88529.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TSLPTLVIAIAITVFMGCISIAVYQIYLFTAE-S---YI-TKVPNQ-------NITIIDR
@@ -498,7 +498,7 @@ I-FYVTHPA-L--AFMTFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVVRSIQGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->XBW43622.1_XBW43622.1|ycf60
+>Mazzaella_laminarioides|XBW43622.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQFPLWIKIIISTVVTSLVIKLIYQLYLFTMKS----VN-NNYNKK-------DITLIDR
@@ -508,7 +508,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIVYSVTKSIEGKYAKIPVISQAVRI-----------QIDNR---
 ------------------------------------------------------------
 -
->WGH12789.1_WGH12789.1|ycf60
+>Echinothamnion_sp.|WGH12789.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVLCCYKLYLLFLNN-------YKTNSN-------SITFLDR
@@ -518,7 +518,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIVKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009398185.1_ARW67371|ycf60
+>Thaumatella_adunca|YP_009398185.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 DYFLYFIISVLFIL---FFIACCYQLYSIMLNN-------YVNNNN-------SVTFFDK
@@ -528,7 +528,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPLP----------
 LCNTLFWFVL----STIMYAVIKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009244156.1_AMK96398|ycf60
+>Gelidium_elegans|YP_009244156.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NQLPVWIVAFIFTFIFILLCIVVYQSYNFIFKS-----F-NKESKE-------YITIVDR
@@ -538,7 +538,7 @@ I-FYVTNPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW61380.1_ARW61380.1|ycf60
+>Caloglossa_intermedia|ARW61380.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPSWIISFIFII---IFGVIFYQVYLRIINA-------YSYGKN-------DITIIDK
@@ -548,7 +548,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIVYSIFKCAQGRYSKIPVISQAVRI-----------QIDS----
 ------------------------------------------------------------
 -
->ARW64550.1_ARW64550.1|ycf60
+>Vertebrata_isogona|ARW64550.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYLLYFIISLAFIL---LFGLCCYQVYLVFLKN-------YTDNFY-------GITFIDR
@@ -558,7 +558,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPVP----------
 LCNTLFWFVL----STITYASVKSLRGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->YP_009396128.1_ARW65363|ycf60
+>Melanothamnus_harveyi|YP_009396128.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYLLYFIISLIFVA---LFIFCFYRIYLIFLNN-------YVNDFQ-------GVTFIDR
@@ -568,7 +568,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYSSFKSLEGKYSNIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->UNJ17985.1_UNJ17985.1|ycf60
+>Porphyridium_aerugineum|UNJ17985.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 S----------------------------VMKE----SK--------------NISIFIR
@@ -578,7 +578,7 @@ A-FYSSTPW-L--SIIIFF-----------------LLYYFIVSAKGPIP----------
 VSNTLFWFVL----TTVIYSFWHIFKGTYAQIPVISEGAKM-----------HIDFGID-
 ------------------------------------------------------------
 -
->BED43529.1_BED43529.1|BED43529.1
+>Pyropia_sp._Myanmar_C|BED43529.1|BED43529.1
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGIIAICFIV---IFIIALQRAYKYITAK----KK-INSNKS-------KTKLSIR
@@ -588,7 +588,7 @@ I-FYMNHAI-L--GLATFF-----------------ALYYVFVRNKSPLP----------
 ICNMMFWFVL----STITYSIVKAIQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->ARW60751.1_ARW60751.1|ycf60
+>Osmundaria_fimbriata|ARW60751.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFIYWLVSILFVL---LFFFLCYQLYLSVINS-------YINNHK-------NITFIDR
@@ -598,7 +598,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSVLKSIEGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->AXU40713.1_AXU40713.1|Escp124
+>Hapterophycus_canaliculatus|AXU40713.1|Escp124
 ------------------------------------------------------------
 -----------------------------------MKEAIR-------------------
 VLLGLYWLEIVILVLFLVIAFILEQKFNFKKP------------RQWF--FAFNALIFTR
@@ -608,7 +608,7 @@ D-VIQQIPF-L--TFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------SLYIPCFVRAFLGKYDRNEFIREAVEV-----------HLGRDGPD
 ------FIWWDRE-----RKD-KAPK---------------------------RPPLN--
 -
->SCW22270.1_SCW22270.1|ycf60
+>Izziella_formosana|SCW22270.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSFPLPMPILIITFITGLVSITIYKTINQ-TNNI---TN-GQANNNQ------NITTIDR
@@ -618,7 +618,7 @@ I-VYVTHPN-W--AFVVFF-----------------LLYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->YP_010485180.1_UVW80974|orf76
+>Sargassum_fulvellum|YP_010485180.1|orf76
 ------------------------------------------------------------
 -----------------------------------MLS------------------QLKE
 FFFDVYWIEIILFFSFLGLGFLVEQKFNIKQP------------RKWF--VKFNGVILQR
@@ -628,7 +628,7 @@ Q-FIQQIPF-L--PFIYLM-----------------LGYGIFIRYK--LP----------
 ----LGWI------LIFIPCFIRAILGKYESNPFLREAIEV-----------HLGRDGPD
 ------FVWWDR------------QK---------------------------KP-----
 -
->WMP12402.1_WMP12402.1|ycf60
+>Laurencia_catarinensis|WMP12402.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NSFLYWTIFLLLIV---MLIFVIYQFYS-SNPS-------FYLNTR-------SVTLIDR
@@ -638,7 +638,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIFYAIFKSVEGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->AYR05639.1_AYR05639.1|ycf60
+>Synarthrophyton_chejuense|AYR05639.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 KGLPEWIIVMIMIFILCIIVIGIYQFYIFTFSL----YN-VNSGKY-------SITIIDR
@@ -648,7 +648,7 @@ L-FYVTNPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVVKALEGKYAKIPVISQAVRI-----------QIDNQF--
 ------------------------------------------------------------
 -
->AOM65622.1_AOM65622.1|ycf60
+>Ahnfeltia_plicata|AOM65622.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NRLPVWIIAIIVTLIVAMLGIAIYQIYIYLAKS-----S-SKYDKH-------DITIIDR
@@ -658,7 +658,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVIKSIEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->YP_010197287.1_UAD85294|ycf60
+>Gracilaria_domingensis|YP_010197287.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKSPLLIIIILSILSTILISFIIRYLYLYIATS-----Y-KNYNVN-------NITLVDR
@@ -668,7 +668,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->WKK50183.1_WKK50183.1|ycf60
+>Ochrosphaera_neapolitana|WKK50183.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------MF-----KDKISQR
@@ -678,7 +678,7 @@ S-FYEQ----N--LFLVFG----------------LMVAIFTMCSKGSIP----------
 VVNPIALSLG----LIVIYACVLILAGRYSRFPILSEAAKL-----------Q-------
 -------TQRGYS-----DE----------------------------------------
 -
->YP_011007480.1_WAM64909|cp30
+>Sporochnus_bolleanus|YP_011007480.1|cp30
 ------------------------------------------------------------
 -----------------------------------MFEALK--------------EGIRH
 FFFDIYWSEVVLFVILLIVGTILEQKFNFKRP------------RKWF--LAFNGLICQR
@@ -688,7 +688,7 @@ R-YYPKIPF-L--PFLYLL-----------------VGYGILVRNK--LP----------
 ----LVWV------SIFIPCLYRAISGKYEGNHFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->YP_009397576.1_ARW66762|ycf60
+>Dipterosiphonia_australica|YP_009397576.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYLLYFIISIAFIF---LFVLCFYRLYVLFFKN-------YNDNID-------SITFFDR
@@ -698,7 +698,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYSIAKSIQGKYSKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WMP13985.1_WMP13985.1|ycf60
+>Gloiopeltis_furcata|WMP13985.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------MYQIYLYTVKP-----K-NNYNKR-------SITPIDR
@@ -708,7 +708,7 @@ L-FYVTHPA-L--AFVIFF-----------------VLYYLFVRAKSPIP----------
 ICNTLFWFVL----LTILYSIKKSIEGKYANIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->WJW64923.1_WJW64923.1|ycf60
+>Emiliania_huxleyi|WJW64923.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MQLKSIC----------------------------------TMNQRTL-----LPLIIER
@@ -718,7 +718,7 @@ KPICLNLSKFTRINVMQAILLEIVIAMIGQIWNLS------------PTLLKNGLFGT-F
 VANACLVGLV----GLIVYSSFIIALGRYPRLPVISGAARV-----------Q-------
 -------LQGGWL-----N-----------------------------------------
 -
->YP_009297831.1_AOM67565|ycf60
+>Kumanoa_americana|YP_009297831.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 THIPIFFVAIFATILISLSCITLYQIYIGTIKLE---TK-EKKHNH-------RITILDR
@@ -728,7 +728,7 @@ V-FYVTHPA-L--AFITFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STILYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQQQ-
 ------------------------------------------------------------
 -
->WGT74104.1_WGT74104.1|ycf60
+>Campylaephora_boydenii|WGT74104.1|ycf60
 MCIT----------YIIIY-----------------YLYILIFQIFL-------------
 ------------------------------------------------------IILTMH
 TNLPSWILGGISILLTLSSIMLIYQVYLFIVKV-------SSNHKN-------NITVLDR
@@ -738,7 +738,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIFYSVVKSIEGKYARIPVISQAVRI-----------QIDNQS--
 ------------------------------------------------------------
 -
->YP_009393857.1_ARW62419|ycf60
+>Polysiphonia_sertularioides|YP_009393857.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYFLYFVFSLVLLL---FFVLCCYRLYLILLKN-------YNDNSR-------GVTLLDR
@@ -748,7 +748,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYFFVRSKSPIP----------
 LCNTLFWFVL----STIAYAVFKALYGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->AJH66029.1_AJH66029.1|ycf60
+>Vertebrata_lanosa|AJH66029.1|ycf60
 ---------------------------------------MQLFDN---------------
 -------------------------------------------------------ISNMF
 TYFLYFIISLAFIL---LFVLCCYQVYSIFLKN-------YTDNFY-------GVTFLDR
@@ -758,7 +758,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYASVKSLQGRYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->WGH13773.1_WGH13773.1|ycf60
+>Lophurella_pseudocorticata|WGH13773.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFIISIIFIL---LFVLCCYKLYLLFLNN-------YKVNSD-------SITFLDR
@@ -768,7 +768,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIVKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->CAV31267.1_CAV31267.1|Escp124
+>Ectocarpus_siliculosus|CAV31267.1|Escp124
 ------------------------------------------------------------
 -----------------------------------MIETLK-------------------
 ILFSIYRLEISLLIGFIFIAFILEQKFQFDKP------------KKWF--IAFNALLFQR
@@ -778,7 +778,7 @@ D-LVQQIPF-L--TFVYIS-----------------LGYGLFIRYK--IP----------
 ----FLWL------ALYIPCFIRSFAGKYDENKFIREAVEV-----------HLGRDGPD
 ------FIWWDKR-----RKG-DEKK----------------------------------
 -
->ASB29625.1_ASB29625.1|ycf60
+>Porolithon_onkodes|ASB29625.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NELPEWIVAFLMLCIVFLLIIIIYQIYLKILSS----AK-IKFDKS-------KITIIDR
@@ -788,7 +788,7 @@ L-FYVTHPA-L--AFVAFF-----------------VLYYLFVRSKSPLP----------
 FCNTLFWFVL----STISYSIFKALEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->WCH55035.1_WCH55035.1|ycf60
+>Hypnea_pseudomusciformis|WCH55035.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NQLPIWIIIIISTLLSSIIGIVVYQSYTYLRKY-----N-NNFNKT-------SITIIDR
@@ -798,7 +798,7 @@ I-FYVTHPA-L--AFVIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009399037.1_ARW68434|ycf60
+>Taenioma_perpusillum|YP_009399037.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYIPSWIISVIIVV---IFGILFYQIYFNVIYF-------YSHDKS-------QVTIVDK
@@ -808,7 +808,7 @@ V-FYVTHPA-L--AFIVFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STILYSFIKALQGKYAKIPVISQAVRI-----------QIDNQ---
 ------------------------------------------------------------
 -
->YP_007627319.1_CCP38066|ycf60
+>Chondrus_crispus|YP_007627319.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQFPLWIKIIISTVIISLVIKLIYKLYLLTMKS----IN-NNYNKK-------NITLIDR
@@ -818,7 +818,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVTKSIEGKYAKIPVISQAVRI-----------QIDNR---
 ------------------------------------------------------------
 -
->YP_009313405.1_SCW21659|ycf60
+>Galaxaura_rugosa|YP_009313405.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------MNKN---TN-NYNTNN-------SINLIDR
@@ -828,7 +828,7 @@ I-IYVTNPA-W--AFIIFF-----------------ILYYLFVRPKSPIP----------
 LCNTLFWFVL----LTIIYSVIKSLEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->ARW59721.1_ARW59721.1|ycf60
+>Laurenciella_marilzae|ARW59721.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSFLYWIVVLLLIL---TLTFLIYQFYL-SNPS-------FYVNTR-------DVTIIDR
@@ -838,7 +838,7 @@ V-FYVTHPA-L--AFVIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STILYAIFKSVEGKYAKIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->YP_010619211.1_WAX03224|ycf60
+>Amplisiphonia_pacifica|YP_010619211.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYQLYLFFLKN-------YTLHSN-------SITFIDR
@@ -848,7 +848,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_011045126.1_WRW10819|cp30
+>Papenfussiella_kuromo|YP_011045126.1|cp30
 ------------------------------------------------------------
 -----------------------------------MKEALG-------------------
 IVFGLYWVEIAVLALFLVIAFILEQKFNFKKP------------RQWF--LAFNNLIFRR
@@ -858,7 +858,7 @@ D-LMQQVPF-L--SFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------TLYIPCFVRAFLGKYDENKFIREAVEV-----------HLGRDGPD
 ------FIWWDRI-----RKD-KAPK---------------------------RPPLN--
 -
->YP_009745222.1_QIG87232|ycf60
+>Halymenia_maculata|YP_009745222.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 TQLPLWIIIIMSTLVLGVTILLMYYIYQLLTRSL---KE---CNRR-------SITVIDR
@@ -868,7 +868,7 @@ I-FYVTHPE-L--AFIIFF-----------------VLYYLFVRVKSPIP----------
 LCNTLFWFVL----STIIYSVVKSIEGKYAKIPVISQAVRI-----------QIDNNQI-
 ------------------------------------------------------------
 -
->AMK96169.1_AMK96169.1|ycf60
+>Sporolithon_durum|AMK96169.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 IIIPIWIIAVITVV---ILVIILRGIYRLCRSM----IN-ISVNKK-------KVTIIDR
@@ -878,7 +878,7 @@ L-FYVTHPA-L--AFIVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----LTIVYAVIKAMRGKYAEIPVISQAVRI-----------QINNHY--
 ------------------------------------------------------------
 -
->QUE28751.1_QUE28751.1|ycf60
+>Porphyropsis_coccinea|QUE28751.1|ycf60
 ----------------------------------MPKIKIRHT-----------------
 -------------------------------------------------------KLVKQ
 STLKTYFVSSILITITLAIILALCKEQFPEYELI---KK-PKPNLDG-----KKITISTR
@@ -888,7 +888,7 @@ V-FYIENRF-V--NFISFL-----------------IFYFLLVSSKSPLP----------
 TCNMLFIFVI----CLIFYAAFEAMRGKYAELPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->YP_009397372.1_ARW66558|ycf60
+>Dasyclonium_flaccidum|YP_009397372.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYWISSIFCVL---CFIILCYQFYLSILNA-------YIHQHK-------EITIIDR
@@ -898,7 +898,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSVIKSIEGRYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->QJF58702.1_QJF58702.1|ycf60
+>Corallina_officinalis|QJF58702.1|ycf60
 ----------------MVF-----------------YFLIQLYK----------------
 --------------------------------------------------------ITML
 KGLPQWIIAIIILFVLCVIIVSVYQYYSFMLNT----SN-IKFNKN-------NINLVDR
@@ -908,7 +908,7 @@ L-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 FCNTLLWFVL----STISYSVMKALKGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QVY57953.1_QVY57953.1|ycf60
+>Betaphycus_gelatinus|QVY57953.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MTIA
 KTLPTWIIVIIITL---IISTIVYNIYLYISKY-----K-NHFNTK-------NITLIDR
@@ -918,7 +918,7 @@ I-FYVTHPA-L--AFTSFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYAVAKSVEGKYAKIPVISQAVKI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_010338052.1_UNJ17637|ycf60
+>Erythrolobus_coxiae|YP_010338052.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MR
 ------------------------------IKE----AP--------------S-SIFVR
@@ -928,7 +928,7 @@ A-FYMEHGW-V--SMVIFM-----------------LLYYFIVSQKAPIS----------
 LCNTLFWFVL----STVLYSLWHAINATYPEIPVLSEGARM-----------HLDFEVD-
 ------------------------------------------------------------
 -
->YP_009739002.1_QIC19441|ycf60
+>Palmaria_decipiens|YP_009739002.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSFPLLITAMIITLIIGLFIVFVYRVYILKYQS----EK-ASTSQAT------DITILDR
@@ -938,7 +938,7 @@ S-FYIKHPA-L--AFITFF-----------------ALYYLFVRSKSPLP----------
 VCNTLFWFAV----STIIYPVIKSIEGKYAKIPIISQAVRI-----------QINNQN--
 ------------------------------------------------------------
 -
->UAD86929.1_UAD86929.1|ycf60
+>Gracilaria_pacifica|UAD86929.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKLPLLIIMILSILSTILISFIIRYLYSYMATS-----Y-KNYNVN-------NITLVDR
@@ -948,7 +948,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSVEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UNJ14814.1_UNJ14814.1|ycf60
+>Goniotrichopsis_reniformis|UNJ14814.1|ycf60
 ---------------------------------------MTLIGA---------------
 ----------------------------------------------------------MP
 KQLNTIIAYFVILFLLLVVIQLIYHSSKFLHKND---SQ--------------ESNLVML
@@ -958,7 +958,7 @@ EGSYLDFNI-L--YVILLF-----------------SQYIIFIQPKR-------------
 TCDLCLLICM----SMIVHAFLKGLIGHYCKIPVVSEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->AGG37139.1_AGG37139.1|ORF203
+>Neoporphyra_haitanensis|AGG37139.1|ORF203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGLITMFIIV---ISKLVIQRAYKYITLN----KK-INNTES-------KTRLSIR
@@ -968,7 +968,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->WAM64061.1_WAM64061.1|cp30
+>Ishige_okamurae|WAM64061.1|cp30
 ------------------------------------------------------------
 ---------------------------------MYLYG-LK--------------KILNS
 FFFRVSWLEIFCFFLFILLGIILDQKFNIKKP------------RKWF--LAFNGVVIQR
@@ -978,7 +978,7 @@ E-VFQQIPF-L--HFFYLM-----------------IGYGVLIRYK--IP----------
 ----IFWL------LAFIPCFLRAILGRYTSNAFMREAVEV-----------HLGRDGPD
 ------FIWWDRR-----KKD-KKPK---------------------------KPKK---
 -
->YP_009244671.1_AMK96913|ORF203
+>Pyropia_pulchra|YP_009244671.1|ORF203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFRPVTILVIV---ISKLAIQRAYKYITLN----KK-INNTES-------KTRLSIR
@@ -988,7 +988,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSVVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->SCW21863.1_SCW21863.1|ycf60
+>Helminthocladia_australis|SCW21863.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSLPTLILAIFITFVISFTIITIYQIFNSHKNDK---QN-ADINQN-------SITVIDR
@@ -998,7 +998,7 @@ I-VYVTNPT-W--AFLTFF-----------------ILYYLFVRPKSPIP----------
 VCNTLFWFVL----LTITYSVIKSIEGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->YP_010336802.1_UNJ15208|ycf60
+>Stylonema_alsidii|YP_010336802.1|ycf60
 ---------------------------------------MSILGA---------------
 ----------------------------------------------------------VS
 KQFTTILGYFTIVFLLLIVSQVIYQSFKFIHKIN---SQ--------------ESNLLML
@@ -1008,7 +1008,7 @@ EGSYLDLNI-L--YVIILF-----------------SQYIIFIQPKR-------------
 TCDLCLLICM----SMIIHAFTRALVGHFCQIPVVSEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->QRN73695.1_QRN73695.1|ycf60
+>Phaeocystis_globosa|QRN73695.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MKFPTL--------------------------------------EDIL-----ENKKCER
@@ -1018,7 +1018,7 @@ E-LYGSQ-I-N--HMISFG----------------LMVVIFDVCVRKRIP----------
 LANAAYFSII----GFILYSIFMILFGRYPKIPIVSEGARL-----------N-------
 -------VQLFR------------------------------------------------
 -
->ARW62215.1_ARW62215.1|ycf60
+>Caloglossa_beccarii|ARW62215.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPSWIVSLIFIV---ILGIIFYQIYFNVINA-------YSDNKN-------NITIVDK
@@ -1028,7 +1028,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSSMKCIQGKYSKIPVISQAVRI-----------QIDS----
 ------------------------------------------------------------
 -
->QVQ56681.1_QVQ56681.1|ycf60
+>Erythrocystis_saccata|QVQ56681.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TYFLYFIISVVFLL---LLISFCHKIYLIFLKN-------YNSNFY-------EVTFIDR
@@ -1038,7 +1038,7 @@ V-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STISYSFFKSLEGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->WCH54836.1_WCH54836.1|ycf60
+>Hypnea_flava|WCH54836.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLLSSIIAIILYQLYIYFKKY-----N-NNFNKT-------SITIVDR
@@ -1048,7 +1048,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->ARO90833.1_ARO90833.1|ycf60
+>Bulboplastis_apyrenoidosa|ARO90833.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 STIKDFLNILTIFLIVITIAYLFYEAISSKIKIE-------------------T-SFISK
@@ -1058,7 +1058,7 @@ A-FLHKFPY-I--NTIIYI-----------------FIYILFIKTDSIIE----------
 FENIICVYFL----FIILYCTFQTCRGKYTQIPIISDSARY-----------HTDPDFDL
 ------------------------------------------------------------
 -
->WAM64345.1_WAM64345.1|cp30
+>Phaeostrophion_irregulare|WAM64345.1|cp30
 ---------MTISIYDLVETTQS-----LSNDIKTVDQDLELTTTLI-------------
 --------DHNALGILENSSAVI------DVGQESLSDRII--------------ADLQF
 LLYEVYWVEIFLVVSFLVLGFVLDQKFNIKKP------------RKWF--LSCNELIFQR
@@ -1068,7 +1068,7 @@ E-VIQQIPF-L--SLVYLG-----------------FTYGLFIRYR--RP----------
 ----IVWVA-----LVFYPCFLNAFLGRYTSSYFMREAVEI-----------HLGRDGED
 ------FVWWDRR----DKK--KKPR---------------------------KPKK---
 -
->WDA99499.1_WDA99499.1|ycf60
+>Galdieria_yellowstonensis|WDA99499.1|ycf60
 ------MDNNNPKKKKKVYVGRSRIYWPKDN--TNQQEQQEQFGSST-------------
 --------KTKGRHFIK--------------ITQDMMEALIKEQTKANHPFLRDPEIIME
 PLMPASYSFVSFSIVAIVSSSISYTLQNIRKRF-------SKKGKKIIF----ITPIRIR
@@ -1078,7 +1078,7 @@ K-FYIQFPY-FTMGFLTFL----NI--------------FFVIRKK--------------
 IGLLIYFFMM----SLLGRCFLAAIRGKYTEIPFISTAAKKYITDQARGIMRQWEEERRA
 ME----YQKKLKE-----DKD-KKED---------------------------KDKKDTK
 -
->YP_009394893.1_ARW63455|ycf60
+>Polysiphonia_stricta|YP_009394893.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFIISLLCIL---LFALFSYKLYLVFLNN-------YIENNN-------DITLLDR
@@ -1088,7 +1088,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYSLFVRSKSPIP----------
 LCNTLFWFVL----STIIYATIKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->BCD52462.1_BCD52462.1|ycf60
+>Nemalion_vermiculare|BCD52462.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------MNLHSREK---NM-NSKNQP-------TVTIIDK
@@ -1098,7 +1098,7 @@ I-VYVTNPT-W--AFLIFF-----------------ILYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIQGKYAKIPVISQAVKI-----------QIDNRQ--
 ------------------------------------------------------------
 -
->YP_009773980.1_QIZ74597|ycf60
+>Caulacanthus_okamurae|YP_009773980.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MIIA
 NQLPIWTIIITSIF---IISFIVYQIYIYTQKN-----K-DDPMKK-------DITLIDR
@@ -1108,7 +1108,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STILYSVSKSIEGKYAKIPVISQAVRI-----------QINNRL--
 ------------------------------------------------------------
 -
->YP_009244355.1_AMK96597|ycf60
+>Gelidium_vagum|YP_009244355.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NQLPVWIVAFILTFIFVLFCLAIYQSYNFIVKS-----F-NKENKE-------YITIVDR
@@ -1118,7 +1118,7 @@ I-FYVTNPA-L--AFIIFF-----------------VLYYLFVRTKSPVP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_010951892.1_WMP12831|ycf60
+>Laurencia_obtusa|YP_010951892.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NSFLYWTIFLLLIV---TLTFLIYQFYL-SNPS-------FYLNTR-------SVTLIDR
@@ -1128,7 +1128,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STICYAVLKSVEGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->WCH58047.1_WCH58047.1|ycf60
+>Cystoclonium_purpureum_f._stellatum|WCH58047.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NKLPLWIIIIISTLISGII----YQLYIYIIQD-----K-NYSNKE-------KITLIDR
@@ -1138,7 +1138,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->WYA87217.1_WYA87217.1|WYA87217.1
+>Griffithsia_monilis|WYA87217.1|WYA87217.1
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NYIYLCFIVLISIIASIIFFIFVSMLYRKIIMS-------YDKNKK-------NITIIDR
@@ -1148,7 +1148,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STILYAVCKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QUE29125.1_QUE29125.1|ycf60
+>Erythrotrichia_welwitschii|QUE29125.1|ycf60
 ----------------------------------MPKIRVTRK-----------------
 -------------------------------------------------------ALVKQ
 KTIRLYFSTIILTLFALAAVFLIAQNVFPKSKIL---KK-REQNPN-------HIAIPTR
@@ -1158,7 +1158,7 @@ R-FYTENRF-V--NFVSFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTISYSLIKAISGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->ANS72294.1_ANS72294.1|orf76
+>Coccophora_langsdorfii|ANS72294.1|orf76
 ------------------------------------------------------------
 ----------------------------------MMFTVYV--------------ISTKR
 IFFDVYWIEIILFF-FLVLGFLVEQKFNIKKP------------RKWF--VKFNGLILQR
@@ -1168,7 +1168,7 @@ Q-FIQQIPF-L--PFIYLM-----------------LGYGIFIRYK--LP----------
 ----LGWV------LIFIPCSIRAILGKYESNPFLREAIEV-----------HLGRDGPD
 ------FVWWDR------------QK---------------------------KS-----
 -
->QUE29303.1_QUE29303.1|ycf60
+>Erythrotrichia_longistipitata|QUE29303.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------MTLFALAAVFLIAKKVFPKSKLL---KK-QEQDPN-------QIAIPTR
@@ -1178,7 +1178,7 @@ R-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTIGYSLVKAISGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->YP_009314425.1_SCW22679|ycf60
+>Liagoropsis_maxima|YP_009314425.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSLPILILAIIITLITSLTIIGMYQLYTATNRKS---QL-NTDEKA-------NITIIDR
@@ -1188,7 +1188,7 @@ I-VYVTNPA-W--AFLIFF-----------------LLYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIEGKYAKIPVISQAVKI-----------QIDNRS--
 ------------------------------------------------------------
 -
->QVY58158.1_QVY58158.1|ycf60
+>Eucheuma_denticulatum|QVY58158.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MTIA
 QTLPIWITVIIITL---IISTIIYNIYLYISKY-----Q-SNSNRK-------NITLIDR
@@ -1198,7 +1198,7 @@ I-FYVTHPA-L--AFTSFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYAVAKSIEGKYAKIPVISQAVKI-----------QIDNRL--
 ------------------------------------------------------------
 -
->QUE28002.1_QUE28002.1|ycf60
+>Sahlingia_subintegra|QUE28002.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MYFSTMIFTLFSLAVIFLIAQKIFPKSQLF---KK-QQQDSN-------HIAIPTR
@@ -1208,7 +1208,7 @@ K-FYTENRF-V--NFVSFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFIF----YTISYSLIKALTGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->WEL35986.1_WEL35986.1|ycf60
+>Phaeocystis_rex|WEL35986.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MKLPTF--------------------------------------EDIL-----ENKVCER
@@ -1218,7 +1218,7 @@ E-LYSNQ-V-N--HIISFI----------------IMVMIFDVCVRKTIP----------
 LANAAYFGMV----GFIFYAMFMILFGRYPKIPIISEGARL-----------N-------
 -------VQLFR------------------------------------------------
 -
->ARW66967.1_ARW66967.1|ycf60
+>Sonderella_linearis|ARW66967.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYLIVSILFIL---LLIMLFYQVYLAIIKS-------YIGKNN-------SITIVDR
@@ -1228,7 +1228,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010951678.1_WMP12617|ycf60
+>Laurencia_elata|YP_010951678.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NSFLYWTIFLLLIV---TLTFLIYQFYL-SNPS-------FYLNTR-------SVTLIDR
@@ -1238,7 +1238,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPLP----------
 LCNTLFWFVL----STICYAVLKSVEGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->UEQ11995.1_UEQ11995.1|ycf60
+>Kumanoa_mahlacensis|UEQ11995.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TNIPIFLVAIFAIIIISLSCITLYQKYVSSIQLE---TK-AKKQNN-------HITIIDR
@@ -1248,7 +1248,7 @@ V-FYVTHPA-L--AFITFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIMYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->YP_010196674.1_UAD84478|ycf60
+>Gracilaria_cliftonii|YP_010196674.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MLIIIILSIFSTILISFIIRYLYLYIAQS-----Y-KNHNIN-------NITVVDR
@@ -1258,7 +1258,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STISYSIMKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->AGQ17161.1_AGQ17161.1|orf203
+>Neoporphyra_perforata|AGQ17161.1|orf203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGLITILLVV---TSKLAIQRVYKYITLN----KK-INNTES-------KTRLSIR
@@ -1268,7 +1268,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSVVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->YP_010619404.1_WAX03417|ycf60
+>Xiphosiphonia_pinnulata|YP_010619404.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFIISIIFIL---LFVVCCYQLYLFFLKN-------YTLHSN-------SITLIDR
@@ -1278,7 +1278,7 @@ I-FYVTHPA-L--AFILFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIVKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WOE88237.1_WOE88237.1|ycf60
+>Sarcothalia_radula|WOE88237.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQLTLWIKIIISTIITITVLIVIFRLYLLTIKS----MK-NNYNKK-------DITLIDR
@@ -1288,7 +1288,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVTKSIEGKYAKIPVISQAVRI-----------QIDNR---
 ------------------------------------------------------------
 -
->YP_011006073.1_WAM63077|cp30
+>Dictyoneurum_californicum|YP_011006073.1|cp30
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWIEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -1298,7 +1298,7 @@ N-IIQKVPF-L--SFIYLL-----------------VGYGILVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->AIG92638.1_AIG92638.1|ycf60
+>Galdieria_sulphuraria|AIG92638.1|ycf60
 ------MDNNNTKKKKTVHVGRSRIFWPRDH--KLHQEDIEQSEGTT-------------
 --------STKGRQFIN--------------LTQDMMEAVLKEQSKLNHPFLRDPEVIME
 PLMPASYTLISFSMVAIVSSTISYTLQNIRKRF-------SKKGKKIIF----IVPIRIR
@@ -1308,7 +1308,7 @@ K-IYTEFPY-FTMGFLTFL----NI--------------FFVVRKK--------------
 IGLLIYFFMM----SLLGRCFLAAIRGKYTKIAFISTAARKYITDQARGILRQWEEERRA
 ME----YQKKL--------KD-KDE----------------------------KDTK---
 -
->YP_009315653.1_SCW24311|ycf60
+>Trichogloeopsis_pedicellata|YP_009315653.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 LSLTL--------------IIIIYQTFISIQKQN--NDT-V-ISNH-------FVTMIDR
@@ -1318,7 +1318,7 @@ I-IYVTHPN-W--AFIIFL-----------------LLYYLFVRPNSPIP----------
 LCNTLFWFVL----LTITYSVIKSVQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->QUE27903.1_QUE27903.1|ycf60
+>Tsunamia_transpacifica|QUE27903.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 KQFTSILAYFTLVFFLLIFTQILYRSSKFLHKTE---SL--------------ESNLVML
@@ -1328,7 +1328,7 @@ ENSYIELNI-V--YVILLF-----------------SQYVIFIQPKR-------------
 VCDLFLLIGM----SMICHAFFKALIGFYCQIPVISEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->QJH88190.1_QJH88190.1|ycf60
+>Pterocladia_lucida|QJH88190.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------MILKS-----F-NKDYRD-------HITIVDR
@@ -1338,7 +1338,7 @@ I-FYVTNPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIQGKYSKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QUE28939.1_QUE28939.1|ycf60
+>Madagascaria_erythrocladioides|QUE28939.1|ycf60
 ---------------------------------------MSSK-----------------
 -------------------------------------------------------GIIKQ
 NTIKLYFISIISTLFIIATVILLYQKIFPETKLF---KK-QKENTN-------QVLLSTR
@@ -1348,7 +1348,7 @@ V-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 ICNTFFLFIL----YTIGYSLLKIGEGEYADIPVVSEAVNI-----------QINSKGI-
 ------------------------------------------------------------
 -
->AAT79612.1_AAT79612.1|ycf60
+>Gracilaria_tenuistipitata_var._liui|AAT79612.1|ycf60
 ---------------MIIFITRVALICSQTKSINKIYIHNILFPELI-------------
 ------------------------------------------------------YRITMP
 NKLPSLIIIMLTTFSIILISFIIRQLYLHIAQS-----Y-KNHDVN-------DITIVDR
@@ -1358,7 +1358,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 MCNTLFWFVL----STISYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW67573.1_ARW67573.1|ycf60
+>Lophocladia_kuetzingii|ARW67573.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 SDFLYWVISIIIIL---ICFICCYQLYLSILNT-------YVNKNK-------NITIIDR
@@ -1368,7 +1368,7 @@ I-FYVTHPA-L--SLIVFF-----------------VLYYLFVRAKGPIP----------
 LCNTLFWFVL----YTILYSIYKSVEGKYAKIPVISQAVRI-----------QIDNP---
 ------------------------------------------------------------
 -
->AXI97442.1_AXI97442.1|ycf60
+>Melanthalia_intermedia|AXI97442.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------MHSCVIKFL--------------KNYNDD-------NITTIDR
@@ -1378,7 +1378,7 @@ I-FYVTHPI-L--AFIIFF-----------------ILYYLFVRAKSPMP----------
 LCNTLFWFVL----STIAYAVSKSIRGKYAKIPVISQAVRI-----------QIDNQS--
 ------------------------------------------------------------
 -
->WEA76936.1_WEA76936.1|ycf60
+>Phymatolithon_calcareum|WEA76936.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KGLPEWTIAIMISVILFIIAIGIYQFYHFIMNA----SN-AKPNKY-------NITIVDR
@@ -1388,7 +1388,7 @@ L-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVIKALEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->SCW23904.1_SCW23904.1|ycf60
+>Helminthora_furcellata|SCW23904.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSLPPSIIIIIITFATGLAGVTVFRKINYGNNNS---NN-TDKLND-------GITLIDR
@@ -1398,7 +1398,7 @@ I-VYVTHPN-W--AFVVFF-----------------ILYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSVQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->ARW60538.1_ARW60538.1|ycf60
+>Polysiphonia_sp.|ARW60538.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSFLYFIISIIFIL---LFILCSYQFFLLFLKN-------YNYKNN-------SITFLDR
@@ -1408,7 +1408,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGRYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->UNJ15689.1_UNJ15689.1|ycf60
+>Cyanidiaceae_sp.|UNJ15689.1|ycf60
 ------------------------------------------------------------
 ---------------------------------------------------------MKR
 DLFINILLGATFLIICWLVILTLHILWKFITKE-------IHDNKICR---ENYPSIIAR
@@ -1418,7 +1418,7 @@ V-PYLESPL-I--GFCIFV-----------------TLYLVFVRGI--IR----------
 MADTLLLITF----IISIYAGTNALQGQYSDIPLISEAAKM-----------QSKSTD--
 ------------------------------------------------------------
 -
->WCH56428.1_WCH56428.1|ycf60
+>Hypnea_wynnei|WCH56428.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLLSSIIGILLYQVYIYFRKN-----N-NNFNKT-------SITIVDR
@@ -1428,7 +1428,7 @@ I-FYVTHPA-L--AFVVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVAKSIEGKYAKIPVISQAVKI-----------QIDNRL--
 ------------------------------------------------------------
 -
->AQZ24983.1_AQZ24983.1|orf221
+>Dictyopteris_divaricata|AQZ24983.1|orf221
 ------------------------------------------------------------
 ----------------------------------------M--------------STLQT
 VIWDVFYSEIFLFLFFFLFLFILDRKFRFTLP------------RKFF--ISFNKLFFQR
@@ -1438,7 +1438,7 @@ G-WYQQIPF-F--STIYML-----------------FTYVTFLRFK--FP----------
 ----LIWL------IIFISAVIRAICGKYIQNNFIRETIEM-----------HLGRDGPD
 ------FIWWDRH-----KK---NPK---------------------------S------
 -
->YP_011005490.1_WAM62353|cp30
+>Choristocarpus_tenellus|YP_011005490.1|cp30
 ------------------------------------------------------------
 ---------------------------------------------------------MED
 LFNLLSWKNISIIVICFILVSVLEKLFKIKRP------------KKVF--DKINSIVFQR
@@ -1448,7 +1448,7 @@ D-IFQELPY-M--TVIYIV-----------------IGYGVCIRSR--VP----------
 ----LLYM------IIFIPYFFRVLTGRYPSNAFIREAIEV-----------HLGRDGPD
 ------FIWWDVIIV---RKI------------------------INN-----K------
 -
->YP_009393029.1_ARW61591|ycf60
+>Bostrychia_moritziana|YP_009393029.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYWIVSILLVL---FFVFCSYQIYLSVLNA-------YVYKNN-------NITIVDR
@@ -1458,7 +1458,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPLS----------
 LCNTLFWFVL----STILYSIFKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW67796.1_ARW67796.1|ycf60
+>Kuetzingia_canaliculata|ARW67796.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYSIYWLVSIFFVL---IFFFLSYQLYLSIINS-------YIHNDK-------SITVIDR
@@ -1468,7 +1468,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSVMKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010851552.1_WGH14568|ycf60
+>Echinothamnion_hystrix|YP_010851552.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYKLYLLFLNN-------YKVNSN-------SITFLDR
@@ -1478,7 +1478,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIAKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010206607.1_UAX20781|ycf60
+>Alaria_marginata|YP_010206607.1|ycf60
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWIEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -1488,7 +1488,7 @@ N-LIQKVPF-L--SFLYLL-----------------FGYGVLVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->WMP11974.1_WMP11974.1|ycf60
+>Laurencia_australis|WMP11974.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSFLYWTIFLLLIA---MLTFLIYQFYS-SNPR-------FYLNSR-------SVTLIDR
@@ -1498,7 +1498,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STICYAVLKSLQGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW62621.1_ARW62621.1|ycf60
+>Rhodomela_confervoides|ARW62621.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 HYFLYFIIILFFVL---SFVVLCYQVYLAILNN-------NIHNNN-------NITLIDR
@@ -1508,7 +1508,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIMYAVIKSLEGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009294154.1_AOM67396|ycf60
+>Hildenbrandia_rubra|YP_009294154.1|ycf60
 ------------------------------------------------------------
 -------------------------------------------------------MIILF
 SILNLAFILLMRTTLIMIFGLGIYKMYLIISKS-------SIQNSK-------QISILDT
@@ -1518,7 +1518,7 @@ E-IYIAYPL-L--AFIIFF-----------------LLYYLFIRLDRPIH----------
 VTNILFLFTI----STIIYSVIKSIEGRYPQIPIISEAVKM-----------HISDIN--
 ------------------------------------------------------------
 -
->ARW62014.1_ARW62014.1|ycf60
+>Bostrychia_simpliciuscula|ARW62014.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFFYWIISIFLVV---FLVLFCYQVYLFIFHS-------YIYGDK-------KITLIDR
@@ -1528,7 +1528,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRNKSPIP----------
 LCNTLFWFVL----STILYSIAKSIEGKYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010728855.1_WEA77135|ycf60
+>Lithothamnion_corallioides|YP_010728855.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KGLPEWIIAIIIILILCIIVIGMYQFYNFAINT----LN-AKYTKY-------NITIIDR
@@ -1538,7 +1538,7 @@ L-FYVTHPA-L--AVITFF-----------------VLYYLFVRPKSPIP----------
 LCNTLFWFVL----STIIYSVIKALEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW62830.1_ARW62830.1|ycf60
+>Leptosiphonia_brodiei|ARW62830.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSFLYFIISLVFIL---LSVLCCYRIYLIFLQN-------YNSDIH-------GVTFIDR
@@ -1548,7 +1548,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STILYSSFKSLEGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->UAD89155.1_UAD89155.1|ycf60
+>Gracilariopsis_tenuifrons|UAD89155.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------MIIVLSIFSILIISIIIRYIYLYIIQT-----Y-KNNNKN-------NITIIDR
@@ -1558,7 +1558,7 @@ I-FYVTHPT-L--AFIIFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STISYSILKSIEGKYAKIPVISQAVRI-----------QIDNQI--
 ------------------------------------------------------------
 -
->AVZ00561.1_AVZ00561.1|ORF76
+>Fucus_spiralis|AVZ00561.1|ORF76
 ------------------------------------------------------------
 -----------------------------------MLF------------------LIKE
 LFFDVYWIEIIIFFSFLTLGFILEQKFNIKKP------------RKWF--FEFNTVILQR
@@ -1568,7 +1568,7 @@ Q-IIQQIPF-L--PFLYLM-----------------LGYGIFIRYK--LP----------
 ----LGWV------LIFIPCFLRALFGKYESNPFLREAIEV-----------HLGRDGPD
 ------FVWWDRG-----K----NNK---------------------------KPK----
 -
->YP_009315042.1_SCW23497|ycf60
+>Titanophycus_setchellii|YP_009315042.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 TSFPLSITIIAITFVTGLASLTIYKIFNQNTDKL---QN-QKVNHN-------TITTIDR
@@ -1578,7 +1578,7 @@ I-VYVTHPN-W--AFIVFF-----------------ILYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->YP_010196056.1_UAD83453|ycf60
+>Gracilaria_caudata|YP_010196056.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 HKSTILIIIMLSTFSTVLISFIIRYLYLYIAKS-----Y-KNQSVN-------NITVVDR
@@ -1588,7 +1588,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QUE28387.1_QUE28387.1|ycf60
+>Porphyrostromium_boryanum|QUE28387.1|ycf60
 ----------------------------------MPKIRVTRK-----------------
 -------------------------------------------------------ALITQ
 KTIRLYFSTIILTLFALAAVFLIAQKVFPKSKLL---KK-QEQDPN-------HIAIPTR
@@ -1598,7 +1598,7 @@ R-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTISYSLIKAVTGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->AHY04379.1_AHY04379.1|ycf60
+>Chrysochromulina_tobinii|AHY04379.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------------------------MKTY-----LIKISER
@@ -1608,7 +1608,7 @@ S-FYEA----N--VYLVFA----------------IMLGIFIVCSRGTIR----------
 LANFFYFGTI----IIMAYSSFLIFCGRYPKIPILTEAAKL-----------Q-------
 -------VQRGYL-----D-----------------------------------------
 -
->ARW69253.1_ARW69253.1|ycf60
+>Polysiphonia_sp.|ARW69253.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYLLYFIISIIFVL---FLLLCSYQFFSLIAK---------VQNNH-------SITFFDR
@@ -1618,7 +1618,7 @@ I-FYVTHPA-I--AFIVFF-----------------VLYYLFVRSKSPIP----------
 LCNTFFWFVL----STIVYSILKSIEGRYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009297038.1_AOM66381|ycf60
+>Ceramium_japonicum|YP_009297038.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 TNLSSWILGGISILLTLSLIMLIYQFYLFIIRV-------SSNHKN-------NITILDR
@@ -1628,7 +1628,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIVYSVIKSIEGKYARIPVISQAVRI-----------QIDNQS--
 ------------------------------------------------------------
 -
->WCH56029.1_WCH56029.1|ycf60
+>Calliblepharis_sp.|WCH56029.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NKLPIWIIVTISTLVSGIIGIIIYQLYIYLMKY-----K-NNFNKK-------SITFIDR
@@ -1638,7 +1638,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 MCNTLFWFVL----STIIYAVIKSIEGKYAKIPVISQAVKI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_010851156.1_WGH14173|ycf60
+>Aphanocladia_delicatula|YP_010851156.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVLCCYKLYLLFLNN-------YKVNSN-------SITFLDR
@@ -1648,7 +1648,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAVAKSIEGNYARIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->AEK26740.2_AEK26740.2|ycf60
+>Phaeocystis_antarctica|AEK26740.2|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MKLPTL--------------------------------------EDIL-----ENKKCER
@@ -1658,7 +1658,7 @@ E-LYSNQ-A-N--HMISFI----------------IMVIVFDACVRKTIP----------
 IANVAYFGIV----GFILYSIFMILFGRYPKIPIVSEGARL-----------N-------
 -------VQIFR------------------------------------------------
 -
->ATJ02978.1_ATJ02978.1|ycf60
+>Porphyridium_purpureum|ATJ02978.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------MAEDK---YK--------------KPNSLIR
@@ -1668,7 +1668,7 @@ N-IYML-PG-M--AIILFF-----------------LIYFLMVRSKAKV-----------
 VINTLWWFSI----ITSAYSIWHALRGTMPQIPVVSPNARA-----------HLDFDDPW
 KSGND-------------------------------------------------------
 -
->AOM65985.1_AOM65985.1|ycf60
+>Asparagopsis_taxiformis|AOM65985.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFPIWIVAIISTLAIGIVGILLYQIYLFIIRS-----P-GSYSKQ-------DITMVDR
@@ -1678,7 +1678,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVLKSIEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->WDY85075.1_WDY85075.1|ycf60
+>Hypnea_edeniana|WDY85075.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLLSIIIAIILYQLYIYFKKY-----N-NNFNKT-------SITIIDR
@@ -1688,7 +1688,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->XHJ84352.1_XHJ84352.1|ycf60
+>Platoma_sp._KA-2024a|XHJ84352.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MIMP
 NQLPSWIIVLLSTLSIILLMILIYRLYEFITKS----PD-DKENKK-------KVTLIDR
@@ -1698,7 +1698,7 @@ I-FYVTHPT-L--AFIVFF-----------------VLYYLFVRSKSPIP----------
 LCNTMFWFVL----STIAYSVIKSIQGKYTEIPVISQAVRI-----------QIDNRYR-
 ------------------------------------------------------------
 -
->WDA98822.1_WDA98822.1|ycf60
+>Sciadococcus_taiwanensis|WDA98822.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MV
 TRPLLWLLIFCLVM---IILIIMINLFKIIARN-------YNESKE-------TTSLLER
@@ -1708,7 +1708,7 @@ L-VYTKIPF-L--GFSLFI-----------------ILFFLFGRPTLPV-----------
 ISNMFFFFTI----ITVLYSIFKAISGQYSKIPIISEAVKI-----------QIQNL---
 ------------------------------------------------------------
 -
->WAM64769.1_WAM64769.1|cp30
+>Scytothamnus_australis|WAM64769.1|cp30
 ------------------------------------------------------------
 ---------------------------------MNIIE------------------TLKM
 VALELYWGEIFLFILFFLLGFILDQKFSINQP------------RKWF--LAFNGLIIQR
@@ -1718,7 +1718,7 @@ E-IVQQIPF-L--SFLYLM-----------------VAYGIFVRYK--IP----------
 ----LIWL------LVFIPCFSRALLGKYESNAFMREAIEV-----------HLGRDGPD
 ------FIWWDRV-----RKD-KSPK---------------------------KPKK---
 -
->ARW68846.1_ARW68846.1|ycf60
+>Kapraunia_schneideri|ARW68846.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 TYLVYFILSLVFIV---LLVLCVRRMCLLLLKN-------YDNNSY-------GVTFIDR
@@ -1728,7 +1728,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 VCNTLFWFVL----STIIYSAIKSLEGKYSNIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->UNJ17424.1_UNJ17424.1|ycf60
+>Sahlingia_subintegra|UNJ17424.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --MKLYFSTVIFTLFSLAIIFLIAQKIFPKSQLF---KK-QQQDPN-------HIAIPTR
@@ -1738,7 +1738,7 @@ K-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFIF----YTISYSLIKALAGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->UNJ17083.1_UNJ17083.1|ycf60
+>Dixoniella_grisea|UNJ17083.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 STIKDFFNIVLILIMIAIIAYILYEIIALKIKIE-------------------T-SFISK
@@ -1748,7 +1748,7 @@ S-FLHQFPY-I--NTVIYI-----------------FIYILFIKTDSIIM----------
 CENIICVYFL----FMIMYCILQTLRGKYTNIPIISDSARY-----------HTDPDFDM
 ------------------------------------------------------------
 -
->UAD85906.1_UAD85906.1|ycf60
+>Gracilaria_flabelliformis_subsp._simplex|UAD85906.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKSPLLIIIILTILSTILISFIIRYLYLYIATS-----Y-KNYNVN-------NITLLDR
@@ -1758,7 +1758,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->SCW21247.1_SCW21247.1|ycf60
+>Dermonema_virens|SCW21247.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSLPTLILAIFITFTISFTVITVYQAIRSKLYNN---SN-LEVTPT-------SITVIDR
@@ -1768,7 +1768,7 @@ I-VYVTNPT-W--AFLTFF-----------------ILYYLFVRPKSPIP----------
 VCNTLFWFVL----LTITYSIIKSIEGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->UVF62819.1_UVF62819.1|ycf60
+>Synarthrophyton_patena|UVF62819.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KGLPEWIIFVIIIFILCMIIIGLYKLYNCTIS--------ESKNKY-------TITVIDR
@@ -1778,7 +1778,7 @@ L-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPLP----------
 LCNTLFWFVL----STIIYSVIKALEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QUE29904.1_QUE29904.1|ycf60
+>Erythrocladia_irregularis|QUE29904.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------------MF---EK-PKPVLS-------HIPGLTR
@@ -1788,7 +1788,7 @@ E-FYTQNRL-V--NFVSFL-----------------MLYFLLVSSKSPIR----------
 ISNTFFLTVA----YIIVYALIQALRGKYADIPIISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->WOK79401.1_WOK79401.1|ycf60
+>Rhodochorton_tenue|WOK79401.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSLPMLILAIFITFIIGFITITLYQIYISTKQVE---QP-ISRNGN-------SITILDR
@@ -1798,7 +1798,7 @@ I-FYVTHPA-L--AFVTFF-----------------VLYYLFVRAKSPLP----------
 LCNTLFWFVL----STIIYSVMKSIEGKYAKIPVISQAVRI-----------QIDNQN--
 ------------------------------------------------------------
 -
->YP_010196469.1_UAD83866|ycf60
+>Gracilaria_cervicornis|YP_010196469.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKSPLLIIIILTILSTILIGFIIRYLYFYIAIS-----Y-KNYNIN-------NITLVDR
@@ -1808,7 +1808,7 @@ I-FYVTHPT-L--AVIIFF-----------------VLYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->QWK41798.1_QWK41798.1|cp30
+>Protohalopteris_sp.|QWK41798.1|cp30
 MV----NDNIINTVSDTIQNNME-----NENIINTVSDAIQ-------------------
 ----------DNIDIVEKA---------------GLSDRLR--------------MDFQY
 LLYDVYWGEIFLIILFLLIGFILDQKFNIKKP------------REWF--LACNFLIFQR
@@ -1818,7 +1818,7 @@ E-FIQLIPF-L--SFVYIA-----------------ITYGLLIRYR--KP----------
 ----LVWMG-----MVYGPCFANAFLGRYTSNTFIREAVEI-----------HLGRDGVD
 ------FVWWDRRGDENDKRPPRKPR---------------------------KPRKPRK
 -
->WAX02643.1_WAX02643.1|ycf60
+>Rhodomelopsis_africana|WAX02643.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYQLYLFFLKN-------YTLHSN-------SITFIDR
@@ -1828,7 +1828,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->ART65325.1_ART65325.1|ycf60
+>Gracilaria_changii|ART65325.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 HKSNLLIIIMLSIVSTVLISFITRYLFLYITQS-----Y-KNHN----------ITVVDR
@@ -1838,7 +1838,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STISYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ARW69463.1_ARW69463.1|ycf60
+>Digenea_simplex|ARW69463.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 SYFLYWILSILFVV---LCVMFCYQFYLAIINT-------YINKNS-------NITVIDR
@@ -1848,7 +1848,7 @@ I-FYVTHPE-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----LTILYSVIKSLLGSYARIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW69670.1_ARW69670.1|ycf60
+>Tolypiocladia_glomerulata|ARW69670.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYFLYFILSLLLLL---LLIFFVYQLYLIFLKN-------YTQNTH-------GITFIDR
@@ -1858,7 +1858,7 @@ I-FYVTHPA-L--AFVTFF-----------------VLYYFFVRPKSPLP----------
 LCNTLFWFVL----STITYAFFKSLEGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->YP_009730795.1_QAY81032|YP_009730795.1
+>Cladosiphon_okamuranus|YP_009730795.1|YP_009730795.1
 ------------------------------------------------------------
 -----------------------------------MKEAIG-------------------
 IALGLYWAEITILVLFLVIAFILEQKFNFKKP------------RQWF--LSFNNLIFRR
@@ -1868,7 +1868,7 @@ D-IMQQVPF-L--SFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------TLYIPCFVRAFLGKYDENKFIREAVEV-----------HLGRDGPD
 ------FIWWDRI-----RKD-KAPK---------------------------RPPLN--
 -
->QWK41655.1_QWK41655.1|cp30
+>Akkesiphycus_lubricus|QWK41655.1|cp30
 ------------------------------------------------------------
 -------------------------------MLGKFRE------------------NLAG
 LVFGVYWVELLVFVVFLFIGFILEQKFNFNKP------------RKWF--FAFNGLICQR
@@ -1878,7 +1878,7 @@ D-IIQRIPF-L--SFIYLM-----------------LGYGVLIRYK--IP----------
 ----LSWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPEE---
 -
->AOM64585.1_AOM64585.1|ycf60
+>Riquetophycus_sp.|AOM64585.1|ycf60
 ------------------------------------------------------------
 -----------------------------------------------------------M
 TKSPK---------------------------------Y-KKYNKK-------EITLIDR
@@ -1888,7 +1888,7 @@ I-FYVTHPA-L--AFMIFF-----------------ILYYLFVRTKSPIP----------
 VCNTLFWFVI----STITYSIIKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->ARW69048.1_ARW69048.1|ycf60
+>Dictyomenia_sonderi|ARW69048.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFFYFIISIIFIL---LFVFCCYKLYLFFLKN-------YKLHSN-------SITFIDR
@@ -1898,7 +1898,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAITKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WAM63216.1_WAM63216.1|cp30
+>Dictyotopsis_propagulifera|WAM63216.1|cp30
 ------------------------------------------------------------
 ----------------------------------------M--------------VIMQT
 VILNTVSSEVFLFLFFFLLILILDRKFNVTLP------------RKLF--LNSNKLIFQR
@@ -1908,7 +1908,7 @@ G-WYQQVPF-F--STIYML-----------------FTYITFLRFK--FP----------
 ----LIWL------IVFFSAVLRALLGKYIENSFIRETIEM-----------HLGRDGPD
 ------FVWWDRE-----KK--PKPK---------------------------PPKK---
 -
->WOL36772.1_WOL36772.1|ycf60
+>Grateloupia_asiatica|WOL36772.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NRLPVWIIIIISTLIVGVTGLLIYSIYQFLAKSL---KE-KGYDKK-------SITVIDR
@@ -1918,7 +1918,7 @@ I-FYVTHPE-L--AFIIFF-----------------VLYYLFVRVKSPVP----------
 LCNTLFWFVL----STIIYSVVKSIQGKYAKIPVISQAVRI-----------QIDNNHT-
 ------------------------------------------------------------
 -
->YP_009296290.1_AOM65225|ycf60
+>Sebdenia_flabellata|YP_009296290.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NRLPLWIILIISTTLVATAIKLIHKIYLYTVSS-----I-KTYNKK-------NITIIDR
@@ -1928,7 +1928,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPMP----------
 LCNTLFWFVL----LTITYSIVKSIEGKYARIPVISQAVRI-----------QINNHT--
 ------------------------------------------------------------
 -
->WGH14371.1_WGH14371.1|ycf60
+>Echinothamnion_hookeri|WGH14371.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVLCCYKLSLLLLNN-------YKINSN-------SITFIDR
@@ -1938,7 +1938,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAISKSVEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->UNJ16469.1_UNJ16469.1|ycf60
+>Boldiaceae_sp.|UNJ16469.1|ycf60
 ----------------------------------MARSNINYY-----------------
 --------------------------------------------------------YIKQ
 QQLKVYFTTIILTLFILAIIIRIYTTLFPKSKVF---YR-KKTN---------TVLIATR
@@ -1948,7 +1948,7 @@ V-FYMQNRN-V--NLISFL-----------------TLYFLIVNSKSPLA----------
 ICNSCLWFII----GTIIYAIAKCFEGQYSNIPVISEAVRI-----------QIESKGL-
 ------------------------------------------------------------
 -
->YP_009395095.1_ARW63863|ycf60
+>Bryothamnion_seaforthii|YP_009395095.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 SYFLYLIISILFVL---LFILLFYQLYSAIINL-------YIKRNS-------SITFIDR
@@ -1958,7 +1958,7 @@ I-FYVTHPE-L--AFVVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYSVLKSLAGKYAKIPVISQAVKI-----------QIDSPY--
 ------------------------------------------------------------
 -
->WOL36974.1_WOL36974.1|ycf60
+>Polyopes_affinis|WOL36974.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NQLPLWIIIIVSILIIGIIAFLVYYMYRLIARFL---EE---YDRK-------SITIVDR
@@ -1968,7 +1968,7 @@ I-FYVTHPE-L--AFIVFF-----------------VLYYLFVRVKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYAKIPVISQAVRI-----------QIDNNQI-
 ------------------------------------------------------------
 -
->YP_010147453.1_QQP22282|ORF227
+>Scytosiphon_lomentaria|YP_010147453.1|ORF227
 ------------------------------------------------------------
 -----------------------------------MKEAIR-------------------
 VLFGLYWLEIVILVLFLIIAFILEQKFNFKKP------------REWF--FAFNALIFTR
@@ -1978,7 +1978,7 @@ D-IIQQIPF-L--TFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------SLYIPCFVRAFLGKYDSNEFIREAVEV-----------HLGRDGPD
 ------FIWWDRE-----RKD-KAPK---------------------------KPPLN--
 -
->YP_010634102.1_WBQ42841|YP_010634102.1
+>Ecklonia_radiata|YP_010634102.1|YP_010634102.1
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWIEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -1988,7 +1988,7 @@ N-IIQKIPF-L--SFIYLL-----------------LGYGILVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->WVQ28289.1_WVQ28289.1|ycf60
+>Anunuuluaehu_liula|WVQ28289.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MIMP
 NQLPLWIKVIISTLASGIVSILIYQLYLFIIKS----AN-NNYDKK-------TITLIDR
@@ -1998,7 +1998,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYFFVRAKSPIP----------
 LCNTLFWFVL----STITYSVAKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_010904175.1_WCH57426|ycf60
+>Catenella_fusiformis|YP_010904175.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NQLPIWIIVIISTLVSGIISILIYQLYLYILQN-----K-NNTKKS-------NITLVDR
@@ -2008,7 +2008,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAFIKSIQGKYAQIPVISQAVKI-----------QINNRL--
 ------------------------------------------------------------
 -
->QWK42083.1_QWK42083.1|cp30
+>Pseudochorda_nagaii|QWK42083.1|cp30
 ------------------------------------------------------------
 -------------------------------MIDKLKE------------------NLVE
 LFFGVYWLELLIFILFLFIGFILEQRFNFNKP------------RKWF--FAFNGLICQR
@@ -2018,7 +2018,7 @@ D-IVQRIPF-L--SFIYLM-----------------LGYGVLIRYK--IP----------
 ----LSWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPEE---
 -
->QBA96460.1_QBA96460.1|ycf60
+>Gelidium_galapagense|QBA96460.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NQLPVWTIAFIFTFIFVLLCIAIYQSYNFIVKS-----F-NKENKE-------YITIVDR
@@ -2028,7 +2028,7 @@ I-FYVTNPA-L--AFIIFF-----------------VLYYLFVRTKSPVP----------
 VCNTLFWFVL----STIVYSVIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_009237458.1_AKS28505|orf203
+>Wildemania_schizophylla|YP_009237458.1|orf203
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NKYVESFITILPLV---LSKLALQRAYKYIKLN----KKIINNTES-------KTRLSIR
@@ -2038,7 +2038,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STISYSIVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->YP_009295193.1_AOH77205|ycf60
+>Dasya_binghamiae|YP_009295193.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYIPSWIISMILVI---LIGILFYQVYFSIINS-------YSDNKN-------RITVVDK
@@ -2048,7 +2048,7 @@ I-FYVTHPA-L--AFIAFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYSAVKAIQGNYAKIPVISQAVRI-----------QIDSQ---
 ------------------------------------------------------------
 -
->QUE28733.1_QUE28733.1|ycf60
+>Porphyrostromium_japonicum|QUE28733.1|ycf60
 ----------------------------------MPKIRVTRK-----------------
 -------------------------------------------------------ALITQ
 RTIKLYFSTIILTLFALAAVFLIAQKVFPKSKLL---KK-QEQDPN-------HIAIPTR
@@ -2058,7 +2058,7 @@ R-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFIL----YTISYSLIKAITGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->YP_010903976.1_WCH57227|ycf60
+>Caulacanthus_ustulatus|YP_010903976.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NQVPIWIIIITSVLSITITSFIIYQTYIYIMKN-----K-DNPIKK-------DITLIDR
@@ -2068,7 +2068,7 @@ I-FYVTHPA-L--AFIIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVSKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009500375.1_AXE43537|ycf60
+>Gracilariopsis_heteroclada|YP_009500375.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 QKSPLLMIILLSISITLIISIIIRYLYSYIKQS-----Y-KKNNKN-------NITVIDR
@@ -2078,7 +2078,7 @@ I-FYVTHPT-L--AFIIFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVI----STISYSILKSIEGKYAKIPVISQAVRI-----------QIDNQI--
 ------------------------------------------------------------
 -
->AYR06547.1_AYR06547.1|ycf60
+>Rhodogorgon_sp.|AYR06547.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NGLPIWIMVILFAFVLILMVVVVYRIYFSIKRV----SS-GKHEKS-------YVAFLDR
@@ -2088,7 +2088,7 @@ L-FYVTHPA-L--AFVIFF-----------------VLYYLFVRAKSPMP----------
 LCNTLFWFVL----STIFYSVVKAIEGRYAKIPVISQAVRI-----------QIDNQ---
 ------------------------------------------------------------
 -
->YP_010336604.1_UNJ15010|ycf60
+>Rhodospora_sordida|YP_010336604.1|ycf60
 ---------------------------------------MSLLGS---------------
 ----------------------------------------------------------VS
 KQFTSILTYFTLVFIVLISVQIIYRASKVIHKTD---SQ--------------ESNLFML
@@ -2098,7 +2098,7 @@ EGSYLDLNI-L--YVILLF-----------------SQYIIFIQPKR-------------
 ACDLCLLICM----SMIAHASAKALIGHYCQIPVISEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->UAD83661.1_UAD83661.1|ycf60
+>Gracilaria_cearensis|UAD83661.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKSPLLIIIILSILSTILISFIIRYLYLYIATS-----Y-KNYNVN-------NITLVDR
@@ -2108,7 +2108,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_010198892.1_UAD88341|ycf60
+>Hydropuntia_urvillei|YP_010198892.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------MLSISSTILISIIIRYLYSNITIS-----Y-KNY----------NITIIDR
@@ -2118,7 +2118,7 @@ I-FYVTHPT-L--AFIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIMKSIQGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UAD86110.1_UAD86110.1|ycf60
+>Gracilaria_isabellana|UAD86110.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKLPLLIIIILSILSTILIGFIIRYLYLYITTS-----Y-KNYNVN-------NITLVDR
@@ -2128,7 +2128,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_010199092.1_UAD88541|ycf60
+>Crassiphycus_usneoides|YP_010199092.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----MIIIMLSTFSTILISFIIRYLYLYIAKS-----Y-KNHNVN-------NITVVDR
@@ -2138,7 +2138,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIMYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_009394689.1_ARW63251|ycf60
+>Polysiphonia_elongata|YP_009394689.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYFLYFIISLVFIV---LLILCCYQIYSIFLRN-------YESDVY-------GVTFIDR
@@ -2148,7 +2148,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIMYSSFKSLQGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->YP_009944528.1_QFR99822|ycf60
+>Osmundea_sinicola|YP_009944528.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSFLYWIIVVLLVL---VLAFFIYQLYV-MNFN-------FNINNP-------SITVVDR
@@ -2158,7 +2158,7 @@ V-FYVTHPA-L--AFVIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSIFKSIEGRYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->BCG67672.1_BCG67672.1|ycf60
+>Haptophyceae_sp._NIES-3900|BCG67672.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTGPA---------------------------------------KLTQ-----LEKITDR
@@ -2168,7 +2168,7 @@ D-WYDP-------MYSLFS----------------FAFIYIFYCRPTKIR----------
 FEGTSYLLLL----SMSLYCLYGIIVGVYPYLPVISDAADI-----------HIPNRPP-
 ------YTHWG-------------------------------------------------
 -
->UEQ12188.1_UEQ12188.1|ycf60
+>Batrachospermum_sp.|UEQ12188.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NSLPILIVAIFITIFIGLVGIIIYQIYISTTQK----RS-YGNSNP-------DITVLDR
@@ -2178,7 +2178,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRAKSPVP----------
 LCNTLFWFVL----STISYSIAKSIEGKYAKIPVISQAVRI-----------QIDNQQ--
 ------------------------------------------------------------
 -
->WAX03806.1_WAX03806.1|ycf60
+>Symphyocladia_marchantioides|WAX03806.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYQLYRFFLKN-------YTLHSN-------SITLIDR
@@ -2188,7 +2188,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIAKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW60335.1_ARW60335.1|ycf60
+>Periphykon_beckeri|ARW60335.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 HYFFYFFISIVFLL---LCTILCYQLYSFLLNN-------FRLNSN-------SITFLDR
@@ -2198,7 +2198,7 @@ I-FYVTHPA-L--AFVVFF-----------------ILYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYSIVKSVTGTYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009293703.1_AOM64385|ycf60
+>Rhodymenia_pseudopalmata|YP_009293703.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NRLPLWMNIIVSISLFSLIIRLIYKIYLYTIKS-----F-KSYDKK-------SITVIDR
@@ -2208,7 +2208,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIAYSVVKSIEGKYAQIPVISQAVKI-----------QINNQV--
 ------------------------------------------------------------
 -
->YP_009396741.1_ARW65927|ycf60
+>Ophidocladus_simpliciusculus|YP_009396741.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NNLLYWLVSIFCVL---LIILLCYQCYRFIANT-------YISKNN-------NITFVDR
@@ -2218,7 +2218,7 @@ I-FYVTHPV-L--AFVIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSILKSIEGRYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009402815.1_ARX96164|ycf60
+>Compsopogon_caeruleus|YP_009402815.1|ycf60
 ---------------MMIH--------------IKQKNHVNYF-----------------
 --------------------------------------------------------YLNQ
 QKLQIYFLTFIATLFIIALIIKIYSRFFPSSLSI---NR-KKTD---------SVITTIR
@@ -2228,7 +2228,7 @@ V-FYVENRS-V--NLITFL-----------------TLYFLIVNSKSPLA----------
 ICNSFLWLIT----GIILYAITKCFEGKYSRIPVISEAVKI-----------QIESKGL-
 ------------------------------------------------------------
 -
->ARW64294.1_ARW64294.1|ycf60
+>Polysiphonia_infestans|ARW64294.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYFLYFIISLVFIL---LFIACFYRVFVIFLKN-------YNSDFY-------GVTFVDR
@@ -2238,7 +2238,7 @@ I-FYVTHPA-L--AFITFF-----------------ILYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYSSFKSLEGKYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->WGH13580.1_WGH13580.1|ycf60
+>Lophurella_mutabilis|WGH13580.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVLCCYKLYLLFLNN-------YKVNSD-------SITFLDR
@@ -2248,7 +2248,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIVKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010195851.1_UAD83248|ycf60
+>Gracilaria_bursa-pastoris|YP_010195851.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKSHLLIIIILTILSTILISFIIRYLYLYIATS-----Y-KNYNVN-------NITLLDR
@@ -2258,7 +2258,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIVYSIIKSIEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_008144732.1_AGO19959|ycf60
+>Phyllymenia_taiwanensis|YP_008144732.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NRLPIWIIIIISTLIVGVTGLLIYSIYQLLAKSL---KE-KEYDKK-------SITVIDR
@@ -2268,7 +2268,7 @@ I-FYVTHPE-L--AFIIFF-----------------VLYYLFVRVKSPVP----------
 LCNTLFWFVL----STITYSVVKSIQGKYAKIPVISQAVRI-----------QIDNNQT-
 ------------------------------------------------------------
 -
->UNJ14616.1_UNJ14616.1|ycf60
+>Chroodactylon_ornatum|UNJ14616.1|ycf60
 ---------------------------------------MSLMGS---------------
 ----------------------------------------------------------NG
 KQFSLVVAYFTLSFFLMLAAQISYRVSKPFHKIE---NK--------------ESNLLML
@@ -2278,7 +2278,7 @@ EGSYIDFNT-F--YVILLF-----------------SQYVIFIQPKR-------------
 TCDLCLLICM----SMIAHAFVKALFGQYCQIPVVSEAVRI-----------HLEGY---
 ------------------------------------------------------------
 -
->AZW07325.1_AZW07325.1|ycf60
+>Tisochrysis_lutea|AZW07325.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------MESRR------LPVILER
@@ -2288,7 +2288,7 @@ L-FYQS----N--MYLCFG----------------LTITIFMICTNNSIP---IIGTK--
 IANGCFFAIV----GLVFYSAFLIALGRYPRIPIITESARL-----------Q-------
 -------TWAGEN-----R-----------------------------------------
 -
->YP_009391373.1_ARW59517|ycf60
+>Platysiphonia_delicata|YP_009391373.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 SYLPSLTFSIIFII---IGIMLFYQAIVIKLHF---------YNKT-------SINVIDR
@@ -2298,7 +2298,7 @@ I-FYVTHPT-L--AFVVFF-----------------VLYYLFVRSKSPIP----------
 LCNTFFWFVL----STILYSLIKSIQGKYAQIPVISQAVRI-----------QIDSQ---
 ------------------------------------------------------------
 -
->AOM64815.1_AOM64815.1|ycf60
+>Schimmelmannia_schousboei|AOM64815.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQLPLWIIVVISTLLISLGVILTYQIYSSINNQS--WNK-KDQNKH-------NITLMDR
@@ -2308,7 +2308,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYSVFKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UNJ18704.1_UNJ18704.1|ycf60
+>Glaucosphaera_vacuolata|UNJ18704.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MR
 DPLYLLYLSSIILAVI-ALFYLLYKIYKDGPSQI-----------------KIESSMTSR
@@ -2318,7 +2318,7 @@ Y-SYQTFPY-A--GIIIFI-----------------LMYGLFIKPNKYLP----------
 LDHSFFLYFL----LLIVYCMVQALRHKYTKVPFISFSTRQ-----------QMEQGDEV
 DDEIAEQENQGDE-----DED-EDED---------------------------EDEE---
 -
->ARW64082.1_ARW64082.1|ycf60
+>Chondria_sp._(in:_red_algae)|ARW64082.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NLFPYLIIGI-------LLIFLFYRLYLFT-------SN-DYMNNS-------SANWIDR
@@ -2328,7 +2328,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STILYSVVKSVQGQYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009413371.1_ASN78832|orf203
+>Porphyra_umbilicalis|YP_009413371.1|orf203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFGIITILILV---IARLALQRAYKYITLN----KH-INTTES-------KTRLSIR
@@ -2338,7 +2338,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKALQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->WKK50073.1_WKK50073.1|ycf60
+>Ochrosphaera_neapolitana|WKK50073.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------MF-----KNKISQR
@@ -2348,7 +2348,7 @@ S-FYEQ----N--LLLIFG----------------LMVGIFTVCSKGSIP----------
 IINPVALSMG----LIVIYSCVLVLAGRYSRFPILSEAAKL-----------Q-------
 -------TQRGYS-----DE----------------------------------------
 -
->AOM65841.1_AOM65841.1|ycf60
+>Apophlaea_sinclairii|AOM65841.1|ycf60
 ------------------------------------------------------------
 -------------------------------------------------------MIILF
 SILNLAVILLFRTILIIIFGLATYQICLTTFKQ-------SISKEN-------KVSILDK
@@ -2358,7 +2358,7 @@ E-IYIAYPM-L--AFVVFF-----------------LLYYLFIRLDRPIQ----------
 MTNILFLFTL----STIFYSVVKSIEGKYPQIPIISEAVKM-----------QISDIN--
 ------------------------------------------------------------
 -
->YP_010330454.1_UNJ18170|ycf60
+>Rhodella_violacea|YP_010330454.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNIYFLFLIVFIIILLIFIGFFLYRTFKFYAAGS-------------------TISALAR
@@ -2368,7 +2368,7 @@ I-YL-MYPW-I--GIIAFF-----------------AIYLLLIRSHNLFP----------
 IYNALFLMFV----SMIIYSVNQALKGDFAEIPIISEAAKF-----------HTDAKF--
 ------------------------------------------------------------
 -
->UNJ15473.1_UNJ15473.1|ycf60
+>Cyanidioschyzonaceae_sp._1|UNJ15473.1|ycf60
 ------------------------------------------------------------
 -----------------------------------------------------------M
 NLGIIVIIASYLILLIFIALVIGFLLYGLSKIR------------------QTQMHLWEK
@@ -2378,7 +2378,7 @@ I-IYSDYPI-I--GFLIFL-----------------LSYLLFVKGI--IK----------
 CIDILFILTN----GCILYACYKVIQGEWTRIPIISEAAKV-----------QVQDGEGD
 KR----------------------------------------------------------
 -
->AOM66746.1_AOM66746.1|orf203
+>Erythrotrichia_carnea|AOM66746.1|orf203
 ------------------------------------------------------------
 ------------------------------------------------------------
 --MRLYFSTIILTLFALAAVFLIAQKVFPKSKLL---KK-QEYDPN-------YIAITTR
@@ -2388,7 +2388,7 @@ R-FYTENRF-V--NFVSFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTISYSLIKAVSGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->ARW61806.1_ARW61806.1|ycf60
+>Symphyocladiella_dendroidea|ARW61806.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFIISIIFIL---LFVFCCYQLYLFFLKN-------YTLHSN-------SITLIDR
@@ -2398,7 +2398,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009397163.1_ARW66349|ycf60
+>Thuretia_quercifolia|YP_009397163.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPSWIISMVLVV---LFGVLFYQVYFSIINS-------YSYSKN-------SVTIVDK
@@ -2408,7 +2408,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYSLFVRNKGPMP----------
 LCNTLFWFVL----STIIYSIIKCIQGKYAKIPVISQAVRM-----------QIDNQ---
 ------------------------------------------------------------
 -
->WGH13184.1_WGH13184.1|ycf60
+>Lophurella_caespitosa|WGH13184.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYKLYLLFLNN-------YKANSD-------SITFLDR
@@ -2418,7 +2418,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIVKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WAK83219.1_WAK83219.1|tic20
+>Chrysotila_carterae|WAK83219.1|tic20
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------MF-----EDKISQR
@@ -2428,7 +2428,7 @@ G-FYEQ----N--ILVIFG----------------ILVLIFTTCSKGTIP----------
 VLNPGTIGAI----IIIFYACILVLLGRYPKIPIISEAARL-----------Q-------
 -------TQRGYS-----DS----------------------------------------
 -
->QCH39592.1_QCH39592.1|ycf60
+>Pleurostichidium_falkenbergii|QCH39592.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYLLYFIISIIFIV---LFILSCYQLYLFLLKN-------YTENTN-------SVTFLDR
@@ -2438,7 +2438,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVI----STITYATAKSIQGNYAKIPVISQAVRM-----------QIDSP---
 ------------------------------------------------------------
 -
->WDY85030.1_WDY85030.1|ycf60
+>Hypnea_spinella|WDY85030.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLLSSIIAIVLYQIYIYFKKY-----N-HNFNKT-------NITIIDR
@@ -2448,7 +2448,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_007476273.1_AGE93771|orf161
+>Diacronema_lutheri|YP_007476273.1|orf161
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------MLGSV-------------------LRKILDR
@@ -2458,7 +2458,7 @@ RSYRISSPW-LEEAAIVFR----------ANPWFSYLIFALIVGALSIKR----------
 IFTPFFNFVCFGLLLLVTYCGIFALIGRIPSIPLLSSAVLV-----------QIQEIED-
 ------------------------------------------------------------
 -
->ARW64702.1_ARW64702.1|ycf60
+>Herposiphonia_versicolor|ARW64702.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYFIVSTIFIF---LLFLICYKLYILFVKN-------YIENIL-------SVTFLDR
@@ -2468,7 +2468,7 @@ V-FYVTHPA-L--AFILFF-----------------VLYYFFVRSKSPIP----------
 LCNTLFWFVL----STIAYSIIKSVEGRYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WGH13975.1_WGH13975.1|ycf60
+>Aphanocladia_stichidiosa|WGH13975.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVLCCYKLYLLFLNN-------YKVNSD-------SITFLDR
@@ -2478,7 +2478,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAIVKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_010902383.1_WCH54238|ycf60
+>Hypnea_nidifica|YP_010902383.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLSSSIIAIILYQLYVYFKKY-----N-NNFNKT-------SITIIDR
@@ -2488,7 +2488,7 @@ I-FYVTHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->QUE29873.1_QUE29873.1|ycf60
+>Erythrotrichia_carnea|QUE29873.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------MTLFTLAAVFLIAQKVFPKSKLL---KK-QEQDPN-------RIVVLTR
@@ -2498,7 +2498,7 @@ R-FYTENRF-V--NFISFL-----------------TLYFLLVSSKSPLP----------
 VCNMFFLFVL----YTISYSLIKAISGKYADIPVISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->WOL37175.1_WOL37175.1|ycf60
+>Pachymeniopsis_lanceolata|WOL37175.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NRLPVWIITIISTLIVGLTGLLIYSIYQFLVKSL---KE-KEYDKK-------SITVIDR
@@ -2508,7 +2508,7 @@ I-FYVTHPE-L--AFIIFF-----------------VLYYLFVRVKSPVP----------
 LCNTLFWFVL----STIIYSIVKSIQGKYAKIPVISQAVRI-----------QIDNNHT-
 ------------------------------------------------------------
 -
->YP_009396539.1_ARW65725|ycf60
+>Vertebrata_australis|YP_009396539.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYLFYFITSLAFIL---LFVLCCYQMYLVFLKN-------YTDNFY-------GVTFLDR
@@ -2518,7 +2518,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STISYAFVKSLQGRYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->AMJ16838.1_AMJ16838.1|ycf60
+>Membranoptera_platyphylla|AMJ16838.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYIPSWIISMVLII---LISVLFYQIYFRIINA-------YSDDKN-------RITIVDK
@@ -2528,7 +2528,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPMP----------
 LCNTLFWFVL----STIIYSIVKSIQGKYAKIPVISQAVRI-----------QIDSQ---
 ------------------------------------------------------------
 -
->YP_010903180.1_WCH55633|ycf60
+>Hypnea_cornuta|YP_010903180.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MT
 NQLPIWIIIIISTLLSSIIGIVIYQSYNYLKKY-----S-NNFNKT-------SITIIDR
@@ -2538,7 +2538,7 @@ I-FYVTHPA-L--AFVIFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->UAD85497.1_UAD85497.1|ycf60
+>Gracilaria_edulis|UAD85497.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NKLPLLMIIILSISSTILISIIIRYLYLFITIS-----Y-KNYNIN-------NITIVDR
@@ -2548,7 +2548,7 @@ I-FYVTHPT-L--AFIIFF-----------------VLYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIQGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009294732.1_AOM66992|ycf60
+>Gracilariopsis_chorda|YP_009294732.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 QQLPLLMIIVLSIFSILIISITIHYIYLYIIKS-----Y-KNDNKN-------NITIIDR
@@ -2558,7 +2558,7 @@ I-FYVTHPT-L--AFIIFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVV----STICYSILKSVEGKYAKIPVISQAVRI-----------QIDNQI--
 ------------------------------------------------------------
 -
->ANS57706.1_ANS57706.1|ANS57706.1
+>Pleurocladia_lacustris|ANS57706.1|ANS57706.1
 ------------------------------------------------------------
 -----------------------------------MQEAIK-------------------
 IMFNLYWLEIVILILFVLLAFVLEQKWNFNKP------------RKWF--LSFNALLFQR
@@ -2568,7 +2568,7 @@ D-FIQQIPF-L--TFIYLL-----------------FAYGFFIRSK--IP----------
 ----FWWL------SLYIPCFVRALLGKYDKNKFIREAVEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-KAPK---------------------------RPPLN--
 -
->YP_011005095.1_WAM61958|cp30
+>Analipus_japonicus|YP_011005095.1|cp30
 ------------------------------------------------------------
 ---------------------------------MNMLN------------------TLQG
 IFFGIYWVEIWVFILFLILGFILDQKFKFKKP------------RKWF--LEFNGLIFQR
@@ -2578,7 +2578,7 @@ D-FVQRIPF-L--PFLYLM-----------------FCYGILVRYK--IP----------
 ----IFWI------IIFIPCFFRALIGEYESNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRI-----KKD-QAPK---------------------------KPKK---
 -
->YP_009396943.1_ARW66129|ycf60
+>Spyridia_filamentosa|YP_009396943.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 NILPLWLIVTLTILTFALISFLAYKVYTYIAEF-----S-GNESKQ-------DITLLDR
@@ -2588,7 +2588,7 @@ V-FYVTHPE-L--AFIVFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYAVVKSIEGRYAKIPVISQAVRI-----------QIDNYS--
 ------------------------------------------------------------
 -
->UVW80632.1_UVW80632.1|ycf60
+>Hypnea_cervicornis|UVW80632.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 NQLPIWIIIIISTLLSSIIGIVLYQAYIYLKKD-----N-NNFNKT-------NITIVDR
@@ -2598,7 +2598,7 @@ I-FYVTHPA-L--AFAVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----STITYAVAKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009391171.1_ARW59315|ycf60
+>Dipterocladia_arabiensis|YP_009391171.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPYWVISIIFIT---LICILFYQIYFSIVNS-------YSYNKN-------RITIVDK
@@ -2608,7 +2608,7 @@ F-FYVTHPA-L--AFIAFF-----------------VLYSLFVRANSPIP----------
 LCNTLFWFVL----STIIYSIIKAIQGKYSKIPVISQAVRI-----------QIDTQ---
 ------------------------------------------------------------
 -
->ARW63658.1_ARW63658.1|ycf60
+>Chondria_sp._(in:_red_algae)|ARW63658.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NLFLYLIIAL-------LLIFLCYQLYLLI-------DT-YYISKS-------SVNWIDR
@@ -2618,7 +2618,7 @@ I-FYVTHPA-L--AFIIFF-----------------TLYYLFVRAKSPVP----------
 LCNTFFWFVL----STITYAIFKSIQGQYARIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->YP_009509181.1_AXI96831|ycf60
+>Gracilaria_vermiculophylla|YP_009509181.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NKLPLLIIIMLSILSILLISFTIRYLYAYLTTS-----Y-KNQNVK-------NITILDR
@@ -2628,7 +2628,7 @@ I-FYVTHPT-L--AVIIFF-----------------VLYYLFVRNKSPIP----------
 LCNTLFWFVL----STITYSIIKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->ALL97346.1_ALL97346.1|orf203
+>Pyropia_endiviifolia|ALL97346.1|orf203
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---ISKLAIQRAYKYITLN----KK-INNTES-------KTRLSIR
@@ -2638,7 +2638,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAVQGKYSNIPVISEAVRI-----------QISGYSA-
 ------------------------------------------------------------
 -
->WOE88832.1_WOE88832.1|ycf60
+>Phacelocarpus_tortuosus|WOE88832.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MS
 NQLPLWIIIIISISITVILSLLLYQTYLYIIRS-----N-HNYDKK-------KITLIDR
@@ -2648,7 +2648,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVVKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->AKU47331.1_AKU47331.1|ycf60
+>Campylaephora_sungminbooi|AKU47331.1|ycf60
 MCIT----------YIIIY-----------------YLYILIFQNFL-------------
 ------------------------------------------------------IILTMH
 TNLPSWILGGISILLTLSVIMLIYQVYLFIVKV-------SSNHKN-------NITVLDR
@@ -2658,7 +2658,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIFYSVIKSIEGKYARIPVISQAVRI-----------QIDNQS--
 ------------------------------------------------------------
 -
->QVY58360.1_QVY58360.1|ycf60
+>Kappaphycus_striatus|QVY58360.1|ycf60
 ------------------------------------------------------------
 --------------------------------------------------------MTIA
 QTLPICIIVIIIT-------AIIYNIYLYINKS-----K-NNSNTK-------NITLIDR
@@ -2668,7 +2668,7 @@ I-FYVTHPA-L--AFTSFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STIMYAVAKSIEGKYAKIPVISQAVKI-----------QINNRL--
 ------------------------------------------------------------
 -
->UNJ17448.1_UNJ17448.1|ycf60
+>Timspurckia_oligopyrenoides|UNJ17448.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MK
 -------------------------------KQ----QE--------------SVSLIIR
@@ -2678,7 +2678,7 @@ M-YYSNNSW-V--SIVIFF-----------------VLYYFIVSPKSPIP----------
 LSNTLFWVVL----STVFYAISHALRGTYSQIPVISEGAKM-----------HIDFGPE-
 ------------------------------------------------------------
 -
->SCW22474.1_SCW22474.1|ycf60
+>Liagora_harveyana|SCW22474.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSFPLSIPVIITTFITVLVILAIYIKIKQ--NNK---AI-GDVNST-------TITTIDR
@@ -2688,7 +2688,7 @@ I-VYVTHPN-W--AFVVFF-----------------LLYYLFVRPKSPIP----------
 LCNTLFWFVL----LTITYSVIKSIQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->WGH12994.1_WGH12994.1|ycf60
+>Echinothamnion_sp.|WGH12994.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------------------MYLLFLNN-------YKVNSN-------SITFLDR
@@ -2698,7 +2698,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYAVTKSIEGNYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->WAM63781.1_WAM63781.1|cp30
+>Halosiphon_tomentosus|WAM63781.1|cp30
 ------------------------------------------------------------
 -----------------------------------MIS------------------FLKD
 TLFGMYWTEIWIFTTLLILGFVLDQKFNVKKP------------RKWF--LEFNGLICQR
@@ -2708,7 +2708,7 @@ D-LVQKVPF-L--SFLYLM-----------------AGYGLLVRYK--IP----------
 ----IFWI------LIFIPCFVRALSGQYDSNSFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKS---
 -
->WOE88038.1_WOE88038.1|ycf60
+>Mazzaella_leptorhynchos|WOE88038.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MP
 NQFPLWIKIIISTVITSLVIKLIYQLYLLTMKS----IN-NNYNKK-------NITLIDR
@@ -2718,7 +2718,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYSVTKSIEGKYAKIPVISQAVRM-----------QIDNR---
 ------------------------------------------------------------
 -
->YP_007878133.1_AGA63744|ycf60
+>Calliarthron_tuberculosum|YP_007878133.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KGLPQWIIAIIILFILFMVIATIYQFYRFLINT----SS-IKFNKN-------DITVVDR
@@ -2728,7 +2728,7 @@ V-FYATHPA-L--AFIVFF-----------------ILYYLFVRAKSPIP----------
 LCNTLFWFVL----CTICYSLVKAIKGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->SCW23701.1_SCW23701.1|ycf60
+>Yamadaella_caenomyce|SCW23701.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 KSFLILILATSITIIISLAIISLYRLFNYSLRDK---QN-IGTDPD-------SVSIIDR
@@ -2738,7 +2738,7 @@ I-VYVTNPT-W--AFLIFF-----------------ILYYLFVRAKSPIR----------
 LCNTLFWFVL----LTIFYSVIKSIEGRYAKIPVISQAVKI-----------QIDNRS--
 ------------------------------------------------------------
 -
->WDB00013.1_WDB00013.1|ycf60
+>Cyanidium_sp._THAL103|WDB00013.1|ycf60
 ------------------------------------------------------------
 ---------------------------------------------------------MTP
 FALVNLFIYLSAIILVAFIFILMKKLYTFIKVM-------YNDDK----SRNIRISGLDR
@@ -2748,7 +2748,7 @@ V-PYNEFPI-L--GFFIFL-----------------LSYLIFVKEVFGIR----------
 LDDIMILSNY----LIIGYSMYKAFSAQYSRIPLISEAARI-----------QAQDHE--
 ------------------------------------------------------------
 -
->YP_009691267.1_QEG58139|ORF1
+>Laminaria_digitata|YP_009691267.1|ORF1
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWIEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -2758,7 +2758,7 @@ N-IIQKVPF-L--SFIYLL-----------------VGYGILVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->AGH27688.1_AGH27688.1|ORF203
+>Neopyropia_yezoensis|AGH27688.1|ORF203
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTFAIITVFLIV---ISRLALQRAYKYIKLN----KK-INNTES-------KTRLSIR
@@ -2768,7 +2768,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->WAM62098.1_WAM62098.1|cp30
+>Aureophycus_aleuticus|WAM62098.1|cp30
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWVEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -2778,7 +2778,7 @@ N-LIQKVPF-L--SFLYLL-----------------FGYGILVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->YP_010337098.1_UNJ16683|ycf60
+>Pseudoerythrocladia_kornmannii|YP_010337098.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 --MKLYFTTMILTLFTLAAILLICQKIFPDSKLF---KK-RKQDPN-------RIAISTR
@@ -2788,7 +2788,7 @@ R-FYIENRF-V--NFVSFL-----------------TLYFLLVSSKSPLP----------
 LCNMFFLFIF----YTISYSLLQALQGKYSDIPIISEAVRI-----------QINSKGI-
 ------------------------------------------------------------
 -
->YP_011007578.1_WAM65007|cp30
+>Syringoderma_abyssicola|YP_011007578.1|cp30
 ------------------------------------------------------------
 ------------------------------------------------------------
 --------------------------------------------------MKFKGLFSQR
@@ -2798,7 +2798,7 @@ E-FCQQVPF-L--SLVYLL-----------------LTYGIFIRYK--IP----------
 ----ILWL------YIFIPCFIRGARGEYVSNIFIREAIEV-----------HLGRDGPD
 ------FTWWDRK-----KKKRRRPR---------------------------KPKK---
 -
->WDA99078.1_WDA99078.1|ycf60
+>Gronococcus_sybilensis|WDA99078.1|ycf60
 ---------------MMIH--------------SERPLHITRF-----------------
 ----------------------------------------------------------GV
 TSIIFIVSLAVSIVLVRLCIMMLHRKFSNEYKIKYYIAQLYIKSPKIS---RFILVPLGR
@@ -2808,7 +2808,7 @@ LICCLVYLLPLLAIVTAYPPLIGLRKARMLYARKIPYFTQNLIRNLTNIYSEYVFN----
 --------------FGIIFIMFRVLMGKYTNIPLISETARVY--------SKHLPNKSIR
 RI----------------------------------------------------------
 -
->UAD87309.1_UAD87309.1|ycf60
+>Hydropuntia_rangiferina|UAD87309.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----MMIIILSISSTILIGIIIRYLYLFITIS-----Y-KNYNVN-------NITIVDR
@@ -2818,7 +2818,7 @@ I-FYVTHPT-L--AFIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSIQGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->XCA55604.1_XCA55604.1|ycf60
+>Pterocladiella_capillacea|XCA55604.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NELPIWIVAAITAVLLAIFCISIYQAYNFTIKS-----F-NRNSKD-------EITIIDR
@@ -2828,7 +2828,7 @@ I-FYVTNPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSVMKSIEGKYAKIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->UAD87511.1_UAD87511.1|ycf60
+>Gracilaria_salicornia|UAD87511.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MH
 NKFTLLIIMILSAFSTILISFIIRYLYSYITTA-----Y-ENYNVN-------KVTLVDR
@@ -2838,7 +2838,7 @@ I-FYVTHPT-L--AVIIFF-----------------ILYYLFVRNKSPIP----------
 LCNTLFWFVL----STIIYSIIKSVEGKYARIPVISQAVRI-----------QIDNQL--
 ------------------------------------------------------------
 -
->YP_009398834.1_ARW68064|ycf60
+>Cliftonaea_pectinata|YP_009398834.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYFLYWIVSILFVL---LLIFVCYHAYLAILNT-------YIHKHK-------DITFIDR
@@ -2848,7 +2848,7 @@ I-FYVTHPS-L--AFIIFF-----------------ILYYLFVRTKSPIP----------
 LCNTLFWFVL----STIVYSVIKSLEGKYAKIPVISQAVKM-----------QIDSP---
 ------------------------------------------------------------
 -
->ANH09522.1_ANH09522.1|ycf60
+>Coeloseira_compressa|ANH09522.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NQAPLWIIIIISFIFLTFSIKIVHQIYLYTISS-----F-KSYDKK-------NITIIDR
@@ -2858,7 +2858,7 @@ I-FYVTHPA-L--AFIIFF-----------------ALYYLFVRAKSPIP----------
 LCNTLLWFVI----STITYSITKSIQGKYAKIPVISQAVTI-----------QINNQI--
 ------------------------------------------------------------
 -
->QQY85321.1_QQY85321.1|ycf60
+>Cumathamnion_serrulatum|QQY85321.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 NYIPSWIISMVLII---LISVLFYQIYFSIINA-------YSDDKN-------RITVVDK
@@ -2868,7 +2868,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRAKSPMP----------
 LCNTLFWFVL----STIIYSVIKSIQGKYAKIPVISQAVRI-----------QIDTQ---
 ------------------------------------------------------------
 -
->WJZ45194.1_WJZ45194.1|Escp124
+>Colpomenia_sinuosa|WJZ45194.1|Escp124
 ------------------------------------------------------------
 -----------------------------------MKDALR-------------------
 VLFGLYWLEIVILILFLVIAFILEQKFNFKKP------------REWF--FAFNTLIFTR
@@ -2878,7 +2878,7 @@ D-VIQQIPF-L--TFIYLS-----------------IGYGFFIRYK--IP----------
 ----FCWL------SLYIPCFIRAFLGKYDKNEFIREAVEV-----------HLGRDGPD
 ------FIWWDRE-----RKD-KAPK---------------------------RPPLN--
 -
->SCW22067.1_SCW22067.1|ycf60
+>Hommersandiophycus_borowitzkae|SCW22067.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSLPLPFIAIIAVCITSIIVITIYQLLNSTTQNN--IDK-VNFNKN-------SVNLIDR
@@ -2888,7 +2888,7 @@ I-VYVTHPN-W--AFIVFL-----------------LLYYLFVKPNSPIP----------
 LCNTLFWFVL----LTITYSVIKSVQGKYAKIPVISQAVKI-----------QIDNRN--
 ------------------------------------------------------------
 -
->YP_010619019.1_WAX03032|ycf60
+>Pterosiphonia_complanata|YP_010619019.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 -------------M---LFVFCCYQLYLFLFKN-------YTLNSN-------SITFVDR
@@ -2898,7 +2898,7 @@ I-FYVTHPA-L--AFIIFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STIIYAIAKSIEGSYAKIPVISQAVRI-----------QIDSP---
 ------------------------------------------------------------
 -
->ARW60131.1_ARW60131.1|ycf60
+>Laurencieae_sp.|ARW60131.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NSFLYWIISLLLVL---GLIFLMYQLYL-SNVS-------FYFNDD-------GITPIDR
@@ -2908,7 +2908,7 @@ V-FYVTHPA-L--AFIIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIVYAIFKSVQGKYAKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->NP_045088.1_AAB82673|ycf60
+>Cyanidium_caldarium|NP_045088.1|ycf60
 ------------------------------------------------------------
 ---------------------------------------------------------MRI
 NLFVNILFGTACIIIFGLVILISYKLYRYIPKR-------NNSNKVYK---EDYPSIMAR
@@ -2918,7 +2918,7 @@ V-PYLESPL-I--GFCIFI-----------------TLYLIFVRGI--IQ----------
 LADTLLLITF----MISIYAGTDALKGQYSNIPLISEAAKM-----------QSKSTD--
 ------------------------------------------------------------
 -
->YP_009541930.1_AYR06139|ycf60
+>Neogoniolithon_spectabile|YP_009541930.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 QGLPKWTNLIIILCALLLCCFILYKIFNQIIKA----TS-KTENRT-------NINMLDR
@@ -2928,7 +2928,7 @@ L-YYVTHPG-L--AFIVFF-----------------VLYYLFVRPKSPIP----------
 FCNTLFWFVL----STIFYSVFKAIEGKYAKIPVISQAVRI-----------QIDNQP--
 ------------------------------------------------------------
 -
->ACF70970.1_ACF70970.1|ycf60
+>Vaucheria_litorea|ACF70970.1|ycf60
 ----------------MIQL-----------DINNDLESLQLKASLIIRDMQFSHENAQK
 LKELILAENMDTVDFIREFNAIVRTSKSHHWKIAILLNNLK--------------ERYIH
 ELELISWTPIILICLGLILLLFLIKKFKLKKVI-------KKSIRKFFK-ISLN--LIER
@@ -2938,7 +2938,7 @@ D-FYIRYPWVF--NYIYFF----------------GMMYGVML-FK--KP----------
 ---NLSWI---------LPCIYQAITHTYPRSSFIRDAVEI-----------NVGRDKDD
 G-----FKWWNR------------------------------------------------
 -
->YP_009968407.1_QMX77508|ycf60
+>Cyanidiococcus_yangmingshanensis|YP_009968407.1|ycf60
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------MAWWEK
@@ -2948,7 +2948,7 @@ M-AYSEYPM-M--GFMIFL-----------------LSYLLFVRGI--LK----------
 CVDILFIMTS----GGVMYASYKVMKGEWTRIPLISEAAKV-----------QVQGGEG-
 ------------------------------------------------------------
 -
->ARW61175.1_ARW61175.1|ycf60
+>Bostrychia_tenella|ARW61175.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYFLYWIISILLVV---FFIVLFYQIYLVILNS-------YMYGEK-------KITVIDR
@@ -2958,7 +2958,7 @@ I-FYVTHPA-L--AFVIFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSIVKSIQGKYSKIPVISQAVKI-----------QIDSP---
 ------------------------------------------------------------
 -
->QWK43361.1_QWK43361.1|cp30
+>Egregia_menziesii|QWK43361.1|cp30
 ------------------------------------------------------------
 -------------------------------MFDHLRG------------------NVLE
 LFFGVYWIEIFIFILFLVLGFVLEQKFNFNKP------------RKWF--LAFNGLVCQR
@@ -2968,7 +2968,7 @@ N-IIQKVPF-L--SFIYLL-----------------VGYGILVRYK--IP----------
 ----LAWV------VIFIPCFLRALFGKYEGNTFMREAIEV-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------KPKK---
 -
->ARW60974.1_ARW60974.1|ycf60
+>Caloglossa_monosticha|ARW60974.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPSWIISLIFIL---ILGIIFYQVYFNIINS-------YSYSKN-------NITIVDK
@@ -2978,7 +2978,7 @@ I-FYVTHPA-L--AFVVFF-----------------VLYYLFVRTKSPIP----------
 LCNTLFWFVL----STIIYSIFKCIQGRYAKIPVISQAVRI-----------QIDS----
 ------------------------------------------------------------
 -
->YP_009395925.1_ARW65111|ycf60
+>Dasya_naccarioides|YP_009395925.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 NYIPSWIISMILVI---LIGTLFYQIYFSIINS-------YSSDKN-------RITFVDK
@@ -2988,7 +2988,7 @@ I-FYVTHPA-L--AFIAFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STILYSVTKAMQGKYAKIPVISQAVRI-----------QIDSQ---
 ------------------------------------------------------------
 -
->UNJ18173.1_UNJ18173.1|ycf60
+>Bangia_atropurpurea|UNJ18173.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MI
 RLFTLGIITIFLIM---IAGLALQRAYQYIKLN----KN-INNTES-------KTRLSIR
@@ -2998,7 +2998,7 @@ I-FYMNHAI-L--GLVTFF-----------------ALYYVLVRNKSPIP----------
 VCNMMFWFVL----STITYSIVKAVQGKYSNIPVISEAVRI-----------QISGYST-
 ------------------------------------------------------------
 -
->YP_009394479.1_ARW63041|ycf60
+>Vertebrata_thuyoides|YP_009394479.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MF
 TYLLYFIISLACIV---LFGLCCHQVYLVFLKN-------YTDNFY-------GITFLDR
@@ -3008,7 +3008,7 @@ I-FYVTHPA-L--AFITFF-----------------VLYYLFVRSKSPIP----------
 LCNTLFWFVL----STITYASVKALQGRYANIPVISQAVKI-----------QIDTP---
 ------------------------------------------------------------
 -
->YP_010726309.1_WDY84784|ycf60
+>Hypnea_brasiliensis|YP_010726309.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------MA
 TQLPIWIIIIISTLSSSIIAMVLYQLYIYFKKY-----N-NNFNKT-------SITIIDR
@@ -3018,7 +3018,7 @@ I-FYVTHPA-L--AFIVFF-----------------VLYYLFVRAKSPIP----------
 LCNTLFWFVL----STIIYAVTKSIEGKYAKIPVISQAVRI-----------QIDNRL--
 ------------------------------------------------------------
 -
->YP_009628540.1_QBX88323|ycf60
+>Acrochaetium_secundatum|YP_009628540.1|ycf60
 ------------------------------------------------------------
 ----------------------------------------------------------ML
 TSLPMLILAIFITFIIGFILITSYQVYISAKQIE---HS-TPSTRN-------SITILDR
@@ -3028,7 +3028,7 @@ I-FYVTHPA-L--AFVTFF-----------------VLYYLFVRAKSPLP----------
 LCNTLFWFVL----LTIIYSVFKSIEGKYAKIPVISQAVRI-----------QIDNQN--
 ------------------------------------------------------------
 -
->WAM62197.1_WAM62197.1|cp30
+>Chorda_asiatica|WAM62197.1|cp30
 ------------------------------------------------------------
 ------------------------------------MD------------------TLSN
 WFFSAYWLELSIFLFFIVLGFVMEKAFNFTKP------------RKWF--MAFNGLICQR
@@ -3038,7 +3038,7 @@ D-IVQRIPF-L--SFLYLL-----------------LGYGILIRYK--IP----------
 ----LAWV------LIFIPCFLRALFGKYDSNTFMREAIEI-----------HLGRDGPD
 ------FIWWDRT-----RKD-QAPK---------------------------RPKL---
 -
->WDA99636.1_WDA99636.1|ycf60
+>Galdieria_sulphuraria|WDA99636.1|ycf60
 MIWTNHMDNNNSKKKKKVHVGPSRIFWPKDR--KNREEEIEQSRGAA-------------
 --------STKGRHFIK--------------ITQDMMETVLKEQSKLNHPFLRDPEPILE
 PLMPASYSLISFSIVAIVSSSISYTFQTIRKRF-------SKKGKKIIF----IVPIRIR

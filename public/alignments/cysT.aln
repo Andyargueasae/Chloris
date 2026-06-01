@@ -1,4 +1,4 @@
->BAC76128.1_BAC76128.1|cysT
+>Cyanidioschyzon_merolae_strain_10D|BAC76128.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MF
@@ -8,7 +8,7 @@ LYGP-KGWIGRYL------TLSYSPAGMCLAMMTVSLPLVVRTMQPVIAQL--EKDMEEA
 AWCLGASSWQTFRYAIWPNLVPAIITCLGLTWSRCVGEFGALMIISRNLPYKDLATSVLI
 ASLIEQDDEASATIIALMMMLLCGIV-LAFLEYSHDCLD---------------------
 -----------------
->YP_009105750.1_AIT94394|cysT
+>Neocystis_brevis|YP_009105750.1|cysT
 -----------------------------------------------MVEESN-------
 ---LFKIIYI-------------------------------------------------F
 MLPLKKSWP--------------------------------------------------W
@@ -18,7 +18,7 @@ VYSD-QGWIGSIL-ANFGIQIVFTRFGIMIAMIFVSFPFVIRTLQPVLQEM--EIELEEA
 AWSLGASPWQTFKKVVFPPLIPALLTGITLAFSRAIGEYGSIVIVSSNFPLKDLIASVLI
 FQNLEQYDYTKATIIGTVVLILSLVL-LLGINFLQSWNRNFE------------------
 -----------------
->WVV38069.1_WVV38069.1|cysT
+>Prototheca_fontanea|WVV38069.1|cysT
 MENLNK-------ENIN---------KFDINNN---NNDQKEEINTCSTNINKNILEENI
 NEDFDNDK----------IENRYDEDFKSSADNMPLNEDDHYNDDKFEIENKEELD-NGE
 LEI-ENIEELHKGY------RIKVQ--------------------------EARRRFFIK
@@ -28,7 +28,7 @@ VFGN-YGWLGPLL-NTIKFKIIYTKYGVLLAMVFASFPFVIRGVEPVLEKF--EYGLEEA
 AWVFGASPFETAKRVIFPTLVPALLTGFILNFSRALGEFGSVVMVSSNTPFDDLVTSVLI
 HQAIEQYDYFKAAVIGAVVLIIALFI-IYIINKIRSYFTRHKIR----------------
 -----------------
->WDY12860.1_WDY12860.1|cysT
+>Chloroidium_sp._KL-2023a|WDY12860.1|cysT
 ------------MK----------------------------------------------
 ------------------------------------------------------------
 --SGKVSWT--------------------------------------------------L
@@ -38,7 +38,7 @@ VYSP-QSWIGKFL-SQFGIQVIYTRLGVATAMVFVSLPFVVRSVQPVLQEM--DEEIEEA
 AWSLGASSWRTFCKILLPPLLPAFVTGITLGFSRAIGEYGSLVLVSSNIPYKDLIASVLI
 FQNLEQYEYAEATVIATVVLILSFLI-LLGVNSIQSWNRNRRK-----------------
 -----------------
->YP_009472570.1_ARO74184|cysT
+>Chlorodesmis_fastigiata|YP_009472570.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -48,7 +48,7 @@ IYGS-KGWFGKL-----GVQVVFTKFGILLAMIFVSLPFVVRSVQPVLRSI--NKQFEEA
 AWCLGATSWQTFLKVVWPTLIPALFTGMILSFSRCIGEYGSIVLLSSNFAFKDLVTSVLI
 FQCLEQYDYTGATVLGSVLLFFCFCF-FFLVNLILAYLK---------------------
 -----------------
->YP_010152819.1_QQW50480|cysT
+>Olisthodiscus_luteus|YP_010152819.1|cysT
 ------------MQKRNLGK--NLTNNPNLIPQR----------NNKQTKIKNSS-----
 ---FFKSFFYI---------------------------------D---------------
 ---------------------------------------------------------RFW
@@ -58,7 +58,7 @@ IYNE-NIFLNKIG-SSLNIELTFIK--MFSCLVFVSLPFTIRSLQPVLEDF--DKQIEEA
 AWCLGTSEFETFYKVILPNILPSFFIGLTLSFSRAIGEYGSLVVVSSNIPYKDLTSSVLI
 AQRIEQYDYEGATIIGIVMLTISLIL-LLSINLIQSWSQLHEN-----------------
 -----------------
->YP_010152820.1_QQW50481|cysW
+>Olisthodiscus_luteus|YP_010152820.1|cysW
 ------------------------------------------------MKTKNS------
 ---FI-------------------------------------------------------
 -------------------------------------------------------GSALV
@@ -68,7 +68,7 @@ LYNY-NTTLGSLL-RNLEIKIIFNLLGMTLATTFLTLPFILREILPLVEKV--TEEQEEA
 AKNSGAYNLQTFYLIFIPQVQDGTYYGILLTAIRTMGEFGAVSILSGNIISKTQTLTLFI
 EQSYKEYQTEQALIASFTLIMFSLIA-AFLKQVFLRVL----------------------
 -----------------
->YP_011059353.1_WVV38205|cysT
+>Prototheca_paracutis|YP_011059353.1|cysT
 ------------MA----------VPK-----------------KRKSKSKKN-------
 ---LQNLRRKA------------------------------------QIQAK------KA
 LSKAKKILNLLKLKIDTISTKLETKI--------------------DNYCDNVDPTRGTC
@@ -78,7 +78,7 @@ VFGN-KGLLGPML-QAANIKIVYSKIGVLLAMMFVSFPFVVRSVQPIIERF--DIEMEEA
 AWCAGGSPYETASRVIFPALIPALISGFTITFARSIGEFGTVVMLSSNLALDDLVTSVLV
 FQSLEQYDLCAARSITGTIIIFAYIF-LFTMNSARSIYNRRTSRYYY-------------
 -----------------
->YP_009306245.1_AOP19149|cysT
+>Derbesia_sp._WEST4838|YP_009306245.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MS-------------------------------------------------------LKL
@@ -88,7 +88,7 @@ VYSE-SGPFRVIL-ENLNIQIVYTKLGILLAMLFVSLPFIIRSVQPIITLI--DKEIEEA
 AWSLGASPWITFSKIIFPNLISALSTGVTLAFSRAIGEYGSIVIISSNFAMKDLIVPVLI
 FQYLEQYDYIGATVIGSVILFISLSL-LFFINWIQ--KRPFFNF----------------
 -----------------
->YP_004221988.1_ADV29836|cysT
+>Coccomyxa_subellipsoidea_C-169|YP_004221988.1|cysT
 --------------------------------------------------MKK-------
 ---LFLTVRN-------------------------------------------------K
 MRSTKISWS--------------------------------------------------W
@@ -98,7 +98,7 @@ VYSP-QGWVGQAL-SKIGVQVLFTRLGVAVAMIFVSFPFVVRTLQPVLQDM--EVELEEV
 AWSLGASPWKTFHRVLFPSLLPALITGVTLAFSRAIGEYGSIVIVSSNMPLKDLIASVLI
 FQNLEQYEYTGATVIGTVVLLISLVL-LFGVNAIQSMHRNR-------------------
 -----------------
->AIT94140.1_AIT94140.1|cysT
+>Marsupiomonas_sp._NIES_1824|AIT94140.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 --MVKKNRSL-------------------------------------------------R
@@ -108,7 +108,7 @@ VYSD-QTILGSFF-NHLGIEILFTRTGVGLAMVFVSFPFVVRSVQPILQEL--QQEIEEA
 SWSLGASSIETFFKVIFPAVFPSLITGMTLAFSRAMGEYGSIVIVASNIPFRDLVASVLI
 FQSLEQYDKMGATVIGTVVLMISLIL-LFTINALQNWQKL--------------------
 -----------------
->YP_009258392.1_ANI25264|cysT
+>Spirogyra_maxima|YP_009258392.1|cysT
 ------------MILFCLIS------------------------HQSFIK-DK-------
 -----------------------------------------------------------P
 QIFILKKFE------------------------------------------------LLL
@@ -118,7 +118,7 @@ VYSD-QGWMGPIC-SWLGVQVVFSQLGVLIAMIFVSIPFVVRTVQPVLESM--EEELEEA
 ALCVGASSWTTFWEIIFPPLAPSLVTGTALGFSRAIGEYGSITLISSNIPTKDLVISVLI
 SQKLEQYDYQGATVIATGALFVSFIL-LLVINSIQVWRQTLTK-----------------
 -----------------
->AIT93811.1_AIT93811.1|cysT
+>Pseudochlorella_signiensis|AIT93811.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTLFKNSWP--------------------------------------------------W
@@ -128,7 +128,7 @@ VYSD-QGWIGSIL-NDFGIQIVFTRLGITIAMIFVSFPFVVRTLQPVLQEM--EIELEEA
 AWSLGASPWQTFIKIVFPPLVPALLTGVTLAFSRAIGEYGSIVIVSSNFPLKDLIASVLI
 FQNLEQYDYIGATVIGTVVLVISLFL-LISINLFQSWNQNYKMN----------------
 -----------------
->YP_009326853.1_ANJ70715|cysT
+>Caulerpa_racemosa|YP_009326853.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -138,7 +138,7 @@ IYGS-KGWIGQFL-LDHGIQIIFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPGISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFFL-FLFINIY--LMRI-DLKPQPGSE----------
 -----------------
->QKS32280.1_QKS32280.1|cysT
+>Caulerpa_lentillifera|QKS32280.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MV
@@ -148,7 +148,7 @@ IYGS-KGWIGQFL-LDHGIQIIFTKWGILIAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATSWETFLKVIWPTLVPGVSTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVFI
 FQCLEQYDYTGATILGSVLLFFCFIL-FLFINIYQHFQGRQQTAAS--------------
 -----------------
->WVV38357.1_WVV38357.1|cysT
+>Prototheca_zopfii|WVV38357.1|cysT
 ----------MIMKKMN---------------------------NLEKNKIETP------
 ---LKKEKSLR-----------------------------------------------EC
 KQNYINTYR-------TCKKKEYNKFFSLKA--------------LENLLDFFMVERRMF
@@ -158,7 +158,7 @@ LYGS-KG-LGRFL-G--HNQIIYTRKAVLLAMIFTTFPFVVRSIQPVLEKVTENIELEET
 AWSFSYDDDKTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVIRKQ-----------------
 -----------------
->YP_009105996.1_AIT94751|cysT
+>Gloeotilopsis_sterilis|YP_009105996.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -MKIKNYWF--------------------------------------------------W
@@ -168,7 +168,7 @@ VYND-KGWIGSIL-ANFGIQIVFTKLGILIAMIFVSFPFVVRTLQPVLQEI--EKELEEA
 AWSLGASSWNTFLKVVFPPLIPAILTGTTLAFSRAIGEYGSVVLISSNFPLKDLIASVLI
 FQYLEQYDYIGATVIGTVVLIISLFL-LLTINFFQSWNQKYLKR----------------
 -----------------
->YP_009476572.1_AVM80964|cysT
+>Prototheca_ciferrii|YP_009476572.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------------------MVERRMF
@@ -178,7 +178,7 @@ LYGS-KG-LGRFL-G--NNQIIYTRKAVLLAMIFTTFPFVVRSIQPVLEKVTENIELEET
 AWSFSYDDDRTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSIVLVSGNFPFEDLVSSVFI
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVLRKQ-----------------
 -----------------
->YP_009104872.1_AIT93400|cysT
+>Myrmecia_israelensis|YP_009104872.1|cysT
 --------------------------------------------------MTS-------
 ---FFDLFSS-------------------------------------------------F
 FKKWKNSWS--------------------------------------------------W
@@ -188,7 +188,7 @@ VYSE-QGWIGSFL-SKFGIQIVFTKLGIVIAMIFVSFPFVVRTLQPVLQEM--ETELEEA
 AWSLGASSWKTFQKIILPPLVPAILTGLTLGFSRAIGEYGSIVIVSSNIPFKDLIASVLI
 FQNLEQYDYSRATVIGTVVLMLSLFL-LLGINFLQTWNQKHL-KF---------------
 -----------------
->YP_009258457.1_ANI25474|cysT
+>Netrium_digitus|YP_009258457.1|cysT
 ------------MQSLCVIS------------------------NFRFQNINK-------
 -----------------------------------------------------------K
 LMKVICNIE------------------------------------------------IPL
@@ -198,7 +198,7 @@ VYSE-QGWMGPFC-SWLGVKVAFNRLGILIAMIFVSLPFVVRTIQPVLQGI--EEEIEEA
 AWCIGASPWTTFSQILLPTLTPSLLTGTALGFSRSIGEYGSIVLIASNIPMKDLVVSVLI
 FQKLEQYDYQGATAIATIVLIGSFLI-LLLINYIQLWRQDFAK-----------------
 -----------------
->WVV38103.1_WVV38103.1|cysT
+>Prototheca_lentecrescens|WVV38103.1|cysT
 ------------MEKKNIEN----QNKRELLDTL--KNTEALESTEALENIEN-------
 ---IKDKAVEE--------HRKKDSTIVEVE----------------ELTQEELLEIYKR
 LDERAIIWE------AQQKQKEKEKIIDLEEIEPLVSVHARYRKRMNEFRRKMAIITAIC
@@ -208,7 +208,7 @@ VFGN-KGWLGPIL-NTFGLKIIYTQYGAFLAMIFASFPFVVRGVEPILEKF--PYGLEEA
 AWSFGADDFQTALRAIFPTLVPAILTGFILNFTRALGEYGSVVMVAGNESFKNLFLSVLT
 QQYIEQYEYFDAVVIGAVILISALTI-IFIINLIRGYFLRHKLR----------------
 -----------------
->ANN39008.1_ANN39008.1|cysT
+>Lambia_antarctica|ANN39008.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MFFFP----------------------------------------------SFLQW
@@ -218,7 +218,7 @@ IYGD-KGWIGSVL-AKIGIQIVFTKTGILLAMIFVSFPFIVRSLQPVIITL--EKELEEA
 AWSLGASSWLTFSKIILPNLLPALFTGITLAFSRAIGEYGSIVIISSNFAMKDLITPVLI
 FQCLEQYDYTGATIIGSVILLISFFL-LILVNFFQSWTLSFKKLL---------------
 -----------------
->YP_009258791.1_ANI25834|cysT
+>Cylindrocystis_brebissonii|YP_009258791.1|cysT
 ------------MISIYLKP------------------------LKILLSKNR-------
 -----------------------------------------------------------K
 FPKVLNVFE------------------------------------------------ILL
@@ -228,7 +228,7 @@ VYND-KGWMGPIC-SWLGIQVVFSQIGVLIAMIFVSLPFVVRTVQPVLQNI--EEQIEEA
 AWCLGASSWTTFWHILFPLLIPSLLTGTVLSFSRAIGEYGSIILISSNIPMKDLVISVLI
 FQKLEQYDYAGATLIAIIVLLVSFVF-LFTINYIQLWRQAFAK-----------------
 -----------------
->WEM32105.1_WEM32105.1|cysT
+>Ostreobium_sp._TRHA14-720|WEM32105.1|cysT
 ------------MK----------------------------------------------
 ------------------------------------------------------------
 LKKNLNSWL---------------------------------------------------
@@ -238,7 +238,7 @@ IYSD-KGLIGSYL-SKFNIQIIFTRLGIVVAMIFVSFPFIIRALQPALETL--EREFEQA
 AWVLGASSWKTFSSIVFPSLLPSLLTGLTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 FQCLEQYDYSGATTIGTVMLILSLLL-LIIINFFQRWDPKI-------------------
 -----------------
->WDB00560.1_WDB00560.1|cysW
+>Cavernulicola_chilensis|WDB00560.1|cysW
 ------------MPSNF---------------------------QFCPRRFSKR------
 ---IV-------------------------------------------------------
 -------------------------------------------------------KYFLV
@@ -248,7 +248,7 @@ LYGK-NGWLGDFF-LSKEIRIVFALPGMIIASAFVTLPFIVREILPILEEI--GTEQEEA
 ARTMGANEYQIFWLVTFPNIKWGLLYGIVLTNARTVGEFGAVSIISGNIIGKTQTLTLFV
 EQAYKEYQTQASFSAAIFLFILSLFT-ILVRKILICL-----------------------
 -----------------
->WDB00561.1_WDB00561.1|cysT
+>Cavernulicola_chilensis|WDB00561.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------------------------MKI
@@ -258,7 +258,7 @@ IYGE-KGIIGGIL-KIFGIQLTFNVPGIIIAMTFVSLPFMVRTLQPIIQEI--EKEIEEA
 AWALGASTWQTFWFIIFPQLIPTILTGVALTFSRAIGEYGSIVIISSNIPYQDLTTSVLI
 AQKLEQYDYVGATIIGTVILFISFII-LFIINLLQLWSKLYAK-----------------
 -----------------
->AYC65374.1_AYC65374.1|cysT
+>Pseudocodium_devriesii|AYC65374.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -268,7 +268,7 @@ IYGS-RGWLGAFL-IQHGIHIVFTKLGILLAMVFVSFPFVIRSVQPVLLEI--DQQLEEA
 AWSLGATSWQTFLKIIWPTLIPAVLTGMVLSFSRCIGEYGSIVLLSSNFAFKDLITPVLI
 FQCLEQYDYTGATILGSVLLCFCFCF-FLLANFLQIYLNQ-NFK----------------
 -----------------
->WDY12877.1_WDY12877.1|cysT
+>Kalinella_pachyderma|WDY12877.1|cysT
 ------------MPIRHARALDGVATKVPVR------ALGERG---NGGQQNS-------
 ---VLLNTAQP-----------------------------------------------PR
 KNRVLYRPS--------------------------------------------------V
@@ -278,7 +278,7 @@ VYSP-QGWIGESL-AKVGIQVVYTRVGIAIAMIFVSLPFVVRSLQPVLQEI--DEQIEEA
 AWSLGASSYRTFRKVLLPPLLPAFLTGLTLGFSRAIGEYGSLVLVSSNIPYKDLIASVLI
 FQSLEQYEYGEATVIATVVLFISFLI-LFGVNSLQSWSRNRQN-----------------
 -----------------
->AIY30180.1_AIY30180.1|cysT
+>Lobosphaera_incisa|AIY30180.1|cysT
 ----------------------------------------------MNINIKK-------
 ---FS----T-------------------------------------------------F
 FNTSLISWP--------------------------------------------------W
@@ -288,7 +288,7 @@ IYNQ-GGWLGSIL-SYFGIKVAFTRLGIIIAMIFVSFPFIVRTLQPVLQEL--EIELEEA
 AWSLGASPWKTFQKVVFPPLIPAILTGASLAFSRAIGEYGSIVIVASNIPFKDLIASVLI
 FQKLEQYEYIGATVIGTVVLFISLII-LFGINILQTWNRKGLK-----------------
 -----------------
->AHK09993.1_AHK09993.1|cysT
+>Prototheca_wickerhamii|AHK09993.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -298,7 +298,7 @@ VYGN-QGWVGRFL-KMGNLQIIYTKFGVLLAMIFVSFPFVIRSLQPVLQEL--DHGLEEA
 AWCLGASSFQTFLRVIFPTLVPALVTGFTLSFSRALGEFGSVVMISSNLPLDDLVTSVLI
 YQSLEQYDYFGASVIGAVILMIALLI-IFLINTAQAFYSRR-------------------
 -----------------
->YP_009106827.1_AIT95653|cysT
+>Marvania_geminata|YP_009106827.1|cysT
 ----------------------------------------------MALEKSP-------
 ---FQSRI------------------FQSLR----------------------------K
 L---TQS------------------------------------------------PLLVR
@@ -308,7 +308,7 @@ VYGD-HGWIGSFF-HKYNIQIVFTPIGVFLAMVFVSFPFVIRTLQPVFQEL--ELGLEEA
 AWSLGATEWQTFSRILFPTLWPALLTGFTLSFSRALGEFGSIVMISSNLPLKDLVASVLI
 YQSLEQYDYLGASVIGSVVLLIALIS-LLFLNILQTFMTRTQ------------------
 -----------------
->YP_009020848.1_AHM23722|cysT
+>Chlorella_sorokiniana|YP_009020848.1|cysT
 ------------MNTIF---------------------------STLLTKITL-------
 ---FVKKFINPILVLTNRVGPATKTLFLGLN----------------------------S
 VSP-KNE-SFGKGK-----GKGQKK--------------------------AIYSTFVLN
@@ -318,7 +318,7 @@ VYGD-QGWIGSFF-SPFGLQIVFTKSGVLLAMIFVSFPFVIRTLQPVLQEI--EQSLEEA
 AWSLGASPWQTFRRVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYLGASVIGSVVLLIAFTT-LILINAFQALKYRV-------------------
 -----------------
->BBD20227.1_BBD20227.1|cysT
+>Prototheca_cutis|BBD20227.1|cysT
 ------------MA----------VPK-----------------KRKSKSKNN-------
 ---LQNLRRKA------------------------------------QIQAK------KA
 LSKAKKTLNLLKLKINTISTKLETKI--------------------DNYCDNVDPTRGTC
@@ -328,7 +328,7 @@ VFGN-KGLFGPIL-QAANIKIVYSKFGVLLAMMFVSFPFVVRSVQPIIERF--DIEMEEA
 AWCAGGSPYETASRVIFPALIPALISGFTITFARSIGEFGTVVMLSSNLAFDDLVTSVLV
 FQSLEQYDLCAARSITGTVIIFAYIF-LFTMNSARSIYNRRTSRYSY-------------
 -----------------
->WVV38022.1_WVV38022.1|cysT
+>Prototheca_blaschkeae|WVV38022.1|cysT
 ---------------------------------------------MIRYQSQT-------
 ------------------------------------------------------------
 MRRFIETYK-------TCKPRQYNKFFSKDA--------------LEEYIAFILEKHRLK
@@ -338,7 +338,7 @@ LFGG-KGWIGSLL-G--EHQIIYTKAGVLLAMVFVSFPFVVRSVQPVLDKINSDVEIEEN
 AWCLGSEDTYTFSRVIFPLSIPALLNGFSLTFSRALGEFGSVVMVSGNFPFEDLVSSVCI
 SQTLEQYDYTGACVISSIVILGACVF-LAIMYCFRYYFVLRKK-----------------
 -----------------
->YP_009105912.1_AIT94676|cysT
+>Microthamnion_kuetzingianum|YP_009105912.1|cysT
 ------------MK------------KIVVS-------------EIYAEKVRK-------
 ---FF-------------------------------------------------------
 -RSLLNTWSSVF--------CAQNK--------------------------RWITSFGPL
@@ -348,7 +348,7 @@ VYSQ-QGWIGSLL-SKIGIEVVFTRLGIIIAMVFVSFPFVVRTIQPVLQEM--EIELEEA
 AWSLGASSWNTFKKVVFPPLFPAIVTGLTLAFSRAIGEYGSIVIVSSNIPLKDLIASILI
 FQNLEQYDYKRATVIGTVVLLMSLFL-LLGINIFQAWARQKQN-----------------
 -----------------
->UXE31224.1_UXE31224.1|cysT
+>Ostreobium_quekettii|UXE31224.1|cysT
 ------------MR----------------------------------------------
 ------------------------------------------------------------
 IKKLLNSWL---------------------------------------------------
@@ -358,7 +358,7 @@ IYSD-KGIIGSYL-SKLNIQIIFTRFGIIVAMIFVSFPFIIRTLQPALETL--EREYEQA
 AWVLGASPWKTFYSVVLPVLLPSFLTGFTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 FQCLEQYDYTGATIIGTVMLFISLIL-LIIINFFQRWNQQI-------------------
 -----------------
->YP_009106649.1_AIT95400|cysT
+>Dicloster_acuatus|YP_009106649.1|cysT
 --------------------------------------------------MRL-------
 ---FLNVI----------------------------------------------------
 ----KTP------------------------------------------------NLFMA
@@ -368,7 +368,7 @@ VYGE-QGWIGSLL-KTFNIEIVFTKAGVLLAMIFVSFPFVIRTLQPVIQEV--EKSLEEA
 AWSLGASPFQTFFRVILPTLWPSILTGFTLSFSRALGEFGSIVMISSNLALKDLVASVLI
 YQSLEQYDYIGASVIGAVILLIALLT-FLIINKLQSRNFHSVY-----------------
 -----------------
->QHQ73293.1_QHQ73293.1|cysT
+>Caulerpa_ashmeadii|QHQ73293.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -378,7 +378,7 @@ IYGS-KGWIGQFL-LDHGIQIIFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPGISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFIL-FLFINIY--LMGRGDLKPNPGSEKKSQTPQKTA
 TITQDHAVSRSPN----
->AYC65000.1_AYC65000.1|cysT
+>Callipsygma_wilsonis|AYC65000.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MG
@@ -388,7 +388,7 @@ LYSS-KGWFGKFL-IKNGIQVIFSKLGILLAMIFVSFPFVIRSVQPALLNI--DKKLEEA
 AWCLGATPWQTFSKIIWPTLTPSFLTGMILSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 VQCIEQYDYVGATILGSVLLFFCFLF-FLLVNIFY-------------------------
 -----------------
->YP_009104931.1_AIT93562|cysT
+>Watanabea_reniformis|YP_009104931.1|cysT
 ------------MK-KRQANLDLPPSRKPFRVPEWMASVLPRGFFFTADHKKS-------
 ---LSYL-----------------------------------------------------
 INRIQISWP--------------------------------------------------L
@@ -398,7 +398,7 @@ VYSK-TGWIGEFL-SKFGIQVVYTRLGIATAMVFVSLPFVVRAVQPVLQEL--DEEIEEA
 AWSLGADPWTTFCKVVVPSLLPAFVTGITLGFSRAIGEYGSLVLVSSNIPFKDLIASVLI
 FQNLEQYEYTEATVVATVVLIISFCI-LLGVSSLQSWNRKRRK-----------------
 -----------------
->YP_010732171.1_WDY13085|cysT
+>Calidiella_yingdensis|YP_010732171.1|cysT
 ------------MY----------------------------------------------
 ---------K-------------------------------------------------N
 LIKTGVSWT--------------------------------------------------V
@@ -408,7 +408,7 @@ VYSS-QSCLGKCL-NEYGIQIVYTRIGIAIAMVFVSLPFVVRTVQPVLQEI--NQEIEEA
 AWSLGASPWRTFRQLLLPSLFPALLTGASLAFSRAIGEYGSLVLVSSNIPLKDLLVSVLI
 FQNLEQYEYAEATVIATVVLILSFFI-LLIVNTIQSLYRNKA------------------
 -----------------
->WDY13174.1_WDY13174.1|cysT
+>Watanabea_sichuanensis|WDY13174.1|cysT
 ------------MK-KRQGKLDSTTSRKLFQLREWIADILPRVFFFTTEHKNS-------
 ---LLYV-----------------------------------------------------
 VNRIHISWP--------------------------------------------------L
@@ -418,7 +418,7 @@ VYSK-TGWLGEFL-SNFGIQVVYTRLGIATAMVFVSLPFVVRAVQPVLQEL--DEEIEEA
 AWSLGAAPWTTFSKVVLPSLLPAFVTGITLGFSRAIGEYGSLVLVSSNIPFKDLIASVLI
 FQNLEQYEYTEATVVATVVLIISFCI-LLGVNFLQSWNRKRRK-----------------
 -----------------
->YP_010040810.1_QOZ41706|cysT
+>Prototheca_wickerhamii|YP_010040810.1|cysT
 MDNENKK-SSEKMENLND------LEKIDIVENIKPNNSEEQYIN----EINQ---ISDC
 NE-FKTEE----------IES-----------------------DTKKILSEET-----E
 LEI-ENMEELHAGY------REKVR--------------------------EARRRFFIK
@@ -428,7 +428,7 @@ VFGNKKSWLGPIL-NFFNMKIIYTKYGVLLAMIFASFPFVIRGIEPILEKH--EHGLEEA
 AWTFGANEYETAKRLIFPTVAPALLTGFILNFSRSLGEFGSVVMVSSNTPFDDLVTSVLI
 HQAVEQYDYFKACVIAAVVLIFALIF-IYIVNRIRAYYTRHKIR----------------
 -----------------
->AIT93888.1_AIT93888.1|cysT
+>Pedinomonas_tuberculata|AIT93888.1|cysT
 --------------------------------------------------MNF-------
 ---FFSKQGK--------------------------------------------------
 -------------------------------------------------------NFAGW
@@ -438,7 +438,7 @@ IYSQ-NSLIGNSL-ENLGIQVVFTRLGIAVAMLFVSFPFVVRSVQPILQEI--EPELEEA
 AMSLGASQFLIFQKILIPAITPSLITGVALAFSRAIGEFGSVVIIASNIPLKDLISPVLI
 FQSLEQYDTLGATVVGTVMLILSLVL-LLIINFIQSFTVIKK------------------
 -----------------
->AUJ22895.1_AUJ22895.1|cysT
+>Coccomyxa_sp._SUA001|AUJ22895.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -448,7 +448,7 @@ VYSP-QGWIGQAL-TKVGVQVLFTRLGVAVAMVFVSFPFVVRTLQPVLQDM--EVELEEV
 AWSLGASPWKTFHRVLFPSLLPALITGVTLAFSRAIGEYGSIVIVSSNMPLKDLIASVLI
 FQNLEQYEYTGATVIGTVVLLISLVL-LFGVNAIQSMHRNR-------------------
 -----------------
->AYC64740.1_AYC64740.1|cysT
+>Boodleopsis_sp._FL1161|AYC64740.1|cysT
 ------------------------------------------------------------
 -----------------------------------------------------------M
 LNYI------------------------------------------------------KQ
@@ -458,7 +458,7 @@ IYGS-KTWIGQIF-LQNGIQIVFTNFGVLLGMVFVSFPFGIRNVQPILLDI--DQQIEET
 AWCLGATSWQTFSKILWPILMPAFLTGAILSFSRCIGEYGAIVLLSSNYPFKNLITPVLI
 FQCLEQYDYLSATIFGSILLFFCLVF-FFFLNFILHKFKI--------------------
 -----------------
->YP_009519306.1_AYC65214|cysT
+>Codium_arabicum|YP_009519306.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNKNFLIFE--------------------------------------------------K
@@ -468,7 +468,7 @@ VYGE-NGWIGQIL-KIWNIQIIFTKLGILIAMIFVSFPFLVRTLQPMIELL--EKEIEEA
 AWSLGASDWITFNKIIIPNLVPSILTGLTLAFSRAIGEFGSIIIISSNFAFKDLITPVLI
 FQCLEQYDYIGATIIGSVILLISLFL-LFLINIFQ-------------------------
 -----------------
->AIT95164.1_AIT95164.1|cysT
+>Fusochloris_perforata|AIT95164.1|cysT
 ---------------------------------------------MIFNKKKN-------
 ---FFY---N-------------------------------------------------Y
 VKSFLVNRTFYF--------FQIVK-----------------------------TNFG-F
@@ -478,7 +478,7 @@ VYSE-GGWIGSIF-SKMGVEVVFTRLGIIIAMVFVSFPFVVRTIQPVLQEM--EIELEEA
 AWSLGASSWKTFLKIVAPPLFPAFITGLTLAFSRAIGEYGSIVIVSSNIPLKDLIASVLI
 FQNLEQYDYKRATIIGTVVLLLSLFL-LLGINLVQAWTKRKK------------------
 -----------------
->YP_009106038.1_AIT94832|cysT
+>Choricystis_parasitica|YP_009106038.1|cysT
 ------------MT---------NFSKNQIE---------------KAHPFSR-------
 ---FLNTSLG-------------------------------------------------T
 L-----PWM--------------------------------------------------W
@@ -488,7 +488,7 @@ IYNP-NGWIGRWA-AKFGISLMYNKTGIALAMLFVSFPFVVRTVQPVLQAL--DPELEEA
 AWSLGASPFKTFWKVIVPPIFPSFLTGITLAFSRALGEYGAVVVVSSNMPYNDLLVSVLI
 FQNLEQYEYLTATVIGTVFLFLSGIV-LLSVNWFQSRYRQLRL-----------------
 -----------------
->AIT94911.1_AIT94911.1|cysT
+>Paradoxia_multiseta|AIT94911.1|cysT
 --------------------------------------------------MKK-------
 ---LLLTFRN-------------------------------------------------K
 VQATKISWS--------------------------------------------------W
@@ -498,7 +498,7 @@ VYSP-QGWIGQAL-TKVGVQVLFTRLGVAVAMVFVSFPFVVRTLQPVLQDM--EVELEEV
 AWSLGASPWKTFHRVLFPSLLPALITGVTLAFSRAIGEYGSIVIVSSNMPLKDLIASVLI
 FQNLEQYEYTGATVIGTVVLLISLVL-LFGVNAIQSMHRNR-------------------
 -----------------
->AID67671.1_AID67671.1|cysT
+>Nephroselmis_astigmatica|AID67671.1|cysT
 --------------------------------------------------MKH-------
 ----------N-----------------------------------------------PI
 ---LSLSWT--------------------------------------------------W
@@ -508,7 +508,7 @@ VYSD-QGWIGSWL-ATWGIQVAFTRIGVGIAMVFVSLPFVVRTLQPVLEEM--ETELEEA
 AWSLGASPWNTFWKVIFPPLVPALLTGMALAFSRAVGEYGSVVILAANIPFQDLIAPVLI
 FQRLEQYDYSGATVIGTVVLGISLLL-LLTINWIQSWNRRYTDA----------------
 -----------------
->WVV38281.1_WVV38281.1|cysT
+>Prototheca_tumulicola|WVV38281.1|cysT
 ---------------------------------------------MSIYNYNTT------
 ---IT-----------------------------------------------------SS
 MQNFIHTFK-------TAKKREYDPIFSKEA--------------FEEVISYLLYRKRLI
@@ -518,7 +518,7 @@ LFGT-KGWIGRFL-G--KNQIIYTRRGVLLAMIFVSFPFVVRSVQPILQQISLDLEIEEN
 AWCLGTDDFYTFLKIIFPLTIPALLNGFSLTFSRALGEFGSVVMVSSNFPFEDLVSSVYI
 SQTLEQYDYVGACVISSIVILGACVF-LFIIYCFRYYFVLRKK-----------------
 -----------------
->AIT93648.1_AIT93648.1|cysT
+>Stichococcus_bacillaris|AIT93648.1|cysT
 ----------------------------------------------MMKKIKN-------
 ----------------------------------------------------------HI
 NKVAEEMWP-------------------------------------------ISTWYESR
@@ -528,7 +528,7 @@ VYNP-EGPLGPLL-SKLGIQIIFSRLGVFMAMLFVSLPFVVRTVQGVLQGI--DDSIEEV
 AWSLGASPRDTLQYVLLPSLFPAFISGITLAWARSIGEFGSIIIISSNSPFKDLIAPVLI
 FQHLEQYNYIGASVVGSVLLFFSTIL-IVSVRLLAAYLQKFSIKNTYKS-----------
 -------------W---
->WVV38303.1_WVV38303.1|cysT
+>Prototheca_vistulensis|WVV38303.1|cysT
 ------------MKQIN---------------------------NL-KNKIETP------
 ---IKKEKSLR-----------------------------------------------EC
 KQNYIYTYK-------TCRKKEYNRFFSLKA--------------LENLLDFFMVERRMF
@@ -538,7 +538,7 @@ LYGS-KG-LGRFL-G--NNQIIYTKKAVLLAMIFTTFPFVVRSIQPVLEKVTEDIELEET
 AWSFSYDDNKTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVIRKQ-----------------
 -----------------
->YP_009519184.1_AYC65088|cysT
+>Caulerpa_verticillata|YP_009519184.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -548,7 +548,7 @@ IYGS-KSWIGQFW-LNHGIQIVFTKWGVLFAMIFVSFPFVIRSVQPIFEQI--DKQLEEA
 AWCLGASPWSTFLKIIWPTLVPGVLTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATVLGSVLLFVCFVL-FVVINICQTLFKNY-------------------
 -----------------
->QHN60195.1_QHN60195.1|cysT
+>Caulerpa_sertularioides_f._longipes|QHN60195.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MV
@@ -558,7 +558,7 @@ IYGS-KGWIGQFL-QDHGIQILFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPGISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFIL-FLFINIS--LMGM-DLKPNPGSE----------
 -----------------
->AIT93477.1_AIT93477.1|cysT
+>Prasiolopsis_sp._SAG_84.81|AIT93477.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MKFLKTSWP--------------------------------------------------W
@@ -568,7 +568,7 @@ VYSE-QSWIGAFF-FNFGIQIIFTRLGILIAMIFVSFPFVVRTLQPVLQEM--EVELEEA
 AWSLGASSWQSFYKVIFPPLVPAFITGITLSFSRAIGEYGSIVIISSNFPLKDLIASVLI
 FQSLEQYDYIGATVVGTVVLVVSLIL-LFAVHFLQSLHRNSVFPRNK-------------
 -----------------
->ACQ90922.1_ACQ90922.1|cysT
+>Parachlorella_kessleri|ACQ90922.1|cysT
 --------------------------------------------------MRI-------
 ---FSNLI----------------------------------------------------
 ----KTP------------------------------------------------NLLLS
@@ -578,7 +578,7 @@ VYGE-QGWIGSLL-KIFNIQIVFTKMGVLLAMIFVSFPFVIRTLQPVIQEL--EKSLEEA
 AWSLGASPLQTFFYVILPTLWPSILTGFTLSFSRALGEFGSIVMISSNLALKDLVASVLI
 YQSLEQYDYTGASVIGAVVLLIALFS-FLIINKLQSFNLKSV------------------
 -----------------
->WDY12740.1_WDY12740.1|cysT
+>Phyllosiphon_coccidium|WDY12740.1|cysT
 ------------MA----------------------------------------------
 ---------Q--------------------------------------------------
 ------RWT--------------------------------------------------L
@@ -588,7 +588,7 @@ VYNP-HAPLGHFL-GQFGIQVVYTRLGIAIAMQFVSLPFVVRALQPVLQEM--DHEIEEA
 AWSLGASPWRTFRHVLLPSLCPAFLTGVTLAFSRAIGEYGSLVLVSSNIPLKDLIASVLI
 FQNLEQYEYSQATVVATVVLLISFCI-LFGVNGIQSWNRNRRR-----------------
 -----------------
->WDA99524.1_WDA99524.1|cysT
+>Galdieria_yellowstonensis|WDA99524.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---MSSLFKYF--------------------------------------------KNLNP
@@ -598,7 +598,7 @@ AYQT-DSSLSKIFNKIFKLQLIYSPSAIIMVMVFVSIPFVIRNLQPILLELDSKKEIKES
 AICLGANSWQIFLFIIFPYIKKSLLTGAVLSFARSIGEFGSIIIISSNLPYKDLVVSVLI
 AQKLEQYDYQSATVIGTIMLFISLFI-LSVLNLLDRSSYD--------------------
 -----------------
->WDA99525.1_WDA99525.1|cysW
+>Galdieria_yellowstonensis|WDA99525.1|cysW
 ------------------------------------------------------------
 ---MI-------------------------------------------------------
 -------------------------------------------------------KYLIL
@@ -608,7 +608,7 @@ LYSK-YSYLGSFL-LNLGIKITYNLLGILLTTQFITFPLIPKQILPILSKI--DPQEEEA
 AKTLGANSWQIFWLVIFPYIKTSFFSGVILTNARVIGEFGALMMISGNIIGKTQTLTLFL
 EQSYKEYQSYISNAVSLLLFFLSIFL-LFFQRYLFL------------------------
 -----------------
->UXC96682.1_UXC96682.1|cysT
+>Caulerpa_taxifolia|UXC96682.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -618,7 +618,7 @@ IYGS-KGWIGQFL-LDHGIQIIFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPSISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFIL-FLFINIY--LMGM-DLKPKPGS-----------
 -----------------
->XCM63623.1_XCM63623.1|cysT
+>Koliella_sp._HS-2024a|XCM63623.1|cysT
 ---MAK----DSLQSIS------------------------------SSNITL-------
 ---VKVLT-------------NINQSL---------------------------------
 ----SNS------------------------------------------------PIISI
@@ -628,7 +628,7 @@ VYGE-QGWIGNLL-HKLNMQIVFTPIGVLLAMIFVSFPFVIRTLQPVLQEL--EVSLEEA
 AWSLGANSWQTFSRIILPTLWPAVITGFTLSFSRALGEFGSIVMISSNLPLKDLVASVLI
 YQSLEQYDYLGASVIGIVVLFIALIS-LIFINTLQSFKFR--------------------
 -----------------
->AIT95487.1_AIT95487.1|cysT
+>Pseudochloris_wilhelmii|AIT95487.1|cysT
 ---------------MW---------------------------RRFSLDIKK-------
 ---FKAIK-----------KFHWFKYFIEFL----------------------------F
 IR--KNT--------------------------------------------------AIR
@@ -638,7 +638,7 @@ IYGK-QGILGRVF-HLFGIEIVFTKIGVLLAMIFVSFPFVIRTLQPVIQEL--DITLEEA
 AWSLGASSWETFLRILVPNVWPAVLTGFTLSFSRALGEFGSVVMIASNIPFRDVVTSVLI
 YQSIEQYDYIGAAVIGTVMLITAFII-IVSINIVQANYLKN-------------------
 -----------------
->ANG44438.1_ANG44438.1|cysT
+>Ostreobium_sp._OS1B|ANG44438.1|cysT
 ------------MR----------------------------------------------
 ------------------------------------------------------------
 IKKLSNSWL---------------------------------------------------
@@ -648,7 +648,7 @@ IYSD-KGIIGSYL-SQLNIQVIFTRLGIVVAMVFVSFPFIIRTLQPALETL--EREYEQA
 AWVLGASPWKTFYSIVLPILLPSFLTGFTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 FQCLEQYDYIGATIIGTVMLFISLIL-LIIINFFQRWSQQI-------------------
 -----------------
->BBD21570.1_BBD21570.1|cysT
+>Rhipidosiphon_lewmanomontiae|BBD21570.1|cysT
 ------------ME----------------------------------------------
 ----------------------------------------------------------PC
 F-YFLLSTS-----------------------------------------------LKMR
@@ -658,7 +658,7 @@ IYGS-KSWFGNF-----GIQIVFTKLGILLAMIFVSLPFVVRSVQPVLIGI--NRQFEEA
 AWCLGATSWQTFLKVIWPTLLPALFTGMILSFSRCIGEYGSIVLLSSNFALKDLVTSVLI
 FQCLEQYDYTGATVLGSVLLFFCFFL-FFLANLVLTYFK---------------------
 -----------------
->QJD22247.1_QJD22247.1|cysT
+>Micractinium_singularis|QJD22247.1|cysT
 ------------MNNIF---------------------------STVNSKLYT-------
 ---YYK-------------------NFLLVT----------------------------N
 L---KPT-------------------------------------------------FFTS
@@ -668,7 +668,7 @@ VYGD-QGWIGSFF-NSLGFQIVFTKFGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWQTFIRVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLLINAFQSLKYRV-------------------
 -----------------
->AIG92612.1_AIG92612.1|cysW
+>Galdieria_sulphuraria|AIG92612.1|cysW
 ------------------------------------------------------------
 ---MI-------------------------------------------------------
 -------------------------------------------------------KYLIL
@@ -678,7 +678,7 @@ LYSK-YSYLGSFL-LNLGIKITYNSLGILLTTQFITFPLIPRQIIPILSKI--DQQEEEA
 AKTLGANSWQIFWLVIFPYIKRSFLSGAVLTNARVIGEFGALLMISGNIIAKTQTLTLFL
 EQAYKEYQNYISNAVSLLLFLLSIFL-LFFQRYLFL------------------------
 -----------------
->AIG92613.1_AIG92613.1|cysT
+>Galdieria_sulphuraria|AIG92613.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---MLIPFRYF--------------------------------------------KTLNP
@@ -688,7 +688,7 @@ TYQA-DS----IFSKIFKLQLIYSPNAIIMVMIFVSLPFIIRNLQPILLELDSNKEIQES
 AICLGANSWQIFLFVIFPYIKPSLITGSVLSFARSIGEFGSIIIISSNLPYKDLVVSVLI
 AQKLEQYDYQSATVIGTIMLFISLFI-LLLLNLLDRSSYD--------------------
 -----------------
->AIT95571.1_AIT95571.1|cysT
+>Elliptochloris_bilobata|AIT95571.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MEKIHPPWP--------------------------------------------------W
@@ -698,7 +698,7 @@ VYTN-QSWVGQMA-EKFGIQIMFSRLGILIAMIFVSFPFVVRTLQPVLREI--NVELEEA
 AWCLGASSKDTFQRVLFPSLLPAILVGATLSFSRAIGEYGSIVIVSSNIPLKDLIAPVLI
 FQNLEQYEYERATVIGTVILFLSLFL-LFGVNFFQSWNRHLEE-----------------
 -----------------
->AST08778.1_AST08778.1|cysT
+>Chlorella_sp._ATCC_30562|AST08778.1|cysT
 ------------MNTIF---------------------------FSLNLKLQP-------
 ---YYKKI----I--------CLVNPFQKIK----------------------------F
 F---VSS------------------------------------------------VFFKN
@@ -708,7 +708,7 @@ VYGD-QGWIGSIF-NLFGFQIVFTKLGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWETFCKVILPTLWPAIFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLLINAFQSIKFRE-------------------
 -----------------
->ARO74100.1_ARO74100.1|cysT
+>Bryopsis_sp._HV04063|ARO74100.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MFFFS--------------------------------------------------Y
@@ -718,7 +718,7 @@ IYND-KGWIGSFL-TKFGIQIIFTKIGILLAMIFVSFPFIVRSLQPVIITL--EKELEEA
 AWSLGASSWLTFYKIVFPNLLPALFTGITLAFSRAIGEYGSVVIISSNFAFKDLITPVLI
 FQYLEQYDYIGATIIGSVILLISFFL-LILVNFFQSWALSSRYYS---------------
 -----------------
->WVV38258.1_WVV38258.1|cysT
+>Prototheca_pringsheimii|WVV38258.1|cysT
 ------------MKKMN---------------------------NL-KNKIETP------
 ---IKKEKSLR-----------------------------------------------EC
 KQNYIYTYK-------TCRTKEYNKFFSLKA--------------LENLLDFFMVERRMF
@@ -728,7 +728,7 @@ LYGS-KG-LGRFL-G--NNQIIYTRKAVLLAMIFTTFPFVVRSIQPVLEKVTENIELEET
 AWSFSYDDDRTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVLRKQ-----------------
 -----------------
->NP_050928.1_AAD54899|cysT
+>Nephroselmis_olivacea|NP_050928.1|cysT
 -----------------------------------------------MFDPKS-------
 ---LDSGSRSI-----------------------------------------------LT
 MKNRLVSWA--------------------------------------------------W
@@ -738,7 +738,7 @@ VYSD-QGWIGTWL-SSLNIQVAFTRLGVMLAMLFVSFPFVVRTLQPVLQDM--ERELEEA
 AWSLGASPFNTFLRVLCPPLMPAMMTGIALAFSRAVGEYGSVVIVSGNIPFQDLIAPVLI
 FQRLEQYDYSGATVIGTVVLLISLTL-LLAINWIQASNRKFLG-----------------
 -----------------
->ACK36796.1_ACK36796.1|cysT
+>Pycnococcus_provasolii|ACK36796.1|cysT
 ------------M-----------------------------------------------
 -----------------------------------------------------------T
 LTNTKNGLS------------------------------------------------LIG
@@ -748,7 +748,7 @@ VYGD-SSWLGTWLMQTFGVQVAFTRIGVALAMIFVSFPFVVRTVQPVLRSL--EPELEEA
 AQVLGATPLQCFRYVIFPALLPSLLTGTALGFSRAVGEFGSVVIVASNVPFKDLVAPVLI
 FQELERYSYSSATALGSIMLLTSLLL-LFILNFIQTKTLRRNQ-----------------
 -----------------
->YP_010447302.1_UTN43222|cysT
+>Halimeda_opuntia|YP_010447302.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -758,7 +758,7 @@ IYGS-KGWFGTFL-LNHGIQIVFTKLGILLAMIFVSFPFGIRSVQPVLLDM--DKQLEEA
 AWCLGATPWRTFSKIVWPTLIPAILTGMVLSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATVLGSVLLFFCFFF-FLIVNIFQ------NKN----------------
 -----------------
->YP_003227041.1_ACX33789|cysT
+>Bryopsis_hypnoides|YP_003227041.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MFFFP--------------------------------------------------Y
@@ -768,7 +768,7 @@ IYSD-KGWIGYFL-TKLGIQIVFTKIGILLAMIFVSFPFIVRSIQPVILTL--EKELEEA
 AWSLGASSWLTFYKIIFPNLLPALFTGITLAFSRAIGEYGSVVIISSNFAMKDLITPGIN
 F-----------SMFGTV------------------------------------------
 -----------------
->QSV37324.1_QSV37324.1|cysT
+>Nephroselmis_pyriformis|QSV37324.1|cysT
 ------------MT------------------------------QPIIYSLEH-------
 ---YKMNGFEG-----------------------------------------------NL
 ---LSMPWS--------------------------------------------------W
@@ -778,7 +778,7 @@ VYSE-EGWVGKWF-ASMGVQIAFTRIGVAIAMVFVSLPFVVRTLQPVLQEM--EMELEEA
 AWSLGASPWKTFWRVIFPPLVPAILTGIALAFSRAVGEYGSVVIMASNIPFRDLIAPVLI
 FQRLEQYDYSGATVIGTVVLGISLLL-LLGINWIQSWNKQYTDNS---------------
 -----------------
->AYC64922.1_AYC64922.1|cysT
+>Boodleopsis_sp._H.0758|AYC64922.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MF
@@ -788,7 +788,7 @@ IYGS-KSWFGSLL-LKNGIQIIFTKLGILLAMIFVSFPFIIRAIQPVISKI--EKKFEEA
 AWCLGANSWKTFYKVLWPTIAPALITGMVLSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYASATVIGSVLIVFCFVF-FLAVNFIQIRL----------------------
 -----------------
->WDA98855.1_WDA98855.1|cysT
+>Sciadococcus_taiwanensis|WDA98855.1|cysT
 ---MFK-----CDIVCSLIQ------------------------FQKIIS----------
 ------------------------------------------------------------
 -----QCYS----------------------------------------------SSLFI
@@ -798,7 +798,7 @@ IYGD-KGIIGSIF-NFYNIKLAFNFYGIIIAMVFVSLPFIVRTLQPVIQQI--EKDIEEA
 AWALGASAWQTFWFIIFPPLIPAIFTGIALGFSRAVGEYGSVVIISSNIPYQDLTTSVLI
 AQKLEQYDYKGATIIGTVILLISFII-LLVINLLQLWSKSHAK-----------------
 -----------------
->WDA98856.1_WDA98856.1|cysW
+>Sciadococcus_taiwanensis|WDA98856.1|cysW
 ---MYCNYGASLMLNEI---------------------------RSFIKRSKKQ------
 ---FI-------------------------------------------------------
 -------------------------------------------------------KWGLI
@@ -808,7 +808,7 @@ LYGK-YGWIGTFF-VSRGIRIIFALPGMILASTFVTLPFIVREILPILEEI--GEEQEEA
 AKTMGANEYQVFWEITLPNIQWGLLYGIILTNARAIGEFGAVSVISGNIIGKTQTLTLFV
 EQAYKEYETHSSFSAAVFLFILALFT-ILFKELLIKS-----------------------
 -----------------
->AOP19323.1_AOP19323.1|cysT
+>Caulerpa_cliftonii|AOP19323.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -818,7 +818,7 @@ IYGS-KGWIGQFL-LRYNIQIVFTKWGLLLAMIFVSFPFVVRSVQPAFEQI--DKQLEEA
 AWCLGASSWQTFLRIIWPTLVTPLSTGMILSFSRCIGEYGAIVLLSSNFPFKDLVTPVLI
 FQCLEQYDYTGATIFGSVLLLVCFIL-FLLINIYQTLWAPE----------------GGY
 LIYVSH-VYYPSNWGIY
->YP_009705915.1_AVM80983|cysT
+>Prototheca_bovis|YP_009705915.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------------------MVERRMF
@@ -828,7 +828,7 @@ LYGS-KG-LGRFL-G--HNQIIYTRKAVLLAMIFTTFPFVVRSIQPVLEKVTENIELEET
 AWSFSYDNDRTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVIRKQ-----------------
 -----------------
->YP_009130567.1_CEO91097|cysT
+>Tydemania_expeditionis|YP_009130567.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -838,7 +838,7 @@ IYGS-KGWLGRFL-IKNGIQVVFTKLGILLAMIFVSLPFVVRSVQPVLIEI--DTQLEEA
 AWCLGATSWETFSKVLFPTLVPAIFTGIVLSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATIFGSVLLFFCFCL-FFVANNLINLLK---------------------
 -----------------
->YP_635918.1_ABD33967|cysT
+>Helicosporidium_sp._ex_Simulium_jonesi|YP_635918.1|cysT
 ------------MG------------------------------NFILHPIQS-------
 ------------------------------------------------------------
 -----------------------------------------------------------R
@@ -848,7 +848,7 @@ VFGR-NGLFGHIL-DFYNYEIIYTKRGILLAMIFVSFPFSVRAIQPILKEI--NKEEEEA
 AWSLGSGPLETFKRFIFPIILPAILNGFTLTFSRSLSEFGSIVMVAGNLPLQDLVSSVLI
 SQYLEQYDYIGACVISIIVLMLACSV-LLFVQIIHSLVVVDSK-----------------
 -----------------
->UXE30993.1_UXE30993.1|cysT
+>Ostreobium_quekettii|UXE30993.1|cysT
 ------------MR----------------------------------------------
 ------------------------------------------------------------
 LKKILNSWS---------------------------------------------------
@@ -858,7 +858,7 @@ IYSD-KGLIGYYL-SKWNVQIIFTRLGIVVAMIFVSFPFIIRAIQPALETL--EREFEQA
 AWVLGASPWKTFYSIIFPTLLPSLLTGFTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 FQCLEQYDYSGATIIGTVMLILSLLL-LITINFFQKWNLKF-------------------
 -----------------
->YP_009326910.1_ANJ70799|cysT
+>Codium_simulans|YP_009326910.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNKHFLIYD--------------------------------------------------K
@@ -868,7 +868,7 @@ VYGE-NGWIGQIL-NIWNIQVIFTKLGILVAMIFVSFPFVVRTLQPMIELI--EKQMEEA
 AWSLGASDWLTFNKILIPTLLPAIFTGFTLAFSRAIGEFGSIVIISSNFAFKDLITPVLI
 FQCLEQYDYIGATIIGSVILILSLIL-LFIINIIQ-------------------------
 -----------------
->WDY13277.1_WDY13277.1|cysT
+>Polulichloris_maxima|WDY13277.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -878,7 +878,7 @@ VYSP-EGWIGEFL-GRFGIQVIYTRLGVATAMVFVSLPFVVRSLQPVLQEI--DSQIEEA
 SWSLGASPYSTFRKVLFPPLLPAFITGVTLGFSRAIGEYGSLVLVSSNIPYKDLIASVLI
 FQNLEQYSLGQATVIATVVLLISFSI-LLGVSSIQSWNRNKQK-----------------
 -----------------
->WVV38063.1_WVV38063.1|cysT
+>Prototheca_cookei|WVV38063.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 -----------------------------------------------------MVERRMF
@@ -888,7 +888,7 @@ LYGS-KG-LGRFL-G--SNQIIYTRKAVLLAMVFTTFPFVVRSIQPVLEKVTENIELEET
 AWSFSYDDDKTFKEVLFPLCIXPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVISSMVILGACVF-LFIMFWFRYYFVIRKQ-----------------
 -----------------
->QDE53613.1_QDE53613.1|cysT
+>Micractinium_sp._LBA_32|QDE53613.1|cysT
 ------------MNNIL---------------------------SKMNSHFSK-------
 ---YYK-------------------NFMLLA----------------------------N
 L---KSN-------------------------------------------------NFIN
@@ -898,7 +898,7 @@ VYGD-QGWVGSLF-HSFGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWETFVKVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLLINAFQSLKSRA-------------------
 -----------------
->YP_009518878.1_AYC64829|cysT
+>Boodleopsis_pusilla|YP_009518878.1|cysT
 ------------------------------------------------------------
 -----------------------------------------------------------M
 FNNI------------------------------------------------------KQ
@@ -908,7 +908,7 @@ IYGS-KGWLGHFL-VQNGIQVVFTKLGVLLAMIFVSFPFVIRSVQPVLMEI--DQQLEEA
 AWGLGATSWQTFLQILWPTVFPALLTGMVLSFSRCIGEYGAIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATILGSVLLFFCFFL-FFFINIFQTSFK---------------------
 -----------------
->UXE31069.1_UXE31069.1|cysT
+>Ostreobium_quekettii|UXE31069.1|cysT
 ------------MR----------------------------------------------
 ------------------------------------------------------------
 IKKLLNSWL---------------------------------------------------
@@ -918,7 +918,7 @@ IYSD-KGVIGSYL-SKLNIQIIFTRFGIVIAMIFVSFPFIIRTLQPALETL--EREYEQA
 AWVLGASSWKTFYSVVLPILLPSFLTGFTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 FQCLEQYDYTGATIIGTVMLFISLIL-LVIINFFQRWSQQI-------------------
 -----------------
->YP_001019170.1_ABM87953|cysT
+>Chlorokybus_atmophyticus|YP_001019170.1|cysT
 ------------MS------------------------------TN---EMNQ-------
 ---KKRLNRSG-----------------------------------------------SL
 SSHLTRSWP--------------------------------------------------W
@@ -928,7 +928,7 @@ VYSD-QGWIGHLF-ESIGIKVAFTRVGVAVAMIFVSFPFVVRTLQPVLVEI--DQELEEA
 AWSLGASTWRTFWRVIFPPLTPAIVTGVALAFSRAIGEYGSVVIVASNIPFKDLTAPVLI
 FQRLEQYDYTGATIIGTVILSISLFL-LFGINFIQSLNQLYVK-----------------
 -----------------
->YP_010933338.1_WKT08536|cysT
+>Streptofilum_capillatum|YP_010933338.1|cysT
 --------------------------------------------------MDE-------
 ---YISKTSST-----------------------------------------------KS
 KNLSVFFWA--------------------------------------------------W
@@ -938,7 +938,7 @@ VYSE-KGWIGSFL-SPLGIQVAFTRLGITVAMIFVSFPFVVRTLQPVLQDI--EKDLEEA
 AWCLGASGWHTFWRILFPPLLPASLTGIALAFSRAVGEYGSIVILASNMPFRDLIVPVLI
 FQRLEQYDYQGATVIGAVFLTISLLL-LLIINGIQRWNWNSDRLLQ--------------
 -----------------
->YP_011059192.1_WVV38044|cysT
+>Prototheca_cerasi|YP_011059192.1|cysT
 ------------MKQIN---------------------------NL-QNKIETP------
 ---IKKEKSLR-----------------------------------------------EC
 KQNYIYTYR-------TSKQKEYNKFFSLKA--------------LENLLDFFMIERRMF
@@ -948,7 +948,7 @@ LYGS-KG-LGRFL-G--NNQIIYTRKAVLLAMIFTTFPFVVRSIQPVLEXVTENIELEET
 AWSFSYDGDRTFKEVLFPLCIPPLLNGFTLTFCRALGEFGSVVLVSGNFPFEDLVSSVFV
 SQTLEQYDYIGACVIXXMVILGACVF-LFIMFWFRYYFVIRKQ-----------------
 -----------------
->AAX45809.1_AAX45809.1|cysT
+>Zygnema_circumcarinatum|AAX45809.1|cysT
 ------------MILLCVIS------------------------RTVLLNIRK-------
 -----------------------------------------------------------R
 DIRFFTYFE------------------------------------------------FLL
@@ -958,7 +958,7 @@ VYSD-KGWMGPIC-SWLGIKIAFSRLGVLIAMMFVSLPFIVRTIQPVLQSM--EEETEEA
 AWCIGASPWTTFWNVLFPPMISPLLTGTALGFSRAIGEYGSIVLVASNIPMKDLVVSVLI
 FQRLEQYDYKGATAIASVVLLVSFAI-LLIINYIYLKRKSLTR-----------------
 -----------------
->BCT02528.1_BCT02528.1|cysT
+>Medakamo_hakoo|BCT02528.1|cysT
 ------------MT---------FASKLRLH----------------FHQWSS-------
 ---KSQVWLA-------------------------------------------------V
 LGQRKIPWM--------------------------------------------------W
@@ -968,7 +968,7 @@ IYNP-NGWIGRLG-KEFGMSFMYNRTGIGLAMLFVSFPFVVRTVQPVLQAL--DSELEEA
 SWTLGASPWRTFWRVIFPPVFPSFLTGMTLAFSRALGEYGAVVVVSSNMPYNDLLVSVLI
 FQNLEQYEHLTATVIGTVFLFLAGMI-LLSVNWFQSRYRQQRL-----------------
 -----------------
->BBD21649.1_BBD21649.1|cysT
+>Poropsis_sp._ID1_4|BBD21649.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -978,7 +978,7 @@ IYSS-TGWFGKI-----GVSIVFTKFGILLAMVFVSLPFVIRCVQPALLKI--NRQFEEA
 AWCLGANSYETFSKVLWPALIPTLVTGMILSFSRSIGEYGAIVLLSSNFAFKDLVTSVLI
 VQCLEQYDYIGSTIYGSVLIFLCFCL-FLLGNLILLLLK---------------------
 -----------------
->YP_005089921.1_ACQ90837|cysT
+>Pedinomonas_minor|YP_005089921.1|cysT
 --------------------------------------------------MKN-------
 ---FFKKNLN--------------------------------------------------
 -------------------------------------------------------FIFGW
@@ -988,7 +988,7 @@ IYSQ-NSFIGNFL-QQFGIEVVFTRLGIAIAMIFVSFPFVVRSVQPVLQEI--EPELEEA
 AMSLGASPFLIFSKILIPAVTPSLITGVALAFSRAIGEFGSVVIIASNIPLKDLISPVLI
 FQSLEQYDTLGATVVGTVMLILSLIL-LLTINYLQSLTIIKK------------------
 -----------------
->BEI31696.1_BEI31696.1|cysT
+>Bryopsis_sp._KO-2023|BEI31696.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----MFFFP--------------------------------------------------Y
@@ -998,7 +998,7 @@ IYSD-KGWIGYYL-TKFGIQIVFTKIGILLAMIFVSFPFIVRSIQPVIITL--EKELEEA
 AWSLGASSWLTFYKIIFPNLLPALFTGITLAFSRAIGEYGSVVIISSNFAMKDLITPVLI
 FQCLEQYDYTGATIIGSVILLISFFL-LILVNFFQSWALSFRNYS---------------
 -----------------
->QHD45138.1_QHD45138.1|cysT
+>Codium_fragile|QHD45138.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNQKFLIYE--------------------------------------------------K
@@ -1008,7 +1008,7 @@ VYGE-NGWIGRIL-QIWHIQVIFTKLGILIAMIFVSFPFIVRSIQPMIQLI--EKEMEEA
 AWSLGASDWITFHKILIPTLLPSILTGLTLAFSRAIGEYGSIVMISSNFAFKDLITPVLI
 FQCLEQYDYIGATIIGSVILIISLLL-LFIINIIQ-------------------------
 -----------------
->USG56490.1_USG56490.1|cysT
+>Chlorella_vulgaris|USG56490.1|cysT
 ------------------------------------------------MKRYP-------
 ------------------------------------------------------------
 -------------------------------------------------------TFIKN
@@ -1018,7 +1018,7 @@ VYGD-QGWIGSLF-NLFGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEM--EKSLEEA
 AWSLGASSWETFRKVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYLGASVIGAVVLLIALFT-LLLINAFQIMKFRV-------------------
 -----------------
->ARO74272.1_ARO74272.1|cysT
+>Rhipilia_penicilloides|ARO74272.1|cysT
 ------------------------------------------------------------
 -----------------------------------------------------------M
 F-VF------------------------------------------------------KQ
@@ -1028,7 +1028,7 @@ IYGS-KGWLGHFL-LQNGIQVVFTKLGVLLAMIFVSFPFVIRSIQPVLMEM--DQQLEEA
 AWCLGATSWQTFRQILWPTLRPALLTGMVLSFSRCIGEYGAIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATILGSVLLFFCFFF-FFFINILQNYSK---------------------
 -----------------
->UXE30685.1_UXE30685.1|cysT
+>Ostreobium_quekettii|UXE30685.1|cysT
 ------------MK----------------------------------------------
 ------------------------------------------------------------
 IKNVFNSWT---------------------------------------------------
@@ -1038,7 +1038,7 @@ VYGD-QGLIGLVF-SKLNIQIIFTRLGIIIAMVFVSFPFIIRALQPTIEVL--EREFEQA
 AWILGASPWHTFYSIIFPTLLPSLLTGLTLSFSRAIGEYGSIVIISSNFPLKDLIASVLI
 FQCFEQYDYTGATVIGTVMLLLSLSL-LIFINFLQSWNRII-------------------
 -----------------
->YP_009455974.1_AST08929|cysT
+>Micractinium_conductrix|YP_009455974.1|cysT
 ------------MNNIF---------------------------SILTSKLYK-------
 ---YYK-------------------NFIIVT----------------------------K
 L---KSQ-------------------------------------------------FLTN
@@ -1048,7 +1048,7 @@ VYGD-QGWVGGFL-TSLGFQIVFTKVGVLLAMIFVSFPLVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWQTFVKVILPTLWPAIFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALSA-LLVINAFQAMKYRV-------------------
 -----------------
->UXE30911.1_UXE30911.1|cysT
+>Ostreobium_quekettii|UXE30911.1|cysT
 ------------MR----------------------------------------------
 ------------------------------------------------------------
 LKRLLNSWL---------------------------------------------------
@@ -1058,7 +1058,7 @@ IYSD-KGLIGSYL-SRLNIQIVFTRLGIMVAMIFVSFPFIIRTLQPALENL--DREYEQA
 AWVLGASYWRTFYSIVLPNLLPSFLTGFTLSFSRAIGEYGSIVIISSNFPLKDLIASVFI
 LQCLEQYDYTGATIIGTVMLFISLTL-LIIINFFQRWNQRN-------------------
 -----------------
->YP_009519600.1_AYC65566|cysT
+>Glaukea_argentea|YP_009519600.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -1068,7 +1068,7 @@ LYGS-KGWFGRF-----GIQIIFTKLGILLAMIFVSLPFVIRSVQPILLEI--NKQLEEA
 AWCLGATSWQTFVKILWPTLIPAIFTGMILSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYISATIFGSVLLFFCFCF-FLLSNFVTVSLKE--------------------
 -----------------
->AYC65470.1_AYC65470.1|cysT
+>Rhipiliopsis_peltata|AYC65470.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -1078,7 +1078,7 @@ IYGS-KGWLGEFL-IKNGIQVVFTKLGILLAMIFVSFPFVIRSVQPVLIEV--DKQLEEA
 AWCLGANSWQTFLKILWPTVAPALLTGMVLSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATVFGSVLLFFCFVF-FLLVNILGRCEAPPN------------------
 -----------------
->AYC65293.1_AYC65293.1|cysT
+>Pedobesia_claviformis|AYC65293.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------MKP------------------------------------------------KNQ
@@ -1088,7 +1088,7 @@ IYSE-NGIFGKLL-SQFEITVIFSKLGIFIAMLFVSFPFIIRTLQPSLFVL--EYELEQA
 AWSLGASPWITFNKIILPNLLPALYTGITLAFSRSIGEYGSIVIISSNLALKDLITPVLI
 FQCLEQYDYIGATIIGSVMLIISLLL-LFFINILQ--KQSTLKL----------------
 -----------------
->AIT94220.1_AIT94220.1|cysT
+>Lobosphaera_incisa|AIT94220.1|cysT
 ----------------------------------------------MNINIKK-------
 ---FS----T-------------------------------------------------F
 FNTSIISWP--------------------------------------------------W
@@ -1098,7 +1098,7 @@ IYNQ-GGWLGSIL-SYFGIKVAFTRLGIIIAMIFVSFPFIVRTLQPVLQEL--EIELEEA
 AWSLGASPWKTFQKVVFPPLIPAILTGASLAFSRAIGEYGSIVIVASNIPFKDLIASVLI
 FQKLEQYEYIGATVIGTVVLFISLII-LFGINILQTWNRKGFK-----------------
 -----------------
->UEQ13264.1_UEQ13264.1|cysT
+>Chlorella_variabilis|UEQ13264.1|cysT
 ------------MNLLF---------------------------STLSLKLQP-------
 ---YLNMV----------------NNFKGRT----------------------------Q
 LPFFRNS------------------------------------------------GLFKN
@@ -1108,7 +1108,7 @@ VYGD-QGWIGSFF-NLFGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEV--DKSLEEA
 AWSLGASPADTFRKVILPTLWPSIFTGFTLSFSRALGEFGSIVMISSNLPFKDLVSSVLI
 YQSLEQYDYLGASVIGAVVLLIALVT-LLLINAFQSMKFRI-------------------
 -----------------
->QKQ14592.1_QKQ14592.1|cysT
+>Zygnema_circumcarinatum|QKQ14592.1|cysT
 ------------MIPLGLLP------------------------HTVLLGINQ-------
 -----------------------------------------------------------T
 HIRFLTYFE------------------------------------------------LVL
@@ -1118,7 +1118,7 @@ VYSD-KGWMGPIC-SWLGIKIAFSRLGVLMAMMFVSLPFIVRTIQPVLESM--EEEIEEA
 AWCIGASPWTTFWHVLFPPMISPLLTGTALGFSRAIGEYGSIVLVASNIPMKDLVVSVLI
 FQRLEQYDYKGATAIASVVLIVSFVI-LLIINYIYLRRQALTK-----------------
 -----------------
->AIT94298.1_AIT94298.1|cysT
+>Xylochloris_irregularis|AIT94298.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MVNASTSWK--------------------------------------------------W
@@ -1128,7 +1128,7 @@ VYGP-SGWVGQFL-DKFGIQIVFTWFGVVLAMIFVSFPFMVRTLQPVLEEI--EKESEEA
 AFSLGASPWQVFWTIVFPSIVPALLTGMTLAFSRAIGEYGSVVVVSANIPFQDLIASVLI
 FQKLEQYDTIGAAIIGTVILFFSLFL-LLGINGFQSWHKRQQKPT---------------
 -----------------
->YP_009455954.1_AST08766|cysT
+>Chlorella_heliozoae|YP_009455954.1|cysT
 MEVLLQ----KFMNNIF---------------------------SSLSSKLSM-------
 ---YYKKVKDPLI--------GKKNNFFANQ----------------------------Q
 V---RSSWSF--------------Q--------------------------LPQVAFLTN
@@ -1138,7 +1138,7 @@ VYGD-QGWIGSFF-NNFGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASPWQTFLKVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYLGASVIGAVVLLIALST-LLLINAFQSMKYRV-------------------
 -----------------
->YP_009105836.1_AIT94477|cysT
+>Koliella_corcontica|YP_009105836.1|cysT
 ------------------------------------------------MKKKN-------
 ---FFN------------------------------------------------------
 ---IKKYWL--------------------------------------------------N
@@ -1148,7 +1148,7 @@ IYNN-EGFIGSSL-ANFGIQIVFTRLGILIAMIFVSFPFVVRTVQPILQDI--NKELEEA
 SWTLGASSWTTFKLIIFPSILPALLTGMTLSFSRAIGEYGSVVIISSNFPFKDLIAPVLI
 FQYLEQYDYNGATIIGTVILLISLFL-LLGINFLQAWNQKYNKK----------------
 -----------------
->YP_009105407.1_AIT93974|cysT
+>Koliella_longiseta|YP_009105407.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MVFFKNSWP--------------------------------------------------W
@@ -1158,7 +1158,7 @@ VYSD-QGWIGSIL-KDFGIQIVFTRLGITIAMIFVSFPFVVRTLQPVLQEM--ELELEEA
 AWSLGASPWQTFIKIIFPPLVPALLTGVTLAFSRAIGEYGSIVIISSNFPLKDLIASVLI
 FQNLEQYDYIGATVIGTVVLMLSLFL-LVSINFFQSWNQNFR------------------
 -----------------
->UNJ15300.1_UNJ15300.1|cysT
+>Cyanidioschyzonaceae_sp._1|UNJ15300.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MV
@@ -1168,7 +1168,7 @@ IYGI-HSPIGKWL-WRQHVVIPFHFLAIVMASLFVTLPFVVKEIVPILEQV--DETQKEA
 ARILGANEAHVFWKISFPYIKKAMIHALISTHCRAMGEFGAVALLSGNISNQTQTLTLLI
 EQSYKEYETSLAWSVALLLSIWCLCLNKIST-----------------------------
 -----------------
->UNJ15301.1_UNJ15301.1|cysT
+>Cyanidioschyzonaceae_sp._1|UNJ15301.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---------------------------------------------------------MSY
@@ -1178,7 +1178,7 @@ LYGT-QGWVGRYL------TLSYGTAGMCLAMMVVSLPLVVRTMQPIIAEL--EKEMEEA
 AWCLGASPFQTFTRALWPIFTPVIASVAGLTWARCIGEFGAIMMISSNLPYKDLATSVLI
 ASLIEQDDEASATWIALTMMLFCIVV-FAIIEFKWRKL----------------------
 -----------------
->QFR50643.1_QFR50643.1|cysT
+>Auxenochlorella_pyrenoidosa|QFR50643.1|cysT
 ------------MNNIL---------------------------SKMNSLFSK-------
 ---YYK-------------------NFMLLV----------------------------N
 L---KSN-------------------------------------------------NFIN
@@ -1188,7 +1188,7 @@ VYGD-QGWVGGLF-HSVGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWETFVKVILPTLWPAIFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLLINAFQSLKSRAGA-----------------
 -----------------
->WCO87769.1_WCO87769.1|cysT
+>Micractinium_simplicissimum|WCO87769.1|cysT
 ------------MNNIF---------------------------STVNSKLYT-------
 ---YYK-------------------NFLLVT----------------------------N
 L---KPT-------------------------------------------------FFTN
@@ -1198,7 +1198,7 @@ VYGD-QGWIGSFF-NSLGFQIVFTKFGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWQTFIRVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLLINAFQSLKYRV-------------------
 -----------------
->YP_009105161.1_AIT93732|cysT
+>Edaphochlorella_mirabilis|YP_009105161.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MTFLKSSWS--------------------------------------------------W
@@ -1208,7 +1208,7 @@ VYSD-QGWIGSIL-TRFGIQIVFTRLGIMIAMIFVSFPFVVRTLQPVLQEM--ETDLEEA
 ALSLGASPLQTFLKVIFPPLIPALLTGITLAFSRAIGEYGSIVIVSSNFPLKDLIASVLI
 FQNLEQYDYIGATVIGTVVLLISLIL-LFGVNFLQSWNQNYK-N----------------
 -----------------
->YP_009519649.1_AYC65653|cysT
+>Udotea_flabellum|YP_009519649.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MR
@@ -1218,7 +1218,7 @@ IYGS-KGWFGKF-----GIQIVFTKLGILLAMIFVSLPFVIRSVQPVLSEV--NKQLEEA
 AWCLGATSWQTFLKVLWPTLLPALFTGMILSFSRCIGEYGSIVLLSSNFPFKDLITPVLI
 FQCLEQYDYTGATVFGSVLLFFCFCF-FFLANLIIASLK---------------------
 -----------------
->QHN60134.1_QHN60134.1|cysT
+>Caulerpa_serrulata|QHN60134.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MD
@@ -1228,7 +1228,7 @@ IYGS-KGWIGQFL-LGHGIQIIFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPGISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFIL-FLFINIY--LMGMANLGVNNKS-----------
 -----------------
->ARO74475.1_ARO74475.1|cysT
+>Caulerpa_manorensis|ARO74475.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MA
@@ -1238,7 +1238,7 @@ IYGS-KGWIGQFL-LDHGIQIIFTKWGILLAMIFVSFPFVIRSVEPVFEQI--DKQLEEA
 AWCLGATPWDTFLKIIWPSLVPGISTGMILSFSRCIGEYGAIVILSSNFPFKDLVTPVLI
 FQCLEQYDYTGATILGSVLLFFCFFL-FLFINIY--LMRM-DLKPQPGSE----------
 -----------------
->WDY13013.1_WDY13013.1|cysT
+>Massjukichlorella_minus|WDY13013.1|cysT
 ------------MKNQDSNNYRSEPIKK---------------------SKNQ-------
 ---VLLIWIK-------------------------------------------------S
 VINSKLSWT--------------------------------------------------L
@@ -1248,7 +1248,7 @@ VYSP-QTLIGKFL-AQFGIQVVYTRLGIALTMVFVSLPFVVRALQPVLQEM--DKEIEEA
 AWSLGASPWRTFQKVLIPPLLPAFITGVTLGFSRAIGEYGSIVLVSANLPLKDLIASVLI
 FQNLEQYEYAEATVIATVVLIISFFI-LFGVNLLQSWNRNRRK-----------------
 -----------------
->QGT76967.1_QGT76967.1|cysT
+>Micractinium_pusillum|QGT76967.1|cysT
 ------------MNNIF---------------------------STVNSKLYT-------
 ---YYK-------------------NFVLVA----------------------------N
 L---KSN-------------------------------------------------FFIN
@@ -1258,7 +1258,7 @@ VYGD-QGWIGSFF-NSLGFQIVFTKIGVLLAMIFVSFPFVIRTLQPVLQEV--EQSLEEA
 AWSLGASSWQTFLRVILPTLWPALFTGFTLSFSRALGEFGSIVMISSNLPFKDLVASVLI
 YQSLEQYDYVGASVIGAVVLLIALST-LLMINAFQSLKTRV-------------------
 -----------------
->ABO69280.1_ABO69280.1|cysT
+>Pleurastrum_terricola|ABO69280.1|cysT
 -----------------------------------------------MILINTM------
 ---------------------------------------------------------WFF
 IQDFLISLK----------------------------------------------KGSQY
@@ -1268,7 +1268,7 @@ TYAT-NGIFGHLL-NQFGITVLFTKLGIAIAMLFASFPYMTRTIQATLYEI--EPEIEEA
 SASLGATDGETFRKVIFPILIPSLIAGALFIVSRSIGEFGTIVMIFIKCSICGFSRNCIT
 FTVFRKF-----------------------------------------------------
 -----------------
->AIT95001.1_AIT95001.1|cysT
+>Binuclearia_lauterbornii|AIT95001.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---MRKNWP--------------------------------------------------I
@@ -1278,7 +1278,7 @@ VYSE-KGWLGSFF-SKFGIQIVFTKLGVMIAMIFVSFPFVVRSIQPVLQEM--EKELEEA
 AWSLGASPWKTFKKVVFPPLLPATLTGITLAFSRAIGEYGSIAIISSNFPFKDLIASVLI
 FQSLEQYDYKGATIVGTVVLFISLIL-LLSINFLQSWSRKTSI-----------------
 -----------------
->YP_011059291.1_WVV38143|cysT
+>Prototheca_miyajii|YP_011059291.1|cysT
 ------------MA----------VPK-----------------KRTSRSKNK-------
 ---LQILRRKA------------------------------------EIQAK------KS
 LSKAKKVLK-------DVSKEMEIKL--------------------DNYCDTVNPTRGTC
@@ -1288,7 +1288,7 @@ VYGP-KGWLGPTL-KAANMKLIYTKFGVLFAMVFMSFPFVVRSVQPIIKQF--DIGMEEA
 AWCTGASPFQTALRVICPALIPALISGFTITFARCLGEFGTIVMLSSNQPFDDLVTSVFV
 FQALEQYEYSNACAVTGTVIIFAYIF-LYSMNSARAIYNRRTSRYYY-------------
 -----------------
->YP_009104776.1_AIT93318|cysT
+>Symbiochloris_handae|YP_009104776.1|cysT
 -----------------------------------------------MLCVSE-------
 ---VMV------------------------------------------------------
 LKIFQKYWH--------------------------------------------------W
@@ -1298,7 +1298,7 @@ VYSP-QGWLGSIL-HNIGLNLVFTRTGVAIAMVFVSFPFVVRTVQPVLQEM--ESELEEA
 AWSLGASSWDTFRKVLFPPLLPTLIAGITLAFSRAIGEYGSVVVMASNIPLKDLIASVLV
 FQNLEQYEYIGATVIGTVVLLMSLVL-LLGVNTIQSWNRKLKT-----------------
 -----------------
->AFQ93808.1_AFQ93808.1|cysT
+>Trebouxiophyceae_sp._MX-AZ01|AFQ93808.1|cysT
 ------------------------------------------------------------
 -----MDI-D-------------------------------------------------H
 MRFVKTHWT--------------------------------------------------W
@@ -1308,7 +1308,7 @@ VYSP-HGWIGQAL-AQAGVQVLFTRLGVAIAMVFVSFPFVVRTLQPVLQDI--EVELEEV
 AWSLGASPWKTFHRVLLPSLMPAFTTGMTLAFSRAIGEYGSIVVVASNMPLKDLIAPVLI
 FQNLEQYEYTGATVIGTVVLLMSLAL-LLGVNAIQARQRHR-------------------
 -----------------
->WDB00040.1_WDB00040.1|cysT
+>Cyanidium_sp._THAL103|WDB00040.1|cysT
 --------------------------------------------------MNKS------
 ------------------------------------------------------------
 -----------------------------------------------------------L
@@ -1318,7 +1318,7 @@ IYHK-NSYIGKIL-NQFNIKITFNNLGIIIAMIFVSYPIVIRNIEPTIQQI--EKSLEEA
 SWSLGASKKQTFTYILIPLIIPSLISSAALSLARSFGEYGAIIMISSNIPYKDLTCSVLI
 AQNLEQYDYQKASIISIVIITISLLI-LIIANFLRYLIQQNEY-----------------
 -----------------
->WDB00041.1_WDB00041.1|cysW
+>Cyanidium_sp._THAL103|WDB00041.1|cysW
 ------------MSIKS---------------------------NKTFNKVKSK------
 ---LCICY----------------------------------------------------
 -----------------------------------------------------NNKYFYI
@@ -1328,7 +1328,7 @@ LYGH-NNHVLTLL--KLNTHILYAFPGIILGNLIITLPLIIREVIPIIREI--SKQEIES
 AEILGANENEIFLNIIFPQIKTNLLSGIIITNCRCFSEFGATSIISGNIIGKTQTLTLFI
 EQAYKEYENEISYIASATLILIIISI-SIIQKTIIIKKKNDS------------------
 -----------------
->WVV38199.1_WVV38199.1|cysT
+>Prototheca_moriformis|WVV38199.1|cysT
 ------------MSTTS---------------------------SLFLYNPGYK------
 ---LL-------------------------------------------------------
 LDRFTHSFL-------NARRKKYHKFFSKEG--------------IDDILGYLFDEKRVT
@@ -1338,7 +1338,7 @@ LFGP-KG-IGRFL-SK-ESQIIYTVRGVFLAMLFTTAPFVARSVQPILLRVTLDLETEEN
 AWCLGTDEQETFKKILFPITFPALLNGFTLTFSRALGEYGSVVMVSGNFPFEDLVSSVYV
 SQTLEQYDYIGACTISSMVILGACIF-LFIMYTLRYYYHVRKIKKH--------------
 -----------------
->AIT95239.1_AIT95239.1|cysT
+>Geminella_minor|AIT95239.1|cysT
 -------------------------------------------------MKKN-------
 ---FF-------------------------------------------------------
 LLKIKNYWF--------------------------------------------------W
@@ -1348,7 +1348,7 @@ VYSD-KGWIGKIL-TNFGIQIVFTKLGIIIAMIFVSFPFVVRTLQPVLQEI--EKELEEA
 AWSLGASSWNTFVKVVFPPLIPAILTGTTLAFSRAIGEYGSVVLISSNFPLKDLIASVLI
 FQYLEQYDYIGATVIGSVVLIISLFL-LLTINFLQSWNQKYLKR----------------
 -----------------
->WDA99046.1_WDA99046.1|cysW
+>Gronococcus_sybilensis|WDA99046.1|cysW
 ------------MGKKV---------------------------IFPCHNCGSK------
 ---LT-------------------------------------------------------
 -------------------------------------------------------KWLLI
@@ -1358,7 +1358,7 @@ LYSK-NGIAGKLS-FFKGAQILFALPGMILATAFITLPFIVREVVPLLEEI--EVAQEEA
 AKTMGANGYEVFWRVTLPHIKWGLLYGLILTNARAMGEFGAVSIISGNILGKTQTLTLFI
 EQAHKDYQIQSAFSAALFLFMLASIT-ILFKEILLEST----------------------
 -----------------
->WDA99047.1_WDA99047.1|cysT
+>Gronococcus_sybilensis|WDA99047.1|cysT
 ---------------MSLLP----------------------------------------
 ------------------------------------------------------------
 ---------------------------------------------------------IFI
@@ -1368,7 +1368,7 @@ IYRD-DGIVGSFL-QSYNISLTENIYGIIMAMIFVSFPFMVRTIQPVIQEV--EKEIEEA
 SWVLGAFSWETFYFIILPSLLPTILTGVALSFSRAIGEYGSIVIISSNIPYKDLTTSVLV
 AQRLEQYDYVGATVIGIMIISLSFII-LIAINLLQLWSKSYG------------------
 -----------------
->ARO74362.1_ARO74362.1|cysT
+>Codium_arenicola|ARO74362.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 MNKNFLIYD--------------------------------------------------K
@@ -1378,7 +1378,7 @@ VYGE-NGWIGQIL-KIWNIQVIFTKLGILVAMIFVSFPFLVRTLQPMIELI--EKEMEEA
 AWSLGASDWLTFNKILIPTLLPAIFTGITLAFSRAIGEFGSIVIISSNFAFKDLITPVLI
 FQCLEQYDYIGATIIGSVILILSLIL-LFIINIIQ-------------------------
 -----------------
->AYC65749.1_AYC65749.1|cysT
+>Udotea_sp._TZ0819|AYC65749.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MI
@@ -1388,7 +1388,7 @@ IYGS-KGWFGRL-----GFQIVFTKLGILLAMIFVSLPFVVRSIQPVLFNI--NKQFEEA
 AWCLGATSWQTFLKVVWPTLIPALFTGMILSFSRCIGEYGSIVLLSSNFALKDLVTSVLI
 FQCLEQYDYTGATVLGSVLLLFCFCI-FFLVNLISSCFK---------------------
 -----------------
->YP_009968380.1_QMX77481|cysW
+>Cyanidiococcus_yangmingshanensis|YP_009968380.1|cysW
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1398,7 +1398,7 @@ VYGI-HSPIGKWL-WTKHLVIPFHFSALVLASLFVTLPFVVKEIVPILEQL--DETQKEA
 ARILGAKETQVFWKISFPYVRRALINGVIATHCRAMGEFGAVALLSGNISHQTQTLTLLL
 EQSYKEYETPLAWSVALLLSIWCFCL-KIAHE----------------------------
 -----------------
->YP_009968381.1_QMX77482|cysT
+>Cyanidiococcus_yangmingshanensis|YP_009968381.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ----------------------------------------------------------MY
@@ -1408,7 +1408,7 @@ LYGK-QGWVGRYL------TLAYSEAGMCLAMMVVSLPLVVRTMQPMMEEL--EREMEEA
 SWCLGASSLQTFIHAIWPNLAPAVWAATGLTWSRCVGEYGAIMMISSNLPYKDLATSVFI
 ASLVEQDDEGSATLIALTMMFMCVAI-LLLLEFQWRIKQF--------------------
 -----------------
->UIO59404.1_UIO59404.1|cysT
+>Chlorella_desiccata_(nom._nud.)|UIO59404.1|cysT
 ---MAK----DRFQSIS---------------------------QKPSHNISL-------
 ---FKTVL-------------NINNSF---------------------------------
 ----SNS------------------------------------------------PIISI
@@ -1418,7 +1418,7 @@ VYGE-QGWIGNFL-HKFNMQIVFTPFGVLLAMIFVSFPFVIRTLQPVLQEI--EISLEEA
 AWSLGANSWQTFSRIILPALWPAIITGFTLSFSRALGEFGSIVMISSNLPLKDLVASVLI
 YQSLEQYDYLGASVIGIVVLFIALLS-LLVINTLQSFKFRT-------------------
 -----------------
->NP_038441.1_AAF43879|cysT
+>Mesostigma_viride|NP_038441.1|cysT
 --------------------------------------------------MNY-------
 ---FSKLSCS--------------------------------------------------
 -----------------------------------------------------------W
@@ -1428,7 +1428,7 @@ VYSE-KGWIGHFL-QSLSIKVVFTKLGVGVAMIFVSFPFVVRTLQPVLQDI--EKELEEA
 AWSLGASSWTTFWKVIFPSLIPSLLTGIALAFSRAVGEYGSVVIIASNIPFKDLTAPVLI
 FQKLEQYDYTGATVIGTVILSISLFI-LVGINIIQSLNQMYSK-----------------
 -----------------
->AGN72485.1_AGN72485.1|cysT
+>Auxenochlorella_protothecoides|AGN72485.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ------------------------------------------------------------
@@ -1438,7 +1438,7 @@ VYGH-QGWVGNYL-KMANIQIIYTRFGVLLAMIFVSFPFVIRSLQPVLQEF--DHGLEEA
 AWGMGASSFQTFLRVIFPTLVPALVTGFTLSFSRALGEFGSVVMISSNLPLDDLVTSVLI
 YQSLEQYDYFGASVIGAVILLLALII-IFLVNTAQSFYSRR-------------------
 -----------------
->WDA99661.1_WDA99661.1|cysT
+>Galdieria_sulphuraria|WDA99661.1|cysT
 ------------------------------------------------------------
 ------------------------------------------------------------
 ---MLSPFKYV--------------------------------------------KILNP
@@ -1448,7 +1448,7 @@ TYQT-DSILSKIFSKIFKFQLIYSPSGIVMVMIFVSLPFAIRNLQPILLELDSNKEIQES
 ARCLGANSWQIFLFVIFPYIKGSLITGSVLSFARSIGEFGSIIIISSNLPYKDLVVSVLI
 AQKLEQYDYQSATVIGTIMLFISVFV-LLVLNILDRSSYD--------------------
 -----------------
->WDA99662.1_WDA99662.1|cysW
+>Galdieria_sulphuraria|WDA99662.1|cysW
 ------------------------------------------------------------
 ---MI-------------------------------------------------------
 -------------------------------------------------------KYLIL
