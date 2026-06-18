@@ -9,12 +9,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: 'Chloris',
-      disable404Route: false,
+      disable404Route: true,
       sidebar: [
         { label: 'Home', slug: 'index' },
         { label: 'Description', slug: 'description' },
         { label: 'Species', slug: 'species' },
-        { label: 'Phylogeny', slug: 'phylogeny' },
         {
           label: 'Proteins',
           items: [{ autogenerate: { directory: 'proteins' } }],
